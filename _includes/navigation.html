@@ -1,0 +1,24 @@
+{% assign pathsegments = page.url | downcase | split: '/'  %}
+
+<nav class="home-menu pure-menu pure-menu-open pure-menu-horizontal pure-menu-fixed">
+
+    <a class="pure-menu-heading" href="{{ site.baseurl }}/">RuppertDesign</a>
+    <ul>
+      <li {% if pathsegments[1] == 'produkte' %}class="pure-menu-selected"{% endif %}>
+        <a href="{{ site.baseurl }}/produkte">Produkte</a>
+      </li>
+      <li {% if pathsegments[1] == 'planung' %}class="pure-menu-selected"{% endif %}>
+        <a href="{{ site.baseurl }}/planung">Planung</a>
+      </li>
+      <li {% if pathsegments[1] == 'referenzen' %}class="pure-menu-selected"{% endif %}>
+        <a href="{{ site.baseurl }}/referenzen">Referenzen</a>
+      </li>
+      <li {% if pathsegments[1] == 'ueber-mich' %}class="pure-menu-selected"{% endif %}>
+        <a href="{{ site.baseurl }}/ueber-mich">Über mich</a>
+      </li>
+      <li>
+        <a href="#">Shop</a>
+      </li>
+    </ul>
+    
+</nav>

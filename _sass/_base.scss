@@ -1,0 +1,36 @@
+$font-stack:    "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+$font-weight:   300;
+$primary-color: #666;
+$nav-color: #565d64;
+$nav-underline-color: #bebebe;
+$accent-color: #483c31;
+$footer-color: #3f4245;
+
+// sizes
+$default-font-size: 18px;
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: $font-stack;
+  color: $primary-color;
+  font-weight: $font-weight;
+  font-size: $default-font-size;
+}
+
+.pure-g, .pure-g [class *="pure-u"] {
+  font-family: $font-stack;
+}
+
+.has-footer {
+  margin-bottom: 300px;
+  box-shadow: 0 10px 15px -5px #000;
+}
+
+.center {
+  text-align: center;
+}

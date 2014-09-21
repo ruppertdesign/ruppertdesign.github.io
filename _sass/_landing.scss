@@ -1,0 +1,55 @@
+.splash-container {
+  background-image: url('../img/holz-logo.jpg');
+  z-index: 1;
+  overflow: hidden;
+  width: 100%;
+  height: 550px;
+  top: 0;
+  left: 0;
+  position: fixed !important;
+}
+
+.content-wrapper {
+  position: absolute;
+  top: 550px;
+  width: 100%;
+  min-height: 12%;  
+  z-index: 2;
+  background: white;
+}
+
+.content-head {
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin: 2em 0 1em;
+}
+
+.content-subhead {
+  color: $accent-color;
+}
+
+.l-box {
+  padding: 1em;
+}
+
+.l-box-lrg {
+  padding: 2em;
+}
+
+
+.ribbon-even, .ribbon-odd {
+  margin: 1em 0;
+  padding: 2em;
+}
+
+.ribbon-odd {
+  background-color: $accent-color;
+  color: #fff;
+}
+
+@media (min-width: 48em) {
+  .content {
+    padding: 1em;
+  }
+}
