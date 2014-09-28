@@ -26,6 +26,13 @@ body {
   font-family: $font-stack;
 }
 
+.content-head {
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 1em;
+}
+
 .has-footer {
   margin-bottom: 300px;
   box-shadow: 0 10px 15px -5px #000;

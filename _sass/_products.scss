@@ -1,0 +1,48 @@
+.product-box {
+
+  text-align: center;
+  padding: 0.5em 0;
+
+  img {
+    margin: 1em auto;
+    border-radius: 3px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+
+    &:hover {
+      -webkit-filter: grayscale(100%);
+    }
+  }
+
+  h3 {
+
+    font-size: 1.3em;
+    margin: 1em 0 0.5em 0;
+
+    a {
+      color: $primary-color;
+      text-decoration: none;
+    }
+
+    a:hover,
+    a:focus {
+        color: $accent-color;
+    }
+
+  }
+
+  p {
+
+    a,
+    a:hover,
+    a:focus {
+        color: #999;
+        text-decoration: none;
+    }
+
+  }
+
+}

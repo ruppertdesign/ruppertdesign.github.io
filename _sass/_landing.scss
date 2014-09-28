@@ -1,5 +1,5 @@
 .splash-container {
-  background-image: url('../img/holz-logo.jpg');
+  background: url('../img/header-v2.jpg') no-repeat center top;
   z-index: 1;
   overflow: hidden;
   width: 100%;
@@ -9,20 +9,12 @@
   position: fixed !important;
 }
 
-.content-wrapper {
-  position: absolute;
+.landing-wrapper {
   top: 550px;
-  width: 100%;
-  min-height: 12%;  
-  z-index: 2;
-  background: white;
 }
 
-.content-head {
-  font-weight: 400;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  margin: 2em 0 1em;
+.landing-head {
+  font-size: 1.5em;
 }
 
 .content-subhead {

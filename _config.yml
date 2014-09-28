@@ -1,11 +1,12 @@
 # Global settings
 timezone: Europe/Berlin
+exclude: [README.md, Makefile]
 
 # Site settings
 title: RuppertDesign
 email: post@ruppertdesign.de
 description: "TODO Description"
-baseurl: ""
+baseurl: "http://utkast.de/ruppertdesign"
 url: "http://yourdomain.com"
 
 # Build settings
