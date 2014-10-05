@@ -1,8 +1,15 @@
-.content-wrapper {
-  position: absolute;
+main.default {
   margin-top: 50px;
+}
+
+.content-wrapper {
   width: 100%;
-  min-height: 12%;
   z-index: 2;
-  background: white;
+  background-color: white;
+  position: relative;
+}
+
+.content {
+  max-width: 1200px;
+  margin: 0 auto;
 }

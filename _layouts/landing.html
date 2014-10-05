@@ -5,11 +5,14 @@
   <header class="header">
     {% include navigation.html %}
   </header>
-  <main>
-    {{ content }}
-  </main>
-  <footer class="pure-g">
-    {% include footer.html %}
-  </footer>
+  <div class="splash-container"></div>
+  <div class="landing-wrapper">
+    <main>
+      {{ content }}
+    </main>
+    <footer>
+      {% include footer.html %}
+    </footer>
+  </div>
 </body>
 </html>

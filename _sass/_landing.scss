@@ -1,43 +1,74 @@
 .splash-container {
   background: url('../img/header-v2.jpg') no-repeat center top;
-  z-index: 1;
+  z-index: -1;
   overflow: hidden;
   width: 100%;
   height: 550px;
   top: 0;
   left: 0;
-  position: fixed !important;
+  position: fixed;
 }
 
 .landing-wrapper {
+  position: relative;
   top: 550px;
+  z-index: 2;
 }
 
 .landing-head {
-  font-size: 1.5em;
+  @include font-size($font-size-bigger);
 }
 
-.content-subhead {
-  color: $accent-color;
+.content-subhead a {
+    color: $primary-color;
+    text-decoration: none;
+
+  &:hover,
+  &:focus {
+    color: $accent-color;
+  }
+
 }
 
-.l-box {
-  padding: 1em;
+.features {
+
+  > div {
+    padding: 0em 3em;
+  }
+
+  h3 {
+    text-align: center;
+    @include font-size($font-size-big);
+  }
+
+  p {
+    text-align: justify;
+  }
+
 }
 
-.l-box-lrg {
-  padding: 2em;
-}
+.ribbon {
+  padding: 1em 2em 3em 2em;
 
+  &:first-of-type {
+    background-color: #68be7c;
+    color: #fff;
+  }
 
-.ribbon-even, .ribbon-odd {
-  margin: 1em 0;
-  padding: 2em;
+  &:last-of-type {
+    background-color: #ed8b50;
+    color: #fff;
+  }
+
+  p {
+    margin: 0 0 1em 0;
+    @include font-size($font-size-medium);
+  }
+
 }
 
 .ribbon-odd {
-  background-color: $accent-color;
-  color: #fff;
+
 }
 
 @media (min-width: 48em) {

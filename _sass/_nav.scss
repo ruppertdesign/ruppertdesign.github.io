@@ -1,11 +1,16 @@
 .pure-menu {
 
+  a {
+    @include font-size($font-size-nav);
+  }
+
   &.pure-menu-fixed {
     z-index: 4;
   }
 
   .pure-menu-heading {
     line-height: 2.4em;
+    @include font-size($font-size-nav);
   }
 
   li {
@@ -15,13 +20,12 @@
     a, .pure-menu-heading {
       color: $nav-color;
       text-transform: uppercase;
-      font-size: 90%;
     }
 
     a {
       position: relative;
       text-decoration: none;
-      padding: 6px 0 0 0;
+      padding: 7px 0 0 0;
     }
 
     a:hover, a:focus {
@@ -72,10 +76,15 @@
 
   nav {
     text-align: left;
-  }
+    clear: both;
 
-  nav ul {
-    float: right;
+    a {
+      float: left;
+    }
+
+    ul {
+      float: right;
+    }
   }
 
 }

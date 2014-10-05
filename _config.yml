@@ -3,15 +3,15 @@ timezone: Europe/Berlin
 exclude: [README.md, Makefile]
 
 # Site settings
-title: RuppertDesign
-email: post@ruppertdesign.de
+title: RUPPERTdesign
+email: info@ruppertdesign.de
 description: "TODO Description"
 baseurl: "http://utkast.de/ruppertdesign"
-url: "http://yourdomain.com"
+url: "http://ruppertdesign.de"
 
 # Build settings
 markdown: kramdown
 permalink: pretty
 
 sass:
-    style: :compressed
+    style: compressed

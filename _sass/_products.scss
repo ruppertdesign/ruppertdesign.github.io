@@ -3,9 +3,15 @@
   text-align: center;
   padding: 0.5em 0;
 
+  .img-border {
+    width: 300px;
+    height: 250px;
+    overflow: hidden;
+    border-radius: 3px;
+  }
+
   img {
     margin: 1em auto;
-    border-radius: 3px;
     -webkit-transition: all 1s ease;
     -moz-transition: all 1s ease;
     -o-transition: all 1s ease;
@@ -13,7 +19,14 @@
     transition: all 1s ease;
 
     &:hover {
-      -webkit-filter: grayscale(100%);
+      -webkit-filter: opacity(70%);
+
+      -webkit-transform:scale(1.1); /* Safari and Chrome */
+    -moz-transform:scale(1.1); /* Firefox */
+    -ms-transform:scale(1.1); /* IE 9 */
+    -o-transform:scale(1.1); /* Opera */
+     transform:scale(1.1)
+
     }
   }
 
