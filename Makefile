@@ -20,13 +20,13 @@ clean:
 debug:
 	jekyll serve --watch --baseurl=
 	
-build:
+build: clean
 	jekyll build
 	dot_clean _site
 	find _site -name .DS_Store -delete
 	find _site -name ._* -delete
 	
-deploy_test: clean build
+deploy_test: build
 	gnutar -czf $(SITE) -C _site .
 	scp $(SITE) $(WEB_HOST):~
 	ssh -t $(WEB_HOST) "$(DEPLOY); deploy "
