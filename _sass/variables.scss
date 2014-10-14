@@ -1,12 +1,20 @@
 // colors
-$primary-color: #666;
-$nav-color: #565d64;
-$nav-underline-color: #bebebe;
-$accent-color: green;//#483c31;
-$footer-color: #3f4245;
+$tundora: #464646;
+$cocoa: #2b2416;
+$silver: #c9c9c9;
+$la-palma: #10B110;
+$white: #fff;
 
-$form-success: green;
-$form-error: red;
+$primary-color: $tundora;
+$nav-color: $tundora;
+$nav-underline-color: $silver;
+$accent-color: $la-palma;
+$footer-color: $tundora;
+$ribbon-first: $la-palma;
+$ribbon-last: $cocoa;
+
+$form-success: #6fa600;
+$form-error: #b20000;
 
 // fonts
 $font-stack:    "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;

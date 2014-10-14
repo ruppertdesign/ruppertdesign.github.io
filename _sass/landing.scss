@@ -51,12 +51,12 @@
   padding: 1em 2em 3em 2em;
 
   &:first-of-type {
-    background-color: #68be7c;
+    background-color: $ribbon-first;
     color: #fff;
   }
 
   &:last-of-type {
-    background-color: #ed8b50;
+    background-color: $ribbon-last;
     color: #fff;
   }
 
