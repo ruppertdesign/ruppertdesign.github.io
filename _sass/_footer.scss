@@ -31,6 +31,10 @@ footer {
       display: none;
     }
 
+    fieldset {
+      padding: 0;
+    }
+
     input[type="text"],
     input[type="email"],
     textarea,
@@ -48,11 +52,14 @@ footer {
       }
     }
 
-    .pure-control-group label,
     input[type="text"],
     input[type="email"],
     textarea {
-      margin-bottom: 1em;
+      margin: 0.5em 0 1em 0;
+    }
+
+    .pure-button {
+      margin-top: 1em;
     }
 
     textarea {
@@ -60,15 +67,13 @@ footer {
     }
 
     @media (min-width: 48em) {
-      .pure-control-group label {
-        width: 15%;
-      }
 
       input[type="text"],
       input[type="email"],
       textarea  {
-        width: 75%;
+        width: 70%;
       }
+
     }
 
   }

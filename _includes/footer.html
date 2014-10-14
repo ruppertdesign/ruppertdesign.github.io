@@ -5,31 +5,27 @@
   </div>
 
   <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
-    <form id="kontakt" method="POST" action="//forms.brace.io/info@ruppertdesign.de" class="pure-form pure-form-aligned">
+    <form id="kontakt" method="POST" action="//forms.brace.io/info@ruppertdesign.de" class="pure-form pure-form-stacked">
       <fieldset>
 
         <legend>Kontakt</legend>
 
-        <div class="pure-control-group">
-          <label for="name">Name</label>
-          <input id="name" name="name" type="text"
-              required minlength="3" maxlength="30" pattern="[a-zA-Z\'\. -_üÜöÖäÄß]{3,}" />
-        </div>
+        <label for="name">Name</label>
+        <input id="name" name="name" type="text"
+            required minlength="3" maxlength="30" pattern="[a-zA-Z\'\. -_üÜöÖäÄß]{3,}" />
 
-        <div class="pure-control-group">
-          <label for="email">E-Mail</label>
-          <input id="email" name="_replyto" type="email" required />
-        </div>
+        <label for="email">E-Mail oder Telefonnummer</label>
+        <input id="email" name="email" type="text"
+            required minlength="3" maxlength="30" pattern="[0-9a-zA-Z\'\. \/+@-_üÜöÖäÄß]{3,}" />
 
-        <div class="pure-control-group">
-          <label for="message">Nachricht</label>
-          <textarea id="message" name="message" rows="6" required></textarea>
-        </div>
+        <label for="message">Beschreibe dein Projekt</label>
+        <textarea id="message" name="message" rows="6" required></textarea>
 
-        <div class="pure-control-group">
-          <label></label>
-          <button id="submit" type="submit" class="pure-button">Senden</button>
-        </div>
+        <label for="subscribe" class="pure-checkbox">
+            <input id="subscribe" name="subscribe" type="checkbox"> RUPPERTdesign soll über neue Projekte informieren
+        </label>
+
+        <button id="submit" type="submit" class="pure-button">Senden</button>
 
         <input type="hidden" name="_next" value="{{ site.baseurl }}/danke" />
         <input type="hidden" name="_subject" value="Kontaktanfrage auf RuppertDesign.de" />
