@@ -17,14 +17,14 @@ layout: default
 		  <div class="pure-u-1-1 pure-u-md-1-2 pure-u-lg-1-3 holzwerk-box">
 
         <div class="img-wrapper">
-          <a href="{{ post.url }}">
+          <a href="{{ post.url | prepend: site.baseurl }}">
             <img src="{{ site.baseurl }}/holzwerke/img/{{ post.id | split: '/' | last }}/intro.jpg" width="300" class="pure-img bw rounded" />
           </a>
         </div>
 
-        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
 
-        <p><a href="{{ post.url }}">{{ post.intro }}</a></p>
+        <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.intro }}</a></p>
 
       </div>
 
