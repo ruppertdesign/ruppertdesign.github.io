@@ -1,5 +1,29 @@
 // font sizes
 @mixin font-size($sizeValue: 1.6) {
   font-size: ($sizeValue * 10) + px;
-  font-size: $sizeValue + rem;
+	font-size: $sizeValue + rem;
+}
+
+// transform
+@mixin transform($transforms) {
+	-moz-transform: $transforms;
+	-o-transform: $transforms;
+	-ms-transform: $transforms;
+	-webkit-transform: $transforms;
+	transform: $transforms;
+}
+
+// transition
+@mixin transition($transition) {
+	-moz-transition: $transition;
+	-o-transition: $transition;
+	-ms-transition: $transition;
+	-webkit-transition: $transition;
+	transition: $transition;
+}
+
+//filter 
+@mixin filter($filter) {
+	-webkit-filter: $filter;
+	filter: $filter;
 }

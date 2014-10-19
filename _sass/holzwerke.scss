@@ -1,0 +1,53 @@
+.product-box {
+
+  text-align: center;
+
+  .img-wrapper {
+    width: 300px;
+    height: 225px;
+    margin: 1em auto;
+    overflow: hidden;
+    border-radius: 3px;
+    border: 1px solid $silver;
+  }
+
+  img {
+
+    @include transition(all 1s ease);
+
+    &:hover {
+      @include filter(opacity(70%));
+      @include transform(scale(1.1));
+    }
+    
+  }
+
+  h3 {
+
+    font-size: 1.3em;
+    margin: 1em 0 0.5em 0;
+
+    a {
+      color: $primary-color;
+      text-decoration: none;
+    }
+
+    a:hover,
+    a:focus {
+        color: $accent-color;
+    }
+
+  }
+
+  p {
+
+    a,
+    a:hover,
+    a:focus {
+        color: #999;
+        text-decoration: none;
+    }
+
+  }
+
+}
