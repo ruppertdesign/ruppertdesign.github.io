@@ -1,11 +1,17 @@
 ---
-layout: default
+layout: post
 title: Planung
 permalink: /planung/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## Ihr Auftrag
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Sie schätzen gutes Handwerk und suchen ein Möbelstück, das perfekt zu Ihrer Einrichtung passt? Sei es die exakt nach Ihren Wünschen gefertigten Garderobe, die stylische Hausbar oder eine spezielle Halterung für Ihre Küchengeräte?   
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Sie haben ein bestimmtes Design im Kopf, finden es so aber in keinem Einrichtungshaus? Sie möchten Ihre Idee verwirklicht sehen?
+
+Sie haben Holz, das Ihnen etwas bedeutet – weil es antik ist oder Sie an etwas erinnert – und wollen, dass es zu etwas Besonderem wird, an dem Sie sich täglich erfreuen? Etwa der Spiegelrahmen aus einem alten Balken, der Tisch aus Strandholz oder etwas ganz anderes? 
+
+Ich fertige Ihnen Ihr Wunschmöbelstück  – von der Idee über die erste Skizze bis zum fertigen Gegenstand – mit Kreativität, genauem Augenmaß und Herzblut. Dafür erstelle ich Ihnen im Vorfeld ein unverbindliches, transparentes und faires Angebot und kümmere mich dann um die Beschaffung aller benötigten Materialien.
+
+Ich freue mich, von Ihnen zu hören und bin gespannt auf Ihre Wünsche, Ideen und Vorstellungen.

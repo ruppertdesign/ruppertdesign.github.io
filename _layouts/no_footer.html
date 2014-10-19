@@ -3,10 +3,13 @@
 {% include head.html %}
 <body>
   <header class="header">
-    {% include navigation.html %}
+    {% include navigation.html kontakt="false" %}
   </header>
-  <main class="default">
-    {{ content }}
+  <main class="no-footer">
+  	<div class="post">
+		  <article>
+		  	{{ content }}
+		  </article>
   </main>
 </body>
 </html>
