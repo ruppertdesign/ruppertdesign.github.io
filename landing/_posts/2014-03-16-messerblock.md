@@ -1,15 +1,13 @@
 ---
 layout: landing
-title:  Auf Messers Schneide.
+title:  Messerscharf auf Ihre Wünsche angepasst.
 date:   2014-03-16 17:46:12
 ---
 
-Sie möchten Ihre Küchenmesser jederzeit ergonomisch griffbereit haben. Jedes Messer darf seinen eigenen Platz haben. Sie möchten ein bestimmtes Design für den den Messerblock, ein bestimmtes Holz? Schicken Sie mir die abzeichneten Messerumrisse und Sie bekommen eine Maßanfertigung wie Sie es sich wünschen.
-
-Holzwerk
+Sie möchten Ihre Küchenmesser jederzeit griffbereit haben? Alles soll an seinem Platz sein. Ihr Messerblock soll ein bestimmtes Design haben – und aus Holz gefertigt sein, das zu Ihrer Küche passt? Schicken Sie mir einfach die abgezeichneten Messerumrisse und Sie bekommen eine Maßanfertigung nach Wunsch.
 
 Holzart: Amerikanischer Nussbaum
 
-Holzgröße (cm): ca. 26x18x8
+Holzgröße: ca. L 26 x B 18 x H 8
 
 Holzdesign für: Zwilling Professional

@@ -1,15 +1,13 @@
 ---
 layout: landing
-title:  Ordnung darf sein.
+title:  Ordnung mit Stil.
 date:   2014-01-23 15:21:43
 ---
 
-Sie haben eine Küchenmaschine und Ihrer Helfer liegen nur in einer Schublade? Sie möchten mehr Ordnung haben und es darf dabei noch schön aussehen? Vielleicht gefällt Ihnen dieser Halter, er darf aus einem anderen Holz sein? Mehr Stellplätze für Ihre Helfer? Die Geräte haben einen anderen Schaftdurchmesser? Kein Problem!
-
-Holzwerk
+Sie wissen nicht wohin, mit Ihren Küchenutensilien? Deshalb landen die meisten in einer Schublade? Ich fertige Ihnen eine Halterung für Ihre Küchenhelfer, beispielsweise für das Zubehör Ihrer Küchenmaschine. Ihnen gefällt der Halter – aber er soll aus einem anderen Holz sein? Mehr Stellplätze haben? Ihre Geräte haben einen anderen Schaftdurchmesser? Kein Problem – Ich fertige genau nach Maß und Wunsch. 
 
 Holzart: Amerikanischer Nussbaum
 
-Holzgröße (cm): ca. 50x12x2
+Holzgröße: ca. L 50 x B 12 x H 2
 
 Holzdesign für: Kenwood Cooking Chef
