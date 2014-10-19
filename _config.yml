@@ -6,7 +6,7 @@ exclude: [README.md, Makefile]
 title: RUPPERTdesign
 email: info@ruppertdesign.de
 description: "TODO Description"
-baseurl: "http://utkast.de/ruppertdesign"
+baseurl: ""
 url: "http://ruppertdesign.de"
 
 # Build settings

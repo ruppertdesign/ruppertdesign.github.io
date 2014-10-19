@@ -61,6 +61,7 @@
   }
 
   p {
+    line-heigt: 1.7;
     margin: 0 0 1em 0;
     @include font-size($font-size-medium);
   }
