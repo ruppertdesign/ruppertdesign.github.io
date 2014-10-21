@@ -4,21 +4,15 @@ title: Impressum
 permalink: /impressum/
 ---
 
-RUPPERTdesign
-
-Tannenfleckstraße 12 b
-
-D-82194 Gröbenzell
-
-+49 (0)176 24022029 
-
-kontakt@RUPPERTdesign.de 
-
-www.RUPPERTdesign.de
-
-Geschäftsführer: Simon Ruppert 
-
-© 2014 ruppertDesign.de
+<address>
+RUPPERTdesign<br />
+Tannenfleckstraße 12 b<br />
+D-82194 Gröbenzell<br />
++49 (0)176 24022029<br />
+<a href="mailto:info@ruppertdesign.de">info@RUPPERTdesign.de</a><br />
+Geschäftsführer: Simon Ruppert<br />
+&copy; {{ 'now' | date: "%Y" }} <a href="http://ruppertdesign.de">RUPPERTdesign.de</a>
+</address>
 
 Sämtliche Inhalte, Bilder, Grafiken, Animationen etc. auf dieser Webseite sind urheberrechtlich geschützt. Jede unerlaubte Nutzung wird zivil- und strafrechtlich verfolgt. Das Copyright und die inhaltliche Verantwortung der jeweiligen Inhalte liegen bei RUPPERTdesign.
 Die Inhalte sind nur für den bestimmungsgemäßen Abruf im Internet frei verfügbar. Inhalte dieser Website dürfen ohne ausdrückliche Genehmigung von RUPPERTdesign nicht in irgendeiner Form vervielfältigt, verbreitet, verändert oder Dritten zugänglich gemacht werden.

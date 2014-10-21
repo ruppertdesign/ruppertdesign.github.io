@@ -15,16 +15,27 @@ body {
   font-family: $font-stack;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-weight: $font-weight-heading;
+h1, h2 {
+  font-weight: $font-weight-light;
+}
+
+h3 {
+  font-weight: $font-weight-heavy;
 }
 
 p {
   line-height: 1.5;
 }
 
+address {
+    font-style: normal;
+    @include font-size($font-size-medium);
+    line-height: 1.7;
+    margin-bottom: 2em;
+} 
+
 .content-head {
-  font-weight: $font-weight-heading;
+  font-weight: $font-weight-light;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   margin-bottom: 1em;
