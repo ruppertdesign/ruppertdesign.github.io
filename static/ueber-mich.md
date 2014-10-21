@@ -16,4 +16,4 @@ In den letzten Jahren sind nun weitere Möbelstücke entstanden. Das Wasserbett 
 
 Es hat mich schon immer begeistert, wie aus Holz Schritt für Schritt ein Möbelstück entstehen kann. Ich bin ein sehr visueller Mensch – tolle Materialien und ein außergewöhnliches Design versetzen mich regelrecht in Begeisterung. Bei allem was ich schreinere habe ich den Anspruch, aus hochwertigem Holz einen funktionalen Gegenstand mit dem gewissen Etwas herzustellen, an dem man sich nicht schnell sattsieht. 
 
-Ich freue mich sehr darüber, wenn Ihnen meine Arbeit gefällt. Sie können mich sehr gerne kontaktieren, wenn ich etwas für Sie fertigen darf.
+Ich freue mich sehr darüber, wenn Ihnen meine Arbeit gefällt.

@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Planung
-permalink: /planung/
+title: Ihre Idee
+permalink: /ihre-idee/
 ---
-
-## Ihr Auftrag
 
 Sie schätzen gutes Handwerk und suchen ein Möbelstück, das perfekt zu Ihrer Einrichtung passt? Sei es die exakt nach Ihren Wünschen gefertigten Garderobe, die stylische Hausbar oder eine spezielle Halterung für Ihre Küchengeräte?   
 
