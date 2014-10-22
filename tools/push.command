@@ -1,6 +1,9 @@
 #!/bin/bash
 cd `dirname $0`/..
+
+echo "Please enter a commit message:"
+read message
+
 git add --all .
-# TODO ask for message
 git commit -m $message
 git push origin master
