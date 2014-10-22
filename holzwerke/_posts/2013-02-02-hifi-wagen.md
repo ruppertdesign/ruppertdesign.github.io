@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hifi Wagen"
-date:   2013-02-02 20:47:43
+date:   2013-02-02
 intro: Wahnsinns Wagen!
 ---
 

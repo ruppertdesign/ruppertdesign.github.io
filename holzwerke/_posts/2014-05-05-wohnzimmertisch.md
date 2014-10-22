@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wohnzimmertisch"
-date:   2014-05-05 20:47:43
+date:   2014-05-05
 intro: Cooler Slogan über Tische
 ---
 

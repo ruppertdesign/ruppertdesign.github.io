@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Schlüsselbrett"
-date:   2014-04-04 20:47:43
+date:   2014-04-04 
 intro: Die Schlüssel ans Brett
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Griffbrett"
-date:   2013-01-01 20:47:43
+date:   2013-01-01
 intro: Ein cooles Griffbrett
 ---
 
