@@ -9,8 +9,6 @@ danke Dir ganz herzlich für die tolle Eckgarderrobe.
 Schaut fantastisch aus! Bin mehr als begeistert! Gefällt uns sehr, sehr gut! 
 Danke Dir für Deine tolle Arbeit!
 
-Viele Grüße
-
-Andi
+Viele Grüße, Andi
 
 PS: Na logo empfehlen wir Dich weiter! Bei der tollen Arbeit!

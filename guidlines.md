@@ -1,7 +1,8 @@
 # Bildgrößen
 
-* LandingPage Ribbon: 640px x 426px
-* Im Artikel: 1100px x 732px
+* LandingPage Ribbon: 640px x 480px
+* Artikel: 1100px x 825px
+* Referenzen: 400px x 300px
 
 
 # Beispielartikel

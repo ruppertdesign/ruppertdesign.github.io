@@ -1,0 +1,17 @@
+.reference {
+
+	margin-bottom: 2em;
+	padding-bottom: 2em;
+	border-bottom: 1px solid $silver;
+
+	&:last-of-type {
+		border-bottom: 0 none;
+	}
+
+	p {
+		margin: 0 0 1em 0;
+	}
+
+
+
+}
