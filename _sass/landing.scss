@@ -67,6 +67,16 @@
   &:nth-of-type(1) {
     background-color: $ribbon-1;
     color: $white;
+
+    a {
+      color: $white;
+
+      &:hover,
+      &:focus {
+        color: $silver;
+      }
+    }
+
   }
 
   &:nth-of-type(2) {
@@ -76,6 +86,16 @@
   &:nth-of-type(3) {
     background-color: $ribbon-3;
     color: $white;
+
+    a {
+      color: $white;
+
+      &:hover,
+      &:focus {
+        color: $silver;
+      }
+    }
+
   }
 
   &:nth-of-type(4) {
