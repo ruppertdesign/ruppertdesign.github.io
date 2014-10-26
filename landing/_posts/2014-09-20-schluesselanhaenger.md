@@ -9,4 +9,5 @@ Sie suchen nach einem individuellem Gastgeschenk für Ihre Hochzeitsgäste oder 
 * **Holzart \|** Amerikanischer Nussbaum
 * **Holzgröße \|** ca. L 5 x B 1 x H 1
 * **Holzdesign für \|** Gastgeschenk für Eure Hochzeit
-* **Preis p. Anhänger \|** 5 EUR / Rabatt bei großer Stückzahl möglich
+* **Preis p. Anhänger \|** 5 EUR
+Fragen Sie nach einem Rabatt bei großer Stückzahlen
