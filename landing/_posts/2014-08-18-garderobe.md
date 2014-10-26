@@ -4,7 +4,7 @@ title:  Für jede Ecke die passende Lösung
 date:   2014-08-18
 ---
 
-Test Sie möchten eine Garderobe, die genau zu Ihnen und Ihren vier Wänden passt? Eine Garderobe, die maßangefertigt und hochwertig verarbeitet ist und ein zeitloses Design hat? Schicken Sie mir eine Skizze oder die Maße und ich verwirkliche Ihre Idee. 
+Sie möchten eine Garderobe, die genau zu Ihnen und Ihren vier Wänden passt? Eine Garderobe, die maßangefertigt und hochwertig verarbeitet ist und ein zeitloses Design hat? Schicken Sie mir eine Skizze oder die Maße und ich verwirkliche Ihre Idee. 
 
 Holzart: Eiche
 
