@@ -9,3 +9,4 @@ Sie wissen nicht wohin, mit Ihren Küchenutensilien? Deshalb landen die meisten 
 * **Holzart:** Amerikanischer Nussbaum
 * **Holzgröße:** ca. L 50 x B 12 x H 2
 * **Holzdesign für:** Kenwood Cooking Chef
+* **Preis:** 49 EUR
