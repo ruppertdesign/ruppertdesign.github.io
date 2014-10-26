@@ -32,6 +32,7 @@
 
 .features {
 
+  // we need to use padding for space between items but want equal sizes for text and space
   > div:nth-child(1) {
     padding-right: 2em;
   }

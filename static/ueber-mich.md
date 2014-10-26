@@ -6,7 +6,7 @@ permalink: /ueber-mich/
 
 Ich heiße Simon Ruppert, bin Baujahr 1982 und hauptberuflich Projektleiter. Im Januar 2014 habe ich RUPPERTdesign gegründet – für Holzwerke jeglicher Art. Ein Maschinenbauingenieur, der schreinert? Das kam so:
 
-![Simon Ruppert]({{ site.baseurl }}/img/simon-ruppert.jpg)
+{% include image.html url="/img/simon-ruppert.jpg" description="Simon Ruppert" %}
 
 Die Arbeit mit Holz begleitet mich schon mein ganzes Leben. In meinem Elternhaus in Unterfranken hat mein Vater Alfons seine Werkstatt, die den Status „Hobbywerkstatt“ inzwischen fast hinter sich gelassen hat. Seit ich denken kann sind dort viele unserer Möbel entstanden. Mein Bruder Stefan und ich haben ihm dabei oft über die Schulter geschaut und von ihm gelernt.
 
