@@ -9,5 +9,6 @@ Sie möchten eine Garderobe, die genau zu Ihnen und Ihren vier Wänden passt? Ei
 * **Holzart:** Eiche
 * **Holzgröße:** ca. T 50 x T 50 x H 4
 * **Holzdesign für:** Andreas Schmid, FOTOGRAFIE, [fotolevel.de][1]
+* **Preis:** Auf Anfrage
 
  [1]: http://fotolevel.de
