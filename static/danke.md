@@ -4,6 +4,10 @@ title: Danke
 permalink: /danke/
 ---
 
-# Das ist eine Dankeseite mit etwas Text.
+# Vielen Dank für Ihr Interesse.
 
-Irgenwann bau ich das so um dass die Meldung nur im Footer erscheint und man auf der Seite bleibt.
+Ich werde mir Ihre Anfrage umgehend ansehen und mich bei Ihnen melden um weitere Details mit Ihnen zu besprechen.
+
+Viele Grüße
+
+Simon Ruppert
