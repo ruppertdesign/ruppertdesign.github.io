@@ -10,4 +10,4 @@ Sie suchen nach einem individuellem Gastgeschenk für Ihre Hochzeitsgäste oder 
 * **Holzgröße \|** ca. L 5 x B 1 x H 1
 * **Holzdesign für \|** Gastgeschenk für Eure Hochzeit
 * **Preis p. Anhänger \|** 5 EUR
-Fragen Sie nach einem Rabatt bei großer Stückzahlen
+* Fragen Sie nach einem Rabatt bei großer Stückzahlen
