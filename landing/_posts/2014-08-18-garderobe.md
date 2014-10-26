@@ -1,6 +1,6 @@
 ---
 layout: landing
-title:  Für jede Ecke die passende Lösung.
+title:  Für jede Ecke die passende Lösung
 date:   2014-08-18
 ---
 

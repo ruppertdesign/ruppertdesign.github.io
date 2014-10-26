@@ -1,6 +1,6 @@
 ---
 layout: landing
-title:  Messerscharf auf Ihre Wünsche angepasst.
+title:  Messerscharf auf Ihre Wünsche angepasst
 date:   2014-03-16
 ---
 

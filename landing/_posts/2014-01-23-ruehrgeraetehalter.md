@@ -1,6 +1,6 @@
 ---
 layout: landing
-title:  Ordnung mit Stil.
+title:  Ordnung mit Stil
 date:   2014-01-23
 ---
 
