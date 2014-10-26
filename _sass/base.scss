@@ -66,6 +66,10 @@ address {
   border-radius: 3px;
 }
 
+img.rounded {
+  border: 1px solid $silver;
+}
+
 .hideme {
   display: none !important;
 }
