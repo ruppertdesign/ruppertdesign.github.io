@@ -1,6 +1,6 @@
 ---
 layout: landing
-title:  Dein Namen auf Holz
+title:  Ihr Name auf Holz
 date:   2014-09-20
 ---
 
