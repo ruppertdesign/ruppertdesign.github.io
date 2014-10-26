@@ -9,3 +9,4 @@ Sie möchten Ihre Küchenmesser jederzeit griffbereit haben? Alles soll an seine
 * **Holzart:** Amerikanischer Nussbaum
 * **Holzgröße:** ca. L 26 x B 18 x H 8
 * **Holzdesign für:** Zwilling Professional
+* **Preis:** 90 EUR
