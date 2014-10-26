@@ -20,17 +20,6 @@ article {
    	@include font-size($font-size-medium);
 	}
 
-  a {
-    color: $primary-color;
-    text-decoration: underline;
-
-    &:hover,
-    &:focus {
-      color: $accent-color;
-    }
-
-  }
-
   img {
     border-radius: 3px;
     margin: 1em 0;

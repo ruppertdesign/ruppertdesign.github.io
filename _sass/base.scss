@@ -27,6 +27,17 @@ p {
   line-height: 1.5;
 }
 
+a {
+  color: $primary-color;
+  text-decoration: underline;
+
+  &:hover,
+  &:focus {
+    color: $accent-color;
+  }
+
+}
+
 address {
     font-style: normal;
     @include font-size($font-size-medium);

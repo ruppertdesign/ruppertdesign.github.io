@@ -48,18 +48,6 @@
     padding-left: 2em;
   }
 
-  > div:first-child {
-    //padding-right: 1em;
-  }
-
-  > div:last-child {
-    //padding-left: 1em;
-  }
-
-  > div:not(:last-child) {
-   // padding-right: 3em;
-  }
-
   h3 {
     text-align: center;
     @include font-size($font-size-big);
@@ -72,22 +60,41 @@
 }
 
 .ribbon {
+  
   padding: 1em 2em 3em 2em;
 
-  &:first-of-type {
-    background-color: $ribbon-first;
+  &:nth-of-type(1) {
+    background-color: $ribbon-1;
     color: #fff;
   }
 
-  &:last-of-type {
-    background-color: $ribbon-last;
+  &:nth-of-type(2) {
+    background-color: $ribbon-2;
+  }
+
+  &:nth-of-type(3) {
+    background-color: $ribbon-3;
     color: #fff;
+  }
+
+  &:nth-of-type(4) {
+    background-color: $ribbon-4;
   }
 
   p {
     line-heigt: 1.7;
     margin: 0 0 1em 0;
     @include font-size($font-size-medium);
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    list-style-type: none;
+    line-height: 1.4;
   }
 
 }
