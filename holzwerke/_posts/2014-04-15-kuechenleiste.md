@@ -8,9 +8,11 @@ intro: Griffbereit
 Wenn man schöne Küchenhelfer hat und die Küche als Küche erkennbar sein darf, 
 warum seine Küchenhelfer nicht einfach an die Wand pinnen?
 
+{% include image.html url="/holzwerke/img/kuechenleiste/kuechenleiste01.jpg" description="Hifiwagenfront" %}
 
 Die Paarung aus Nussbaumholz und Edelstahlhaken - ein Hingucker.
 
+{% include image.html url="/holzwerke/img/kuechenleiste/kuechenleiste02.jpg" description="Hifiwagenfront" %}
 
 
 **Starkes Holzwerk**   
