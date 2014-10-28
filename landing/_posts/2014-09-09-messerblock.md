@@ -4,7 +4,7 @@ title:  Messerscharf auf Ihre Wünsche angepasst
 date:   2014-09-09
 ---
 
-Mit einem Messerblock aus Massivholz sind Ihre Messer jederzeit griffbereit. 
+test Mit einem Messerblock aus Massivholz sind Ihre Messer jederzeit griffbereit. 
 Ihr Messerblock soll ein bestimmtes Design haben – und aus Holz gefertigt sein, 
 das zu Ihrer Küche passt? 
 Schicken Sie mir einfach die abgezeichneten Messerumrisse und Sie bekommen eine Maßanfertigung.
