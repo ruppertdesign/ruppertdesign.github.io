@@ -10,7 +10,7 @@ Ich heiße Simon Ruppert, bin Baujahr 1982 und hauptberuflich Projektleiter. Im 
 
 Die Arbeit mit Holz begleitet mich schon mein ganzes Leben. In meinem Elternhaus in Unterfranken hat mein Vater Alfons seine Werkstatt, die den Status „Hobbywerkstatt“ inzwischen fast hinter sich gelassen hat. Seit ich denken kann sind dort viele unserer Möbel entstanden. Mein Bruder Stefan und ich haben ihm dabei oft über die Schulter geschaut und von ihm gelernt.
 
-Weil mich die Arbeit mit Holz fasziniert und ich mehr über den Schreinerberuf lernen wollte, habe ich im Herbst 2010 mein Urlaub genutzt, um ein Praktikum bei einem alteingesessenen Schreiner im Allgäu zu MACHE.
+Weil mich die Arbeit mit Holz fasziniert und ich mehr über den Schreinerberuf lernen wollte, habe ich im Herbst 2010 mein Urlaub genutzt, um ein Praktikum bei einem alteingesessenen Schreiner im Allgäu zu machen.
 
 In den letzten Jahren sind nun weitere Möbelstücke entstanden. Das Wasserbett auf schwarzen Granitfüssen, der ausziehbare Esstisch, ein geräumiger Einbauschrank, ein Hifiwagen und ein paar Küchenhelfer – erst nur für meine Frau und mich, dann auch für Freunde und jetzt, mit der Gründung von RUPPERTdesign, gerne auch für Sie.  
 
