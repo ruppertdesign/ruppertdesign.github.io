@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Messerblock"
-date:   2014-02-02
+date:   2014-02-01
 intro: Die Messer in den Block!
 ---
 
