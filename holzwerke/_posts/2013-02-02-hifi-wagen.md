@@ -6,6 +6,12 @@ intro: Wahnsinns Wagen aus einem Stück
 ---
 
 Dieser Hifiwagen selbst kein Leichtgewicht, trägt jeden Röhrenverstärker.
+Die Holzbohle, wie sie aus dem Sägewerk kommen kann, wurde hier nur minimal bearbeitet.
+
+{% include image.html url="/holzwerke/img/hifi-wagen/hifiwagen03.jpg" description="Hifiwagenfront" %}
+
+Der Riss, welcher beim Dämpfen und anschließendem Trocknen entstanden ist, macht den Wagen besonders.
+Die Breite des Hifiwagens kann durch die gelochten Edelstahl Vierkantrohre verändert werden.
 
 {% include image.html url="/holzwerke/img/hifi-wagen/hifiwagen01.jpg" description="Hifiwagen Riss im Detail" %}
 
@@ -14,7 +20,6 @@ Durch eine angebaute 8-fach [Steckdosenleiste][1] wird Ihr Entertainmentcenter m
 {% include image.html url="/holzwerke/img/hifi-wagen/hifiwagen02.jpg" description="Hifiwagen mit Mehrfachsteckdose" %}
 
 
-{% include image.html url="/holzwerke/img/hifi-wagen/hifiwagen03.jpg" description="Hifiwagenfront" %}
 
 
 **Starkes Holzwerk**   
