@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Küchenwerkzeugsleiste"
+title:  "Kuechenwerkzeugsleiste"
 date:   2014-04-15
 intro: Griffbereit
 ---
