@@ -45,8 +45,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 **Starkes Holzwerk**   
 Artikelnummer \| Holzart \| Holzgröße \| Preis
 
-* **Wohnzimmertisch**       
-	RD.200.003  \| 	Amerikanischer Nussbaum \| ca. L 60 x B 40 x H 45 \| Unverkäuflich
+**Wohnzimmertisch**    
+RD.200.003  \| 	Amerikanischer Nussbaum \| ca. L 60 x B 40 x H 45 \| Unverkäuflich
 
  [//]: Hier stehen die Links die oben verwendet wurden. Der einfachheit halber nummeriere ich hier durch, du könntest aber auch z.B. [google] nehmen. Oben beim Link muss nur das selbe stehen.
 
