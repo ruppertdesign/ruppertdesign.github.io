@@ -1,6 +1,6 @@
 ---
 layout: landing
-title:  Sag es mit Holz
+title:  Sagen Sie es mit Holz
 date:   2014-09-20
 ---
 
