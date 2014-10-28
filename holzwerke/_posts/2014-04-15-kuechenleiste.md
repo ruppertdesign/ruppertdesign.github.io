@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "Kuechenwerkzeugsleiste"
+title:  "Kuechenleiste"
 date:   2014-04-15
 intro: Griffbereit
 ---
 
-Wenn man schöne Küchenhelfer hat und die Küche als Küche erkennbar sein darf, 
-warum seine Küchenhelfer nicht einfach an die Wand pinnen?
+bla bla bla blabla bla bla blbla bla bla blbla bla bla blbla bla bla blbla bla bla blbla bla bla blbla bla bla bl
+bla bla bla blbla bla bla blbla bla bla blbla bla bla blbla bla bla blbla bla bla blbla bla bla bl
 
-{% include image.html url="/holzwerke/img/kuechenleiste/kuechenleiste01.jpg" description="Hifiwagenfront" %}
+{% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger01.jpg" description="Hifiwagenfront" %}
 
 Die Paarung aus Nussbaumholz und Edelstahlhaken - ein Hingucker.
 
-{% include image.html url="/holzwerke/img/kuechenleiste/kuechenleiste02.jpg" description="Hifiwagenfront" %}
+{% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger02.jpg" description="Hifiwagenfront" %}
 
 
 **Starkes Holzwerk**   
