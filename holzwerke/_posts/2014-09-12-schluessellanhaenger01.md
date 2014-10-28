@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Schluesselanhaenger"
-date:   2014-08-18
-intro: Für fast jede Ecke geeignet
+title:  "Schlüsselanhänger"
+date:   2014-09-12
+intro: Trägt deinen Namen
 ---
 
 asdfasdfasdfasdf asdfasdfasdf asdfasdfasdf asdfasdfasdf 
