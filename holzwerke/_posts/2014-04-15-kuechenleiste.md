@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Küchenleiste"
+title:  "Kuechenleiste"
 date:   2014-04-15
 intro: Griffbereit
 ---
