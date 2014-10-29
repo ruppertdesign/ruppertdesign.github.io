@@ -2,7 +2,7 @@
 layout: post
 title:  "Schlüsselboard"
 date:   2014-09-27
-intro: Passt sich jeder Ecke an
+intro: Schlüssel suchen war gestern
 ---
 
 
