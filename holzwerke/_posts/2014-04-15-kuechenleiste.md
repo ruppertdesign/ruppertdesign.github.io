@@ -2,7 +2,7 @@
 layout: post
 title:  "Kuechenleiste"
 date:   2014-04-15
-intro: Griffbereit
+intro: Zeigt, was Sie hat
 ---
 
 bla bla bla blabla bla bla blbla bla bla blbla bla bla blbla bla bla blbla bla bla blbla bla bla blbla bla bla bl
