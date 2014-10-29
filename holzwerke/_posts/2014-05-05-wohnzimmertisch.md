@@ -2,7 +2,7 @@
 layout: post
 title:  "Wohnzimmertisch"
 date:   2014-05-05
-intro: Ursprung im Allgäu
+intro: Steht gerne im Mittelpunkt
 ---
 
 **Das ist fett geschriebender Text**, *der hier ist kursiv*. 
