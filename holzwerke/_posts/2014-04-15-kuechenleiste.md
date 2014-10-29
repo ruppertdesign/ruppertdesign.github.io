@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kuechenleiste"
+title:  "Küchenleiste"
 date:   2014-04-15
 intro: Zeigt, was Sie hat
 ---
