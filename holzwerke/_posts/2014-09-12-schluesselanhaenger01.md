@@ -2,7 +2,7 @@
 layout: post
 title:  "Schlüsselanhänger"
 date:   2014-09-12
-intro: Trägt deinen Namen
+intro: Persönlicher Begleiter im Alltag
 ---
 
 asdfasdfasdfasdf asdfasdfasdf asdfasdfasdf asdfasdfasdf 
