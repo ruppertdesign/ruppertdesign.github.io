@@ -17,6 +17,6 @@ intro: Schlüssel suchen war gestern
 **Starkes Holzwerk**   
 Artikelnummer \| Holzart \| Holzgröße \| Preis
 
-* **Eckgarderobe**       
+* **Schlüsselboard**       
 	RD.200.014  \| 	Nussbaum \| ca. T 12 x T 5 x H 3 \| 39 EUR
 
