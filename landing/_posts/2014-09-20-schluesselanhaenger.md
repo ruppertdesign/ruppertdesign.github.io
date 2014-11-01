@@ -1,12 +1,18 @@
 ---
 layout: landing
-title:  Ihr Name auf Holz
+title:  Sagen Sie es mit Holz
 date:   2014-09-20
 ---
 
-Sie suchen nach einem individuellem Gastgeschenk für Ihre Hochzeitsgäste oder möchten Ihr Geburtstagsgeschenk um einen persönlichen Anhänger erweitern? Ich fertige Ihnen persönliche Schlüsselanhänger aus Ihrem Wunschholz. Schicken Sie mir einfach Ihre Gästeliste oder den Namen, der auf dem Anhänger stehen darf. 
+Sie suchen für Ihre Hochzeit oder Geburtstagfeier nach einer Alternative zu klassischen Tischkärtchen? 
+Sie möchten ein Geschenk mit einer persönlichen Note aufpeppen? 
+Sie haben eine Botschaft für einen lieben Menschen, 
+die dieser auf einem [Schlüsselanhänger][21] aus Holz immer bei sich tragen soll?
 
-* **Holzart \|** Amerikanischer Nussbaum
+* **Holzart \|** Amerikanischer Nussbaum / Eiche
 * **Holzgröße \|** ca. L 5 x B 1 x H 1
-* **Holzdesign für \|** Gastgeschenk für Eure Hochzeit
-* **Preis p. Anhänger \|** 5 EUR / Rabatt bei großer Stückzahl möglich
+* **Holzdesign für \|** Gastgeschenk
+* **Preis p. Anhänger \|** 5 EUR
+* Fragen Sie nach einem Rabatt bei großer Stückzahlen.
+
+[21]: {% post_url 2014-09-12-schluesselanhaenger01 %}
