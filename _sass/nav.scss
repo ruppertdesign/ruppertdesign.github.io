@@ -1,5 +1,5 @@
 .pure-menu {
-
+      -webkit-transform:translate3d(0,0,0); 
   a {
     @include font-size($font-size-nav);
   }
@@ -26,6 +26,7 @@
       position: relative;
       text-decoration: none;
       padding: 7px 0 0 0;
+      -webkit-transform:translate3d(0,0,0); // prevents safari flicker effect
     }
 
     a:hover, a:focus {
@@ -49,7 +50,7 @@
     a:hover:before {
       visibility: visible;
       -webkit-transform: scaleX(1);
-      transform: scaleX(1);
+      transform: scaleX(1);      
     }
 
   }
