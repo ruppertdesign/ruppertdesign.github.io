@@ -79,7 +79,6 @@
 		var host = window.location.host;
 		$('a').each(function() {
 			var href = $(this).attr('href');
-			console.log(href + ":" + host);
 			if (href.indexOf('http') === 0 && href.indexOf(host) === -1) {
 				$(this).attr('target', '_blank');
 			}
