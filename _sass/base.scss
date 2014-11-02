@@ -73,3 +73,19 @@ img.rounded {
 .hideme {
   display: none !important;
 }
+
+// validation
+.pure-form {
+  
+  input.error, textarea.error {
+    border: 1px solid $form-error;
+  }
+
+  .error-msg {
+    color: $form-error;
+    @include font-size($font-size-normal);
+    padding: 5px 0 20px 0;
+    display: none;
+  }
+
+}

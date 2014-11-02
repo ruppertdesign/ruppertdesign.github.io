@@ -5,24 +5,38 @@
   </div>
 
   <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
-    <form id="kontakt" method="POST" action="//forms.brace.io/info@ruppertdesign.de" class="pure-form pure-form-stacked">
+    
+    <form id="contactForm" method="POST" action="//forms.brace.io/info@ruppertdesign.de" class="pure-form pure-form-stacked">
       <fieldset>
 
         <legend>Kontakt</legend>
 
+        <div class="error-msg" id="submitError">
+          Leider konnten Deinen Daten nicht übertragen werden.<br />Bitte überprüfe die Daten und versuche es später noch einmal.
+        </div>
+
         <label for="name">Name</label>
         <input id="name" name="name" type="text"
-            required minlength="3" maxlength="30" pattern="[a-zA-Z\'\. -_üÜöÖäÄß]{3,}" />
+            required minlength="3" maxlength="30" pattern="[0-9a-zA-ZüÜöÖäÄß\'\. _-]{3,}" />
+        <div class="error-msg">
+          Bitte gib mindestens 3 und maximal 30 gültige Zeichen ein
+        </div>
 
         <label for="email">E-Mail oder Telefonnummer</label>
         <input id="email" name="email" type="text"
-            required minlength="3" maxlength="30" pattern="[0-9a-zA-Z\'\. \/+@-_üÜöÖäÄß]{3,}" />
+            required minlength="3" maxlength="30" pattern="[0-9a-zA-ZüÜöÖäÄß@\'\. \/\+_-]{3,}" />
+        <div class="error-msg">
+          Bitte gib mindestens 3 und maximal 30 gültige Zeichen ein
+        </div>
 
         <label for="message">Beschreibe dein Projekt</label>
         <textarea id="message" name="message" rows="6" required></textarea>
+        <div class="error-msg">
+          Beschreibe bitte Dein Projekt
+        </div>
 
-        <label for="subscribe" class="pure-checkbox">
-            <input id="subscribe" name="subscribe" type="checkbox"> RUPPERTdesign soll über neue Projekte informieren
+        <label for="newsletter" class="pure-checkbox">
+            <input id="newsletter" name="newsletter" type="checkbox"> RUPPERTdesign soll über neue Projekte informieren
         </label>
 
         <button id="submit" type="submit" class="pure-button">Senden</button>
@@ -32,6 +46,13 @@
 
       </fieldset>
     </form>
+
+    <div id="submitSuccess">
+      <h3>Vielen Dank für Ihr Interesse.</h3>
+      <p>Ich werde mir Ihre Anfrage umgehend ansehen und mich bei Ihnen melden um weitere Details mit Ihnen zu besprechen.</p>
+      <p>Viele Grüße<br />Simon Ruppert</p>
+    </div>  
+
   </div>
 
   <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
@@ -39,10 +60,10 @@
       <address>
         RUPPERTdesign<br />
         Tannenfleckstraße 12b<br />
-        D-82194 Gröbenzell<br />
+        D-82194 Gröbenzell<br />
         +49 (0)176 24022029<br />
         <a href="mailto:info@ruppertdesign.de">info@RUPPERTdesign.de</a><br />
-        Geschäftsführer: Simon Ruppert
+        Geschäftsführer: Simon Ruppert
       </address>
       <p>&copy; {{ 'now' | date: "%Y" }} RUPPERTdesign.de</p>
       <p><a href="{{ site.baseurl }}/impressum">Impressum</a></p>
