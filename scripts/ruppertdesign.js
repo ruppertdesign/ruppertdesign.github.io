@@ -3,6 +3,7 @@
 	var init = function() {
 		registerScrolling();
 		registerContactSubmit();
+		registerExternalLinks();
 	};
 
 	var registerScrolling = function() {
@@ -40,7 +41,6 @@
 				  }
 			});
 
-
 		});
 	};
 
@@ -73,6 +73,17 @@
 		valid = valid && field.attr('maxlength') ? val >= field.attr('maxlength') : true;
 		valid = valid && field.attr('pattern') ? new RegExp('^(?:' + field.attr('pattern') + ')$').test(val) : true;
 		return valid;
+	};
+
+	var registerExternalLinks = function() {
+		var host = window.location.host;
+		$('a').each(function() {
+			var href = $(this).attr('href');
+			console.log(href + ":" + host);
+			if (href.indexOf('http') === 0 && href.indexOf(host) === -1) {
+				$(this).attr('target', '_blank');
+			}
+		});
 	};
 
 	$(document).ready(init);
