@@ -8,7 +8,7 @@ Sie schätzen gutes Handwerk und suchen ein Möbelstück, das perfekt zu Ihrer E
 
 Sie haben ein bestimmtes Design im Kopf, finden es so aber in keinem Einrichtungshaus? Sie möchten Ihre Idee verwirklicht sehen?
 
-{% include image.html url="/img/ihreidee.jpg" description="Erdgeschossgrundriss für die neue Garderobe" %}
+{% include image.html url="/img/ihreidee.jpg" description="Erdgeschossgrundriss für die neue Garderobe" size="medium" %}
 
 Sie haben Holz, das Ihnen etwas bedeutet – weil es antik ist oder Sie an etwas erinnert – und wollen, dass es zu etwas Besonderem wird, an dem Sie sich täglich erfreuen? Etwa der Spiegelrahmen aus einem alten Balken, der Tisch aus Strandholz oder etwas ganz anderes? 
 
