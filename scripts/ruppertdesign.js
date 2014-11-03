@@ -8,7 +8,7 @@
 
 	var registerScrolling = function() {
 		$('[href="#kontakt"]').on('click', function(e) {
-			window.smoothScroll($('#kontakt')[0], 1500);
+			scrollTo('#kontakt', 1500);
 		});
 	};
 
@@ -35,9 +35,8 @@
 			    	});
 				  },
 				  error: function(xhr, type) {
-				  	var errorMsg = $('#submitError');
-				    errorMsg.fadeIn(250);
-				    window.smoothScroll(errorMsg[0], 250);
+				  	$('#submitError').fadeIn(250);
+				    scrollTo('#submitError', 250);
 				  }
 			});
 
@@ -66,13 +65,11 @@
 	};
 
 	var validate = function(field) {
-		var valid = true;
 		var val = field.val().trim();
-		valid = valid && field.attr('required') ? val != '' : true;
-		valid = valid && field.attr('minlength') ? val >= field.attr('minlength') : true;
-		valid = valid && field.attr('maxlength') ? val >= field.attr('maxlength') : true;
-		valid = valid && field.attr('pattern') ? new RegExp('^(?:' + field.attr('pattern') + ')$').test(val) : true;
-		return valid;
+		return (field.attr('required') ? val != '' : true)
+						&& (field.attr('minlength') ? val >= field.attr('minlength') : true)
+						&& (field.attr('maxlength') ? val >= field.attr('maxlength') : true)
+						&& (field.attr('pattern') ? new RegExp('^(?:' + field.attr('pattern') + ')$').test(val) : true);
 	};
 
 	var registerExternalLinks = function() {
@@ -84,6 +81,11 @@
 			}
 		});
 	};
+
+	var scrollTo = function(selector, time) {
+		var element = $(selector)[0];
+		window.smoothScroll == undefined ? element.scrollIntoView() : window.smoothScroll(element, time);
+	}
 
 	$(document).ready(init);
 
