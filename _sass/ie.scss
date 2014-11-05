@@ -1,0 +1,32 @@
+.pure-menu ul {
+	float: right;
+}
+
+// IE7
+* + html .pure-menu ul {
+	margin-top: -50px;
+}
+
+header {
+	clear: both;
+}
+
+.features > div {
+	padding: 0 1em;
+}
+
+// IE7
+* + html .features div {
+	padding: 0 37px;
+	width: 200px;
+}
+
+.pure-form {
+	input[type=text], textarea {
+		width: 22em;
+	}
+}
+
+.content-head {
+	margin-top: 2em;
+}
