@@ -9,7 +9,7 @@
 	var registerScrolling = function() {
 		$('[href="#kontakt"]').on('click', function(e) {
 			e.preventDefault();
-			scrollTo('#kontakt', 2000);
+			scrollTo('#kontakt', 1500);
 		});
 	};
 
