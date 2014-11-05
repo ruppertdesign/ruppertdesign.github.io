@@ -7,7 +7,7 @@ intro: Persönlicher Begleiter im Alltag
 
 asdfasdfasdfasdf asdfasdfasdf asdfasdfasdf asdfasdfasdf 
 
-{% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger01.jpg" description="Beschreibung von Schlüsselanhänger" %}
+{% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger01.jpg" description="Beschreibung von Schlüsselanhänger" size="small" %}
 
 {% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger02.jpg" description="Beschreibung von Schlüsselanhänger" size="small" %}
 
