@@ -22,7 +22,7 @@
 				return false;
 			}
 			var data = {};
-			form.serializeArray().map(function(o) {data[o.name] = o.value;}); 
+			$.map(form.serializeArray(), function(o) {data[o.name] = o.value;}); 
 			data['newsletter'] = $('#newsletter').is(':checked') ? 'Ja' : 'Nein';
 
 			$.ajax({
@@ -35,7 +35,7 @@
 			    		$('#submitSuccess').fadeIn(250);	
 			    	});
 				  },
-				  error: function(xhr, type) {
+				  error: function(xhr, type) {				  	
 				  	$('#submitError').fadeIn(250);
 				    scrollTo('#submitError', 250);
 				  }
@@ -66,7 +66,7 @@
 	};
 
 	var validate = function(field) {
-		var val = field.val().trim();
+		var val = $.trim(field.val());
 		return (field.attr('required') ? val != '' : true)
 						&& (field.attr('minlength') ? val >= field.attr('minlength') : true)
 						&& (field.attr('maxlength') ? val >= field.attr('maxlength') : true)
