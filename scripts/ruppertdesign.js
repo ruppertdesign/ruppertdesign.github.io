@@ -8,7 +8,7 @@
 
 	var registerScrolling = function() {
 		$('[href="#kontakt"]').on('click', function(e) {
-			scrollTo('#kontakt', 1500);
+			scrollTo('#kontakt', 2000);
 		});
 	};
 
@@ -83,8 +83,7 @@
 	};
 
 	var scrollTo = function(selector, time) {
-		var element = $(selector)[0];
-		window.smoothScroll == undefined ? element.scrollIntoView() : window.smoothScroll(element, time);
+		smoothScroll.animateScroll(null, selector, { speed: time, easing: 'easeInOutQuad' } );
 	}
 
 	$(document).ready(init);
