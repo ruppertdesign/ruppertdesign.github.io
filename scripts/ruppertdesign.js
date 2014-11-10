@@ -1,7 +1,6 @@
 (function () {
     
 	var init = function() {
-		$.support.cors = true;
 		registerScrolling();
 		registerContactSubmit();
 		registerExternalLinks();
@@ -31,7 +30,8 @@
 			    type: 'POST',
 			    data: data,
 			    dataType: 'json',
-			    contentType: 'application/json; charset=UTF-8',
+			    contentType: 'text/plain',
+			    //contentType: 'application/json; charset=UTF-8',
 			    success: function(data) {
 			    	$(form).fadeOut(150, function() {
 			    		$('#submitSuccess').fadeIn(250);	
