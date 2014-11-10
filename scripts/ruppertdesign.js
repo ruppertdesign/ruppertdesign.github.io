@@ -30,6 +30,7 @@
 			    type: 'POST',
 			    data: data,
 			    dataType: 'json',
+			    contentType: 'application/json',
 			    success: function(data) {
 			    	$(form).fadeOut(150, function() {
 			    		$('#submitSuccess').fadeIn(250);	
