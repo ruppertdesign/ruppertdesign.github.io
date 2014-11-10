@@ -1,20 +1,13 @@
-<!doctype html>
-<html>
-{% include head.html %}
-<body>
-  <header class="header">
-    {% include nav.html %}
-  </header>
-  <main class="default">
-  	<div class="content-wrapper">
-		  <div class="content">
-    		{{ content }}
-    	</div>
-    </div>
-  </main>
-  <footer id="kontakt">
-    {% include footer.html %}
-  </footer>
-  {% include scripts.html %}
-</body>
-</html>
+---
+layout: base
+---
+<main class="default">
+	<div class="content-wrapper">
+	  <div class="content">
+  		{{ content }}
+  	</div>
+  </div>
+</main>
+<footer id="kontakt">
+  {% include footer.html %}
+</footer>

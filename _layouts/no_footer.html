@@ -1,16 +1,9 @@
-<!doctype html>
-<html>
-{% include head.html %}
-<body>
-  <header class="header">
-    {% include nav.html kontakt="false" %}
-  </header>
-  <main class="no-footer">
-  	<div class="post">
-		  <article>
-		  	{{ content }}
-		  </article>
-  </main>
-  {% include scripts.html %}
-</body>
-</html>
+---
+layout: base
+---
+<main class="no-footer">
+	<div class="post">
+	  <article>
+	  	{{ content }}
+	  </article>
+</main>

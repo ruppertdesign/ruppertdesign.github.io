@@ -1,19 +1,12 @@
-<!doctype html>
-<html>
-{% include head.html %}
-<body>
-  <header class="header">
-    {% include nav.html %}
-  </header>
-  <div class="splash-container"></div>
-  <div class="landing-wrapper">
-    <main>
-      {{ content }}
-    </main>
-    <footer id="kontakt">
-      {% include footer.html %}
-    </footer>
-  </div>
-  {% include scripts.html %}
-</body>
-</html>
+---
+layout: base
+---
+<div class="splash-container"></div>
+<div class="landing-wrapper">
+  <main>
+    {{ content }}
+  </main>
+  <footer id="kontakt">
+    {% include footer.html %}
+  </footer>
+</div>

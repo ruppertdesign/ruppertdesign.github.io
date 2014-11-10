@@ -2,7 +2,9 @@
     
 	var init = function() {
 		registerScrolling();
-		registerContactSubmit();
+		if ($('html .lt-ie10').length) {
+			registerContactSubmit();	
+		}
 		registerExternalLinks();
 	};
 

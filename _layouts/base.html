@@ -1,0 +1,12 @@
+<!doctype html>
+<!--[if lte IE ]><html class="lt-ie10"> <![endif]-->
+<!--[if gt IE 9]><!--> <html> <!--<![endif]-->
+{% include head.html %}
+<body>
+  <header class="header">
+    {% include nav.html %}
+  </header>
+  {{ content }}
+  {% include scripts.html %}
+</body>
+</html>
