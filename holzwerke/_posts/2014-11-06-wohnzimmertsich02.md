@@ -1,46 +1,20 @@
 ---
 layout: post
-title:  "Eckgarderobe"
-date:   2014-08-18
-intro: Passt sich jeder Ecke an
+title:  "Wohnzimmertisch"
+date:   2014-11-06
+intro: Taktikfeld für jede Fussballanalyse
 ---
 
-Nicht jeder Wohnungseingangsbereich bietet die Möglichkeit eine große Garderobe anzubringen.
-Manchmal ist nur eine kleine Ecke vorhanden in der ein Fotostativ als Garderobe dient.
-Eine wackelige Angelegenheit und alles andere als übersichtlich, 
-wenn mal ein paar Jacken darüber geworfen wurden.
+...
 
-{% include image.html url="/holzwerke/img/garderobe01/garderobe01a.jpg" description="Beschreibung von Garderobe01 1" %}
+{% include image.html url="/holzwerke/img/wohnzimmertisch02/wohnzimmertisch02a.jpg" description="Beschreibung von Wohnzimmertisch" %}
 
-Mit einer Eckgarderobe, welche ohne sichtbare Schrauben mit der Wand fest verbunden ist, 
-wackelt nichts mehr.
-Durch die Kombination aus Haken und Kleiderstange können Mäntel, Jacken und Anoraks einfach verstaut werden.
+{% include image.html url="/holzwerke/img/wohnzimmertisch02/wohnzimmertisch02b.jpg" description="Beschreibung von Wohnzimmertisch" %}
 
-{% include image.html url="/holzwerke/img/garderobe01/garderobe01b.jpg" description="Beschreibung von Garderobe01 1" %}
-
-Die Kinder sollen selbstständig werden und ihre Jacken und Tasche nach dem Kindergarten oder der Schule aufhängen können?
-Kein Problem, die Kindergarderobe bekommt das gleiches Holzdesign und wird in niedriger Höhe montiert.
-Sind die Sprösslinge groß geworden, 
-kann die Erwachsenengarderobe durch die hochgesetzte Hakenleiste erweitert werden.
-
-{% include image.html url="/holzwerke/img/garderobe01/garderobe01d.jpg" description="Beschreibung von Garderobe01 1" %}
-
-Wenn Sie sich andere Garderobenhaken wünschen, 
-beschreiben Sie Ihre Wunschhaken oder suchen Sie sich selbst die passenden Haken heraus. 
-Zum Beispiel bei [Haefele][3]. 
-
-{% include image.html url="/holzwerke/img/garderobe01/garderobe01e.jpg" description="Beschreibung von Garderobe01 1" %}
 
 
 **Starkes Holzwerk**   
 Artikelnummer \| Holzart \| Holzgröße \| Preis
 
-* **Eckgarderobe**       
-	RD.200.001  \| 	Eiche \| ca. T 50 x T 50 x H 4 \| Preis auf Anfrage
-
-* **Hakenleiste**   
-	RD.200.002 \| Eiche \| ca. T 50 x T 2 x H 4  \| 89 EUR 
-
- [1]: {% post_url 2013-01-01-griffbrett %}
- [2]: http://www.google.de
- [3]: http://www.haefele.de/moebelbeschlaege/moebelgriffe-garderobenhaken/garderoben-garderobenhaken/garderobenhaken/0000005700018ecd00010023?CatalogCategoryID=cqDAqBlZNIIAAAEzuPwi7Kh0&NavigationSource=Image
+* **Wohnzimmertisch**       
+	RD.200.010  \| 	Amerikanischer Nussbaum \| ca. L 120 x B 80 x H 43 \| Preis auf Anfrage

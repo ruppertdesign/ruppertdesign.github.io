@@ -5,7 +5,7 @@ date: 2014-11-06
 
 Hallo Simon,
 
-hier sind die Fotos von unserem [Couchtisch][1].
+[hier][1] sind die Fotos von unserem Couchtisch.
 Vielen Dank noch mal für dieses Prachtstück!
 
 Liebe Grüße aus Aichach,
