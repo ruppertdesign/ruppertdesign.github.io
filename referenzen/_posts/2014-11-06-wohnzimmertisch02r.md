@@ -1,5 +1,5 @@
 ---
-title: Wohnzimmertisch für Ulrike und René
+title: Wohnzimmertisch für Uli und René
 date: 2014-11-06
 ---
 
