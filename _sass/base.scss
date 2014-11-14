@@ -98,6 +98,7 @@ img.rounded {
     @include font-size($font-size-normal);
     padding: 5px 0 20px 0;
     display: none;
+    font-weight: $font-weight-heavy;
   }
 
 }
