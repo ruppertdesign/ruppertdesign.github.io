@@ -2,9 +2,7 @@
     
 	var init = function() {
 		registerScrolling();
-		if ($('html .lt-ie10').length) {
-			registerContactSubmit();	
-		}
+		registerContactSubmit(!$('html .lt-ie10').length);
 		registerExternalLinks();
 	};
 
@@ -15,34 +13,17 @@
 		});
 	};
 
-	var registerContactSubmit = function() {
+	var registerContactSubmit = function(ajax) {
 		var form = $('#contactForm');
 		form.attr('novalidate', 'novalidate');
 		form.on('submit', function(e) {
-			e.preventDefault();
 			if (!validateContactForm(form)) {
 				return false;
 			}
-			var data = {};
-			$.map(form.serializeArray(), function(o) {data[o.name] = o.value;}); 
-			data['newsletter'] = $('#newsletter').is(':checked') ? 'Ja' : 'Nein';
-
-			$.ajax({
-			    url: form.attr('action'), 
-			    type: 'POST',
-			    data: data,
-			    dataType: 'json',
-			    success: function(data) {
-			    	$(form).fadeOut(150, function() {
-			    		$('#submitSuccess').fadeIn(250);	
-			    	});
-				  },
-				  error: function(xhr, type) {				  	
-				  	$('#submitError').fadeIn(250);
-				    scrollTo('#submitError', 250);
-				  }
-			});
-
+			if (ajax) {
+				e.preventDefault();
+				ajaxPost(form);
+			}
 		});
 	};
 
@@ -60,11 +41,33 @@
       if (field.validity.valid) {
  				$(this).removeClass('error').next('.error-msg').fadeOut(150);
 			} else {
- 				$(this).addClass('error').next('.error-msg').fadeIn(150);
+ 				$(this).addClass('error').next('.error-msg').removeAttr('hidden').fadeIn(150);
         valid = false;
       }
 		});
 		return valid;
+	};
+
+	var ajaxPost = function(form) {
+		var data = {};
+		$.map(form.serializeArray(), function(o) {data[o.name] = o.value;}); 
+		data['newsletter'] = $('#newsletter').is(':checked') ? 'Ja' : 'Nein';
+
+		$.ajax({
+		    url: form.attr('action'), 
+		    type: 'POST',
+		    data: data,
+		    dataType: 'json',
+		    success: function(data) {
+		    	$(form).fadeOut(150, function() {
+		    		$('#submitSuccess').fadeIn(250);	
+		    	});
+			  },
+			  error: function(xhr, type) {				  	
+			  	$('#submitError').fadeIn(250).removeAttr('hidden');
+			    scrollTo('#submitError', 250);
+			  }
+		});
 	};
 
 	var validate = function(field) {
