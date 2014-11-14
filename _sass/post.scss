@@ -13,7 +13,7 @@
       line-height: 1.8;
       margin: 0 auto 1em auto;
       overflow: visible;  
-      @include font-size($font-size-medium);
+      @include font-size($font-size-normal);
     }
 
     .img-wrapper {

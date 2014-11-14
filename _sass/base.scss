@@ -19,11 +19,16 @@ body {
   font-family: $font-stack;
 }
 
-h1, h2 {
-  font-weight: $font-weight-default;
+.wf-loading, .wf-inactive {
+  font-family: $font-fallback; 
+
+  h1, h2 {
+    font-weight: $font-weight-default;
+  }
+
 }
 
-h3, strong {
+h1, h2, h3, strong {
   font-weight: $font-weight-heavy;
 }
 
@@ -44,7 +49,7 @@ a {
 
 address {
     font-style: normal;
-    @include font-size($font-size-medium);
+    @include font-size($font-size-normal);
     line-height: 1.7;
     margin-bottom: 2em;
 } 
