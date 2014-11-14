@@ -40,9 +40,13 @@ a {
   color: $primary-color;
   text-decoration: underline;
 
-  &:hover,
-  &:focus {
+  &:hover {
     color: $accent-color;
+  }
+
+  &:focus {
+    outline: none;
+    border: 2px solid $accent-color;
   }
 
 }
