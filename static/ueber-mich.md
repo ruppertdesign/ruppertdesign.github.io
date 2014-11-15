@@ -6,7 +6,7 @@ permalink: /ueber-mich/
 
 ...
 
-{% include image.html url="/img/simon-ruppert.jpg" description="Simon Ruppert" size="small" %}
+{% include image.html url="/img/simon-ruppert.jpg" description="Simon Ruppert" type="small" %}
 
 
 ...

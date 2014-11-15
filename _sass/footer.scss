@@ -70,20 +70,10 @@ footer {
       height: auto;
     }
 
-    @media (min-width: 48em) {
-      input[type="text"],
-      input[type="email"],
-      textarea  {
-        width: 95%;
-      }
-    }
-
-    @media (min-width: 64em) {
-      input[type="text"],
-      input[type="email"],
-      textarea  {
-        width: 70%;
-      }
+    input[type="text"],
+    input[type="email"],
+    textarea  {
+      width: 90%;
     }
 
   }

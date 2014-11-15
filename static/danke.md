@@ -5,8 +5,8 @@ permalink: /danke/
 ---
 
 # Vielen Dank für Ihr Interesse.
-
-{% include image.html url="/img/danke.jpg" description="Gerne fertige ich Ihr Holzwerk nach Ihren Wünschen an." size="medium" %}
+type
+{% include image.html url="/img/danke.jpg" description="Gerne fertige ich Ihr Holzwerk nach Ihren Wünschen an." type="medium" %}
 
 Ich werde mir Ihre Anfrage umgehend ansehen und mich bei Ihnen melden, um weitere Details zu besprechen.
 

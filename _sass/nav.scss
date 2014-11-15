@@ -1,5 +1,5 @@
 .pure-menu {
-      -webkit-transform:translate3d(0,0,0); 
+      
   a {
     @include font-size($font-size-nav);
   }
@@ -69,7 +69,12 @@
 
   }
 
-
+  // smaller padding on portrait tablets
+  @media (min-width: 48em) and (max-width: 54em) {
+    li {
+      padding: 5px 10px;
+    } 
+  }
 
 }
 
