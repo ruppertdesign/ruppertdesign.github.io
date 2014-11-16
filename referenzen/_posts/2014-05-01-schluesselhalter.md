@@ -3,10 +3,9 @@ title: Schlüsselhalter für Steffen
 date: 2014-05-01
 ---
 
-Hallo Simon,
-
-nun hängt er in meiner Neuen Wohnung. 
-Wurde von meinen Freunden auch schon ein paar mal drauf angesprochen. 
-Toller Blickfang.
+Der Schlüsselhalter ist mit wenigen Worten zu beschreiben: 
+Einfach genial! Vor allem für diejenigen die wenig Platz im Flur haben, 
+auf schlichtes Design Wert legen, ständig den Schlüsselbund suchen, 
+oder was auch immer - der Schlüsselhalter macht den Job, wirklich empfehlenswert!
 
 Gruß, Steffen
