@@ -2,7 +2,7 @@
 layout: post
 title:  "Hifi Wagen"
 date:   2013-02-02
-intro: Wahnsinnswagen
+intro: Schwungvoller Lastenträger
 ---
 
 Dieser Hifiwagen selbst kein Leichtgewicht, trägt jeden Röhrenverstärker.

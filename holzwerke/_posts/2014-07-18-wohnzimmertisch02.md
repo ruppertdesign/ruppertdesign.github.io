@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Wohnzimmertisch"
-date:   2014-11-06
-intro: Taktikfeld für jede Fussballanalyse
+title:  "Wohnzimmertisch 02"
+date:   2014-07-18
+intro: Taktikfeld für jede Fußballanalyse
 ---
 
 ...
