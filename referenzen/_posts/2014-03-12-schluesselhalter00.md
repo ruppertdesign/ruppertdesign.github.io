@@ -1,11 +1,10 @@
 ---
-title: Schlüsselhalter für Steffen
-date: 2014-05-01
+title: Schlüsselhalter
+date: 2014-03-12
 ---
 
-Der Schlüsselhalter ist mit wenigen Worten zu beschreiben: 
-Einfach genial! Vor allem für diejenigen die wenig Platz im Flur haben, 
-auf schlichtes Design Wert legen, ständig den Schlüsselbund suchen, 
-oder was auch immer - der Schlüsselhalter macht den Job, wirklich empfehlenswert!
+Lieber Simon, danke für Dein wunderschönes Schlüsselbrett. 
+Ich benutze es auch um meine Halsketten daran aufzuhängen. 
+Freue mich täglich darüber.
 
-Gruß, Steffen
+Grüße, Anni
