@@ -5,7 +5,8 @@ permalink: /ueber-mich/
 ---
 
 Ich bin Simon Ruppert, Baujahr 1982, und arbeite hauptberuflich als Projektleiter für einen internationalen Fahrzeug- und Maschinenbaukonzern.
-Im Januar 2014 habe ich RUPPERTdesign gegündet – für Holzwerke jeglicher Art. Ein Maschinenbauingenieur, der schreinert? Das kam so:
+Im Januar 2014 habe ich RUPPERTdesign gegündet – für Holzwerke jeglicher Art. 
+Ein Maschinenbauingenieur, der schreinert? Das kam so:
 
 Die Arbeit mit Holz begleitet mich schon mein ganzes Leben. 
 In meinem Elternhaus in Unterfranken hat mein Vater Alfons seine Werkstatt, 
@@ -16,15 +17,14 @@ haben geholfen und von ihm gelernt.
 
 Die Werkstatt ist für mich seit meiner Kindheit ein Ort, 
 an dem präzise gearbeitet wird und jeder Schritt durchdacht sein muss. 
-Sie bietet Raum für Kreativität, ist erfüllt von Holzgeruch und Maschinengeräuschen 
+Sie bietet Raum für Kreativität, ist erfüllt von Holzgeruch 
 und bis heute einer meiner absoluten Lieblingsorte. 
+
+{% include image.html url="/img/simonhobelm.jpg" description="Simon Ruppert an der kleinen Hobelmaschine" type="small" %}
 
 Weil ich mehr über den Schreinerberuf lernen wollte, 
 habe ich meinen Urlaub 2010 genutzt, 
-um ein Praktikum bei einem alteingesessenen Schreiner im Allgäu zu absolvieren.
-
-
-{% include image.html url="/img/simonhobelm.jpg" description="Simon Ruppert an der kleinen Hobelmaschine" type="small" %}
+um ein Praktikum bei einem erfahrenen Schreiner im Allgäu zu absolvieren.
 
 
 Erst habe ich nur Möbelstücke für meine Frau Lena und mich gefertigt – ein Bett, 
