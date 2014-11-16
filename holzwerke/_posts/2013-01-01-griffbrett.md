@@ -2,7 +2,7 @@
 layout: post
 title:  "Griffboard"
 date:   2013-01-01
-intro: Ein cooles Griffbrett
+intro: Für Klimmzüge der besonderen Art
 ---
 
 Ein Griffboard in der Wohnung? Sicher doch! 
