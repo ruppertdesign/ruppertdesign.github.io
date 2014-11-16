@@ -23,7 +23,9 @@ Weil ich mehr über den Schreinerberuf lernen wollte,
 habe ich meinen Urlaub 2010 genutzt, 
 um ein Praktikum bei einem alteingesessenen Schreiner im Allgäu zu absolvieren.
 
-{% include image.html url="/img/simonhobelmaschine.jpg" description="Simon Ruppert an der kleinen Hobelmaschine" type="small" %}
+
+{% include image.html url="/img/simonhobelm.jpg" description="Simon Ruppert an der kleinen Hobelmaschine" type="small" %}
+
 
 Erst habe ich nur Möbelstücke für meine Frau Lena und mich gefertigt – ein Bett, 
 einen ausziehbaren Esstisch und einen Wohnzimmertisch aus Nussbaumholz zum Beispiel – 
