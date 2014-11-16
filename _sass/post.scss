@@ -16,26 +16,30 @@
       @include font-size($font-size-normal);
     }
 
-    .img-wrapper {
-      position: relative; 
-      right: 50%;
-      text-align: center;
-    }
+    @media (min-width: 64em) {
 
-    img {
-      display: inline-block;
-      margin: 1em -100% 1em 0;
-      width: 1100px !important;
-    }
+      .img-wrapper {
+        position: relative; 
+        right: 50%;
+        text-align: center;
+      }
 
-    img.medium {
-      width: 800px;
-    }
+      img {
+        display: inline-block;
+        margin: 1em -100% 1em 0;
+        width: 1100px;
+      }
 
-    img.small {
-      width: 600px;
-    }
+      img.medium {
+        width: 800px;
+      }
 
+      img.small {
+        width: 600px;
+      }
+
+    }
+    
     @media (max-width: 64em) {
       img {
         max-width: 100%;
