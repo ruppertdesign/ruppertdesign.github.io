@@ -1,5 +1,5 @@
 ---
-title: Schlüsselhalter
+title: Schlüssel- und Schmuckhalter
 date: 2014-03-12
 ---
 
