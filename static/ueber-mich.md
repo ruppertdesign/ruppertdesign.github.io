@@ -32,7 +32,7 @@ einen ausziehbaren Esstisch und einen Wohnzimmertisch aus Nussbaumholz zum Beisp
 ,dann auch für Freunde und mit der Gründung von RUPPERTdesign 
 hat das Ganze eine Eigendynamik über Empfehlungen angenommen, was mich sehr freut. 
 
-{% include image.html url="/img/holzwerkdetail01.jpg" description="Lamelloverbindung im Detail" type="small" %}
+{% include image.html url="/img/simonfertig.jpg" description="Simon fertig" type="small" %}
 
 Ich bin ein sehr visueller Mensch – 
 tolle Materialien und ein außergewöhnliches und klares Design begeistern mich. 
