@@ -11,6 +11,8 @@ asdfasdfasdfasdf asdfasdfasdf asdfasdfasdf asdfasdfasdf
 
 {% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger02.jpg" description="Beschreibung von Schlüsselanhänger" type="small" %}
 
+{% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger03.jpg" description="Beschreibung von Schlüsselanhänger" type="small" %}
+
 
 **Starkes Holzwerk**   
 Artikelnummer \| Holzart \| Holzgröße \| Preis
