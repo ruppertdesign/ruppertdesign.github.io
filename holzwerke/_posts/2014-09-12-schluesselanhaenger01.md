@@ -5,7 +5,10 @@ date:   2014-09-12
 intro: Persönlicher Begleiter im Alltag
 ---
 
-asdfasdfasdfasdf asdfasdfasdf asdfasdfasdf asdfasdfasdf 
+Text noch in Arbeit. 
+Wenn Sie ein kleines Gastgeschenk für Ihre Hochzeit suchen oder für Ihre Freunde nur eine kleine Aufmerksamkeit,
+dann ist dieser Schlüsselanhänger vielleicht genau das Richtige.
+Sagen Sie mir einfach, welcher Name, welcher Spruch auf das Holzwerk soll.
 
 {% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger01.jpg" description="Beschreibung von Schlüsselanhänger" type="small" %}
 
