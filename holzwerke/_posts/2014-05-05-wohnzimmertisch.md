@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Couchtisch"
+title:  "Couchtisch 01"
 date:   2014-05-05
 intro: Steht gerne im Mittelpunkt
 ---
