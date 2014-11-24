@@ -5,20 +5,20 @@ date:   2014-05-05
 intro: Steht gerne im Mittelpunkt
 ---
 
-Dieser Couchtisch aus Nussbaumholz kommt klein und kompakt daher – 
-verfügt aber über einige Raffinessen. Durch eine leicht nach innen gesetzte Schublade auf der einen Längsseite, 
-die keine Griffe hat, was dem cleanen Design des Tisches entspricht, haben Sie die Möglichkeit, Fernbedienungen, Taschentücher etc. zu verstauen. 
+Dieser Couchtisch aus Nussbaumholz kommt klein und kompakt daher – verfügt aber über einige Raffinessen. 
+Durch eine leicht nach innen gesetzte Schublade auf der einen Längsseite, 
+die keine Griffe hat, was dem cleanen Design des Tisches entspricht, 
+haben Sie die Möglichkeit, Fernbedienungen, Taschentücher etc. zu verstauen. 
  
 An den Stirnseiten bietet der Tisch Ablageflächen für Zeitschriften oder Bücher. 
 Die Schwebebretter an den Stirnseiten, die ebenfalls als Ablagefläche genutzt werden können, 
 verleihen dem massiven Couchtisch Leichtigkeit und Eleganz.
- 
-Der Tisch gefällt Ihnen – soll aber andere Maße haben und aus einem anderen Holz gefertigt sein? 
-Dann kontaktieren Sie mich gerne!
- 
 
 {% include image.html url="/holzwerke/img/wohnzimmertisch/tisch3.jpg" description="Beschreibung von Tisch 3" %}
 
+Der Tisch gefällt Ihnen – soll aber andere Maße haben und aus einem anderen Holz gefertigt sein? 
+Dann kontaktieren Sie mich gerne!
+ 
 
 **Starkes Holzwerk**   
 Artikelnummer \| Holzart \| Holzgröße \| Preis
