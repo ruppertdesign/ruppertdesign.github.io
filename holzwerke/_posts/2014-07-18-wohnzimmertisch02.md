@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wohnzimmertisch 02"
+title:  "Couchtisch"
 date:   2014-07-18
 intro: Taktikfeld für jede Fußballanalyse
 ---

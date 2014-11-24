@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wohnzimmertisch"
+title:  "Couchtisch"
 date:   2014-05-05
 intro: Steht gerne im Mittelpunkt
 ---
