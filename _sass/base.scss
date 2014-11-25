@@ -8,28 +8,36 @@ html {
   font-size: 62.5%;
 }
 
+
 body {
-  font-family: $font-stack;
+  font-family: $font-fallback; 
+  letter-spacing: -0.025em;
   color: $primary-color;
   font-weight: $font-weight-default;
   @include font-size($font-size-normal);
 }
 
+.wf-opensans-n4-active, 
+.wf-opensans-n3-active {
+  body {
+    font-family: $font-stack;
+    letter-spacing: 0;
+  }
+  h1, h2 {
+    font-weight: $font-weight-heavy;
+  }
+}
+
+h1, h2 {
+  font-weight: $font-weight-default;
+}
+
+h3, strong {
+  font-weight: $font-weight-heavy;
+}
+
 .pure-g, .pure-g [class *="pure-u"] {
   font-family: $font-stack;
-}
-
-.wf-loading, .wf-inactive {
-  font-family: $font-fallback; 
-
-  h1, h2 {
-    font-weight: $font-weight-default;
-  }
-
-}
-
-h1, h2, h3, strong {
-  font-weight: $font-weight-heavy;
 }
 
 p {
