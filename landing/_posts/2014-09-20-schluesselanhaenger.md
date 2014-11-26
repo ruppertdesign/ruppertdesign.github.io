@@ -1,7 +1,7 @@
 ---
 layout: landing
 title:  Sagen Sie es mit Holz
-date:   2014-09-20
+date:   2014-01-03
 ---
 
 Sie suchen für Ihre Hochzeit oder Geburtstagfeier nach einer Alternative zu klassischen Tischkärtchen? 
