@@ -50,18 +50,22 @@ body {
     // we need to use padding for space between items but want equal sizes for text and space
     > div:nth-child(1) {
       padding-right: 2em;
+      background-color: blue;
     }
 
     > div:nth-child(2) {
-      padding: 0 1.3333 0 0.6666em;
+      padding: 0 1.3333em 0 0.6666em;
+      background-color: red;
     }
 
     > div:nth-child(3) {
       padding: 0 0.6666em 0 1.3333em;
+      background-color: green;
     }
 
     > div:nth-child(4) {
       padding-left: 2em;
+      background-color: yellow;
     }  
   }
   
@@ -75,6 +79,16 @@ body {
     text-align: justify;
   }
 
+}
+
+.lt-ie9 .features div {
+  padding: 0 30px;
+  width: 265px;
+}
+
+.lt-ie8 .features div {
+  padding: 0 35px;
+  width: 205px;
 }
 
 .ribbon {

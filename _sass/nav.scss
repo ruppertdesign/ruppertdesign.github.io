@@ -78,6 +78,18 @@
 
 }
 
+.lt-ie9 .pure-menu ul {
+  float: right;
+}
+
+.lt-ie8 .pure-menu ul {
+  margin-top: -50px;
+}
+
+.lt-ie9 header {
+  clear: both;
+}
+
 @media (min-width: 48em) {
 
   nav {

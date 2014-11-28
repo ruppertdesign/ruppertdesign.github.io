@@ -78,5 +78,10 @@ footer {
 
   }
 
+}
 
+.lt-ie9 .pure-form {
+  input[type=text], textarea {
+    width: 22em;
+  }
 }
