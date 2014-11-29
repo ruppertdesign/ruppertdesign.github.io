@@ -74,9 +74,12 @@
 
 	var validate = function(field) {
 		var val = $.trim(field.val());
+if (field.attr('id')=='name')
+	console.log(val <= field.attr('maxlength'));
+
 		return (field.attr('required') ? val != '' : true)
-						&& (field.attr('minlength') ? val >= field.attr('minlength') : true)
-						&& (field.attr('maxlength') ? val <= field.attr('maxlength') : true)
+						&& (field.attr('minlength') ? val.length >= field.attr('minlength') : true)
+						&& (field.attr('maxlength') ? val.length <= field.attr('maxlength') : true)
 						&& (field.attr('pattern') ? new RegExp('^(?:' + field.attr('pattern') + ')$').test(val) : true);
 	};
 
