@@ -1,10 +1,10 @@
 (function () {
     
 	var init = function() {
-		if (!$('html .lt-ie9').length)) {
+		if (!$('html.lt-ie9').length) {
 			registerScrolling();
 		}
-		registerContactSubmit(!$('html .lt-ie10').length);
+		registerContactSubmit(!$('html.lt-ie10').length);
 		registerExternalLinks();
 	};
 
@@ -32,7 +32,7 @@
 	var validateContactForm = function(form) {
 		$('#submitSuccess, #submitError').fadeOut(150);
 		var valid = true;
-		$('input[type=text], input[type=email], textarea', form).each(function() {
+		$('input[type=text], input[type=email], input[type=tel], textarea', form).each(function() {
 			var field = $(this)[0];
 			if (typeof field.willValidate !== 'undefined') {
         field.checkValidity();
@@ -76,7 +76,7 @@
 		var val = $.trim(field.val());
 		return (field.attr('required') ? val != '' : true)
 						&& (field.attr('minlength') ? val >= field.attr('minlength') : true)
-						&& (field.attr('maxlength') ? val >= field.attr('maxlength') : true)
+						&& (field.attr('maxlength') ? val <= field.attr('maxlength') : true)
 						&& (field.attr('pattern') ? new RegExp('^(?:' + field.attr('pattern') + ')$').test(val) : true);
 	};
 
