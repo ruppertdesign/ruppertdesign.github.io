@@ -1,7 +1,9 @@
 (function () {
     
 	var init = function() {
-		registerScrolling();
+		if (!$('html .lt-ie9').length)) {
+			registerScrolling();
+		}
 		registerContactSubmit(!$('html .lt-ie10').length);
 		registerExternalLinks();
 	};
