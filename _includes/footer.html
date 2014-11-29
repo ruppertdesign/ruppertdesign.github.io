@@ -22,12 +22,19 @@
           Bitte gib mindestens 3 und maximal 30 gültige Zeichen ein
         </div>
 
-        <label for="email">E-Mail oder Telefonnummer</label>
-        <input id="email" name="email" type="text"
+        <label for="email">E-Mail</label>
+        <input id="email" name="email" type="email"
             required minlength="3" maxlength="30" pattern="[0-9a-zA-ZüÜöÖäÄß@\'\. \/\+_-]{3,}" />
         <div class="error-msg">
-          Bitte gib mindestens 3 und maximal 30 gültige Zeichen ein
+          Bitte gib eine gültige E-Mail Adresse ein
         </div>
+
+        <label for="tel">Telefonnummer</label>
+        <input id="tel" name="tel" type="tel"
+            minlength="3" maxlength="30" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" />
+        <div class="error-msg">
+          Bitte gib mindestens 3 und maximal 30 gültige Zeichen ein
+        </div>        
 
         <label for="message">Beschreibe dein Projekt</label>
         <textarea id="message" name="message" rows="6" required></textarea>

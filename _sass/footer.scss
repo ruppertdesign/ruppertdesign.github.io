@@ -41,6 +41,7 @@ footer {
 
     input[type="text"],
     input[type="email"],
+    input[type="tel"],
     textarea,
     button {
       border-radius: 0;
@@ -49,6 +50,7 @@ footer {
 
     input[type="text"],
     input[type="email"],
+    input[type="tel"],
     textarea,
     button {
       &:focus {
@@ -58,6 +60,7 @@ footer {
 
     input[type="text"],
     input[type="email"],
+    input[type="tel"],
     textarea {
       margin: 0.5em 0 1em 0;
     }
@@ -72,6 +75,7 @@ footer {
 
     input[type="text"],
     input[type="email"],
+    input[type="tel"],
     textarea  {
       width: 90%;
     }
