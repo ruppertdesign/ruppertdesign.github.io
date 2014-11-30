@@ -26,6 +26,27 @@ Ich fertige Ihnen Ihr Schlüsselboard genau nach Wunsch.
 **Starkes Holzwerk**   
 Artikelnummer \| Holzart \| Holzgröße \| Preis
 
-* **Schlüsselboard**       
-	RD.200.014  \| 	Nussbaum \| ca. T 12 x T 5 x H 3 \| 29 EUR
+* **2er Schlüsselboard**       
+	RD.200.014  \| 	Nussbaum \| ca. L 12 x T 5 x H 3 \| 29 EUR
+	
+* **2er Schlüsselboard**       
+	RD.200.015  \| 	Eiche \| ca. L 12 x T 5 x H 3 \| 29 EUR
+
+* **3er Schlüsselboard**       
+	RD.200.016  \| 	Nussbaum \| ca. L 15 x T 5 x H 3 \| 34 EUR
+
+* **3er Schlüsselboard**       
+	RD.200.017  \| 	Eiche \| ca. L 15 x T 5 x H 3 \| 34 EUR
+	
+* **4er Schlüsselboard**       
+	RD.200.018  \| 	Nussbaum \| ca. L 18 x T 5 x H 3 \| 39 EUR
+	
+* **4er Schlüsselboard**       
+	RD.200.019  \| 	Eiche \| ca. L 18 x T 5 x H 3 \| 39 EUR
+	
+* **5er Schlüsselboard**       
+	RD.200.020  \| 	Nussbaum \| ca. L 21 x T 5 x H 3 \| 44 EUR
+
+* **5er Schlüsselboard**       
+	RD.200.021  \| 	Eiche \| ca. L 21 x T 5 x H 3 \| 44 EUR
 

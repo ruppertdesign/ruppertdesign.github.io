@@ -18,5 +18,5 @@ Schicken Sie mir einfach die abgezeichneten Messerumrisse und Sie bekommen eine 
 **Starkes Holzwerk**   
 Artikelnummer \| Holzart \| Holzgröße \| Preis
 
-* **Messerblock**       
+**Messerblock**       
 	RD.200.020  \| 	Nussbaum \| ca. L 23 x B 17 x H 8 \| 89 EUR

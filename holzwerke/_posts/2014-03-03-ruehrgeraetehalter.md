@@ -15,5 +15,5 @@ Ihre Geräte haben einen anderen Schaftdurchmesser? Kein Problem – Ich fertige
 **Starkes Holzwerk**   
 Artikelnummer \| Holzart \| Holzgröße \| Preis
 
-* **Rührgerätehalter**       
+**Rührgerätehalter**       
 	RD.200.021  \| 	Nussbaum \| ca. L 40 x B 12 x H 3 \| 49 EUR
