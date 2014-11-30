@@ -15,4 +15,11 @@ dann schauen Sie sich gerne bei [Referenzen][1] um.
 Hier haben mir Kunden Bilder von ihrem Schlüsselbrett im Einsatz geschickt. 
 
 
+**Starkes Holzwerk**   
+Artikelnummer \| Holzart \| Holzgröße \| Preis
+
+* **Schlüsselbrett**       
+	RD.200.021  \| 	Nussbaum \| ca. L 25 x T 3 x H 3 \| 29 EUR
+
+
  [1]: {% post_url 2014-04-08-schluesselbrett01 %}

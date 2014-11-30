@@ -27,5 +27,5 @@ Ich fertige Ihnen Ihr Schlüsselboard genau nach Wunsch.
 Artikelnummer \| Holzart \| Holzgröße \| Preis
 
 * **Schlüsselboard**       
-	RD.200.014  \| 	Nussbaum \| ca. T 12 x T 5 x H 3 \| 39 EUR
+	RD.200.014  \| 	Nussbaum \| ca. T 12 x T 5 x H 3 \| 29 EUR
 
