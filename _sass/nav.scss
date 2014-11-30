@@ -106,3 +106,29 @@
   }
 
 }
+
+// burger menu
+@media (min-width: 35em) {
+  .pure-menu a.menu-button {
+    display: none;
+  }
+}
+
+@media (max-width: 35em) {
+  
+  .pure-menu { 
+  
+    a.menu-button {
+      background: url('../img/menu.png') no-repeat;
+      width: 50px;
+      height: 40px;
+      float: right;
+      margin: 10px;
+    }
+
+    li {
+      display: block;
+    }
+
+  }
+}

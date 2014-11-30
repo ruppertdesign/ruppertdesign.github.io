@@ -22,4 +22,4 @@ Artikelnummer \| Holzart \| Holzgröße \| Preis
 	RD.200.021  \| 	Nussbaum \| ca. L 25 x T 3 x H 3 \| 29 EUR
 
 
- [1]: {% post_url 2014-04-08-schluesselbrett01 %}
+ [1]: /referenzen
