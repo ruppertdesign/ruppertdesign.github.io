@@ -5,17 +5,17 @@ date:   2013-02-02
 intro: Schwungvoller Lastenträger
 ---
 
-Dieser Hifiwagen selbst kein Leichtgewicht, trägt jeden Röhrenverstärker.
-Die Holzbohle, wie sie aus dem Sägewerk kam, wurde hier nur minimal bearbeitet.
+Dieser Hifi Wagen, selbst kein Leichtgewicht, trägt jeden Röhrenverstärker. 
+Die Holzbohle wurde, als sie aus dem Sägewerk kam, nur minimal von mir bearbeitet, damit der Naturlook erhalten bleibt.
 
 {% include image.html url="/holzwerke/img/hifi-wagen/hifiwagen03.jpg" description="Hifiwagenfront" %}
 
-Der Riss, welcher beim Dämpfen und anschließendem Trocknen entstanden ist, macht den Wagen besonders.
-Die Breite des Hifiwagens kann durch eine gelochten Edelstahlkonstruktion verändert werden.
+Der Riss, welcher beim Dämpfen und anschließendem Trocknen entstanden ist, macht den Wagen besonders. 
+Die Breite des Hifi Wagens kann durch eine gelochte Edelstahlkonstruktion verändert werden.
 
 {% include image.html url="/holzwerke/img/hifi-wagen/hifiwagen01.jpg" description="Hifiwagen Riss im Detail" %}
 
-Durch eine angebaute 8-fach [Steckdosenleiste][1] wird Ihr Entertainmentcenter mit Strom versorgt.
+Durch eine angebaute 8-fach [Steckdosenleiste][1] werden Ihre Entertainmentgeräte mit Strom versorgt.
 
 {% include image.html url="/holzwerke/img/hifi-wagen/hifiwagen02.jpg" description="Hifiwagen mit Mehrfachsteckdose" %}
 

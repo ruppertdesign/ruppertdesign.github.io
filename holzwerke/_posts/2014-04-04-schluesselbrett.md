@@ -15,4 +15,4 @@ dann schauen Sie sich gerne bei [Referenzen][1] um.
 Hier haben mir Kunden Bilder von ihrem Schlüsselbrett im Einsatz geschickt. 
 
 
- [1]: {% post_url 2014-03-12-schluesselbrett00 %}
+ [1]: {% post_url 2014-04-08-schluesselbrett01 %}
