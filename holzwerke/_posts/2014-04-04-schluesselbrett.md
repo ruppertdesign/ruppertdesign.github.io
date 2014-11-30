@@ -13,3 +13,6 @@ Die Ausbuchtungen können Stiften Halt geben, eignen sich aber auch für Dekoart
 Wenn Sie etwas Inspiration für Ihr Schlüsselbrett benötigen, 
 dann schauen Sie sich gerne bei [Referenzen][1] um. 
 Hier haben mir Kunden Bilder von ihrem Schlüsselbrett im Einsatz geschickt. 
+
+
+ [1]: {% post_url 2014-03-12-schluesselbrett00 %}
