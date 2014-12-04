@@ -27,4 +27,7 @@ und ab einer höheren Stückzahl auch aus dem Holz Ihrer Wahl.
 Artikelnummer \| Holzart \| Holzgröße \| Preis
 
 * **Schlüsselanhänger**       
-	RD.200.007  \| 	Nussbaum o. Eiche \| ca. L 5 x B 1 x T 1 \| 5 EUR
+	RD.200.007  \| 	Nussbaum \| ca. L 5 x B 1 x T 1 \| 5 EUR
+
+* **Schlüsselanhänger**       
+	RD.200.008  \| 	Eiche \| ca. L 5 x B 1 x T 1 \| 5 EUR
