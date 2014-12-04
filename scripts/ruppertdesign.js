@@ -6,6 +6,7 @@
 		}
 		registerContactSubmit(!$('html.lt-ie10').length);
 		registerExternalLinks();
+		registerBurgerMenu();
 	};
 
 	var registerScrolling = function() {
@@ -74,9 +75,6 @@
 
 	var validate = function(field) {
 		var val = $.trim(field.val());
-if (field.attr('id')=='name')
-	console.log(val <= field.attr('maxlength'));
-
 		return (field.attr('required') ? val != '' : true)
 						&& (field.attr('minlength') ? val.length >= field.attr('minlength') : true)
 						&& (field.attr('maxlength') ? val.length <= field.attr('maxlength') : true)
@@ -97,7 +95,23 @@ if (field.attr('id')=='name')
 		typeof smoothScroll != 'undefined'
 			? smoothScroll.animateScroll(null, selector, { speed: time, easing: 'easeInOutQuad' } )
 			: $(selector)[0].scrollIntoView();
-	}
+	};
+
+	var registerBurgerMenu = function() {
+		var btn = $('.menu-button');
+		if (btn.css('display') === 'none') { // only mobile
+			return;
+		}
+		var menu = btn.next('ul');
+		btn.add($('a[href$="#kontakt"]', menu)).on('click', function(e) {
+			e.preventDefault();	
+			var nav = btn.parent();	
+			menu.animate({
+				translateY: (-menu.offset().top + nav.height() + $('body').scrollTop()) + 'px'
+			}, 500, 'ease-out');	
+			nav.toggleClass('opened');
+		});
+	};
 
 	$(document).ready(init);
 
