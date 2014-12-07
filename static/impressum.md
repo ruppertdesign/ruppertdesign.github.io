@@ -32,7 +32,13 @@ Tannenfleckstraße 12 b<br />
 D-82194 Gröbenzell
 </address>
 
-## Quellenangaben für die verwendeten Bilder und Grafiken
+
+## Text
+
+* Lena Ruppert
+ 
+
+## Quellenangaben für die verwendeten Bilder
 
 * Andreas Schmid FOTOGRAFIE – [fotolevel.de][fotolevel]
  
