@@ -12,15 +12,8 @@ Die Holzbohle wurde nur minimal von mir bearbeitet, damit der Naturlook erhalten
 {% include image.html url="/holzwerke/img/hifi-wagen/hifiwagen01.jpg" description="Hifiwagenfront" %}
 
 
-{% include image.html url="/holzwerke/img/hifi-wagen/hifiwagen02.jpg" description="Hifiwagen mit Mehrfachsteckdose" %}
-
-
-
 Der Riss, welcher beim Dämpfen und anschließendem Trocknen entstanden ist, macht den Wagen besonders. 
 Die Breite des Hifi Wagens kann durch eine gelochte Edelstahlkonstruktion verändert werden.
-
-
-{% include image.html url="/holzwerke/img/hifi-wagen/hifiwagen03.jpg" description="Hifiwagen Riss im Detail" %}
 
 
 {% include image.html url="/holzwerke/img/hifi-wagen/hifiwagen04.jpg" description="Hifiwagen mit Mehrfachsteckdose" %}
