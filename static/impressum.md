@@ -35,12 +35,12 @@ D-82194 Gröbenzell
 
 ## Text
 
-* Lena Ruppert
+Lena Ruppert
  
 
 ## Quellenangaben für die verwendeten Bilder
 
-* Andreas Schmid FOTOGRAFIE – [fotolevel.de][fotolevel]
+Andreas Schmid FOTOGRAFIE – [fotolevel.de][fotolevel]
  
 
 <br />
