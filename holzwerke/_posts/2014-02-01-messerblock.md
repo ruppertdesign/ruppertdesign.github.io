@@ -9,18 +9,18 @@ Dieser Messerblock aus Massivholz überzeugt durch sein edles Design mit seitlic
 bei dem die Maserung des Holzes sehr gut zur Geltung kommt. 
 Mit dem Messerblock sind Ihre Messer sicher verwahrt und der Messerschaft griffbereit. 
 
-{% include image.html url="/holzwerke/img/hifi-wagen/messerblock01.jpg" description="Hifiwagenfront" %}
+{% include image.html url="/holzwerke/img/messerblock/messerblock01.jpg" description="Hifiwagenfront" %}
 
-{% include image.html url="/holzwerke/img/hifi-wagen/messerblock02.jpg" description="Hifiwagenfront" %}
+{% include image.html url="/holzwerke/img/messerblock/messerblock02.jpg" description="Hifiwagenfront" %}
 
 Ihr Messerblock soll ein bestimmtes Design haben – und aus Holz gefertigt sein, 
 das zu Ihrer Küche passt? 
 Schicken Sie mir einfach die abgezeichneten Messerumrisse und Sie bekommen eine Maßanfertigung.
 
 
-{% include image.html url="/holzwerke/img/hifi-wagen/messerblock03.jpg" description="Hifiwagenfront" %}
+{% include image.html url="/holzwerke/img/messerblock/messerblock03.jpg" description="Hifiwagenfront" %}
 
-{% include image.html url="/holzwerke/img/hifi-wagen/messerblock04.jpg" description="Hifiwagenfront" %}
+{% include image.html url="/holzwerke/img/messerblock/messerblock04.jpg" description="Hifiwagenfront" %}
 
 
 **Starkes Holzwerk**   
