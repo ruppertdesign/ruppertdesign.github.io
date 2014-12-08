@@ -1,30 +1,17 @@
 ---
 layout: post
-title:  "Wasserbett"
-date:   2014-01-15
-intro: Wasser, Stein, Holz
+title:  "Verabschiedung"
+date:   2014-12-04
+intro: Ein Geschenk in Szene gesetzt
 ---
 
 ...
 
-{% include image.html url="/holzwerke/img/bett01/1201.jpg" description="Bett" %}
+{% include image.html url="/holzwerke/img/einspritzventil/stativ01.jpg" description="Stativ" %}
 
 
-{% include image.html url="/holzwerke/img/bett01/1202.jpg" description="Bett" %}
+{% include image.html url="/holzwerke/img/einspritzventil/stativ02.jpg" description="Stativ" %}
 
-
-{% include image.html url="/holzwerke/img/bett01/1203.jpg" description="Bett" %}
-
-
-{% include image.html url="/holzwerke/img/bett01/1204.jpg" description="Bett" %}
-
-
-
-**Starkes Holzwerk**   
-Artikelnummer \| Holzart \| Holzgröße \| Preis
-
-* **Bett**   
-	RD.200.041  \| 	Lärche \| ca. L 230 x B 210 x H  50 \| Preis auf Anfrage
 	
-* **Side**       
-	RD.200.042  \| 	Lärche \| ca. L 45 x T 30 x H 45 \| 160 EUR
+**Starkes Holzwerk \| Stativ**       
+RD.200.042  \| 	Lärche \| ca. L 45 x T 30 x H 45 \| 120 EUR
