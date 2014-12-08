@@ -13,13 +13,17 @@ und dank Linsenkopfplatten sind keine Schrauben sichtbar.
 
 {% include image.html url="/holzwerke/img/schluesselboard01/schluesselboard01a.jpg" description="Beschreibung von Schlüsselboard 1" %}
 
+
+{% include image.html url="/holzwerke/img/schluesselboard01/schluesselboard01b.jpg" description="Beschreibung von Schlüsselboard 1" %}
+
+
 Und der Clou: 
 Das Schlüsselboard kann genau auf die Anzahl Ihrer Familienmitglieder angepasst werden. 
 Jeder „Mitbewohner“ erhält seinen Edelstahlstift, den er an seinem Schlüsselbund befestigen kann. 
 Zu Hause steckt er den Stift in einen freien Platz des Schlüsselboards – 
 und hat den Schlüssel somit immer griffbereit.
 
-{% include image.html url="/holzwerke/img/schluesselboard01/schluesselboard01b.jpg" description="Beschreibung von Schlüsselboard 1" %}
+{% include image.html url="/holzwerke/img/schluesselboard01/schluesselboard01c.jpg" description="Beschreibung von Schlüsselboard 1" %}
 
 Ich fertige Ihnen Ihr Schlüsselboard genau nach Wunsch.
 
