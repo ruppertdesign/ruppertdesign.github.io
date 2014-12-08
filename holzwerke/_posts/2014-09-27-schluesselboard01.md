@@ -10,12 +10,9 @@ Es wird ganz einfach an die Wand montiert –
 Dübel und Schrauben werden mitgeliefert – 
 und dank Linsenkopfplatten sind keine Schrauben sichtbar.  
 
-
 {% include image.html url="/holzwerke/img/schluesselboard01/schluesselboard01a.jpg" description="Beschreibung von Schlüsselboard 1" %}
 
-
 {% include image.html url="/holzwerke/img/schluesselboard01/schluesselboard01b.jpg" description="Beschreibung von Schlüsselboard 1" %}
-
 
 Und der Clou: 
 Das Schlüsselboard kann genau auf die Anzahl Ihrer Familienmitglieder angepasst werden. 
