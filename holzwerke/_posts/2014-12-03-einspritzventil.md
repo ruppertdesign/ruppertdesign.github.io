@@ -14,4 +14,4 @@ intro: Ein Geschenk in Szene gesetzt
 
 	
 **Starkes Holzwerk \| Stativ**       
-RD.200.042  \| 	Lärche \| ca. L 45 x T 30 x H 45 \| 120 EUR
+RD.200.052  \| 	Nussbaum \| ca. L 45 x T 24 x H 25 \| 120 EUR
