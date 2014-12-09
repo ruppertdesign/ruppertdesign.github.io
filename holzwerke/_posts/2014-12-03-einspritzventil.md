@@ -20,5 +20,5 @@ Sie möchten ein außergewöhnliches Geschenk überreichen,
 es fehlt Ihnen aber das Stativ, um die Erinnerung zu befestigen?
 Kein Problem ich finde eine attraktive Lösung!
 	
-**Starkes Holzwerk \| Stativ**       
+Starkes Holzwerk \| **Stativ**       
 RD.200.052  \| 	Nussbaum \| ca. L 45 x T 24 x H 25 \| Unverkäufliches Muster
