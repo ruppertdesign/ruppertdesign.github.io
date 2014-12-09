@@ -5,8 +5,8 @@ date:   2014-12-04
 intro: Geschenk in Szene gesetzt
 ---
 
-Dieses Einspritzventil für Schiffsmotoren sollte zur Verabschiedung eines Managers überreicht werden.
-Stationen seiner Laufbahn wurden auf einem Schild gelasert und auf einer geschrägten Platte angebracht.
+Dieses Einspritzventil für einen Zylinder eines Schiffmotors wurde zur Verabschiedung eines Managers überreicht.
+Stationen seiner Laufbahn wurden auf einem Schild gelasert und auf einer Platte neben dem Ventil angebracht.
 
 
 {% include image.html url="/holzwerke/img/einspritzventil/stativ01.jpg" description="Stativ" %}
@@ -17,7 +17,7 @@ Der Lederriemen verleiht dem starken Holzwerk eine rustikale Note.
 {% include image.html url="/holzwerke/img/einspritzventil/stativ02.jpg" description="Stativ" %}
 
 Sie möchten ein außergewöhnliches Geschenk überreichen, 
-es fehlt Ihnen aber das Stativ um die Erinnerung zu befestigen?
+es fehlt Ihnen aber das Stativ, um die Erinnerung zu befestigen?
 Kein Problem ich finde eine attraktive Lösung!
 	
 **Starkes Holzwerk \| Stativ**       
