@@ -5,8 +5,8 @@ date:   2014-12-04
 intro: Geschenk in Szene gesetzt
 ---
 
-Dieses Einspritzventil für einen Zylinder eines Schiffmotors wurde zur Verabschiedung eines Managers überreicht.
-Stationen seiner Laufbahn wurden auf einem Schild gelasert und auf einer Platte neben dem Ventil angebracht.
+Dieses Einspritzventil für ein Schiffmotor wurde zur Verabschiedung eines Managers überreicht.
+Gemeinsame Erinnerungen wurden auf eine Platte gelasert welche neben dem Ventil angebracht wurde.
 
 
 {% include image.html url="/holzwerke/img/einspritzventil/stativ01.jpg" description="Stativ" %}
