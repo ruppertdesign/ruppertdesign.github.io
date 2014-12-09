@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Verabschiedung"
+title:  "Ventilträger"
 date:   2014-12-04
 intro: Geschenk in Szene gesetzt
 ---

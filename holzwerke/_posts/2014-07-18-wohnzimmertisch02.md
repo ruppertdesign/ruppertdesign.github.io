@@ -19,8 +19,6 @@ elegantes Design werden Sie sicherlich viele Jahre lang Freude damit haben.
 Ihr Couchtisch soll ganz anders aussehen? 
 Auch gut! Dann kontaktieren Sie mich einfach und ich setze Ihre Vorstellung um.
 
-**Starkes Holzwerk**   
-Artikelnummer \| Holzart \| Holzgröße \| Preis
 
-* **Wohnzimmertisch**       
+**Starkes Holzwerk \| Wohnzimmertisch**       
 	RD.200.010  \| 	Amerikanischer Nussbaum \| ca. L 120 x B 80 x H 43 \| Preis auf Anfrage
