@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rührgerätehalter"
+title:  "Rührgeräte&shy;halter"
 date:   2014-03-03
 intro: Allzeit griffbereit
 ---

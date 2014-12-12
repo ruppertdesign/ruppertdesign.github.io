@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Schlüsselanhänger"
+title:  "Schlüssel&shy;anhänger"
 date:   2014-09-12
 intro: Persönlicher Begleiter im Alltag
 ---

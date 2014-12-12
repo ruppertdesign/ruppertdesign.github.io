@@ -1,5 +1,5 @@
 ---
-title: Schlüsselhalter für Steffen
+title: Schlüssel&shy;halter für Steffen
 date: 2014-05-01
 ---
 

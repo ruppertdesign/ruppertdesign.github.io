@@ -36,6 +36,18 @@ h3, strong {
   font-weight: $font-weight-heavy;
 }
 
+h1 {
+  @include font-size($font-size-bigger);
+}
+
+h2 {
+  @include font-size($font-size-big);
+}
+
+h3 {
+  @include font-size($font-size-normal);
+}
+
 .pure-g, .pure-g [class *="pure-u"] {
   font-family: $font-stack;
 }
@@ -78,8 +90,10 @@ address {
 }
 
 // for footer and ribbons
-.right-box {
-  margin: 0 1em 0 3em;
+@media screen and (min-width: 35em) {
+  .right-box {
+    margin: 0 1em 0 3em;
+  }
 }
 
 // helpers

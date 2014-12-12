@@ -13,3 +13,22 @@
 	}
 
 }
+
+@media screen and (max-width: 35em) {
+	
+	.reference {
+		
+		margin-bottom: 0;
+		padding-bottom: 0;
+
+		.content {
+			padding: 0.5em 0;
+		}
+
+		img {
+			margin-bottom: 20px;
+		}
+
+	}
+
+}

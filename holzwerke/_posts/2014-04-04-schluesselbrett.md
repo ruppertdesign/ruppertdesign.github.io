@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Schlüsselbrett"
+title:  "Schlüssel&shy;brett"
 date:   2014-04-04 
 intro: Platz für Schlüssel und mehr
 ---
