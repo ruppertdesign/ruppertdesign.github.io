@@ -9,10 +9,29 @@
   position: fixed;
 }
 
+
 .landing-wrapper {
   position: relative;
   top: 650px;
   z-index: 2;
+}
+
+@media screen and (max-width: 800px) {
+  .splash-container {
+    background: url('../img/header-800x250.jpg') no-repeat center 50px;
+  }
+  .landing-wrapper {
+    top: 300px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .splash-container {
+    background: url('../img/header-600x188.jpg') no-repeat center 50px;
+  }
+  .landing-wrapper {
+    top: 238px;
+  }
 }
 
 .landing-head {
