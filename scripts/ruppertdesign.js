@@ -99,9 +99,6 @@
 
 	var registerBurgerMenu = function() {
 		var btn = $('.menu-button');
-		if (btn.css('display') === 'none') { // only mobile
-			return;
-		}
 		var menu = btn.next('ul');
 		btn.add($('a[href$="#kontakt"]', menu)).on('click', function(e) {
 			e.preventDefault();	
