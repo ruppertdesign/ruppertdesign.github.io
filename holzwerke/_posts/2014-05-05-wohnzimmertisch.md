@@ -31,8 +31,5 @@ Dann kontaktieren Sie mich gerne!
 {% include image.html url="/holzwerke/img/wohnzimmertisch/tisch5.jpg" description="Beschreibung von Tisch 3" %}
 
 
-**Starkes Holzwerk**   
-Artikelnummer \| Holzart \| Holzgröße \| Preis
-
-**Wohnzimmertisch**    
+**Starkes Holzwerk \|  Wohnzimmertisch**    
 RD.200.003  \| 	Amerikanischer Nussbaum \| ca. L 60 x B 40 x H 45 \| Unverkäufliches Muster

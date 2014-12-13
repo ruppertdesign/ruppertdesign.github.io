@@ -12,10 +12,7 @@ das ändert sich jetzt! Durch das Stapel-Design ist der Halter platzsparend – 
 welches Raspelmesser Sie gerne zücken möchten
 
 
-**Starkes Holzwerk**   
-Artikelnummer \| Holzart \| Holzgröße \| Preis
-
-**Stapelhilfe**       
+**Starkes Holzwerk \| Stapelhilfe**       
 	RD.200.019  \| 	Nussbaum \| ca. L 18 x B 12 x H 23 \| 29 EUR
 
 

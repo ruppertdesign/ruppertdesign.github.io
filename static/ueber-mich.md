@@ -4,11 +4,11 @@ title: Über mich
 permalink: /ueber-mich/
 ---
 
+{% include image.html url="/img/simon1.jpg" description="Simon Ruppert" type="small" %}
+
 Ich bin Simon Ruppert, Baujahr 1982, und arbeite hauptberuflich als Projektleiter für einen internationalen Fahrzeug- und Maschinenbaukonzern.
 Im Januar 2014 habe ich RUPPERTdesign gegündet – für Holzwerke jeglicher Art. 
 Ein Maschinenbauingenieur, der schreinert? Das kam so:
-
-{% include image.html url="/img/simon1.jpg" description="Simon Ruppert" type="small" %}
 
 Die Arbeit mit Holz begleitet mich schon mein ganzes Leben. 
 In meinem Elternhaus in Unterfranken hat mein Vater Alfons seine Werkstatt, 
