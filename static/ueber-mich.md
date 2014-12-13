@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Über mich
+description: Hier fasse ich in einem Satz den Artikel zusammen
 permalink: /ueber-mich/
 ---
 
