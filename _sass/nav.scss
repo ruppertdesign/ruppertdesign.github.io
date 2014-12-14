@@ -60,7 +60,7 @@
     } 
   }
   // smaller padding on portrait tablets
-  @media only screen and (min-width: 54em) and (max-width: 58em) {
+  @media only screen and (min-width: 54.063em) and (max-width: 58em) {
     li {
       padding: 5px 10px;
     } 
@@ -80,7 +80,7 @@
   clear: both;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 48.063em) {
 
   nav {
     text-align: left;
@@ -152,6 +152,7 @@
 
     li {
       display: block; // vertical
+      padding: 5px 20px;
     }
 
   }

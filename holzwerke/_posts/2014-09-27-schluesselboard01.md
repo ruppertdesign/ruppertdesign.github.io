@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Schlüsselboard"
+title:  "Schlüssel&shy;board"
 date:   2014-09-27
 intro: Schlüssel suchen war gestern
 ---
