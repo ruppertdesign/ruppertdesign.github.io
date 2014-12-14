@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Messerblock"
-date:   2014-02-01
+date:   2014-09-28
 intro: Scharfes sicher verwahrt
 ---
 
