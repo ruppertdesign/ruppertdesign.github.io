@@ -16,7 +16,7 @@
       @include font-size($font-size-normal);
     }
 
-    @media (min-width: 64em) {
+    @media only screen and (min-width: 64em) {
 
       .img-wrapper {
         position: relative; 
@@ -40,7 +40,7 @@
 
     }
     
-    @media (max-width: 64em) {
+    @media only screen and (max-width: 64em) {
       img {
         max-width: 100%;
         margin-bottom: 20px;
