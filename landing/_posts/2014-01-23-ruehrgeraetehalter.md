@@ -1,7 +1,7 @@
 ---
 layout: landing
 title:  Ordnung mit Stil
-date:   2014-01-04
+date:   2014-01-07
 ---
 
 Oft landen Küchenutensilien, beispielsweise für eine Küchenmaschine, 
