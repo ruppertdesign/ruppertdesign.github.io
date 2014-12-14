@@ -1,7 +1,7 @@
 ---
 layout: landing
 title:  Für jede Ecke die passende Lösung
-date:   2014-01-06
+date:   2014-01-05
 ---
 
 Eine [Garderobe][2] sollte genau zu Ihren vier Wänden passen.
