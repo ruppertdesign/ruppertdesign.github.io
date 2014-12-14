@@ -17,11 +17,10 @@ Ihr Messerblock soll ein bestimmtes Design haben – und aus Holz gefertigt sein
 das zu Ihrer Küche passt? 
 Schicken Sie mir einfach die abgezeichneten Messerumrisse und Sie bekommen eine Maßanfertigung.
 
-
 {% include image.html url="/holzwerke/img/messerblock/messerblock03.jpg" description="Hifiwagenfront" %}
 
 {% include image.html url="/holzwerke/img/messerblock/messerblock04.jpg" description="Hifiwagenfront" %}
 
-
-**Starkes Holzwerk \| Messerblock**    
+**Starkes Holzwerk \| Messerblock**   
 	RD.200.020  \| 	Nussbaum \| ca. L 23 x B 17 x H 8 \| 89 EUR
+
