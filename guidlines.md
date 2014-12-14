@@ -34,6 +34,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 *ACHTUNG:* Vor und nach dem Bild muss eine Leerzeile bleiben!
 
+Den Bildern können folgende Attribute hinzugefügt werden:
+
+* type="small" oder type="medium": Bilder sind bei den Posts breiter als der Text. Mit dem type Attriut werden sie entweder auf die selbe breite wie der Text (medium) oder kleiner (small) skaliert.
+
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 {% include image.html url="/holzwerke/img/wohnzimmertisch/tisch2.jpg" description="Beschreibung von Tisch 2" %}
