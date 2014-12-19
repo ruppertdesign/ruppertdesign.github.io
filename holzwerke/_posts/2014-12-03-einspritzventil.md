@@ -17,7 +17,7 @@ Der Lederriemen verleiht dem starken Holzwerk eine besondere Note.
 {% include image.html url="/holzwerke/img/einspritzventil/stativ02.jpg" description="Stativ" %}
 
 Sie möchten ein außergewöhnliches Geschenk überreichen, 
-es fehlt Ihnen aber das Stativ oder die Trägerplatte, um die Erinnerung zu befestigen?
+es fehlt Ihnen aber eine Trägerplatte, um die Erinnerung zu befestigen?
 Kein Problem ich fertige eine attraktive Lösung!
 	
 **Starkes Holzwerk \| Trägerplatte**       
