@@ -20,7 +20,7 @@ welches Raspelmesser Sie gerne zücken möchten.
 
 
 **Starkes Holzwerk \| Stapelhilfe**       
-	RD.200.019  \| 	Nussbaum \| ca. L 18 x B 12 x H 23 \| 29 EUR
+	RD.014.001  \| 	Nussbaum \| ca. L 18 x B 12 x H 23 \| 29 EUR
 
 
 

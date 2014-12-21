@@ -21,13 +21,13 @@ welcher Name oder Spruch auf das Holzwerk darf.
 {% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger03.jpg" description="Beschreibung von Schlüsselanhänger" type="small" %}
 
 Die Schlüsselanhänger gibt es aus Eiche oder Nussbaumholz – 
-und ab einer höheren Stückzahl auch aus dem Holz Ihrer Wahl.
+und ab einer größerer Stückzahl auch aus dem Holz Ihrer Wahl zu einem fairen Preis.
 
 **Starkes Holzwerk**   
 Artikelnummer \| Holzart \| Holzgröße \| Preis
 
 * **Schlüsselanhänger**       
-	RD.200.007  \| 	Nussbaum \| ca. L 5 x B 1 x T 1 \| 5 EUR
+	RD.014.007  \| 	Nussbaum \| ca. L 5 x B 1 x T 1 \| 5 EUR
 
 * **Schlüsselanhänger**       
-	RD.200.008  \| 	Eiche \| ca. L 5 x B 1 x T 1 \| 5 EUR
+	RD.014.008  \| 	Eiche \| ca. L 5 x B 1 x T 1 \| 5 EUR

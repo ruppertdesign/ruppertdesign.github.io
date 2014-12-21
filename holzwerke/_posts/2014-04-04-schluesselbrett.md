@@ -16,7 +16,7 @@ Hier haben mir Kunden Bilder von ihrem Schlüsselbrett im Einsatz geschickt.
 
 
 **Starkes Holzwerk \| Schlüsselbrett**       
-	RD.200.021  \| 	Nussbaum \| ca. L 25 x T 3 x H 3 \| 25 EUR
+	RD.014.002  \| 	Nussbaum \| ca. L 25 x T 3 x H 3 \| 25 EUR
 
 
  [1]: /referenzen

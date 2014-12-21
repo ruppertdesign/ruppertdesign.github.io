@@ -22,5 +22,5 @@ Schicken Sie mir einfach die abgezeichneten Messerumrisse und Sie bekommen eine 
 {% include image.html url="/holzwerke/img/messerblock/messerblock04.jpg" description="Hifiwagenfront" %}
 
 **Starkes Holzwerk \| Messerblock**   
-	RD.200.020  \| 	Nussbaum \| ca. L 23 x B 17 x H 8 \| 89 EUR
+	RD.014.017  \| 	Amerikanischer Nussbaum \| ca. L 23 x B 17 x H 8 \| 89 EUR
 

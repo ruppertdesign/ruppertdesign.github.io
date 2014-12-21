@@ -21,4 +21,4 @@ Ihre Küchenleiste erhalten Sie aus Ihrem Wunschholz und nach Maß.
 
 
 **Starkes Holzwerk \| Küchenwerkzeugsleiste**    
-RD.200.005  \| 	Amerikanischer Nussbaum \| ca. L 170 x B 30 x H 2 \| 119 EUR
+RD.014.003  \| 	Amerikanischer Nussbaum \| ca. L 170 x B 30 x H 2 \| 119 EUR

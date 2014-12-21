@@ -21,4 +21,4 @@ Auch gut! Dann kontaktieren Sie mich einfach und ich setze Ihre Vorstellung um.
 
 
 **Starkes Holzwerk \| Wohnzimmertisch**       
-	RD.200.010  \| 	Amerikanischer Nussbaum \| ca. L 120 x B 80 x H 43 \| Preis auf Anfrage
+	RD.014.004  \| 	Amerikanischer Nussbaum \| ca. L 120 x B 80 x H 43 \| Preis auf Anfrage
