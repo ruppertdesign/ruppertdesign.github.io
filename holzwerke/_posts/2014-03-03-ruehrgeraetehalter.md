@@ -18,5 +18,11 @@ Ihre Geräte haben einen anderen Schaftdurchmesser? Kein Problem – Ich fertige
 {% include image.html url="/holzwerke/img/ruehrgeraetehalter/khalter3.jpg" description="Rührgerätehalter Kenwood Cooking Chef" type="small" %}
 
 
-**Starkes Holzwerk \| Rührgerätehalter**       
-	RD.200.021  \| 	Nussbaum \| ca. L 40 x B 12 x H 3 \| 49 EUR
+**Starkes Holzwerk**   
+Artikelnummer \| Holzart \| Holzgröße \| Preis
+
+* **Rührgerätehalter**       
+	RD.013.004  \| 	Nussbaum \| ca. L 40 x B 12 x H 3 \| 49 EUR
+
+* **Rührgerätehalter**       
+	RD.013.005  \| 	Eiche \| ca. L 40 x B 12 x H 3 \| 49 EUR
