@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ihre Idee
+description: Sie suchen ein Möbelstück aus Holz, das perfekt zu Ihnen passt? RUPPERTdesign schreinert es Ihnen – mit Kreativität, Augenmaß und Herzblut. Schicken Sie mir Ihre Idee!
 permalink: /ihre-idee/
 ---
 
@@ -22,3 +23,4 @@ Dafür erstelle ich Ihnen im Vorfeld ein transparentes und faires Angebot und k�
 {% include image.html url="/img/holzwerkdetail01.jpg" description="Lamelloverbindung im Detail" type="small" %}
 
 Ich freue mich auf Ihre Wünsche, Ideen und Vorstellungen!
+

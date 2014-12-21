@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Über mich
-description: Hier fasse ich in einem Satz den Artikel zusammen
+description: Simon Ruppert ist der Kopf hinter RUPPERTdesign, das er im Januar 2014 für Holzwerke jeglicher Art gegründet hat. Hier erfahren Sie mehr über ihn und RUPPERTdesign.
 permalink: /ueber-mich/
 ---
 
@@ -43,3 +43,4 @@ Dann kontaktieren Sie mich gerne.
 {% include image.html url="/img/simon3.jpg" description="Simon Ruppert" type="small" %}
 
 Ihr Simon Ruppert
+
