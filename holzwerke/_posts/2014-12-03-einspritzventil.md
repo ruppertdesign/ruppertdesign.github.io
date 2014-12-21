@@ -27,9 +27,3 @@ Kein Problem, ich fertige eine attraktive Lösung!
 	
 **Starkes Holzwerk \| Trägerplatte**       
 RD.014.018  \| 	Amerikanischer Nussbaum \| ca. L 45 x T 24 x H 25 \| Preis auf Anfrage
-
-
-
- 
-
- 
