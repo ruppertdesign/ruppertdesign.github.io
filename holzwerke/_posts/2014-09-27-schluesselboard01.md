@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Schlüssel&shy;board"
-description: Mit diesem Schlüsselboard von RUPPERTdesign gehört das Schlüsselsuchen der Vergangenheit an! Der Clou: Das Schlüsselboard ist auf die Anzahl der Mitbewohner abgestimmt.
+description: Mit diesem Schlüsselboard von RUPPERTdesign gehört das Schlüsselsuchen der Vergangenheit an! Der Clou - Das Schlüsselboard ist auf die Anzahl der Mitbewohner abgestimmt.
 permalink: /holzwerke/2014/09/27/schluesselboard01/
 date:   2014-09-27
 intro: Schlüssel suchen war gestern
