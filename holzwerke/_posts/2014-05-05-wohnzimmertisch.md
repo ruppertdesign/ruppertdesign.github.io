@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Couchtisch 01"
+description: Ein Couchtisch von RUPPERTdesign wird exakt nach Ihren Wünschen und aus Ihrem Wunschholz für Sie gefertigt, damit er perfekt zu Ihrer Einrichtung passt.
+permalink: /holzwerke/2014/05/05/wohnzimmertisch/
 date:   2014-05-05
 intro: Steht gerne im Mittelpunkt
 ---

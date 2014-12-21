@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Rührgeräte&shy;halter"
+description: Mit diesem Rührgerätehalter von RUPPERTdesign  werden Küchenutensilien zum Blickfang! Ihr Rührgerätehalter wird nach Maß und Wunsch gefertigt.
+permalink: /holzwerke/2014/03/03/ruehrgeraetehalter/
 date:   2014-03-03
 intro: Allzeit griffbereit
 ---
