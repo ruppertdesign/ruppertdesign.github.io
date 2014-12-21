@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Trägerplatte"
+description: Sie möchten ein Geschenk auf einer Trägerplatte überreichen oder haben selbst ein besonderes Erinnerungsstück? RUPPERTdesign hilft Ihnen, es optimal in Szene zu setzen.
+permalink: /holzwerke/2014/12/04/einspritzventil/
 date:   2014-12-04
 intro: In Szene gesetzt
 ---
