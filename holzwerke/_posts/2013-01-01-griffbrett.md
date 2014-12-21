@@ -23,4 +23,4 @@ damit es perfekt zu Ihrer Einrichtung passt, und selbstverständlich aus Massivh
 damit es robust und stark ist.  
 
 **Starkes Holzwerk \| Griffboard**    
-RD.200.004  \| 	Lärche \| ca. L 70 x H 10 x T 8 \| 89 EUR
+RD.013.006  \| 	Lärche \| ca. L 70 x H 10 x T 8 \| 89 EUR
