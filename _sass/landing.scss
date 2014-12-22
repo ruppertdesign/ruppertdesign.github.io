@@ -1,5 +1,4 @@
 .splash-container {
-  background: url('../img/header-1920x600.jpg') no-repeat center 50px;
   z-index: -1;
   overflow: hidden;
   width: 100%;
@@ -9,14 +8,30 @@
   position: fixed;
 }
 
-
 .landing-wrapper {
   position: relative;
-  top: 650px;
   z-index: 2;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 400px) {
+  .splash-container {
+    background: url('../img/header-400x125.jpg') no-repeat center 50px;
+  }
+  .landing-wrapper {
+    top: 175px;
+  }
+}
+
+@media only screen and (min-width: 401px) and (max-width: 600px) {
+  .splash-container {
+    background: url('../img/header-600x188.jpg') no-repeat center 50px;
+  }
+  .landing-wrapper {
+    top: 238px;
+  }
+}
+
+@media only screen and (min-width: 601px) and (max-width: 800px) {
   .splash-container {
     background: url('../img/header-800x250.jpg') no-repeat center 50px;
   }
@@ -25,12 +40,21 @@
   }
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (min-width: 801px) and (max-width: 1200px) {
   .splash-container {
-    background: url('../img/header-600x188.jpg') no-repeat center 50px;
+    background: url('../img/header-1200x375.jpg') no-repeat center 50px;
   }
   .landing-wrapper {
-    top: 238px;
+    top: 425px;
+  }
+}
+
+@media only screen and (min-width: 1201px) {
+  .splash-container {
+    background: url('../img/header-1920x600.jpg') no-repeat center 50px;
+  }
+  .landing-wrapper {
+    top: 650px;
   }
 }
 
