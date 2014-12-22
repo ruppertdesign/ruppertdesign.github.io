@@ -3,7 +3,7 @@ timezone: Europe/Berlin
 exclude: [README.md, Makefile]
 
 # Site settings
-title: RUPPERTdesign
+title: RUPPERTdesign – starkes Holzwerk!
 email: info@ruppertdesign.de
 description: RUPPERTdesign – starkes Holzwerk! Sie suchen nach einem besonderen Möbelstück aus Holz? RUPPERTdesign fertigt es Ihnen - praktisch, hochwertig, geradlinig, persönlich!
 baseurl: ""
