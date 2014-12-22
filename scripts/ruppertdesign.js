@@ -101,6 +101,10 @@
 		var btn = $('.menu-button');
 		var menu = btn.next('ul');
 		btn.add($('a[href$="#kontakt"]', menu)).on('click', function(e) {
+			// noop on accidental clicks after turning iPad
+			if (btn.css('display') === 'none') {
+				return;
+			}
 			e.preventDefault();	
 			var nav = btn.parent();	
 			menu.animate({
