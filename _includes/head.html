@@ -4,8 +4,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>RUPPERTdesign – {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- TODO no seo while under construction... -->
-  <meta name="robots" content="noindex, nofollow">
   {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
@@ -33,7 +31,6 @@
     });
   </script>
 
-<!--
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -44,6 +41,5 @@
     ga('set', 'anonymizeIp', true);
     ga('send', 'pageview');
   </script>
--->
 
 </head>
