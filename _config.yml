@@ -1,13 +1,13 @@
 # Global settings
 timezone: Europe/Berlin
-exclude: [README.md, Makefile]
+exclude: [README.md, Makefile, guidlines.md]
 
 # Site settings
 title: RUPPERTdesign – starkes Holzwerk!
 email: info@ruppertdesign.de
 description: RUPPERTdesign – starkes Holzwerk! Sie suchen nach einem besonderen Möbelstück aus Holz? RUPPERTdesign fertigt es Ihnen - praktisch, hochwertig, geradlinig, persönlich!
 baseurl: ""
-url: "http://ruppertdesign.de"
+url: "http://www.ruppertdesign.de"
 
 # Build settings
 markdown: kramdown
