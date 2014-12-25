@@ -2,6 +2,7 @@
 layout: no_footer
 title: Danke
 permalink: /danke/
+kontakt: false
 ---
 
 # Vielen Dank für Ihr Interesse.

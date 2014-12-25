@@ -19,7 +19,7 @@
       <li {% if pathsegments[1] == 'ueber-mich' %}class="pure-menu-selected"{% endif %}>
         <a href="{{ "/ueber-mich" | prepend: site.baseurl }}">Über mich</a>
       </li>
-      {% if include.kontakt != "false" %}
+      {% if page.kontakt != false %}
         <li>
           <a href="{{ "#kontakt" | prepend: site.baseurl }}">Kontakt</a>
         </li>
@@ -28,5 +28,4 @@
         <a href="http://de.dawanda.com/shop/ruppertdesign">Shop</a>
       </li>
     </ul>
-
 </nav>
