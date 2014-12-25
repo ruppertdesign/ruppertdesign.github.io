@@ -6,6 +6,8 @@
   top: 0;
   left: 0;
   position: fixed;
+  background-repeat: no-repeat;
+  background-position: center 50px;
 }
 
 .landing-wrapper {
@@ -13,50 +15,29 @@
   z-index: 2;
 }
 
-@media only screen and (max-width: 400px) {
-  .splash-container {
-    background: url('../img/header-400x125.jpg') no-repeat center 50px;
+@mixin splash-background($minWidth, $maxWidth, $width, $height) {
+
+  @media only screen and (min-width: $minWidth + px) and (max-width: $maxWidth + px) {
+    .splash-container {
+      background-image: url('../img/header-#{$width}x#{$height}.jpg');
+      @media (-webkit-min-device-pixel-ratio: 2) {
+        background-image: url('../img/header-#{$width}x#{$height}@2x.jpg');
+        background-size: $width + px $height + px;  
+      }
+    }
+    .landing-wrapper {
+      top: $height + 50 + px;
+    }
   }
-  .landing-wrapper {
-    top: 175px;
-  }
+
 }
 
-@media only screen and (min-width: 401px) and (max-width: 600px) {
-  .splash-container {
-    background: url('../img/header-600x188.jpg') no-repeat center 50px;
-  }
-  .landing-wrapper {
-    top: 238px;
-  }
-}
-
-@media only screen and (min-width: 601px) and (max-width: 800px) {
-  .splash-container {
-    background: url('../img/header-800x250.jpg') no-repeat center 50px;
-  }
-  .landing-wrapper {
-    top: 300px;
-  }
-}
-
-@media only screen and (min-width: 801px) and (max-width: 1200px) {
-  .splash-container {
-    background: url('../img/header-1200x375.jpg') no-repeat center 50px;
-  }
-  .landing-wrapper {
-    top: 425px;
-  }
-}
-
-@media only screen and (min-width: 1201px) {
-  .splash-container {
-    background: url('../img/header-1920x600.jpg') no-repeat center 50px;
-  }
-  .landing-wrapper {
-    top: 650px;
-  }
-}
+@include splash-background(0, 320, 320, 100);
+@include splash-background(321, 400, 400, 125);
+@include splash-background(401, 600, 600, 188);
+@include splash-background(601, 800, 800, 250);
+@include splash-background(801, 1200, 1200, 375);
+@include splash-background(1201, 5000, 1920, 600);
 
 .landing-head {
   @include font-size($font-size-bigger);
