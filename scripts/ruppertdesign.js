@@ -48,14 +48,19 @@
         valid = false;
       }
 		});
+		if (!valid) {
+			var errors = $('.error-msg');
+			for (var i = 0; i < errors.length; i++) {
+				if (errors[i].offsetParent !== null) {
+					errors[i].scrollIntoView(false);
+					break;
+				}
+			}
+		}
 		return valid;
 	};
 
 	var ajaxPost = function(form) {
-		var data = {};
-		$.map(form.serializeArray(), function(o) {data[o.name] = o.value;}); 
-		data['newsletter'] = $('#newsletter').is(':checked') ? 'Ja' : 'Nein';
-
 		$.ajax({
 		    url: form.attr('action'), 
 		    type: 'POST',
@@ -63,7 +68,8 @@
 		    headers: { 'X-Requested-With' : 'XMLHttpRequest' },
 		    success: function(data) {
 		    	$(form).fadeOut(150, function() {
-		    		$('#submitSuccess').fadeIn(250);	
+		    		$('#submitSuccess').fadeIn(250);
+		    		scrollTo('#submitSuccess', 250);	
 		    	});
 			  },
 			  error: function(xhr, type) {				  	
