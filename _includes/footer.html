@@ -6,7 +6,7 @@
 
   <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
     
-    <form id="contactForm" method="POST" action="//formspree.io/info@ruppertdesign.de" class="pure-form pure-form-stacked">
+    <form id="contactForm" method="POST" action="http://ruppertdesign.de/contact.php" class="pure-form pure-form-stacked">
       <fieldset>
 
         <legend>Kontakt</legend>
@@ -45,8 +45,7 @@
 
         <button id="submit" type="submit" class="pure-button">Senden</button>
 
-        <input type="hidden" name="_next" value="{{ site.url }}/danke" />
-        <input type="hidden" name="_subject" value="Kontaktanfrage auf RUPPERTdesign.de" />
+        <input type="text" name="_gotcha" class="hideme" />
 
       </fieldset>
     </form>

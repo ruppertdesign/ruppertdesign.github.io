@@ -59,8 +59,8 @@
 		$.ajax({
 		    url: form.attr('action'), 
 		    type: 'POST',
-		    data: data,
-		    dataType: 'json',
+		    data: form.serialize(),
+		    headers: { 'X-Requested-With' : 'XMLHttpRequest' },
 		    success: function(data) {
 		    	$(form).fadeOut(150, function() {
 		    		$('#submitSuccess').fadeIn(250);	
