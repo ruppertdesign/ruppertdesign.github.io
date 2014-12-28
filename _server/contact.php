@@ -2,6 +2,11 @@
 
 enableCors();
 
+if ($_SERVER['REQUEST_METHOD'] != "OPTIONS" && $_SERVER['REQUEST_METHOD'] != "POST") {
+    http_response_code(406);
+    die();
+}
+
 // simple SPAM prevention
 if (trim($_POST['_gotcha']) != '') {
 	error(400);
@@ -9,25 +14,26 @@ if (trim($_POST['_gotcha']) != '') {
 
 if (!validate()) {
 	error(400);
+	die();	
 }
 
 if (!sendMail()) {
 	error(500);
 }
 
-ok($ajax);
+ok();
 
 function enableCors() {
 	header('Access-Control-Allow-Origin: http://www.ruppertdesign.de');
 
 	if ($_SERVER['REQUEST_METHOD'] == 'OPTIONS') {
 		if (isset($_SERVER['HTTP_ACCESS_CONTROL_REQUEST_METHOD'])) {
-			header('Access-Control-Allow-Methods: GET, POST, OPTIONS');         
+			header('Access-Control-Allow-Methods: POST, OPTIONS');         
 		}
 		if (isset($_SERVER['HTTP_ACCESS_CONTROL_REQUEST_HEADERS'])) {
 			header("Access-Control-Allow-Headers: {$_SERVER['HTTP_ACCESS_CONTROL_REQUEST_HEADERS']}");
 		}
-		exit(0);
+		die();
 	}
 }
 
@@ -55,16 +61,19 @@ function validate() {
 		'regex' => '/^[a-z0-1]*$/'
 	);
 	
+	// throw away everything unexpected
 	foreach($_POST as $param => $val) {
-		// throw away everything unexpected
 		if (!isset($rules[$param])) {
 			unset($_POST[$param]);
-			continue;
 		}
-		if (trim($val) == '' && $rules[$param]['required']) {
+	}
+	
+	foreach($rules as $field => $constraints) {
+		$val = trim($_POST[$field]);
+		if ($val == '' && $rules[$field]['required']) {
 			return false;
 		}
-		if (trim($val) != '' && !preg_match($rules[$param]['regex'], $val)) {
+		if ($val != '' && !preg_match($rules[$field]['regex'], $val)) {
 			return false;
 		}
 	}
@@ -75,9 +84,9 @@ function validate() {
 
 function sendMail() {
 
-	$to      = 	'post@florianhirsch.de';
+	$to      = 	'RUPPERTdesign <info@ruppertdesign.de>, post@florianhirsch.de';
 	$subject = 	'Kontaktanfrage auf RUPPERTdesign.de';
-	$headers =	'From: info@ruppertdesign.de' . "\n" .
+	$headers =	'From: RUPPERTdesign <info@ruppertdesign.de>' . "\n" .
 				'Reply-To: info@ruppertdesign.de' . "\n" .
 				'Content-Type: text/plain; charset="iso-8859-1"' . "\n" .
 				'Content-Transfer-Encoding: 8bit';
