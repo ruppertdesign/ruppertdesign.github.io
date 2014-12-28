@@ -12,31 +12,31 @@
         <legend>Kontakt</legend>
 
         <div class="error-msg" id="submitError" hidden="hidden">
-          Leider konnten Deine Daten nicht übertragen werden.<br />Bitte überprüfe Deine Daten oder versuche es später noch einmal.
+          Leider konnten Ihre Daten nicht übertragen werden.<br />Bitte überprüfen Sie Ihre Daten oder versuchen es später noch einmal.
         </div>
 
         <label for="name">Name</label>
         <input id="name" name="name" type="text" required minlength="3" maxlength="30" pattern="[0-9a-zA-ZüÜöÖäÄß\'\. _-]{3,}" />
         <div class="error-msg">
-          Bitte gib mindestens 3 und maximal 30 gültige Zeichen ein
+          Bitte geben Sie mindestens 3 und maximal 30 gültige Zeichen ein
         </div>
 
         <label for="email">E-Mail</label>
         <input id="email" name="email" type="email" required maxlength="30" pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-z]{2,4}$" />
         <div class="error-msg">
-          Bitte gib eine gültige E-Mail Adresse ein
+          Bitte geben Sie eine gültige E-Mail Adresse ein
         </div>
 
         <label for="tel">Telefonnummer</label>
         <input id="tel" name="tel" type="tel" maxlength="30" pattern="[0-9 \/\+-]*" />
         <div class="error-msg">
-          Bitte gib nur gültige Zeichen ein (0-9 / + -)
+          Bitte geben Sie nur gültige Zeichen ein: 0-9 / + -
         </div>        
 
-        <label for="message">Beschreibe dein Projekt</label>
+        <label for="message">Beschreiben Sie Ihr Projekt</label>
         <textarea id="message" name="message" rows="6" required></textarea>
         <div class="error-msg" hidden="hidden">
-          Beschreibe bitte Dein Projekt
+          Beschreiben Sie bitte Ihr Projekt
         </div>
 
         <label for="newsletter" class="pure-checkbox">
