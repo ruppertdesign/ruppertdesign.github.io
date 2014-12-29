@@ -1,8 +1,8 @@
 ruppertdesign.github.io
 =======================
 
-[ruppertdesign.de][1]
+[www.ruppertdesign.de][1]
 
- [1]: http://ruppertdesign.de
+ [1]: http://www.ruppertdesign.de
 
 
