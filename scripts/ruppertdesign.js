@@ -7,6 +7,7 @@
 		registerContactSubmit(!$('html.lt-ie10').length);
 		registerExternalLinks();
 		registerBurgerMenu();
+		updateYear();
 	};
 
 	var registerScrolling = function() {
@@ -118,6 +119,10 @@
 			}, 500, 'ease-out');	
 			nav.toggleClass('opened');
 		});
+	};
+
+	var updateYear = function() {
+		$('.js_year').text(new Date().getFullYear());
 	};
 
 	$(document).ready(init);
