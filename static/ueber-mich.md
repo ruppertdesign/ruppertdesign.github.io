@@ -30,7 +30,7 @@ habe ich meinen Urlaub 2010 genutzt,
 um ein Praktikum bei einem erfahrenen Schreiner im Allgäu zu absolvieren.
 
 
-Erst habe ich nur Möbelstücke für meine Frau Lena und mich gefertigt – ein Bett, 
+Erst habe ich nur Möbelstücke für unsere Wohnung gefertigt – ein Bett, 
 einen ausziehbaren Esstisch und einen Wohnzimmertisch aus Nussbaumholz zum Beispiel – 
 ,dann auch für Freunde und mit der Gründung von RUPPERTdesign 
 hat das Ganze eine Eigendynamik über Empfehlungen angenommen, was mich sehr freut. 

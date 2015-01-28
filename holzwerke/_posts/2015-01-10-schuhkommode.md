@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Schuhkommode + Mini Garderobe"
+title:  "Schuhkommode + Mini-Garderobe"
 description: Diese Kommode aus massivem Nussbaumholz wurde passend für eine Nische im Eingangsbereich geschreinert. Sie dient als Schuhschrank und als Ablagefläche, zum Beispiel für das Telefon.
 permalink: /holzwerke/2014/01/10/schuhkommode/
 date:   2015-01-10
@@ -21,7 +21,7 @@ Passend zur Kommode wurden zwei Mini-Garderoben aus Nussbaumholz mit jeweils zwe
 
 {% include image.html url="/holzwerke/img/schuhkommode/schuhkommode03.jpg" description="Schuhfach offen" %}
 
-{% include image.html url="/holzwerke/img/schuhkommode/schuhkommode04.jpg" description="Mini Garderobe" %}
+{% include image.html url="/holzwerke/img/schuhkommode/schuhkommode04.jpg" description="Mini-Garderobe" %}
 
 
 **Starkes Holzwerk**   
