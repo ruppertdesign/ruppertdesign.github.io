@@ -20,6 +20,10 @@ footer {
     display: none;
   }
 
+  .fb-link {
+    margin-top: 25px;
+  }
+
   a {
   	text-decoration: underline;
   	color: #fff;
@@ -100,6 +104,6 @@ footer {
 @media only screen and (min-width: 48em) {
   footer .qr-code {
     display: block;
-    margin-top: 20px;
+    margin-top: 25px;
   }
 }
