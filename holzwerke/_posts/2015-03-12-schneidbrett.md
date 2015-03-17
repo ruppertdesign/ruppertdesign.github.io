@@ -35,5 +35,5 @@ Artikelnummer \| Holzart \| Holzgröße \| Preis
 * **Schneidbrett Extra Large**   
 	RD.015.007  \| 	Eiche oder Nussbaum\| ca. L 48 x B 32 x H  4 \| 139 EUR
 
-* **Schneidbrett Extra Large**   
+* **Schneidbrett Aufbereitungsservice**   
 	RD.015.008  \| 	- \| - \| 24,90 EUR
