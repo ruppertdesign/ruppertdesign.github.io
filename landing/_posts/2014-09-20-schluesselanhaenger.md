@@ -1,11 +1,11 @@
 ---
 layout: landing
-title:  "Tischkärtchen" für Ihre Hochzeit
+title:  Besondere Tischkärtchen für Ihre Hochzeit
 date:   2014-02-06
 ---
 
 Sie suchen für Ihre Hochzeit oder Geburtstagfeier nach einer Alternative zu klassischen Tischkärtchen? 
-Sie möchten ein Geschenk mit einer persönlichen Note aufpeppen? 
+Sie möchten ein Gastgeschenk mit einer persönlichen Note aufpeppen? 
 Sie haben eine Botschaft für einen lieben Menschen, 
 die dieser auf einem [Schlüsselanhänger][21] aus Holz immer bei sich tragen soll?
 
