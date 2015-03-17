@@ -1,7 +1,7 @@
 ---
 layout: landing
-title:  Tischkärtchen für Ihre Hochzeit
-date:   2014-01-09
+title:  "Tischkärtchen" für Ihre Hochzeit
+date:   2014-02-06
 ---
 
 Sie suchen für Ihre Hochzeit oder Geburtstagfeier nach einer Alternative zu klassischen Tischkärtchen? 
