@@ -9,15 +9,32 @@ intro: Schöne Schnippelunterlage!
 
 
  
-...
+Diese hochwertigen Küchenhelfer, die in verschiedenen Größen und Holzarten erhältlich sind, 
+sind die ideale Unterlage für das Schneiden oder Hacken von Lebensmitteln.
+
 
 {% include image.html url="/holzwerke/img/schneidbrett01/schneidbrett0101.jpg" description="RUPPERTdesign Schneidbrett" %}
-...
+
+
+Egal ob Gemüse, Obst, Fisch oder Fleisch – und unabhängig davon, 
+welche Messer Sie zum Schnippeln verwenden: 
+Das Schneidbrett aus Massivholz hält der Anforderungen stand und ist noch dazu schonend für die Messerklinge.
+
 
 {% include image.html url="/holzwerke/img/schneidbrett01/schneidbrett0102.jpg" description="RUPPERTdesign Schneidbrett" %}
-...
+
+
+Die Saftrille des Schneidbretts verhindert zum Beispiel das Abfließen des Tomatensaftes. 
+So bleibt die Schneidunterlage trocken.
+
 
 {% include image.html url="/holzwerke/img/schneidbrett01/schneidbrett0103.jpg" description="RUPPERTdesign Schneidbrett" %}
+
+
+Das Schneidbrett ist nicht nur in der Küche gut aufgehoben, 
+es eignet sich auch für den Esszimmertisch: als Brotzeitbrett, 
+als Unterlage für Sushi oder andere Speisen – hier sind Ihrer Fantasie keine Grenzen gesetzt. 
+Es ist angerichtet! 
 
 
 **Starkes Holzwerk**   
