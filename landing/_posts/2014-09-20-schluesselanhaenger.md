@@ -1,6 +1,6 @@
 ---
 layout: landing
-title:  Besondere Tischkärtchen für Ihre Hochzeit
+title:  Originelle Platzkarten für Eure Hochzeit
 date:   2014-02-06
 ---
 
