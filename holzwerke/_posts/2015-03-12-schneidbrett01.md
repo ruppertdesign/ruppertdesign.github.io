@@ -17,7 +17,7 @@ Das Schneidbrett aus Massivholz hält der Anforderungen stand und ist noch dazu 
 {% include image.html url="/holzwerke/img/schneidbrett01/schneidbrett0101.jpg" description="RUPPERTdesign Schneidbrett" %}
 
 Die Saftrille des Schneidbretts verhindert zum Beispiel das Abfließen des Tomatensaftes. 
-So bleibt die Schneidunterlage trocken.
+So bleibt die Umgebung vom Gemüsesaft verschont.
 
 {% include image.html url="/holzwerke/img/schneidbrett01/schneidbrett0102.jpg" description="RUPPERTdesign Schneidbrett" %}
 
