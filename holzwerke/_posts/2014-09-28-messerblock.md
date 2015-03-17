@@ -17,7 +17,7 @@ Mit dem Messerblock sind Ihre Messer sicher verwahrt und der Messerschaft griffb
 
 Ihr Messerblock soll ein bestimmtes Design haben – und aus Holz gefertigt sein, 
 das zu Ihrer Küche passt? 
-Schicken Sie mir einfach die abgezeichneten Messerumrisse und Sie bekommen eine Maßanfertigung.
+Kein Problem, Sie bekommen eine Maßanfertigung.
 
 {% include image.html url="/holzwerke/img/messerblock/messerblock03.jpg" description="Hifiwagenfront" %}
 

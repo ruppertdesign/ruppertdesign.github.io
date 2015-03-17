@@ -1,6 +1,6 @@
 ---
 layout: landing
-title:  Sagen Sie es mit Holz
+title:  Tischkärtchen für Ihre Hochzeit
 date:   2014-01-09
 ---
 
