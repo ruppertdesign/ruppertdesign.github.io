@@ -2,6 +2,7 @@
 layout: landing
 title:  Originelle Platzkarten für Eure Hochzeit
 date:   2014-02-06
+imageLink: /holzwerke/2014/09/12/schluesselanhaenger01/
 ---
 
 Sie suchen für Ihre Hochzeit oder Geburtstagfeier nach einer Alternative zu klassischen Tischkärtchen? 

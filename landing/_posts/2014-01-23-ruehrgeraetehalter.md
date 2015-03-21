@@ -2,6 +2,7 @@
 layout: landing
 title:  Ordnung mit Stil
 date:   2014-01-01
+imageLink: /holzwerke/2014/03/03/ruehrgeraetehalter/
 ---
 
 Oft landen Küchenutensilien, beispielsweise für eine Küchenmaschine, 
