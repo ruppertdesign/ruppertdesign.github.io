@@ -24,6 +24,10 @@ und hat den Schlüssel somit immer griffbereit.
 
 {% include image.html url="/holzwerke/img/schluesselboard01/schluesselboard01c.jpg" description="Beschreibung von Schlüsselboard 1" %}
 
+{% include image.html url="/holzwerke/img/schluesselboard01/schluesselboard01d.jpg" description="4er Schlüsselbrett in Eiche" %}
+
+{% include image.html url="/holzwerke/img/schluesselboard01/schluesselboard01e.jpg" description="Schlüsselboard in Eiche für vier Schlüsselanhänger" %}
+
 Ich fertige Ihnen Ihr Schlüsselboard genau nach Wunsch.
 
 **Starkes Holzwerk**   
