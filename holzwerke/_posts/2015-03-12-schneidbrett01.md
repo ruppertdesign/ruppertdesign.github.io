@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Schneidbrett"
-description: Dieser Designer Esstisch mit Edelstahlfüßen und integriertem Bieröffner wirkt wie ein Leichtgewicht, ist aber äußerst stabil und hochwertig. 
+description: Ein Schneidbrett von RUPPERTdesign ist individuell und hochwertig. RUPPERTdesign schreinert Ihr Schneidbrett nach Wunsch.   
 permalink: /holzwerke/2015/03/12/schneidbrett01/
 date:   2015-03-12
 intro: Schöne Schnippelunterlage!
@@ -14,7 +14,7 @@ Egal ob Gemüse, Obst, Fisch oder Fleisch – und unabhängig davon,
 welche Messer Sie zum Schnippeln verwenden: 
 Das Schneidbrett aus Massivholz hält der Anforderungen stand und ist noch dazu schonend für die Messerklinge.
 
-{% include image.html url="/holzwerke/img/schneidbrett01/schneidbrett0101.jpg" description="RUPPERTdesign Schneidbrett" %}
+{% include image.html url="/holzwerke/img/schneidbrett01/schneidbrett0101.jpg" description="Ein Schneidbrett von RUPPERTdesign ist individuell und hochwertig. RUPPERTdesign schreinert Ihr Schneidbrett nach Wunsch.  " %}
 
 Die Saftrille des Schneidbretts verhindert zum Beispiel das Abfließen des Tomatensaftes. 
 So läuft kein Gemüsesaft vom Schneidbrett herunter.
