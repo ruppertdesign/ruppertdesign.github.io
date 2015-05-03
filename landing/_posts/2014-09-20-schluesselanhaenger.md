@@ -16,4 +16,9 @@ die dieser auf einem [Schlüsselanhänger][21] aus Holz immer bei sich tragen so
 * **Preis p. Anhänger \|** 5 EUR
 * Fragen Sie nach einem Rabatt bei großer Stückzahlen.
 
+
+
+<a href="{{ site.baseurl }}/holzwerke">Weitere Starke Holzwerke hier</a>
+
+
 [21]: {% post_url 2014-09-12-schluesselanhaenger01 %}

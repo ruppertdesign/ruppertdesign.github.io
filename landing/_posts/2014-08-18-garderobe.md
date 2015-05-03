@@ -14,5 +14,9 @@ Natürlich können wir uns auch gerne telefonisch oder persönlich über Ihre W�
 * **Holzdesign für \|** Andreas Schmid, FOTOGRAFIE, [fotolevel.de][1]
 * **Preis \|** Auf Anfrage
 
+
+<a href="{{ site.baseurl }}/holzwerke">Weitere Starke Holzwerke hier</a>
+
+
  [1]: http://fotolevel.de
  [2]: {% post_url 2014-08-18-garderobe01 %}

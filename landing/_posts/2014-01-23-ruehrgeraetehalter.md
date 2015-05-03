@@ -16,4 +16,8 @@ Kein Problem – Ich fertige genau nach Maß und Wunsch.
 * **Holzdesign für \|** Kenwood Cooking Chef
 * **Preis \|** 49 EUR
 
+
+<a href="{{ site.baseurl }}/holzwerke">Weitere Starke Holzwerke hier</a>
+
+
 [11]: {% post_url 2014-03-03-ruehrgeraetehalter %}
