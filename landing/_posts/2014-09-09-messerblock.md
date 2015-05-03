@@ -15,8 +15,8 @@ Schicken Sie mir einfach die abgezeichneten Messerumrisse und Sie bekommen eine 
 * **Holzdesign für \|** Zwilling Professional
 * **Preis \|** 89 EUR
 
+* **Weitere Messerblöcke \|** <a href="{{ site.baseurl }}/holzwerke">hier</a>
 
-<a href="{{ site.baseurl }}/holzwerke">Weitere Starke Holzwerke hier</a>
 
 
 [31]: {% post_url 2014-09-28-messerblock %}

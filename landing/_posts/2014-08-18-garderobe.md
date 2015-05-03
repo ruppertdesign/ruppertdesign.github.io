@@ -14,8 +14,8 @@ Natürlich können wir uns auch gerne telefonisch oder persönlich über Ihre W�
 * **Holzdesign für \|** Andreas Schmid, FOTOGRAFIE, [fotolevel.de][1]
 * **Preis \|** Auf Anfrage
 
+* **Mehr Garderoben \|** <a href="{{ site.baseurl }}/holzwerke">hier</a>
 
-<a href="{{ site.baseurl }}/holzwerke">Weitere Starke Holzwerke hier</a>
 
 
  [1]: http://fotolevel.de

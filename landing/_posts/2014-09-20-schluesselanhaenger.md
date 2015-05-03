@@ -14,11 +14,10 @@ die dieser auf einem [Schlüsselanhänger][21] aus Holz immer bei sich tragen so
 * **Holzgröße \|** ca. L 5 x B 1 x H 1
 * **Holzdesign für \|** Gastgeschenk
 * **Preis p. Anhänger \|** 5 EUR
-* Fragen Sie nach einem Rabatt bei großer Stückzahlen.
+* Fragen Sie nach einem Rabatt bei großer Stückzahl.
 
+* **Weitere Geschenkideen \|** <a href="{{ site.baseurl }}/holzwerke">hier</a>
 
-
-<a href="{{ site.baseurl }}/holzwerke">Weitere Starke Holzwerke hier</a>
 
 
 [21]: {% post_url 2014-09-12-schluesselanhaenger01 %}
