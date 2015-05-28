@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Messerblock"
-description: Dieser edle Messerblock aus Massivholz wird von RUPPERTdesign individuell aus Ihrem Wunschholz für Sie gefertigt. Ihr Messerblock wir eine Maßanfertigung!
+description: Ein Messerblock aus Holz von RUPPERTdesign überzeugt durch sein edles Design. Ein Messerblock von RUPPERTdesign wird passend für Ihre Messer gefertigt.
 permalink: /holzwerke/2014/09/28/messerblock/
 date:   2014-09-28
 intro: Scharfes sicher verwahrt

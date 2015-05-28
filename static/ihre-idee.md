@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ihre Idee
-description: Sie suchen ein Möbelstück aus Holz, das perfekt zu Ihnen passt? RUPPERTdesign schreinert es Ihnen – mit Kreativität, Augenmaß und Herzblut. Schicken Sie mir Ihre Idee!
+description: Sie schätzen gutes Handwerk und suchen ein Möbelstück, das perfekt zu Ihrer Einrichtung passt? RUPPERTdesign schreinert es Ihnen. Kontaktieren Sie mich.
 permalink: /ihre-idee/
 ---
 

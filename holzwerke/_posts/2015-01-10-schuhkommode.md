@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Schuhkommode + Mini Garderobe"
-description: Diese Kommode aus massivem Nussbaumholz wurde passend für eine Nische im Eingangsbereich geschreinert. Sie dient als Schuhschrank und als Ablagefläche, zum Beispiel für das Telefon.
+description: Eine Schuhkommode von RUPPERTdesign wird nach Ihren Vorgaben gefertigt. Eine Schuhkommode von RUPPERTdesign ist in verschiedenen Holzarten erhältlich.
 permalink: /holzwerke/2014/01/10/schuhkommode/
 date:   2015-01-10
 intro: Schmuckstück in der Nische 
