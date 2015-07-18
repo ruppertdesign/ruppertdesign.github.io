@@ -44,4 +44,4 @@ Die abgebildete Wickelkommode ist aus Eichenholz, kann für Sie aber selbstverst
 
 **Starkes Holzwerk \| Wickelkommode**    
    
-RD.015.012  \| 	Eiche \| ca. L 120 x T 80 x H 90 \| Preis auf Anfrage
+RD.015.009  \| 	Eiche \| ca. L 120 x T 80 x H 90 \| Preis auf Anfrage
