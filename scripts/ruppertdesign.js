@@ -69,13 +69,13 @@
 		    headers: { 'X-Requested-With' : 'XMLHttpRequest' },
 		    success: function(data) {
 		    	$(form).fadeOut(150, function() {
-		    		$('#submitSuccess').fadeIn(250);
-		    		scrollTo('#submitSuccess', 250);	
+		    		$('#submitSuccess').fadeIn(250).show(); // HACK: without show it will disapear after fadeIn if there was an error before
+		    		scrollTo('#footer-head', 250);	
 		    	});
 			  },
 			  error: function(xhr, type) {				  	
 			  	$('#submitError').fadeIn(250).removeAttr('hidden');
-			    scrollTo('#submitError', 250);
+			    scrollTo('#footer-head', 250);
 			  }
 		});
 	};

@@ -1,12 +1,12 @@
 <div class="content pure-g">
 
   <div class="pure-u-1">
-    <h3 class="content-head">Interessiert? Dann kontaktieren Sie mich einfach!</h3>
+    <h3 id="footer-head" class="content-head">Interessiert? Dann kontaktieren Sie mich einfach!</h3>
   </div>
 
   <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
     
-    <form id="contactForm" method="POST" action="http://ruppertdesign.de/contact.php" class="pure-form pure-form-stacked">
+    <form id="contactForm" method="POST" action="http://ruppertdesign.de/contact2.php" class="pure-form pure-form-stacked">
       <fieldset>
 
         <legend>Kontakt</legend>
@@ -16,21 +16,21 @@
         </div>
 
         <label for="name">Name</label>
-        <input id="name" name="name" type="text" required minlength="3" maxlength="30" pattern="[0-9a-zA-ZüÜöÖäÄß\'\. _-]{3,}" />
+        <input id="name" name="name" type="text" required minlength="3" maxlength="30" pattern="[0-9a-zA-ZßÖÄÜ\u00E0-\u00FC,\. _-]{3,}" />
         <div class="error-msg">
           Bitte geben Sie mindestens 3 und maximal 30 gültige Zeichen ein
         </div>
 
         <label for="email">E-Mail</label>
-        <input id="email" name="email" type="email" required maxlength="30" pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-z]{2,4}$" />
+        <input id="email" name="email" type="email" required maxlength="30" pattern="[0-9a-zA-Z\._%+-]+@[0-9a-zA-Z\.-]+\.[a-z]{2,4}" />
         <div class="error-msg">
           Bitte geben Sie eine gültige E-Mail Adresse ein
         </div>
 
         <label for="tel">Telefonnummer</label>
-        <input id="tel" name="tel" type="tel" maxlength="30" pattern="[0-9 \/\+-]*" />
+        <input id="tel" name="tel" type="tel" maxlength="30" pattern="[\(\)0-9 \/\+-]*" />
         <div class="error-msg">
-          Bitte geben Sie nur gültige Zeichen ein: 0-9 / + -
+          Bitte geben Sie nur gültige Zeichen ein: 0-9 / + - ( )
         </div>        
 
         <label for="message">Beschreiben Sie Ihr Projekt</label>

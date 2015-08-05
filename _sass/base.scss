@@ -117,7 +117,7 @@ img.rounded {
 .pure-form {
   
   input.error, textarea.error {
-    border: 1px solid $form-error;
+    border: 2px solid $form-error;
   }
 
   .error-msg {
@@ -125,7 +125,7 @@ img.rounded {
     @include font-size($font-size-normal);
     padding: 5px 0 20px 0;
     display: none;
-    font-weight: $font-weight-heavy;
+    font-weight: $font-weight-error;
   }
 
 }
