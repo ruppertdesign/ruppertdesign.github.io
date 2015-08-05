@@ -3,6 +3,10 @@ layout: post
 title: Ihre Idee
 description: Sie schätzen gutes Handwerk und suchen ein Möbelstück, das perfekt zu Ihrer Einrichtung passt? RUPPERTdesign schreinert es Ihnen. Kontaktieren Sie mich.
 permalink: /ihre-idee/
+sitemap:
+  priority: 0.7
+  changefreq: 'yearly'
+  date: 2015-08-01
 ---
 
 Sie schätzen gutes Handwerk und suchen ein Möbelstück, das perfekt zu Ihrer Einrichtung passt? 
