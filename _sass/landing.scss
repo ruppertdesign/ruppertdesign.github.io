@@ -39,6 +39,16 @@
 @include splash-background(801, 1200, 1200, 375);
 @include splash-background(1201, 5000, 1920, 600);
 
+// non responsive solution for IE<9
+.lt-ie9 {
+  .splash-container {
+    background-image: url('../img/header-1920x600.jpg');
+  }
+  .landing-wrapper {
+    top: 650px;
+  }
+}
+
 .landing-head {
   @include font-size($font-size-bigger);
 }
