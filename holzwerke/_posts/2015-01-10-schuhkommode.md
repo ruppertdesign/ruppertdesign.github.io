@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: holzwerk
 title:  "Schuhkommode + Mini Garderobe"
 description: Eine Schuhkommode von RUPPERTdesign wird nach Ihren Vorgaben gefertigt. Eine Schuhkommode von RUPPERTdesign ist in verschiedenen Holzarten erhältlich.
 permalink: /holzwerke/2014/01/10/schuhkommode/

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: holzwerk
 title:  "Messerblock"
 description: Ein Messerblock aus Holz von RUPPERTdesign überzeugt durch sein edles Design. Ein Messerblock von RUPPERTdesign wird passend für Ihre Messer gefertigt.
 permalink: /holzwerke/2014/09/28/messerblock/

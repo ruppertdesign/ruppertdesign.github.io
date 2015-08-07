@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: holzwerk
 title:  "Griffboard"
 description: Ein Griffboard in der Wohnung? Sicher doch! Das effektive Trainingsgerät von RUPPERTdesign kann einfach über einer Türe angebracht werden.
 permalink: /holzwerke/2013/01/01/griffbrett/

@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+{% assign pathsegments = page.url | downcase | split: '/'  %}
+
+<section class="post">
+
+  <h1 class="content-head center">{{ page.title }}</h1>
+
+  <article>
+
+  	{{ content }}
+
+  	{% if page.product.url %}
+			<p>Auch erhältlich bei <a href="{{ page.product.url }}" target="_blank">DaWanda</a>.</p>
+		{% endif %}
+
+		{% if page.product %}
+		  <script type="application/ld+json">
+				{
+				  "@context": "http://schema.org/",
+				  "@type": "Product",
+				  "name": "{{ page.product.name }}",
+				  "image": "{{ page.product.image | prepend: site.baseurl }}",
+				  "description": "{{ page.description }}",
+				  "brand": {
+				    "@type": "Thing",
+				    "name": "RUPPERTdesign"
+				  },
+				  "offers": {
+				    "@type": "Offer",
+				    "priceCurrency": "EUR",
+				    "price": "{{ page.product.price }}",
+				    "url": "{{ page.product.url }}",
+				    "seller": {
+				      "@type": "Organization",
+				      "name": "DaWanda"
+				    }
+				  }
+				}
+			</script>			
+		{% endif %}
+
+		{% if page.path contains '_posts' %}
+			<p><a href="/{{ pathsegments[1] | prepend: site.baseurl }}">zurück</a></p>
+		{% endif %}
+
+  </article>
+
+</section>

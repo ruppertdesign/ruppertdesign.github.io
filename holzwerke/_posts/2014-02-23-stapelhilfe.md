@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: holzwerk
 title:  "Stapelhilfe"
 description: Eine Stapelhilfe von RUPPERTdesign für ihre Raspelmesser. Gerade für diese Messer gibt es bislang keine geeignete Aufbewahrungsmöglichkeit, das ändert sich jetzt!
 permalink: /holzwerke/2014/02/23/stapelhilfe/

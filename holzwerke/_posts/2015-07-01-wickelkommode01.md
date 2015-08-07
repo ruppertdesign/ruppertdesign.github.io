@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: holzwerk
 title:  "Wickelkommode Marlene"
 description: Eine Wickelkommode von RUPPERTdesign hat ein zeitloses Design.
 permalink: /holzwerke/2015/07/01/wickelkommode01/

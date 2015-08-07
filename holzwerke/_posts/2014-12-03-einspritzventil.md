@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: holzwerk
 title:  "Trägerplatte"
 description: RUPPERTdesign fertigt Ihnen eine Trägerplatte für ein Geschenk oder Erinnerungsstück. Mit einer Trägerplatte kommt ein Gegenstand richtig zur Geltung.
 permalink: /holzwerke/2014/12/04/einspritzventil/

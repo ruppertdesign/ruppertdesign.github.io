@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: holzwerk
 title:  "Metall-Laserteile"
 description: RUPPERTdesign liefert Laserteile, Biegeformteile und Schweißkonstruktionen, individuell und persönlich für Sie gefertigt.
 permalink: /holzwerke/2015/07/18/supporter/

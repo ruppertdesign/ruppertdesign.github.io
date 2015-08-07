@@ -1,10 +1,15 @@
 ---
-layout: post
+layout: holzwerk
 title:  "Schlüssel&shy;board"
 description: Ein Schlüsselboard aus Holz von RUPPERTdesign wird einfach an die Wand montiert. Der Clou - An jedem Edelstahlstift kann ein Schlüsselbund befestigt werden. 
 permalink: /holzwerke/2014/09/27/schluesselboard01/
 date:   2014-09-27
 intro: Schlüssel suchen war gestern
+product:
+  name: Schlüsselboard
+  price: "39.00"
+  image: /holzwerke/img/schluesselboard01/schluesselboard01a.jpg
+  url: http://de.dawanda.com/product/80629839-schluesselboard-von-ruppertdesign
 ---
 
 Mit diesem schlichten und doch raffinierten Schlüsselboard gehört das Schlüsselsuchen der Vergangenheit an! 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: holzwerk
 title:  "Schlüssel&shy;anhänger"
 description: Diese Schlüsselanhänger von RUPPERTdesign sind persönliche Begleiter im Alltag. Ihre Schlüsselanhänger können mit Namen oder einem Spruch versehen werden.
 permalink: /holzwerke/2014/09/12/schluesselanhaenger01/
