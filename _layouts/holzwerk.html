@@ -32,7 +32,7 @@ layout: default
 				    "@type": "Offer",
 				    "priceCurrency": "EUR",
 				    "price": "{{ page.product.price }}",
-				    "url": "{{ page.product.url }}",
+				    {% if page.product.url %} "url": "{{ page.product.url }}", {% endif %}
 				    "seller": {
 				      "@type": "Organization",
 				      "name": "DaWanda"
