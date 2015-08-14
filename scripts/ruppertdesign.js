@@ -43,8 +43,9 @@
 			  field.validity.valid = validate($(this));
       }
       // minlength won't validate empty strings
-      var hasValue = !field['required'] || field.value.trim.length > 3;
-      if (field.validity.valid && hasValue) {
+      var enoughVal = !field['required'] || field.value.trim().length > 2;
+      console.info(field.tagName + ": " + field['required'] + " _ " + enoughVal);
+      if (field.validity.valid && enoughVal) {
  				$(this).removeClass('error').next('.error-msg').fadeOut(150);
 			} else {
  				$(this).addClass('error').next('.error-msg').removeAttr('hidden').fadeIn(150);
