@@ -56,7 +56,7 @@ function validate() {
 	);
 	$rules['message'] = array (
 		'required' => true,
-		'regex' => '/^[\p{L}\p{N}\p{Zs}\t\r\n\p{P}\p{S}]{1,}$/u'
+		'regex' => '/^[\p{L}\p{N}\p{Zs}\t\r\n\s\p{P}\p{S}]{1,}$/u'
 	);
 	$rules['newsletter'] = array (
 		'required' => false,

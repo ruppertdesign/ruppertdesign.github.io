@@ -42,7 +42,9 @@
       	field.validity = field.validity || {};
 			  field.validity.valid = validate($(this));
       }
-      if (field.validity.valid) {
+      // minlength won't validate empty strings
+      var hasValue = !field['required'] || field.value.trim.length > 3;
+      if (field.validity.valid && hasValue) {
  				$(this).removeClass('error').next('.error-msg').fadeOut(150);
 			} else {
  				$(this).addClass('error').next('.error-msg').removeAttr('hidden').fadeIn(150);
