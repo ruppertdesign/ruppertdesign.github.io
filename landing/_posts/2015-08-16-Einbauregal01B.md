@@ -2,7 +2,7 @@
 layout: landing
 title:  Einbauregal nach Maß
 date:   2015-08-16
-imageLink: /holzwerke/2014/03/03/ruehrgeraetehalter/
+imageLink: /holzwerke/2015/08/16/dachschraegenregal01/
 ---
 
 RUPPERTdesign fertigt ein individuelles Holzwerk nach Maß für jede Ecke.
@@ -19,4 +19,4 @@ Hier erfahren Sie mehr.
 
 
 
-[12]: {% post_url 2015-08-16-dachschraegenregal %}
+[12]: {% post_url 2015-08-16-dachschraegenregal01 %}
