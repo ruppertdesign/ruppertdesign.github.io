@@ -30,7 +30,7 @@ wobei das hintere Element die ganze Tiefe der Ecke ausnutzt und somit ausreichen
 
 
 Verwendet wurden Melaminharzbeschichtete Platten, 
-welche durch eine optimale Oberflächeneigenschaften herausragen. 
+welche durch eine robuste Oberflächeneigenschaft besitzen. 
 Eine umfassende Designvielfalt mit optimal abgestimmten Oberflächenstrukturen bittet dem Kunden die Möglichkeit,
 sein Holzwerk perfekt auf seinen Standort anzupassen.
 
