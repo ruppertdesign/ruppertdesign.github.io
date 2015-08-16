@@ -8,7 +8,7 @@ imageLink: /holzwerke/2014/09/28/messerblock/
 Mit einem [Messerblock][31] aus Massivholz sind Ihre Messer jederzeit griffbereit. 
 Ihr Messerblock soll ein bestimmtes Design haben – und aus Holz gefertigt sein, 
 das zu Ihrer Küche passt? 
-Schicken Sie mir einfach die abgezeichneten Messerumrisse und Sie bekommen eine Maßanfertigung.
+Kontaktieren Sie RUPPERTdesign und Sie erhalten eine Maßanfertigung.
 
 * **Holzart \|** Amerikanischer Nussbaum
 * **Holzgröße \|** ca. L 26 x B 18 x H 8
