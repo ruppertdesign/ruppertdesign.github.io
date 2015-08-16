@@ -6,9 +6,9 @@ imageLink: /holzwerke/2015/08/16/dachschraegenregal01/
 ---
 
 RUPPERTdesign fertigt ein individuelles Holzwerk nach Maß für jede Ecke.
-Für eine Dachschräge war hier ein robuster [Einbauschrank][12] gewünscht,
+Für eine Dachschräge war hier ein robustes Einbauregal gewünscht,
 der ausreichend Platz bietet und sich perfekt in den Raum integriert.
-Hier erfahren Sie mehr.
+[Hier][12] erfahren Sie mehr.
 
 * **Holzart \|** Melaminharzbeschichtete Platten oder Massivholz
 * **Holzgröße \|** exakt auf Maß
