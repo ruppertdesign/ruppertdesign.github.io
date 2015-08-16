@@ -15,7 +15,7 @@ der ausreichend Platz bietet und sich perfekt in den Raum integriert.
 * **Holzdesign für \|** die optimale Lösung
 * **Preis \|** Auf Anfrage
 
-* **Tolle Kundenlösungen \|** <a href="{{ site.baseurl }}/holzwerke">hier</a>
+* **Weitere tolle Kundenlösungen \|** <a href="{{ site.baseurl }}/holzwerke">hier</a>
 
 
 
