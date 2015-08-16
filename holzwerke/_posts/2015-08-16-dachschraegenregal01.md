@@ -9,7 +9,7 @@ intro: Leitz Ordner griffbereit und aufgeräumt
 
 
 
-RUPPERTdesign fertigt ein individuelles Holzwerk nach Maß für jede Ecke, 
+RUPPERTdesign fertigt Ihnen ein individuelles Holzwerk nach Maß für jede Ecke, 
 besonders dann, wenn kein Möbelhaus die passende Lösung bietet.  
 
 
@@ -31,7 +31,8 @@ wobei das hintere Element die ganze Tiefe der Ecke ausnutzt und somit ausreichen
 
 Verwendet wurden Melaminharzbeschichtete Platten, 
 welche eine robuste Oberflächeneigenschaft besitzen. 
-Aus einer sehr großen Farbpalette und unterschiedlichsten Oberflächenstrukturen kann sich der Kunde das Passende für sein Holzwerk heraussuchen.
+Aus einer sehr großen Farbpalette und unterschiedlichsten Oberflächenstrukturen 
+konnte sich der Kunde das Passende für sein Holzwerk heraussuchen.
 
 Um zu verhindern, dass sich der Raum durch eine dunkle Ecke optisch verkleinert, 
 wurde ein Weißton gewählt, der mit den übrigen Möbelstücken des Raumes harmonisiert. 
