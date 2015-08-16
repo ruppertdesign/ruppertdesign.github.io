@@ -1,0 +1,50 @@
+---
+layout: holzwerk
+title:  "Einbauregal"
+description: Das Einbauregal von RUPPERTdesign wird nach Maß für jede Ecke gefertigt. 
+permalink: /holzwerke/2015/08/16/dachschraegenregal/
+date:   2015-08-16
+intro: Leitz Ordner griffbereit und aufgeräumt
+---
+
+
+
+RUPPERTdesign fertigt ein individuelles Holzwerk nach Maß für jede Ecke, 
+besonders dann, wenn kein Möbelhaus die passende Lösung bietet.  
+
+
+{% include image.html url="/holzwerke/img/dachschraegenregal01/einbauregal01.jpg" description="Einbauregal oder Einbauschrank. RUPPERTdesign fertigt nach Maß für jede Ecke." %}
+
+
+Für diese Dachschräge wünschte sich der Kunde ein Einbauregal mit ausreichend Platz für Ordner und andere Büromaterialien, 
+der robust ist und sich perfekt in den Raum integriert. 
+
+{% include image.html url="/holzwerke/img/dachschraegenregal01/einbauregal02.jpg" description="RUPPERTdesign baut Ihnen einen Einbauschrank exakt nach Ihren Wünschen." %}
+
+
+Das Einbauregal wurde in Modulbauweise erstellt, 
+wobei das hintere Element die ganze Tiefe der Ecke ausnutzt und somit ausreichend Stauraum bietet.   
+
+
+{% include image.html url="/holzwerke/img/dachschraegenregal01/einbauregal03.jpg" description="Sie brauchen ein passendes Möbelstück für Ihre Ecke? Dann kontaktieren Sie RUPPERTdesign." %}
+
+
+Verwendet wurden Melaminharzbeschichtete Platten, 
+welche durch eine optimale Oberflächeneigenschaften herausragen. 
+Eine umfassende Designvielfalt mit optimal abgestimmten Oberflächenstrukturen bittet dem Kunden die Möglichkeit,
+sein Holzwerk perfekt auf seinen Standort anzupassen.
+
+Für dieses Holzwerk wurde ein besonders heller Weißton gewählt, 
+damit die sonst dunkel wirkende Ecke, den Raum nicht verkleinert.
+
+
+{% include image.html url="/holzwerke/img/dachschraegenregal01/einbauregal04.jpg" description="Ein Holzwerk von RUPPERTdesign wird individuell für Sie gefertigt." %}
+
+
+Bei Ihnen gibt es ebenfalls eine Ecke, die sie optimal nutzen möchten? 
+Kontaktieren Sie RUPPERTdesign gerne und Sie erhalten eine exakt nach Ihren Wünschen gefertigte Lösung.   
+
+
+
+**Starkes Holzwerk \| Einbauregal**    
+RD.015.013  \|  Melaminharzbeschichtete Platten \|  Preis auf Anfrage
