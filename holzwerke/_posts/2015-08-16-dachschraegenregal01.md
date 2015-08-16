@@ -17,7 +17,7 @@ besonders dann, wenn kein Möbelhaus die passende Lösung bietet.
 
 
 Für diese Dachschräge wünschte sich der Kunde ein Einbauregal mit ausreichend Platz für Ordner und andere Büromaterialien, 
-der robust ist und sich perfekt in den Raum integriert. 
+das robust ist und sich perfekt in den Raum integriert. 
 
 {% include image.html url="/holzwerke/img/dachschraegenregal01/einbauregal02.jpg" description="RUPPERTdesign baut Ihnen einen Einbauschrank exakt nach Ihren Wünschen." %}
 
