@@ -37,10 +37,6 @@ Um zu verhindern, dass sich der Raum durch eine dunkle Ecke optisch verkleinert,
 wurde ein Weißton gewählt, der mit den übrigen Möbelstücken des Raumes harmonisiert. 
 
 
-Für dieses Holzwerk wurde ein besonders heller Weißton gewählt, 
-damit die sonst dunkel wirkende Ecke, den Raum nicht verkleinert.
-
-
 {% include image.html url="/holzwerke/img/dachschraegenregal01/einbauregal04.jpg" description="Ein Holzwerk von RUPPERTdesign wird individuell für Sie gefertigt." %}
 
 
