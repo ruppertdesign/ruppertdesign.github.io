@@ -31,8 +31,11 @@ wobei das hintere Element die ganze Tiefe der Ecke ausnutzt und somit ausreichen
 
 Verwendet wurden Melaminharzbeschichtete Platten, 
 welche eine robuste Oberflächeneigenschaft besitzen. 
-Eine umfassende Designvielfalt mit optimal abgestimmten Oberflächenstrukturen bietet dem Kunden die Möglichkeit,
-sein Holzwerk perfekt auf seinen Standort anzupassen.
+Aus einer sehr großen Farbpalette und unterschiedlichsten Oberflächenstrukturen kann sich der Kunde das Passende für sein Holzwerk heraussuchen.
+
+Um zu verhindern, dass sich der Raum durch eine dunkle Ecke optisch verkleinert, 
+wurde ein Weißton gewählt, der mit den übrigen Möbelstücken des Raumes harmonisiert. 
+
 
 Für dieses Holzwerk wurde ein besonders heller Weißton gewählt, 
 damit die sonst dunkel wirkende Ecke, den Raum nicht verkleinert.
