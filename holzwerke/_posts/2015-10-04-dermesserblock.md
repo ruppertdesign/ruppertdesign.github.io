@@ -35,5 +35,5 @@ Der Starke Holzblock von RUPPERTdesign ist DER \| Messerblock für Ihre Küche.
 
   
 
-**Starkes Holzwerk \| Der|Messerblock**    
+**Starkes Holzwerk \| DER|Messerblock**    
 RD.015.015  \|  Ihr Wunschholz  \|  Preis auf Anfrage
