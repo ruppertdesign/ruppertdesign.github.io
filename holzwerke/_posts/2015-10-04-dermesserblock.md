@@ -8,7 +8,7 @@ intro: Starker Holzblock
 ---
 
 
-DER \| Messerblock. Von RUPPERTdesign. Da gehören Ihre Messer hin. 
+DER\|Messerblock. Von RUPPERTdesign. Da gehören Ihre Messer hin. 
 Er wird perfekt nach den Maßen Ihrer Messer gefertigt – aus dem Holz Ihrer Wahl.
 
 
