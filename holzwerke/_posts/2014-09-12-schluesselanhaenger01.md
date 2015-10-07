@@ -5,6 +5,11 @@ description: Diese Schlüsselanhänger von RUPPERTdesign sind persönliche Begle
 permalink: /holzwerke/2014/09/12/schluesselanhaenger01/
 date:   2014-09-12
 intro: Persönlicher Begleiter im Alltag
+product:
+  name: Schlüsselanhänger RUPPERTdesign
+  price: "5.00"
+  image: /holzwerke/img/schluesselanhaenger01/schluesselanhaenger02.jpg
+  url: http://de.dawanda.com/product/88493323-schluesselanhaenger
 ---
 
 Sie suchen für Ihre Hochzeit oder eine Geburtstagsfeier nach einer Alternative zu klassischen Tischkärtchen?

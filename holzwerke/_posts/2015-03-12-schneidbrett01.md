@@ -5,7 +5,13 @@ description: Ein Schneidbrett von RUPPERTdesign ist in verschiedenen Größen un
 permalink: /holzwerke/2015/03/12/schneidbrett01/
 date:   2015-03-12
 intro: Schöne Schnippelunterlage!
+product:
+  name: Schneidbrett Medium
+  price: "99.00"
+  image: /holzwerke/img/schneidbrett01/schneidbrett0101.jpg
+  url: http://de.dawanda.com/product/88501487-schneidbrett-medium
 ---
+
  
 Diese hochwertigen Küchenhelfer, die in verschiedenen Größen und Holzarten erhältlich sind, 
 sind die ideale Unterlage für das Schneiden oder Hacken von Lebensmitteln.
