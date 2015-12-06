@@ -56,7 +56,7 @@ function validate() {
 	);
 	$rules['message'] = array (
 		'required' => true,
-		'regex' => '/^[\p{L}\p{N}\p{Zs}\t\r\n\s\p{P}\p{S}]{1,}$/u'
+		'regex' => '/^[\p{L}\p{N}\p{Z}\p{P}\p{S}\t\r\n\s­]{3,}$/u' // last one is a &shy;
 	);
 	$rules['newsletter'] = array (
 		'required' => false,
@@ -76,7 +76,6 @@ function validate() {
 			return false;
 		}
 		if ($val != '' && !preg_match($rules[$field]['regex'], $val)) {
-		echo $val;
 			return false;
 		}
 	}
