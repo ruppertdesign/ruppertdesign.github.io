@@ -32,12 +32,15 @@ Die Schlüsselanhänger sind in Eichen- oder Nussbaumholz erhältlich.
 **Starkes Holzwerk**   
 Artikelnummer \| Holzart \| Holzgröße \| Preis
 
-* **Schlüsselanhänger mit Wunschtext einzeilig**       
+* **Schlüsselanhänger mit Wunschtext einzeilig**
+     
 	RD.014.007  \| 	Nussbaum \| ca. L 5 x B 1 x T 1 \| 5,90 EUR
 	
 	RD.014.008  \| 	Eiche \| ca. L 5 x B 1 x T 1 \| 5,90 EUR
+	
 
-* **Schlüsselanhänger mit Wunschtext mehrzeilig**       
+* **Schlüsselanhänger mit Wunschtext mehrzeilig**
+      
 	RD.016.001  \| 	Nussbaum \| ca. L 5 x B 1 x T 1 \| 7,90 EUR
 	
 	RD.016.002  \| 	Eiche \| ca. L 5 x B 1 x T 1 \| 7,90 EUR
