@@ -12,29 +12,30 @@ product:
   url: http://de.dawanda.com/product/88493323-schluesselanhaenger
 ---
 
-Sie suchen für Ihre Hochzeit oder eine Geburtstagsfeier nach einer Alternative zu klassischen Tischkärtchen?
-Diese Namensschilder können Ihre Gäste später als Schlüsselanhänger verwenden – 
-und tragen somit immer eine schöne Erinnerung bei sich.
-
-{% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger01.jpg" description="Schlüsselanhänger aus Holz. Der Schlüsselanhänger aus Holz mit Wunschnamen. Die Alternative zu Tischkärtchen." type="small" %}
-
 Sie möchten ein Geschenk um einen persönlichen Schlüsselanhänger aus Holz erweitern? 
 Sie haben eine Botschaft für einen lieben Menschen, 
 die dieser immer bei sich tragen soll? Sagen Sie mir einfach, 
-welcher Name oder Spruch auf das Holzwerk darf.
+welcher Name oder Spruch auf den Schlüsselanhänger aus Holz darf.
 
-{% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger02.jpg" description="Individueller Schlüsselanhänger aus Holz mit Ihrem Wunschnamen." type="small" %}
+{% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger02.jpg" description="Individueller Schlüsselanhänger aus Holz mit Ihrem Wunschnamen oder Ihrem Wunschtext." type="small" %}
 
-{% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger03.jpg" description="Schlüsselanhänger aus Holz zum Geburtstag. Schlüsselanhänger als Weihnachtsgeschenk. Schlüsselanhänger zum Danke sagen." type="small" %}
+{% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger03.jpg" description="Schlüsselanhänger aus Holz zum Geburtstag. Schlüsselanhänger als Weihnachtsgeschenk. Schlüsselanhänger aus Holz zum Danke sagen." type="small" %}
 
-Die Schlüsselanhänger gibt es aus Eiche oder Nussbaumholz – 
-und ab einer größeren Stückzahl auch aus dem Holz Ihrer Wahl zu einem reduzierten Preis.
+Sie suchen für Ihre Hochzeit oder eine Geburtstagsfeier nach einer Alternative zu klassischen Tischkärtchen?
+An diesen Schlüsselanhängern haben Ihre Gäste lange Freude und tragen sie immer als schöne Erinnerung bei sich.
+
+{% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger01.jpg" description="Schlüsselanhänger aus Holz. Der Schlüsselanhänger aus Holz mit Wunschnamen. Die Alternative zu Tischkärtchen." type="small" %}
+
+
+Die Schlüsselanhänger sind in Eichen- oder Nussbaumholz erhältlich.
 
 **Starkes Holzwerk**   
 Artikelnummer \| Holzart \| Holzgröße \| Preis
 
-* **Schlüsselanhänger**       
+* **Schlüsselanhänger mit Wunschtext einzeilig**       
 	RD.014.007  \| 	Nussbaum \| ca. L 5 x B 1 x T 1 \| 5,90 EUR
-
-* **Schlüsselanhänger**       
 	RD.014.008  \| 	Eiche \| ca. L 5 x B 1 x T 1 \| 5,90 EUR
+
+* **Schlüsselanhänger mit Wunschtext mehrzeilig**       
+	RD.016.001  \| 	Nussbaum \| ca. L 5 x B 1 x T 1 \| 7,90 EUR
+	RD.016.002  \| 	Eiche \| ca. L 5 x B 1 x T 1 \| 7,90 EUR
