@@ -27,54 +27,62 @@ Diese waren: Trotz niedrigem Kniestock möglichst viel Stauraum,
 gute Zugänglichkeit einer großen Revisionsklappe, 
 eine weiße Hochglanzoberfläche und integrierter LED-Fernseher und nicht zuletzt eine perfekte Einbettung des Schranks in das helle und moderne Ambiente des Raums.
 
-*Stauraum*
+**Stauraum**
 
 Eine ideale Ausnutzung des Stauraums konnte erreicht werden, 
 indem die Schubkästen des Schranks die maximal mögliche Tiefe ausnutzen, in diesem Fall knapp über einen Meter.
 
-
 {% include image.html url="/holzwerke/img/einbauschrank01/ebs0102.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
+
+
+{% include image.html url="/holzwerke/img/einbauschrank01/ebs0107.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
 
 
 {% include image.html url="/holzwerke/img/einbauschrank01/ebs0103.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
 
-*Gute Zugänglichkeit einer großen Revisionsklappe*
+
+**Gute Zugänglichkeit einer großen Revisionsklappe**
 
 RUPPERTdesign legt sehr viel Wert auf praktische Aspekte, 
 so dass etwaige Revisionsklappen für Heizung oder Zähleruhren zugänglich bleiben. 
-Die geteilte Ablage vor der Klappe und der Schubkasten lassen sich ohne Werkzeug in wenigen Sekunden ausbauen.
+Hier läßt sich die geteilte Ablage vor der Klappe und der Schubkasten ohne Werkzeug in wenigen Sekunden ausbauen.
 
 
 {% include image.html url="/holzwerke/img/einbauschrank01/ebs0108.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
 
 
 
-*Hochglanzoberfläche*
+**Hochglanzoberfläche**
 
 Ob Massivholz, hochwertige Furniere, Dekore oder Glas, 
 bei RUPPERTdesign können Sie sich Ihre Wunschoberfläche in Farbe, Form und Oberflächenbeschaffenheit frei wählen.
 
-{% include image.html url="/holzwerke/img/einbauschrank01/ebs0104.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
+
+{% include image.html url="/holzwerke/img/einbauschrank01/ebs0105.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
+
+{% include image.html url="/holzwerke/img/einbauschrank01/ebs0106.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
 
 
-*Integrierter LED-Fernseher*
+**Integrierter LED-Fernseher**
 
 Nur bei maßgefertigten Möbeln können Spezialwünsche, 
 wie die Integration eines Fernsehers, verwirklicht werden. Passende Schalter und Steckdosen können auf Wunsch mitgeliefert werden.
 
+{% include image.html url="/holzwerke/img/einbauschrank01/ebs0109.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau. Auf Wunsch mit eingebautem LED TV Fernseher." %}
 
-*Perfekte Anpassung des Schranks an den Raum*
+**Perfekte Anpassung des Schranks an den Raum**
 
-Alle Einzelbestandteile eines Schranks von RUPPERTdesign sind frei wählbar und garantieren somit ein hohes Maß an Gestaltungsfreiheit: von der Aufteilung des Schranks, über die Art der Griffe oder Push-to-open-System für grifflose Möbeltüren, bis hin zur Schrankinnenbeleuchtung. Bei dem dargestellten Schrank sind die fingergezinkten Schubkästen aus Echtholz mit Griffen aus Edelstahl dank Softclose-Funktion geräuschlos in der Haptik. Für die perfekte Ausleuchtung im Innenraum sorgen integrierte LED-Spots. 
+Alle Einzelbestandteile eines Schranks von RUPPERTdesign sind frei wählbar 
+und garantieren somit ein hohes Maß an Gestaltungsfreiheit: von der Aufteilung des Schranks, 
+über die Art der Griffe oder Push-to-open-System für grifflose Möbeltüren, 
+bis hin zur Schrankinnenbeleuchtung. Bei dem dargestellten Schrank sind die 
+fingergezinkten Schubkästen aus Echtholz mit Griffen aus Edelstahl dank Softclose-Funktion geräuschlos in der Haptik. 
+Für die perfekte Ausleuchtung im Innenraum sorgen integrierte LED-Spots. 
 
 Mit RUPPERTdesign haben Sie einen kompetenten Möbeldesigner an Ihrer Seite, 
 der mit Ihnen gemeinsam die für Sie optimale Lösung erarbeitet, 
 unter Berücksichtigung aller Aspekte, von der ersten Anfrage bis zum finalen Aufbau des Schranks, 
 und der Ihr Projekt Wunschschrank mit viel Herzblut für Sie verwirklicht.  
-
-{% include image.html url="/holzwerke/img/einbauschrank01/ebs0106.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
-
-{% include image.html url="/holzwerke/img/einbauschrank01/ebs0107.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
 
 
   
