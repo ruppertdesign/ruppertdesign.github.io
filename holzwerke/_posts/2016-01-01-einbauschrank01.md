@@ -45,7 +45,7 @@ indem die Schubkästen des Schranks die maximal mögliche Tiefe ausnutzen, in di
 
 RUPPERTdesign legt sehr viel Wert auf praktische Aspekte, 
 so dass etwaige Revisionsklappen für Heizung oder Zähleruhren zugänglich bleiben. 
-Hier läßt sich die geteilte Ablage vor der Klappe und der Schubkasten ohne Werkzeug in wenigen Sekunden ausbauen.
+In diesem Schrank läßt sich die zweigeteilte Ablage vor der Klappe und der Schubkasten ohne Werkzeug in wenigen Sekunden ausbauen.
 
 
 {% include image.html url="/holzwerke/img/einbauschrank01/ebs0108.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
@@ -66,7 +66,8 @@ bei RUPPERTdesign können Sie sich Ihre Wunschoberfläche in Farbe, Form und Obe
 **Integrierter LED-Fernseher**
 
 Nur bei maßgefertigten Möbeln können Spezialwünsche, 
-wie die Integration eines Fernsehers, verwirklicht werden. Passende Schalter und Steckdosen können auf Wunsch mitgeliefert werden.
+wie die Integration eines Fernsehers, verwirklicht werden. 
+Eine passende TV-Halterung, Kabel- oder Satelliten- und Steckdosen können auf Wunsch mitgeliefert werden.
 
 {% include image.html url="/holzwerke/img/einbauschrank01/ebs0109.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau. Auf Wunsch mit eingebautem LED TV Fernseher." %}
 
@@ -78,6 +79,9 @@ und garantieren somit ein hohes Maß an Gestaltungsfreiheit: von der Aufteilung 
 bis hin zur Schrankinnenbeleuchtung. Bei dem dargestellten Schrank sind die 
 fingergezinkten Schubkästen aus Echtholz mit Griffen aus Edelstahl dank Softclose-Funktion geräuschlos in der Haptik. 
 Für die perfekte Ausleuchtung im Innenraum sorgen integrierte LED-Spots. 
+
+{% include image.html url="/holzwerke/img/einbauschrank01/ebs0110.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign erfüllt all Ihre Wünsche." %}
+
 
 Mit RUPPERTdesign haben Sie einen kompetenten Möbeldesigner an Ihrer Seite, 
 der mit Ihnen gemeinsam die für Sie optimale Lösung erarbeitet, 
