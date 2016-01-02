@@ -43,6 +43,6 @@ Artikelnummer \| Holzart \| Holzgröße \| Preis
 
 * **Schlüsselanhänger mit Wunschtext mehrzeilig**
       
-	RD.016.001  \| 	Nussbaum \| ca. L 5 x B 1 x T 1 \| 7,90 EUR
+	RD.016.002  \| 	Nussbaum \| ca. L 5 x B 1 x T 1 \| 7,90 EUR
 	
-	RD.016.002  \| 	Eiche \| ca. L 5 x B 1 x T 1 \| 7,90 EUR
+	RD.016.003  \| 	Eiche \| ca. L 5 x B 1 x T 1 \| 7,90 EUR

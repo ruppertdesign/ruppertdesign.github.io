@@ -30,9 +30,6 @@ Der Starke Holzblock von RUPPERTdesign ist DER \| Messerblock für Ihre Küche.
 {% include image.html url="/holzwerke/img/dermesserblock/dermesserblock1d.jpg" description="DER|Messerblock! Von RUPPERTdesign. Da gehören Ihre Messer hin. " %}
 
  
-
-
-
   
 
 **Starkes Holzwerk \| DER|Messerblock**    
