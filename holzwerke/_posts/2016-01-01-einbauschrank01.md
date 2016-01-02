@@ -16,6 +16,10 @@ Dabei ist es wichtig, den Einbauschrank millimetergenau auf den Raum anzupassen,
 um das beste Ergebnis bei maximalem Stauraum zu erhalten. 
 Bei RUPPERTdesign sind Ausstattung und Design des Schranks frei wählbar. 
 
+
+{% include image.html url="/holzwerke/img/einbauschrank01/ebs0101.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
+
+
 Dieser Einbauschrank von RUPPERTdesign wurde exakt nach den Wünschen der Kunden gefertigt. 
 Diese waren: Trotz niedrigem Kniestock möglichst viel Stauraum, 
 gute Zugänglichkeit einer großen Revisionsklappe, 
@@ -26,11 +30,17 @@ eine weiße Hochglanzoberfläche und integrierter LED-Fernseher und nicht zuletz
 Eine ideale Ausnutzung des Stauraums konnte erreicht werden, 
 indem die Schubkästen des Schranks die maximal mögliche Tiefe ausnutzen, in diesem Fall knapp über einen Meter.
 
-Gute Zugänglichkeit einer großen Revisionsklappe
+{% include image.html url="/holzwerke/img/einbauschrank01/ebs0102.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
+
+
+*Gute Zugänglichkeit einer großen Revisionsklappe*
 
 RUPPERTdesign legt sehr viel Wert auf praktische Aspekte, 
 so dass etwaige Revisionsklappen für Heizung oder Zähleruhren zugänglich bleiben. 
 Die geteilte Ablage vor der Klappe und der Schubkasten lassen sich ohne Werkzeug in wenigen Sekunden ausbauen.
+
+{% include image.html url="/holzwerke/img/einbauschrank01/ebs0103.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
+
 
 
 *Hochglanzoberfläche*
@@ -38,10 +48,16 @@ Die geteilte Ablage vor der Klappe und der Schubkasten lassen sich ohne Werkzeug
 Ob Massivholz, hochwertige Furniere, Dekore oder Glas, 
 bei RUPPERTdesign können Sie sich Ihre Wunschoberfläche in Farbe, Form und Oberflächenbeschaffenheit frei wählen.
 
+{% include image.html url="/holzwerke/img/einbauschrank01/ebs0104.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
+
+
 *Integrierter LED-Fernseher*
 
 Nur bei maßgefertigten Möbeln können Spezialwünsche, 
 wie die Integration eines Fernsehers, verwirklicht werden. Passende Schalter und Steckdosen können auf Wunsch mitgeliefert werden.
+
+{% include image.html url="/holzwerke/img/einbauschrank01/ebs0105.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
+
 
 *Perfekte Anpassung des Schranks an den Raum*
 
@@ -51,6 +67,12 @@ Mit RUPPERTdesign haben Sie einen kompetenten Möbeldesigner an Ihrer Seite,
 der mit Ihnen gemeinsam die für Sie optimale Lösung erarbeitet, 
 unter Berücksichtigung aller Aspekte, von der ersten Anfrage bis zum finalen Aufbau des Schranks, 
 und der Ihr Projekt Wunschschrank mit viel Herzblut für Sie verwirklicht.  
+
+{% include image.html url="/holzwerke/img/einbauschrank01/ebs0106.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
+
+{% include image.html url="/holzwerke/img/einbauschrank01/ebs0107.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
+
+{% include image.html url="/holzwerke/img/einbauschrank01/ebs0108.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
 
 
   
