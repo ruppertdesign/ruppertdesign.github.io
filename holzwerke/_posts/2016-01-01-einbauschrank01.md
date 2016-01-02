@@ -38,8 +38,9 @@ indem die Schubkästen des Schranks die maximal mögliche Tiefe ausnutzen, in di
 
 {% include image.html url="/holzwerke/img/einbauschrank01/ebs0103.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
 
-Durch die zusätzlich vorhandene Ablagefläche hinter der Kleiderstange bleibt kein cm des Schranks ungenutzt und 
-können für T-Shirt- und Pulloverstapel verwendet werden.
+Durch die zusätzlich vorhandene Ablagefläche hinter der Kleiderstange 
+bleibt kein Zentimeter des Schranks ungenutzt und 
+kann für T-Shirt- und Pulloverstapel verwendet werden.
 
 {% include image.html url="/holzwerke/img/einbauschrank01/ebs0107.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
 
