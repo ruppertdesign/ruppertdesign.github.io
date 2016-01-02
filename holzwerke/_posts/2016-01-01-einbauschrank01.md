@@ -23,9 +23,10 @@ Bei RUPPERTdesign sind Ausstattung und Design des Schranks frei wählbar.
 
 
 Dieser Einbauschrank von RUPPERTdesign wurde exakt nach den Wünschen der Kunden gefertigt. 
-Diese waren: Trotz niedrigem Kniestock möglichst viel Stauraum, 
+Diese waren: trotz niedrigem Kniestock möglichst viel Stauraum, 
 gute Zugänglichkeit einer großen Revisionsklappe, 
-eine weiße Hochglanzoberfläche und integrierter LED-Fernseher und nicht zuletzt eine perfekte Einbettung des Schranks in das helle und moderne Ambiente des Raums.
+eine weiße Hochglanzfront, ein integrierter LED-Fernseher 
+und nicht zuletzt die perfekte Einbettung des Schranks in das helle und moderne Ambiente des Raums.
 
 **Stauraum**
 
@@ -37,6 +38,8 @@ indem die Schubkästen des Schranks die maximal mögliche Tiefe ausnutzen, in di
 
 {% include image.html url="/holzwerke/img/einbauschrank01/ebs0103.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
 
+Durch die zusätzlich vorhandene Ablagefläche hinter der Kleiderstange bleibt kein cm des Schranks ungenutzt und 
+können für T-Shirt- und Pulloverstapel verwendet werden.
 
 {% include image.html url="/holzwerke/img/einbauschrank01/ebs0107.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
 
@@ -45,8 +48,8 @@ indem die Schubkästen des Schranks die maximal mögliche Tiefe ausnutzen, in di
 
 RUPPERTdesign legt sehr viel Wert auf praktische Aspekte, 
 so dass etwaige Revisionsklappen für Heizung oder Zähleruhren zugänglich bleiben. 
-In diesem Schrank läßt sich die zweigeteilte Ablage vor der Klappe 
-und der Schubkasten ohne Werkzeug in wenigen Sekunden ausbauen.
+In diesem Schrank lassen sich die zweigeteilte Ablagefläche vor der Klappe 
+und der darunterliegende Schubkasten ohne Werkzeug in wenigen Sekunden ausbauen.
 
 
 {% include image.html url="/holzwerke/img/einbauschrank01/ebs0108.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
@@ -56,7 +59,8 @@ und der Schubkasten ohne Werkzeug in wenigen Sekunden ausbauen.
 **Hochglanzoberfläche**
 
 Ob Massivholz, hochwertige Furniere, Dekore oder Glas, 
-bei RUPPERTdesign können Sie sich Ihre Wunschoberfläche in Farbe, Form und Oberflächenbeschaffenheit frei wählen.
+bei RUPPERTdesign können Sie sich Ihre Wunschoberfläche in Farbe, 
+Form und Oberflächenbeschaffenheit frei wählen.
 
 
 {% include image.html url="/holzwerke/img/einbauschrank01/ebs0105.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
@@ -68,7 +72,7 @@ bei RUPPERTdesign können Sie sich Ihre Wunschoberfläche in Farbe, Form und Obe
 
 Nur bei maßgefertigten Möbeln können Spezialwünsche, 
 wie die Integration eines Fernsehers, verwirklicht werden. 
-Eine passende TV-Halterung, Kabel- oder Satellitendosen können auf Wunsch mitgeliefert werden.
+Eine passende TV-Halterung, Kabel- oder Satellitendosen können auf Wunsch mitbestellt werden.
 
 {% include image.html url="/holzwerke/img/einbauschrank01/ebs0109.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau. Auf Wunsch mit eingebautem LED TV Fernseher." %}
 
@@ -77,7 +81,7 @@ Eine passende TV-Halterung, Kabel- oder Satellitendosen können auf Wunsch mitge
 Alle Einzelbestandteile eines Schranks von RUPPERTdesign sind frei wählbar 
 und garantieren somit ein hohes Maß an Gestaltungsfreiheit: von der Aufteilung des Schranks, 
 über die Art der Griffe oder Push-to-open-System für grifflose Möbeltüren, 
-bis hin zur Schrankinnenbeleuchtung. Bei dem dargestellten Schrank sind die 
+bis hin zur Schrankinnenbeleuchtung. Bei dem hier abgebildeten Schrank sind die 
 fingergezinkten Schubkästen aus Echtholz mit Griffen aus Edelstahl dank Softclose-Funktion lautlos.
 Für die perfekte Ausleuchtung im Innenraum sorgen integrierte LED-Spots. 
 
