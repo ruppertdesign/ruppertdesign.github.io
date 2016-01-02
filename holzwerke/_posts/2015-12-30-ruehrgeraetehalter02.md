@@ -2,8 +2,8 @@
 layout: holzwerk
 title:  "Halter für Küchen&shy;geräte"
 description: Mit diesem Halter für Küchengeräte von RUPPERTdesign werden Ihre Küchenutensilien zum Blickfang! Ihr Rührgerätehalter wird nach Maß und Wunsch gefertigt.
-permalink: /holzwerke/2016/01/02/ruehrgeraetehalter02/
-date:   2016-01-02
+permalink: /holzwerke/2015/12/30/ruehrgeraetehalter02/
+date:   2015-12-30
 intro: Aufgeräumt
 ---
 

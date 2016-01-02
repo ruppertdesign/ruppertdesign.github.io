@@ -9,7 +9,7 @@ intro: Nach Maß
 
 
 
-Ein Raum mit enger Nische, schiefen Wänden oder mit Dachschräge macht es häufig unmöglich, 
+Ein Raum mit enger Nische, schiefen Wänden oder wie bei diesem Projekt mit Dachschräge macht es häufig unmöglich, 
 Standard-Kleiderschränke zu nutzen. Möchte man keine Kompromisse eingehen, 
 wird eine individuelle und maßgefertigte Lösung benötigt. 
 Dabei ist es wichtig, den Einbauschrank millimetergenau auf den Raum anzupassen, 
