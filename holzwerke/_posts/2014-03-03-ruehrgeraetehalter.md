@@ -24,7 +24,7 @@ Ihre Geräte haben einen anderen Schaftdurchmesser? Kein Problem – RUPPERTdesi
 Artikelnummer \| Holzart \| Holzgröße \| Preis
 
 * **Rührgerätehalter**       
-	RD.013.004  \| 	Nussbaum \| ca. L 40 x B 12 x H 3 \| 49 EUR
+	RD.013.004  \| 	Nussbaum \| ca. L 40 x B 12 x H 3 \| 59 EUR
 
 * **Rührgerätehalter**       
-	RD.013.005  \| 	Eiche \| ca. L 40 x B 12 x H 3 \| 49 EUR
+	RD.013.005  \| 	Eiche \| ca. L 40 x B 12 x H 3 \| 59 EUR
