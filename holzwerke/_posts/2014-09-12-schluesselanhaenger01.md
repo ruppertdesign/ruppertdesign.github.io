@@ -6,10 +6,10 @@ permalink: /holzwerke/2014/09/12/schluesselanhaenger01/
 date:   2014-09-12
 intro: Persönlicher Begleiter im Alltag
 product:
-  name: Schlüsselanhänger RUPPERTdesign
-  price: "5.00"
+  name: Schlüsselanhänger aus Holz von RUPPERTdesign mit Wunschnamen
+  price: "5.90"
   image: /holzwerke/img/schluesselanhaenger01/schluesselanhaenger02.jpg
-  url: http://de.dawanda.com/product/88493323-schluesselanhaenger
+  url: http://http://de.dawanda.com/product/88493323-schluesselanhaenger-aus-holz-mit-wunschnamen
 ---
 
 Sie möchten ein Geschenk um einen persönlichen Schlüsselanhänger aus Holz erweitern? 
