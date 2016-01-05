@@ -2,7 +2,7 @@
 layout: holzwerk
 title:  "Schlüssel&shy;anhänger"
 description: Diese Schlüsselanhänger aus Holz von RUPPERTdesign sind persönliche Begleiter im Alltag. Ihre Schlüsselanhänger aus Holz können mit Namen oder einem Spruch versehen werden. Ein tolles Geburtstagsgeschenk. 
-permalink: /holzwerke/2014/09/12/schluesselanhaenger01/
+permalink: /holzwerke/2016/01/05/schluesselanhaenger01/
 date:   2016-01-05
 intro: Persönlicher Begleiter im Alltag
 product:
