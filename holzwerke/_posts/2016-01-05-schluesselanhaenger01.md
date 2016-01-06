@@ -14,7 +14,7 @@ product:
 
 Sie möchten ein Geschenk um einen persönlichen Schlüsselanhänger aus Holz erweitern? 
 Sie haben eine Botschaft für einen lieben Menschen, 
-die dieser immer bei sich tragen soll? Sagen Sie mir einfach, 
+die dieser immer bei sich tragen soll? Schreiben Sie ganz einfach, 
 welcher Name oder Spruch auf den Schlüsselanhänger aus Holz darf.
 
 {% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger02.jpg" description="Individueller Schlüsselanhänger aus Holz mit Ihrem Wunschnamen oder Ihrem Wunschtext." type="small" %}
@@ -30,6 +30,14 @@ An diesen Schlüsselanhängern haben Ihre Gäste lange Freude und tragen sie imm
 
 
 Die Schlüsselanhänger sind in Eichen- oder Nussbaumholz erhältlich.
+
+*Ein Stück Holz tragen:*
+BARRY \| FLORIAN \| EDYTA \| PHIL \| STINA \| AUTO \| ZUHAUSE \| FINN \| ALEX \| HOLZKISTE \| 
+GLORIA \| BRIGITTE \| LOTTE \| KAKA \| AMELIE \| ELENA \| HOSCHI \| THOMAS \| DANKE \| THORSTEN \| 
+FELIX \| ANNA \| TIMO \| NADINE \| FERIENHAUS \| PIUS \| PATRICK \| JULIA \| KATHI \| GÜNTHER \| SYLVIA \|
+ HELGA \| INEX \| DANA \| CHRIS \| PIA \| LEA \| KITTY \| DENI \| SUNITA \| LINDA \| ULI \| FABIENNE \| 
+ SVENJA \| KIAN \| KURT \| ULLA \| BASTI \| HERZENSMENSCH \| RÄUBERHERZ \| LÖWENMÄDCHEN \| SARAH \| 
+ MERLE
 
 **Starkes Holzwerk**   
 Artikelnummer \| Holzart \| Holzgröße \| Preis

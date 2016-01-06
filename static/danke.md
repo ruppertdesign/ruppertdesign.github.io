@@ -7,9 +7,9 @@ kontakt: false
 
 # Vielen Dank für Ihr Interesse.
 
-{% include image.html url="/img/danke.jpg" description="Gerne fertige ich Ihr Holzwerk nach Ihren Wünschen an." type="medium" %}
+{% include image.html url="/img/danke.jpg" description="Gerne fertigt RUPPERTdesign Ihr Holzwerk nach Ihren Wünschen." type="medium" %}
 
-Ich werde mir Ihre Anfrage umgehend ansehen und mich bei Ihnen melden, um weitere Details zu besprechen.
+RUPPERTdesign wird sich Ihre Anfrage umgehend ansehen und sich bei Ihnen melden, um weitere Details zu besprechen.
 
 Viele Grüße
 
