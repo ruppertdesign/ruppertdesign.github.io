@@ -31,7 +31,7 @@ An diesen Schlüsselanhängern haben Ihre Gäste lange Freude und tragen sie imm
 
 Die Schlüsselanhänger sind in Eichen- oder Nussbaumholz erhältlich.
 
-Ein Stückchen Holz tragen ...
+Ein Stückchen Holz tragen :
 *BARRY \| FLORIAN \| EDYTA \| PHIL \| STINA \| AUTO \| ZUHAUSE \| FINN \| ALEX \| HOLZKISTE \| 
 GLORIA \| BRIGITTE \| LOTTE \| KAKA \| AMELIE \| ELENA \| HOSCHI \| THOMAS \| DANKE \| THORSTEN \| 
 FELIX \| ANNA \| TIMO \| NADINE \| FERIENHAUS \| PIUS \| PATRICK \| JULIA \| KATHI \| GÜNTHER \| SYLVIA \|
