@@ -33,7 +33,7 @@ Die Schlüsselanhänger sind in Eichen- oder Nussbaumholz erhältlich.
 
 
 **Schlüsselanhänger &shy;aus Holz &shy;tragen &shy;bereits &shy;diese Botschaften &shy;und Namen**
-BARRY \| FLORIAN \| LÖWENMÄDCHEN \| EDYTA \| PHIL \| STINA \| AUTO \| ZUHAUSE \| FINN \| ALEX \| HOLZKISTE \| 
+\| BARRY \| FLORIAN \| LÖWENMÄDCHEN \| EDYTA \| PHIL \| STINA \| AUTO \| ZUHAUSE \| FINN \| ALEX \| HOLZKISTE \| 
 GLORIA \| BRIGITTE \| LOTTE \| KAKA \| HERZENSMENSCH \| AMELIE \| ELENA \| HOSCHI \| THOMAS \| DANKE \| THORSTEN \| 
 FELIX \| ANNA \| LIEBLINGSPAPA \| TIMO \| NADINE \| FERIENHAUS \| PIUS \| PATRICK \| JULIA \| KATHI \| GÜNTHER \| SYLVIA \|
  HELGA \| SUPERMAMA \| INEX \| DANA \| CHRIS \| PIA \| LEA \| KITTY \| DENI \| SUNITA \| LINDA \| ULI \| FABIENNE \| 
