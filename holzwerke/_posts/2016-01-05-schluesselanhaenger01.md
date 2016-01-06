@@ -31,12 +31,14 @@ An diesen Schlüsselanhängern haben Ihre Gäste lange Freude und tragen sie imm
 
 Die Schlüsselanhänger sind in Eichen- oder Nussbaumholz erhältlich.
 
-**Schlüsselanhänger aus Holz tragen bereits diese Botschaften und Namen**
+
+**Schlüsselanhänger &shy;aus Holz &shy;tragen &shy;bereits &shy;diese Botschaften &shy;und Namen**
 BARRY \| FLORIAN \| LÖWENMÄDCHEN \| EDYTA \| PHIL \| STINA \| AUTO \| ZUHAUSE \| FINN \| ALEX \| HOLZKISTE \| 
 GLORIA \| BRIGITTE \| LOTTE \| KAKA \| HERZENSMENSCH \| AMELIE \| ELENA \| HOSCHI \| THOMAS \| DANKE \| THORSTEN \| 
 FELIX \| ANNA \| LIEBLINGSPAPA \| TIMO \| NADINE \| FERIENHAUS \| PIUS \| PATRICK \| JULIA \| KATHI \| GÜNTHER \| SYLVIA \|
  HELGA \| SUPERMAMA \| INEX \| DANA \| CHRIS \| PIA \| LEA \| KITTY \| DENI \| SUNITA \| LINDA \| ULI \| FABIENNE \| 
  SVENJA \| KIAN \| KURT \| ULLA \| BASTI \| RÄUBERHERZ \|  SARAH \| MERLE
+
 
 **Starkes Holzwerk**   
 Artikelnummer \| Holzart \| Holzgröße \| Preis
