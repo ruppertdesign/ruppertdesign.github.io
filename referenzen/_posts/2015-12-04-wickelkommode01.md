@@ -25,9 +25,9 @@ Wir hatten so einige Wünsche an unsere Kommode:
 Von der Stange gab es sowas nicht, deshalb musstest du für uns dieses Unikat entwerfen.
 Ohne zu übertreiben können wir sagen, es ist das schönste Möbelstück in unserem Zuhause. 
 
-Die Kommode wird wohl nicht das letzte Unikat von dir sein...
+Die Kommode wird wohl nicht das letzte Unikat von dir sein.
 
-Vielen Dank für dieses einzigartige HOLZWERK
+Vielen Dank für dieses einzigartige HOLZWERK :)
 
 Carina, Jochen und Marlene
 
