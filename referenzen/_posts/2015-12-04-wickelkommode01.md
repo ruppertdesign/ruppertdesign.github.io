@@ -9,11 +9,17 @@ unsere [Wickelkommode][161] ist nun schon einige Monate in Benutzung.
 Bis auf unsere Betten wohl das meistgenutzte, wichtigste Möbelstück in unserem Haus. 
 
 Wir hatten so einige Wünsche an unsere Kommode:
+
 * Saugroboterfreundlich
+
 * Nachhaltig (auch in der windelfreien Zeit nutzbar)
+
 * Langlebig
-* ganz viel Stauraum
-* große abnehmbare Wickelfläche mit abgetrennter Ablage
+
+* Ganz viel Stauraum
+
+* Große abnehmbare Wickelfläche mit abgetrennter Ablage
+
 * usw. ...
 
 Von der Stange gab es sowas nicht, deshalb musstest du für uns dieses Unikat entwerfen.
