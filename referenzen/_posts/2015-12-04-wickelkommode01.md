@@ -27,7 +27,7 @@ Ohne zu übertreiben können wir sagen, es ist das schönste Möbelstück in uns
 
 Die Kommode wird wohl nicht das letzte Unikat von dir sein.
 
-Vielen Dank für dieses einzigartige HOLZWERK :)
+Vielen Dank für dieses einzigartige HOLZWERK.
 
 Carina, Jochen und Marlene
 
