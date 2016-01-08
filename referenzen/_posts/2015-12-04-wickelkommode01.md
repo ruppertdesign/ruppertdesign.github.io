@@ -1,6 +1,6 @@
 ---
-title: Kommode und Garderobe für Laura und Damian
-date: 2015-02-17
+title: Wickelkommode für Marlene
+date: 2015-12-04
 ---
 
 Lieber Simon,
