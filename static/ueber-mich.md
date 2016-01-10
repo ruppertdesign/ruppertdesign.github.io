@@ -6,7 +6,7 @@ permalink: /ueber-mich/
 sitemap:
   priority: 0.7
   changefreq: 'yearly'
-  date: 2015-08-01
+  lastmod: 2015-08-01
 ---
 
 {% include image.html url="/img/simon1.jpg" description="Simon Ruppert" type="small" %}
