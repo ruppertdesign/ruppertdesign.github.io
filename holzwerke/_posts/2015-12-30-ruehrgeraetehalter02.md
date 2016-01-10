@@ -40,8 +40,6 @@ Kein Problem – RUPPERTdesign fertigt genau nach Maß und Wunsch.
 
 {% include image.html url="/holzwerke/img/ruehrgeraetehalter02/hk1602.jpg" description="Ein Halter für Küchengeräte. RUPPERTdesign schafft Ordnung." %}
 
-
-
 **Starkes Holzwerk**   
 Artikelnummer \| Holzart \| Holzgröße \| Preis
 
@@ -59,3 +57,7 @@ Artikelnummer \| Holzart \| Holzgröße \| Preis
 	
 * **Halter für Küchengeräte in Akazie gedämpft**       
 	RD.016.007  \| 	Akazie dunkel gedämpft \| ca. L 48 x B 10 x H 3 \| 59 EUR
+
+Auch erhältlich bei [eBay][1]{:target="_blank"}.
+
+ [1]: http://www.ebay.de/itm/191769493933?ssPageName=STRK:MESELX:IT&_trksid=p3984.m1558.l2648

@@ -55,3 +55,8 @@ Artikelnummer \| Holzart \| Holzgröße \| Preis
 	RD.016.002  \| 	Nussbaum \| ca. L 5 x B 1 x T 1 \| 7,90 EUR
 	
 	RD.016.003  \| 	Eiche \| ca. L 5 x B 1 x T 1 \| 7,90 EUR
+	
+Auch erhältlich bei [DaWanda][1]{:target="_blank"}.	
+	
+ [1]: http://de.dawanda.com/product/88493323-schluesselanhaenger-aus-holz-mit-wunschnamen
+	
