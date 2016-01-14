@@ -40,7 +40,9 @@ FELIX \| ANNA \| LIEBLINGSPAPA \| TIMO \| NADINE \| FERIENHAUS \| PIUS \| PATRIC
  SVENJA \| KIAN \| KURT \| ULLA \| BASTI \| RÄUBERHERZ \|  SARAH \| MERLE \| CARINA
 
 
-**WAS SOGST ZEFIX LAUSBUA \| Schlüsselanhänger auf bayerisch** 
+
+**WOS SOGST ZEFIX LAUSBUA \| Schlüsselanhänger auf bayerisch** 
+
 
 {% include image.html url="/holzwerke/img/schluesselanhaenger01/bay01.jpg" description="Bayrische Schlüsselanhänger aus Holz. Für alle Heimatverbunden." type="small" %}
 
