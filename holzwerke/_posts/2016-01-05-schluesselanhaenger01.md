@@ -40,6 +40,26 @@ FELIX \| ANNA \| LIEBLINGSPAPA \| TIMO \| NADINE \| FERIENHAUS \| PIUS \| PATRIC
  SVENJA \| KIAN \| KURT \| ULLA \| BASTI \| RÄUBERHERZ \|  SARAH \| MERLE \| CARINA
 
 
+**WAS SOGST ZEFIX LAUSBUA \| Schlüsselanhänger auf bayerisch** 
+
+{% include image.html url="/holzwerke/img/schluesselanhaenger01/bay01.jpg" description="Bayrische Schlüsselanhänger aus Holz. Für alle Heimatverbunden." type="small" %}
+
+
+{% include image.html url="/holzwerke/img/schluesselanhaenger01/bay02.jpg" description="Bayerische Schlüsselanhänger aus Holz. " type="small" %}
+
+
+{% include image.html url="/holzwerke/img/schluesselanhaenger01/bay03.jpg" description="Bayrische Schlüsselanhänger aus Holz von RUPPERTdesign mit Wunschtext lieferbar." type="small" %}
+
+
+{% include image.html url="/holzwerke/img/schluesselanhaenger01/bay04.jpg" description="Bayerische Schlüsselanhänger aus Holz mit Mundart. Handarbeit von RUPPERTdesign." type="small" %}
+
+
+{% include image.html url="/holzwerke/img/schluesselanhaenger01/bay05.jpg" description="Bayrische Schlüsselanhänger von RUPPERTdesign. Der Schlüsselanhänger mit Mundart." type="small" %}
+
+
+{% include image.html url="/holzwerke/img/schluesselanhaenger01/bay06.jpg" description="Bayerische Schlüsselanhänger. Bayern des samma mia. Welcher Spruch darf auf Ihren Schlüsselanhänger." type="small" %}
+
+
 **Starkes Holzwerk**   
 Artikelnummer \| Holzart \| Holzgröße \| Preis
 
