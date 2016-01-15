@@ -12,10 +12,10 @@ product:
   url: http://de.dawanda.com/product/80629839-schluesselboard-von-ruppertdesign
 ---
 
-Mit diesem schlichten und doch raffinierten Schlüsselboard gehört das Schlüsselsuchen der Vergangenheit an! 
+**Mit diesem schlichten und doch raffinierten Schlüsselboard gehört das Schlüsselsuchen der Vergangenheit an! 
 Es wird ganz einfach an die Wand montiert – 
 Dübel und Schrauben werden mitgeliefert – 
-und dank Linsenkopfplatten sind keine Schrauben sichtbar.  
+und dank Linsenkopfplatten sind keine Schrauben sichtbar.**  
 
 {% include image.html url="/holzwerke/img/schluesselboard01/schluesselboard01a.jpg" description="Beschreibung von Schlüsselboard 1" %}
 
