@@ -33,10 +33,12 @@ und nicht zuletzt die perfekte Einbettung des Schranks in das helle und moderne 
 Eine ideale Ausnutzung des Stauraums konnte erreicht werden, 
 indem die Schubkästen des Schranks die maximal mögliche Tiefe ausnutzen, in diesem Fall knapp über einen Meter.
 
-{% include image.html url="/holzwerke/img/einbauschrank01/ebs0102.jpg" description="Ein Einbauschrank nach Maß von RUPPERTdesign passt. Millimetergenau für jede Nische, schiefen Wänden und jede Dachschräge." type="small" %}
+{% include image.html url="/holzwerke/img/einbauschrank01/ebs0102.jpg" description="Ein Einbauschrank nach Maß von RUPPERTdesign passt. Millimetergenau für jede Nische, schiefen Wänden und jede Dachschräge." %}
 
 
-{% include image.html url="/holzwerke/img/einbauschrank01/ebs0103.jpg" description="Ein Einbauschrank nach Maß. Keine Kompromisse. Nur mit RUPPERTdesign." %}
+
+{% include image.html url="/holzwerke/img/einbauschrank01/ebs0103.jpg" description="Ein Einbauschrank nach Maß. Keine Kompromisse. Nur mit RUPPERTdesign." type="small" %}
+
 Durch die zusätzlich vorhandene Ablagefläche hinter der Kleiderstange 
 bleibt kein Zentimeter des Schranks ungenutzt und 
 kann für T-Shirt- und Pulloverstapel verwendet werden.
