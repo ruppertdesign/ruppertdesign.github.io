@@ -12,10 +12,10 @@ product:
   url: http://de.dawanda.com/product/88493323-schluesselanhaenger-aus-holz-mit-wunschnamen
 ---
 
-Sie möchten ein Geschenk um einen persönlichen Schlüsselanhänger aus Holz erweitern? 
+**Sie möchten ein Geschenk um einen persönlichen Schlüsselanhänger aus Holz erweitern? 
 Sie haben eine Botschaft für einen lieben Menschen, 
 die dieser immer bei sich tragen soll? Schreiben Sie ganz einfach, 
-welcher Name oder Spruch auf den Schlüsselanhänger aus Holz darf.
+welcher Name oder Spruch auf den Schlüsselanhänger aus Holz darf.**
 
 {% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger02.jpg" description="Individueller Schlüsselanhänger aus Holz mit Ihrem Wunschnamen oder Ihrem Wunschtext." type="small" %}
 

@@ -9,12 +9,12 @@ intro: Ohne Kompromisse
 
 
 
-Ein Raum mit enger Nische, schiefen Wänden oder wie bei diesem Projekt mit Dachschräge macht es häufig unmöglich, 
+**Ein Raum mit enger Nische, schiefen Wänden oder wie bei diesem Projekt mit Dachschräge macht es häufig unmöglich, 
 Standard-Kleiderschränke zu nutzen. Möchte man keine Kompromisse eingehen, 
 wird eine individuelle und maßgefertigte Lösung benötigt. 
 Dabei ist es wichtig, den Einbauschrank millimetergenau auf den Raum anzupassen, 
 um das beste Ergebnis bei maximalem Stauraum zu erhalten. 
-Bei RUPPERTdesign sind Ausstattung und Design des Schranks frei wählbar. 
+Bei RUPPERTdesign sind Ausstattung und Design des Schranks frei wählbar.**
 
 
 {% include image.html url="/holzwerke/img/einbauschrank01/ebs0101.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
