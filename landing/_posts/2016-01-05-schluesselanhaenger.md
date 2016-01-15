@@ -1,7 +1,7 @@
 ---
 layout: landing
 title:  Originelle Platzkarten für Ihre Hochzeit
-date:   2016-01-05
+date:   2014-08-16
 imageLink: /holzwerke/2016/01/05/schluesselanhaenger01/
 ---
 
