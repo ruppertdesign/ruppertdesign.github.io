@@ -17,7 +17,7 @@ um das beste Ergebnis bei maximalem Stauraum zu erhalten.
 Bei RUPPERTdesign sind Ausstattung und Design des Schranks frei wählbar.**
 
 
-{% include image.html url="/holzwerke/img/einbauschrank01/ebs0101.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
+{% include image.html url="/holzwerke/img/einbauschrank01/ebs0101.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." type="small" %}
 
 
 
@@ -33,7 +33,7 @@ und nicht zuletzt die perfekte Einbettung des Schranks in das helle und moderne 
 Eine ideale Ausnutzung des Stauraums konnte erreicht werden, 
 indem die Schubkästen des Schranks die maximal mögliche Tiefe ausnutzen, in diesem Fall knapp über einen Meter.
 
-{% include image.html url="/holzwerke/img/einbauschrank01/ebs0102.jpg" description="Ein Einbauschrank nach Maß von RUPPERTdesign passt. Millimetergenau für jede Nische, schiefen Wänden und jede Dachschräge." %}
+{% include image.html url="/holzwerke/img/einbauschrank01/ebs0102.jpg" description="Ein Einbauschrank nach Maß von RUPPERTdesign passt. Millimetergenau für jede Nische, schiefen Wänden und jede Dachschräge." type="small" %}
 
 
 {% include image.html url="/holzwerke/img/einbauschrank01/ebs0103.jpg" description="Ein Einbauschrank nach Maß. Keine Kompromisse. Nur mit RUPPERTdesign." %}
@@ -41,7 +41,7 @@ Durch die zusätzlich vorhandene Ablagefläche hinter der Kleiderstange
 bleibt kein Zentimeter des Schranks ungenutzt und 
 kann für T-Shirt- und Pulloverstapel verwendet werden.
 
-{% include image.html url="/holzwerke/img/einbauschrank01/ebs0107.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign. Individuell, ganz nach Ihren Wünschen." %}
+{% include image.html url="/holzwerke/img/einbauschrank01/ebs0107.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign. Individuell, ganz nach Ihren Wünschen." type="small" %}
 
 
 **Gute Zugänglichkeit einer großen Revisionsklappe**
@@ -52,8 +52,7 @@ In diesem Schrank lassen sich die zweigeteilte Ablagefläche vor der Klappe
 und der darunterliegende Schubkasten ohne Werkzeug in wenigen Sekunden ausbauen.
 
 
-{% include image.html url="/holzwerke/img/einbauschrank01/ebs0108.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau. Auch als Einbauschrank für Ihre Dachschräge." %}
-
+{% include image.html url="/holzwerke/img/einbauschrank01/ebs0108.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau. Auch als Einbauschrank für Ihre Dachschräge." type="small" %}
 
 
 **Hochglanzoberfläche**
@@ -63,9 +62,9 @@ bei RUPPERTdesign können Sie sich Ihre Wunschoberfläche in Farbe,
 Form und Oberflächenbeschaffenheit frei wählen.
 
 
-{% include image.html url="/holzwerke/img/einbauschrank01/ebs0105.jpg" description="Ein Einbauschrank nach Maß. Aus Massivholz, Furnier oder Dekorplatten. Auch Glas und Spiegelflächen werden realisiert. RUPPERTdesign steht für Einbauschränke nach Maß." %}
+{% include image.html url="/holzwerke/img/einbauschrank01/ebs0105.jpg" description="Ein Einbauschrank nach Maß. Aus Massivholz, Furnier oder Dekorplatten. Auch Glas und Spiegelflächen werden realisiert. RUPPERTdesign steht für Einbauschränke nach Maß." type="small" %}
 
-{% include image.html url="/holzwerke/img/einbauschrank01/ebs0106.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau. Der Schrank für Ihre Nische oder als Dachschrägenschrank." %}
+{% include image.html url="/holzwerke/img/einbauschrank01/ebs0106.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau. Der Schrank für Ihre Nische oder als Dachschrägenschrank." type="small" %}
 
 
 **Integrierter LED-Fernseher**
@@ -74,7 +73,7 @@ Nur bei maßgefertigten Möbeln können Spezialwünsche,
 wie die Integration eines Fernsehers, verwirklicht werden. 
 Eine passende TV-Halterung, Kabel- oder Satellitendosen können auf Wunsch mitbestellt werden.
 
-{% include image.html url="/holzwerke/img/einbauschrank01/ebs0109.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau. Auf Wunsch mit eingebautem LED TV Fernseher." %}
+{% include image.html url="/holzwerke/img/einbauschrank01/ebs0109.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau. Auf Wunsch mit eingebautem LED TV Fernseher." type="small" %}
 
 **Perfekte Anpassung des Schranks an den Raum**
 
@@ -85,7 +84,7 @@ bis hin zur Schrankinnenbeleuchtung. Bei dem hier abgebildeten Schrank sind die
 fingergezinkten Schubkästen aus Echtholz mit Griffen aus Edelstahl dank Softclose-Funktion lautlos.
 Für die perfekte Ausleuchtung im Innenraum sorgen integrierte LED-Spots. 
 
-{% include image.html url="/holzwerke/img/einbauschrank01/ebs0110.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign erfüllt all Ihre Wünsche. Auch als Einbauschrank mit Fernseher." %}
+{% include image.html url="/holzwerke/img/einbauschrank01/ebs0110.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign erfüllt all Ihre Wünsche. Auch als Einbauschrank mit Fernseher." type="small" %}
 
 
 Mit RUPPERTdesign haben Sie einen kompetenten Möbeldesigner an Ihrer Seite, 
