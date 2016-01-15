@@ -1,7 +1,7 @@
 ---
 layout: holzwerk
-title:  "Schlüssel&shy;board"
-description: Ein Schlüsselbrett aus Holz von RUPPERTdesign wird einfach an die Wand montiert. Der Clou - An jedem Edelstahlstift kann ein Schlüsselbund befestigt werden. 
+title:  "Schlüssel&shy;brett aus Holz"
+description: Ein Schlüsselboard aus Holz von RUPPERTdesign wird einfach an die Wand montiert. Der Clou - An jedem Edelstahlstift kann ein Schlüsselbund befestigt werden. 
 permalink: /holzwerke/2014/09/27/schluesselboard01/
 date:   2014-09-27
 intro: Schlüssel suchen war gestern
