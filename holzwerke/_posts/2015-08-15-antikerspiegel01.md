@@ -9,10 +9,10 @@ intro: Ein Spiegel mit Geschichte
 
 
 
-*Das Holz, das für diesen Spiegel verwendet wurde, 
+**Das Holz, das für diesen Spiegel verwendet wurde, 
 stammt aus dem Dachstuhlbalken der Kirche Mariä Geburt im Affinger Ortsteil Gebenhofen, 
 die im Jahr 1765 erbaut wurde. 
-Da vor ein paar Jahren das Dach der Kirche neu gedeckt wurde, sind einige morsche Balken erneuert worden.* 
+Da vor ein paar Jahren das Dach der Kirche neu gedeckt wurde, sind einige morsche Balken erneuert worden.** 
 
 
 {% include image.html url="/holzwerke/img/antikerspiegel01/antikerspiegel1.jpg" description="Spieglein, Spieglein an der Wand" %}
