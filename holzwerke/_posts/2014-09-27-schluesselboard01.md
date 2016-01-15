@@ -39,27 +39,27 @@ Ich fertige Ihnen Ihr Schlüsselboard genau nach Wunsch.
 Artikelnummer \| Holzart \| Holzgröße \| Preis
 
 * **2er Schlüsselboard**       
-	RD.014.009  \| 	Amerikanischer Nussbaum \| ca. L 12 x T 5 x H 3 \| 29 EUR
 	
-* **2er Schlüsselboard**       
+	RD.014.009  \| 	Amerikanischer Nussbaum \| ca. L 12 x T 5 x H 3 \| 29 EUR
+	    
 	RD.014.010  \| 	Eiche \| ca. L 12 x T 5 x H 3 \| 29 EUR
 
 * **3er Schlüsselboard**       
+	
 	RD.014.011  \| 	Amerikanischer Nussbaum \| ca. L 15 x T 5 x H 3 \| 34 EUR
-
-* **3er Schlüsselboard**       
+     
 	RD.014.012  \| 	Eiche \| ca. L 15 x T 5 x H 3 \| 34 EUR
 	
 * **4er Schlüsselboard**       
-	RD.014.013  \| 	Amerikanischer Nussbaum \| ca. L 18 x T 5 x H 3 \| 39 EUR
 	
-* **4er Schlüsselboard**       
+	RD.014.013  \| 	Amerikanischer Nussbaum \| ca. L 18 x T 5 x H 3 \| 39 EUR
+	      
 	RD.014.014  \| 	Eiche \| ca. L 18 x T 5 x H 3 \| 39 EUR
 	
 * **5er Schlüsselboard**       
+	
 	RD.014.015  \| 	Amerikanischer Nussbaum \| ca. L 21 x T 5 x H 3 \| 44 EUR
-
-* **5er Schlüsselboard**       
+     
 	RD.014.016  \| 	Eiche \| ca. L 21 x T 5 x H 3 \| 44 EUR
 
 Auch erhältlich bei [DaWanda][1]{:target="_blank"}.
