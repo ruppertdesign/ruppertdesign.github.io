@@ -24,14 +24,8 @@ dass mit diesem besonderen Holz sehr sorgfältig umgegangen werden musste.
 So wurde seine Oberfläche mit einer Stahlbürste vorsichtig gesäubert und ansonsten nicht weiter behandelt. 
 
 
-{% include image.html url="/holzwerke/img/antikerspiegel01/antikerspiegel2.jpg" description="Antikes Holz bekommt neues Leben" %}
-
-
 Der ein Meter lange Dachstuhlbalken wurde zu diesem besonderen Spiegel gefertigt, 
 der seinen Besitzern hoffentlich noch über viele Generationen hinweg Freude bereitet. 
-
-
-{% include image.html url="/holzwerke/img/antikerspiegel01/antikerspiegel3.jpg" description="Der besondere Spiegel" %}
 
 
 Haben Sie selbst auch ein besonderes Stück Holz, aus dem Sie ein starkes Holzwerk anfertigen lassen wollen? 
@@ -39,5 +33,11 @@ Dann kontaktieren Sie RUPPERTdesign gerne.
 Selbstverständlich wird Ihr Holz mit der größten Vorsicht und unter genauer Berücksichtigung Ihrer Wünsche behandelt. 
 
 
-**Starkes Holzwerk \| Spiegel**    
+{% include image.html url="/holzwerke/img/antikerspiegel01/antikerspiegel2.jpg" description="Antikes Holz bekommt neues Leben" %}
+
+
+{% include image.html url="/holzwerke/img/antikerspiegel01/antikerspiegel3.jpg" description="Der besondere Spiegel" %}
+
+
+**Starkes Holzwerk \| Antiker Holzspiegel**    
 RD.015.012  \|  Ihr Wunschholz  \|  Preis auf Anfrage
