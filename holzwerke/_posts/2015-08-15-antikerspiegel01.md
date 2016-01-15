@@ -1,7 +1,7 @@
 ---
 layout: holzwerk
-title:  "Atiker Holzspiegel"
-description: Der Atiker Holzpiegel von RUPPERTdesign hat Geschichte – das Holz war einst ein Teil eines Dachstuhlbalken einer Kirche. 
+title:  "Antiker Holzspiegel"
+description: Der Antiker Holzpiegel von RUPPERTdesign hat Geschichte – das Holz war einst ein Teil eines Dachstuhlbalken einer Kirche. 
 permalink: /holzwerke/2015/08/15/antikerspiegel01/
 date:   2015-08-15
 intro: Ein Spiegel mit Geschichte
