@@ -17,7 +17,7 @@ um das beste Ergebnis bei maximalem Stauraum zu erhalten.
 Bei RUPPERTdesign sind Ausstattung und Design des Schranks frei wählbar.**
 
 
-{% include image.html url="/holzwerke/img/einbauschrank01/ebs0101.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." type="small" %}
+{% include image.html url="/holzwerke/img/einbauschrank01/ebs0101.jpg" description="Ein maßgefertigter Einbauschrank von RUPPERTdesign passt millimetergenau für Räume mit enger Nische, schiefen Wänden oder mit Dachschräge." %}
 
 
 
@@ -33,7 +33,7 @@ und nicht zuletzt die perfekte Einbettung des Schranks in das helle und moderne 
 Eine ideale Ausnutzung des Stauraums konnte erreicht werden, 
 indem die Schubkästen des Schranks die maximal mögliche Tiefe ausnutzen, in diesem Fall knapp über einen Meter.
 
-{% include image.html url="/holzwerke/img/einbauschrank01/ebs0102.jpg" description="Ein Einbauschrank nach Maß von RUPPERTdesign passt. Millimetergenau für jede Nische, schiefen Wänden und jede Dachschräge." %}
+{% include image.html url="/holzwerke/img/einbauschrank01/ebs0102.jpg" description="Ein Einbauschrank nach Maß von RUPPERTdesign passt. Millimetergenau für jede Nische, schiefen Wänden und jede Dachschräge." type="small" %}
 
 
 
