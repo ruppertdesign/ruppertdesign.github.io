@@ -1,7 +1,7 @@
 ---
 layout: holzwerk
 title:  "Schlüssel&shy;anhänger"
-description: Diese Schlüsselanhänger aus Holz von RUPPERTdesign sind persönliche Begleiter im Alltag. Ihre Schlüsselanhänger aus Holz können mit Namen oder einem Spruch versehen werden. Ein tolles Geburtstagsgeschenk. 
+description: Diese Schlüsselanhänger aus Holz von RUPPERTdesign sind persönliche Begleiter im Alltag. Der Schlüsselanhänger kann mit einem Namen oder einem Spruch versehen werden. Auch ein tolles Geburtstagsgeschenk. 
 permalink: /holzwerke/2016/01/05/schluesselanhaenger01/
 date:   2016-01-05
 intro: Persönlicher Begleiter im Alltag
@@ -23,7 +23,7 @@ welcher Name oder Spruch auf den Schlüsselanhänger aus Holz darf.**
 
 {% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger04.jpg" description="Schlüsselanhänger aus Holz. Beliebte Vornamen 2015. Emma, Ben, Sophie. Beliebte Namen auch in 2016." type="small" %}
 
-Sie suchen für Ihre Hochzeit oder eine Geburtstagsfeier nach einer Alternative zu klassischen Tischkärtchen?
+Sie suchen für Ihre Hochzeit oder eine Geburtstagsfeier nach einer Alternative zu klassischen Platzkarten?
 An diesen Schlüsselanhängern haben Ihre Gäste lange Freude und tragen sie immer als schöne Erinnerung bei sich.
 
 {% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger01.jpg" description="Schlüsselanhänger aus Holz. Der Schlüsselanhänger aus Holz mit Wunschnamen. Die Alternative zu Tischkärtchen." type="small" %}
@@ -37,7 +37,7 @@ Die Schlüsselanhänger sind in Eichen- oder Nussbaumholz erhältlich.
 GLORIA \| BRIGITTE \| LOTTE \| KAKA \| HERZENSMENSCH \| AMELIE \| ELENA \| HOSCHI \| THOMAS \| DANKE \| THORSTEN \| 
 FELIX \| ANNA \| LIEBLINGSPAPA \| TIMO \| NADINE \| FERIENHAUS \| PIUS \| PATRICK \| JULIA \| KATHI \| GÜNTHER \| SYLVIA \|
  HELGA \| SUPERMAMA \| INES \| DANA \| CHRIS \| PIA \| LEA \| KITTY \| DENI \| SUNITA \| LINDA \| ULI \| FABIENNE \| 
- SVENJA \| KIAN \| KURT \| ULLA \| BASTI \| RÄUBERHERZ \|  SARAH \| MERLE \| CARINA
+ SVENJA \| KIAN \| KURT \| ULLA \| BASTI \| RÄUBERHERZ \|  SARAH \| MERLE \| CARINA \| THIES \| PHILLIS \| CHRISTIAN \| JETZT
 
 
 
