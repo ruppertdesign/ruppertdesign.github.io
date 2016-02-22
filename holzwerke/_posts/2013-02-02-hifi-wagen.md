@@ -7,8 +7,8 @@ date:   2013-02-02
 intro: Schwungvoller Lastenträger
 ---
 
-Dieser Hifi Wagen, selbst kein Leichtgewicht, trägt jeden Röhrenverstärker. 
-Die Holzbohle wurde nur minimal von mir bearbeitet, damit der Naturlook erhalten bleibt.
+**Dieser Hifi Wagen, selbst kein Leichtgewicht, trägt jeden Röhrenverstärker. 
+Die Holzbohle wurde nur minimal von mir bearbeitet, damit der Naturlook erhalten bleibt.**
 
 
 {% include image.html url="/holzwerke/img/hifi-wagen/hifiwagen01.jpg" description="Hifiwagenfront" %}

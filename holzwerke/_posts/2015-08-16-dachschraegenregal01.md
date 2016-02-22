@@ -9,8 +9,8 @@ intro: Leitz Ordner griffbereit und aufgeräumt
 
 
 
-RUPPERTdesign fertigt Ihnen ein individuelles Holzwerk nach Maß für jede Ecke, 
-besonders dann, wenn kein Möbelhaus die passende Lösung bietet.  
+**RUPPERTdesign fertigt Ihnen ein individuelles Holzwerk nach Maß für jede Ecke, 
+besonders dann, wenn kein Möbelhaus die passende Lösung bietet.**  
 
 
 {% include image.html url="/holzwerke/img/dachschraegenregal01/einbauregal01.jpg" description="Einbauregal oder Einbauschrank. RUPPERTdesign fertigt nach Maß für jede Ecke." %}
