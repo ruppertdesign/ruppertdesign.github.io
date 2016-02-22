@@ -1,7 +1,7 @@
 ---
 layout: holzwerk
-title:  "Antiker Holzspiegel"
-description: Der Antiker Holzpiegel von RUPPERTdesign hat Geschichte – das Holz war einst ein Teil eines Dachstuhlbalken einer Kirche. 
+title:  "Alter Holzspiegel"
+description: Der Antiker Holzpiegel von RUPPERTdesign hat Geschichte – das rustikale Holz war einst ein Teil eines Dachstuhlbalken einer Kirche. Nun ist er ein Unikat.
 permalink: /holzwerke/2015/08/15/antikerspiegel01/
 date:   2015-08-15
 intro: Ein Spiegel mit Geschichte
@@ -9,13 +9,13 @@ intro: Ein Spiegel mit Geschichte
 
 
 
-**Das Holz, das für diesen Spiegel verwendet wurde, 
+**Das Holz, das für diesen rustikalen Spiegel verwendet wurde, 
 stammt aus dem Dachstuhlbalken der Kirche Mariä Geburt im Affinger Ortsteil Gebenhofen, 
 die im Jahr 1765 erbaut wurde. 
 Da vor ein paar Jahren das Dach der Kirche neu gedeckt wurde, sind einige morsche Balken erneuert worden.** 
 
 
-{% include image.html url="/holzwerke/img/antikerspiegel01/antikerspiegel1.jpg" description="Spieglein, Spieglein an der Wand" %}
+{% include image.html url="/holzwerke/img/antikerspiegel01/antikerspiegel1.jpg" description="Ein Unikat aus rustikalem Holz. Spiegel aus Altholz." %}
 
 
 Als RUPPERTdesign von einer Kundin den Auftrag erhielt, 
@@ -33,11 +33,11 @@ Dann kontaktieren Sie RUPPERTdesign gerne.
 Selbstverständlich wird Ihr Holz mit der größten Vorsicht und unter genauer Berücksichtigung Ihrer Wünsche behandelt. 
 
 
-{% include image.html url="/holzwerke/img/antikerspiegel01/antikerspiegel2.jpg" description="Antikes Holz bekommt neues Leben" %}
+{% include image.html url="/holzwerke/img/antikerspiegel01/antikerspiegel2.jpg" description="Antikes Holz oder rustikales Altholz. So entsteht ein Unikat." %}
 
 
-{% include image.html url="/holzwerke/img/antikerspiegel01/antikerspiegel3.jpg" description="Der besondere Spiegel" %}
+{% include image.html url="/holzwerke/img/antikerspiegel01/antikerspiegel3.jpg" description="Rustikale Spiegel. Ein Unikat von RUPPERTdesign." %}
 
 
-**Starkes Holzwerk \| Antiker Holzspiegel**    
+**Starkes Holzwerk \| Alter Holzspiegel**    
 RD.015.012  \|  Ihr Wunschholz  \|  Preis auf Anfrage

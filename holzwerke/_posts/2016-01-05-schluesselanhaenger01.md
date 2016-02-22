@@ -17,7 +17,7 @@ Sie haben eine Botschaft für einen lieben Menschen,
 die dieser immer bei sich tragen soll? Schreiben Sie ganz einfach, 
 welcher Name oder Spruch auf den Schlüsselanhänger aus Holz darf.**
 
-{% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger02.jpg" description="Individueller Schlüsselanhänger aus Holz mit Ihrem Wunschnamen oder Ihrem Wunschtext." type="small" %}
+{% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger02.jpg" description="Individueller Schlüsselanhänger aus Holz mit Ihrem Wunschnamen oder Ihrem Wunschtext. Auch ein schönes Geschenk zum Valentinstag." type="small" %}
 
 {% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger03.jpg" description="Schlüsselanhänger aus Holz zum Geburtstag. Schlüsselanhänger als Weihnachtsgeschenk. Schlüsselanhänger aus Holz zum Danke sagen." type="small" %}
 
@@ -42,7 +42,7 @@ FELIX \| ANNA \| LIEBLINGSPAPA \| TIMO \| NADINE \| FERIENHAUS \| PIUS \| PATRIC
 
 
 
-**WOS SOGST ZEFIX LAUSBUA \| Schlüsselanhänger auf bayerisch** 
+**Schlüsselanhänger auf bayerisch** 
 
 
 {% include image.html url="/holzwerke/img/schluesselanhaenger01/bay01.jpg" description="Bayrische Schlüsselanhänger aus Holz. Für alle Heimatverbunden." type="small" %}
