@@ -12,9 +12,9 @@ product:
   url: http://www.ebay.de/itm/191769493933?ssPageName=STRK:MESELX:IT&_trksid=p3984.m1558.l2648
 ---
 
-Mit der neuen Halterung von RUPPERTdesign sind Ihre Küchengeräte aufgeräumt und jederzeit griffbereit.
+**Mit der neuen Halterung von RUPPERTdesign sind Ihre Küchengeräte aufgeräumt und jederzeit griffbereit.
 Das Design der zweiten Generation wurde nur geringfügig angepasst.
-Neben klareren Formen und Kanten steht der Halter nun rutschfest auf sicheren Füßen.
+Neben klareren Formen und Kanten steht der Halter nun rutschfest auf sicheren Füßen.**
 
 
 {% include image.html url="/holzwerke/img/ruehrgeraetehalter02/hk1605.jpg" description="Ein Halter für Küchengeräte. RUPPERTdesign darf in der Küche nicht fehlen." %}
