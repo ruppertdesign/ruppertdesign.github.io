@@ -1,4 +1,5 @@
 ---
+layout: referenz
 title: Schlüsselbrett für Dietmar
 date: 2014-04-28
 ---

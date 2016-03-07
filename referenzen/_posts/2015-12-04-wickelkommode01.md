@@ -1,4 +1,5 @@
 ---
+layout: referenz
 title: Wickelkommode für Marlene
 date: 2015-12-04
 ---

@@ -1,4 +1,5 @@
 ---
+layout: referenz
 title: Spiegel
 date: 2015-11-02
 ---
