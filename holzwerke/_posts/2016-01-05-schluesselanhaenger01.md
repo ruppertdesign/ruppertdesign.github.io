@@ -42,8 +42,8 @@ FELIX \| ANNA \| LIEBLINGSPAPA \| TIMO \| NADINE \| FERIENHAUS \| PIUS \| PATRIC
  YL 31.01.15 \| 17.04.2015 \| PAULINA \| MIA-SOPHIE \| ALWAYS \| ANNIKA \| HEIMAT \| HERZBLATT \| ALI \| NELE \| TINA \| LARA \|
  POUPETTE \| DAHOAM \| Thieß \| CAROLINE \| Açelya \| Hannah \| Rilana \| Angelina \| Nicolai \| Chris \|
 Jonas \| Felipe \| Tjorve \| JENNY \| ANNA \| Kaja \| Benita \| Stina \| Lisa \|
-ALINE \| Alexander \| Lateesha \|  NINA \| Natascha \| Jessie \| LINA \| Chantal
-
+ALINE \| Alexander \| Lateesha \|  NINA \| Natascha \| Jessie \| LINA \| Chantal \| OLEFRATZMOBIL \| MARI \| SARI \| 
+STEFAN \| LUISA \| SOPHIA
 
 
 **Schlüsselanhänger auf bayerisch** 
