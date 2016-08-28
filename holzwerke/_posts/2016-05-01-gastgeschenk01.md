@@ -20,16 +20,16 @@ zum Beispiel hübsch verpackte Süßigkeiten.
 Eine andere Möglichkeit sind diese persönliche Schlüsselanhänger von RUPPERTdesign 
 mit dem Namen des Gastes und auf Wunsch dem Hochzeitsdatum. 
 
-{% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger02.jpg" description="Individueller Schlüsselanhänger aus Holz mit Ihrem Wunschnamen oder Ihrem Wunschtext. Auch ein schönes Geschenk zum Valentinstag." type="small" %}
+{% include image.html url="/holzwerke/img/gastgeschenk01/schluesselanhaenger02.jpg" description="Individueller Gastgeschenk aus Holz mit Ihrem Wunschnamen oder Ihrem Wunschtext." type="small" %}
 
-{% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger03.jpg" description="Schlüsselanhänger aus Holz zum Geburtstag. Schlüsselanhänger als Weihnachtsgeschenk. Schlüsselanhänger aus Holz zum Danke sagen." type="small" %}
+{% include image.html url="/holzwerke/img/gastgeschenk01/schluesselanhaenger03.jpg" description="Gastgeschenk aus Holz. Ein Schlüsselanhänger zum Danke sagen." type="small" %}
 
 Der Schlüsselanhänger ist eine bleibende, sehr persönliche Erinnerung, 
 die jeder Gast lange bei sich trägt.
 
 Die Schlüsselanhänger ersetzen gleichzeitig klassische Tischkärtchen und verleihen so jeder Hochzeitstafel eine besondere Note, besonders wenn sie mit Bändern in der Farbe der Hochzeitsdeko geschmückt werden. 
 
-{% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger01.jpg" description="Schlüsselanhänger aus Holz. Der Schlüsselanhänger aus Holz mit Wunschnamen. Die Alternative zu Tischkärtchen." type="small" %}
+{% include image.html url="/holzwerke/img/gastgeschenk01/schluesselanhaenger01.jpg" description="Schlüsselanhänger aus Holz. Der Schlüsselanhänger aus Holz mit Wunschnamen. Die Alternative zu Tischkärtchen." type="small" %}
 
 
 Sie sind in Eichenholz oder in Nussbaumholz erhältlich. 
