@@ -19,14 +19,10 @@ welcher Name oder Spruch auf den Schlüsselanhänger aus Holz darf.**
 
 {% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger02.jpg" description="Individueller Schlüsselanhänger aus Holz mit Ihrem Wunschnamen oder Ihrem Wunschtext. Auch ein schönes Geschenk zum Valentinstag." type="small" %}
 
-{% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger03.jpg" description="Schlüsselanhänger aus Holz zum Geburtstag. Schlüsselanhänger als Weihnachtsgeschenk. Schlüsselanhänger aus Holz zum Danke sagen." type="small" %}
-
 {% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger04.jpg" description="Schlüsselanhänger aus Holz. Beliebte Vornamen 2015. Emma, Ben, Sophie. Beliebte Namen auch in 2016." type="small" %}
 
 Sie suchen für Ihre Hochzeit oder eine Geburtstagsfeier nach einer Alternative zu klassischen Platzkarten?
 An diesen Schlüsselanhängern haben Ihre Gäste lange Freude und tragen sie immer als schöne Erinnerung bei sich.
-
-{% include image.html url="/holzwerke/img/schluesselanhaenger01/schluesselanhaenger01.jpg" description="Schlüsselanhänger aus Holz. Der Schlüsselanhänger aus Holz mit Wunschnamen. Die Alternative zu Tischkärtchen." type="small" %}
 
 
 Die Schlüsselanhänger sind in Eichen- oder Nussbaumholz erhältlich.
