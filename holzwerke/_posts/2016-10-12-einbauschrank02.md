@@ -10,7 +10,7 @@ intro: Zeitloses Design
 
 **RUPPERTdesign fertigt Einbauschränke, die sich jedem Raum millimetergenau anpassen und die maximale Breite aus jeder Nische ausnutzen.**
 
-Die Schränke sind großzügig und bieten viel Platz, sind dabei aber nicht wuchtig, sondern elegant und zeitlos im Design. 
+Die Schränke sind großzügig, bieten viel Platz und sind elegant und zeitlos im Design. 
 Es finden ausschließlich sehr hochwertige Materialien Verwendung.
 
 {% include image.html url="/holzwerke/img/einbauschrank02/ebs0201.jpg" description="Moderne Einbauschränke von RUPPERTdesign sind zeitlos." %}
