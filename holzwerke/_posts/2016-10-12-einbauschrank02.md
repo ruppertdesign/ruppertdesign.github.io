@@ -25,8 +25,6 @@ Seine Größe wird durch die 1,0 Meter langen Türgriffe aus Edelstahl abermals 
 
 {% include image.html url="/holzwerke/img/einbauschrank02/ebs0203.jpg" description="Große Einbauschränke von RUPPERTdesign sind Raumwunder." type="small" %}
 
-{% include image.html url="/holzwerke/img/einbauschrank02/ebs0204.jpg" description="Einbauschränke von RUPPERTdesign sind millimetergenau gefertigt." type="small" %}
-
 
 {% include image.html url="/holzwerke/img/einbauschrank02/ebs0206.jpg" description="Design- Form- und Funktion. Ein Einbauschrank von RUPPERTdesign bleibt zeitlos und immer modern." type="small" %}
 
@@ -37,6 +35,9 @@ Im Innere ist die Aufteilung symmetrisch und bietet genug Stauraum:
 vier kleine und zwei große, fingergezinkte Schubkästen aus massiven Buchenholz, 
 zwei Kleiderstangen aus Edelstahl zum Aufhängen von z.B. Blusen und Hemden, 
 zwei Kleiderstangen in den langen Fächern etwa für Mäntel und viele Fächer für Shirts, Jeans, Unterwäsche und Co., lassen keine Wünsche offen. 
+
+{% include image.html url="/holzwerke/img/einbauschrank02/ebs0204.jpg" description="Einbauschränke von RUPPERTdesign sind millimetergenau gefertigt." type="small" %}
+
 
 {% include image.html url="/holzwerke/img/einbauschrank02/ebs0205.jpg" description="Desgineinbauschrank bekommen Sie von RUPPERTdesign." type="small" %}
 
