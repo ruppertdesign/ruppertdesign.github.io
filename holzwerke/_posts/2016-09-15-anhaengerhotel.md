@@ -1,10 +1,10 @@
 ---
 layout: holzwerk
-title:  "Schlüssel&shy;anhänger mit Zimmernummer"
+title:  "Zimmernummern auf Holz"
 description: Diese Schlüsselanhänger aus Holz von RUPPERTdesign für Ihr Hotel. 
 permalink: /holzwerke/2016/09/15/anhaengerhotel/
 date:   2016-09-15
-intro: Hotel 
+intro: Für Ihre Gäste 
 product:
   name: Schlüsselanhänger aus Holz von RUPPERTdesign für Hotels
   price: "8.90"
@@ -33,8 +33,6 @@ die Schlüsselanhänger werden so für Sie individualisiert,
 dass Sie genau zu Ihnen passen. 
 
 {% include image.html url="/holzwerke/img/anhaengerhotel/hotel02.jpg" description="Individueller Schlüsselanhänger aus Holz mit Ihrem Wunschnamen oder Ihrem Wunschtext. ." type="small" %}
-
-{% include image.html url="/holzwerke/img/anhaengerhotel/hotel03.jpg" description="Individueller Schlüsselanhänger aus Holz mit Ihrem Wunschnamen oder Ihrem Wunschtext. ." type="small" %}
 
 {% include image.html url="/holzwerke/img/anhaengerhotel/hotel04.jpg" description="Individueller Schlüsselanhänger aus Holz mit Ihrem Wunschnamen oder Ihrem Wunschtext. ." type="small" %}
 
