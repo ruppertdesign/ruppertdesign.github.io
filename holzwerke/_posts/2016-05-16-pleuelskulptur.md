@@ -4,7 +4,7 @@ title:  "Pleuelskulptur"
 description: 
 permalink: /holzwerke/2016/05/16/pleuelskulptur/
 date:   2016-05-16
-intro: In Szene gesetzt
+intro: Maschinenbaukunst
 ---
 
 
