@@ -31,7 +31,7 @@ Seine Größe wird durch die 1,0 Meter langen Türgriffe aus Edelstahl abermals 
 
 Hinter den vier raumhohen Faltschiebetüren ist die Kleidung aufgeräumt. 
 Mit einem Handgriff wird die komplette Schrankbreite freigegeben. 
-Im Innern ist die Aufteilung symmetrisch und bietet genug Stauraum: 
+Im Inneren ist die Aufteilung symmetrisch und bietet genug Stauraum: 
 vier kleine und zwei große, fingergezinkte Schubkästen aus massivem Buchenholz, 
 zwei Kleiderstangen aus Edelstahl zum Aufhängen von z.B. Blusen und Hemden, 
 zwei Kleiderstangen in den langen Fächern etwa für Mäntel und viele Fächer für Shirts, Jeans, Unterwäsche und Co., lassen keine Wünsche offen. 
