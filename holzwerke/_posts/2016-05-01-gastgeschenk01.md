@@ -4,7 +4,7 @@ title:  "Gastgeschenk"
 description: Diese Schlüsselanhänger aus Holz von RUPPERTdesign. Ein ideales Gastgeschenk für Ihre Hochzeit.
 permalink: /holzwerke/2016/05/01/gastgeschenk01/
 date:   2016-05-01
-intro:  und Platzschild für Ihre Hochzeit
+intro:  Platzschild für Ihre Hochzeit
 product:
   name: Schlüsselanhänger aus Holz von RUPPERTdesign
   price: "5.90"
