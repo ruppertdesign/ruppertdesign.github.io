@@ -17,7 +17,7 @@ der jahrelang eine wichtige Position in einem großen Unternehmen innehatte, zum
 Am besten etwas aus dem Arbeitsalltag, eine Erinnerung an berufliche Erfolge und den gemeinsam zurückgelegten Weg.
 In diesem Fall war es eine Pleuelstange eines Marinemotors. 
 Das elementare Teil bei einer Kraft und Arbeitsmaschine, 
-welches die Verbindung zwischen der Kurbelwelle und dem Kolben herstellt. 
+welches die Verbindung zwischen der Kurbelwelle und dem Kolben herstellt.
 
 {% include image.html url="/holzwerke/img/pleuelskulptur/pleuel01.jpg" description="MAN Pleuel." type="small" %}
 
