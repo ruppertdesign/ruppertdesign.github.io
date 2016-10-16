@@ -19,8 +19,8 @@ RUPPERTdesign verwendet ausschließlich hochwertige Materialien.
 
 
 **Dieser moderne Einbauschrank in Dekor perlweiß harmoniert optimal mit der Wandfarbe und den hellen Deckenbalken.**
-Durch Schranktüren, die auf gleichen Höhe liegen wie die Wand, ist er  vollständig im Raum integriert.
-Die vierteile Passblende über den Türen verlängert den Schrank zur Zimmerdecke. Dadurch wächst das Raumwunder optisch auf 2,80 Meter.
+Durch Schranktüren, die auf gleicher Höhe liegen wie die Wand, ist er  vollständig im Raum integriert.
+Die vierteilige Passblende über den Türen verlängert den Schrank zur Zimmerdecke. Dadurch wächst das Raumwunder optisch auf 2,80 Meter.
 Seine Größe wird durch die 1,0 Meter langen Türgriffe aus Edelstahl abermals unterstrichen.
 
 {% include image.html url="/holzwerke/img/einbauschrank02/ebs0203.jpg" description="Große Einbauschränke von RUPPERTdesign sind Raumwunder." type="small" %}
