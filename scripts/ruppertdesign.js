@@ -11,9 +11,12 @@
 	};
 
 	var registerScrolling = function() {
-		$('[href="#kontakt"]').on('click', function(e) {
+		$('.scroll-to').on('click', function(e) {
 			e.preventDefault();
-			scrollTo('#kontakt', 1500);
+			var idx = e.target.href.indexOf('#');
+			if (idx !== -1) {
+				scrollTo(e.target.href.substring(idx), 1500);
+			}			
 		});
 	};
 
@@ -44,7 +47,6 @@
       }
       // minlength won't validate empty strings
       var enoughVal = !field['required'] || field.value.trim().length > 2;
-      console.info(field.tagName + ": " + field['required'] + " _ " + enoughVal);
       if (field.validity.valid && enoughVal) {
  				$(this).removeClass('error').next('.error-msg').fadeOut(150);
 			} else {
@@ -103,7 +105,7 @@
 
 	var scrollTo = function(selector, time) {
 		typeof smoothScroll != 'undefined'
-			? smoothScroll.animateScroll(null, selector, { speed: time, easing: 'easeInOutQuad' } )
+			? smoothScroll.animateScroll(null, selector, { speed: time, easing: 'easeInOutQuad', offset: 60 } )
 			: $(selector)[0].scrollIntoView();
 	};
 
