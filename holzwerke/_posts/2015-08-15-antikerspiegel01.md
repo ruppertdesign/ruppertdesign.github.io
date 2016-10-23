@@ -5,6 +5,7 @@ description: Der Antiker Holzpiegel von RUPPERTdesign hat Geschichte – das rus
 permalink: /holzwerke/2015/08/15/antikerspiegel01/
 date:   2015-08-15
 intro: Ein Spiegel mit Geschichte
+tags: ["Wohnen"]
 ---
 
 

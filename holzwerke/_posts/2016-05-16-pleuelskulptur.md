@@ -5,6 +5,7 @@ description:
 permalink: /holzwerke/2016/05/16/pleuelskulptur/
 date:   2016-05-16
 intro: Maschinenbaukunst
+tags: ["Accessories"]
 ---
 
 

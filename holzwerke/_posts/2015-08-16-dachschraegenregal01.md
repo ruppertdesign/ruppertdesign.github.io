@@ -5,6 +5,7 @@ description: Das Einbauregal von RUPPERTdesign wird nach Maß für jede Ecke gef
 permalink: /holzwerke/2015/08/16/dachschraegenregal01/
 date:   2015-08-16
 intro: Leitz Ordner griffbereit und aufgeräumt
+tags: ["Wohnen"]
 ---
 
 

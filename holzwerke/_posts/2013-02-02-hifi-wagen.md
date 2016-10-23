@@ -5,6 +5,7 @@ description: Ein Hifi Wagen von RUPPERTdesign ist ein schwungvoller Lastenträge
 permalink: /holzwerke/2013/02/02/hifi-wagen/
 date:   2013-02-02
 intro: Schwungvoller Lastenträger
+tags: ["Wohnen"]
 ---
 
 **Dieser Hifi Wagen, selbst kein Leichtgewicht, trägt jeden Röhrenverstärker. 

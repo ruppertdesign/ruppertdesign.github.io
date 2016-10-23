@@ -5,6 +5,7 @@ description: RUPPERTdesign liefert Laserteile, Biegeformteile und Schweißkonstr
 permalink: /holzwerke/2015/07/18/supporter/
 date:   2015-07-18
 intro: Das Besondere für Ihr Projekt
+tags: ["Wohnen"]
  
 ---
 

@@ -5,6 +5,7 @@ description: Eine Schuhkommode von RUPPERTdesign wird nach Ihren Vorgaben gefert
 permalink: /holzwerke/2014/01/10/schuhkommode/
 date:   2015-01-10
 intro: Schmuckstück in der Nische 
+tags: ["Wohnen"]
 ---
 
 

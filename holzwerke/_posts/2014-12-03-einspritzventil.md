@@ -5,6 +5,7 @@ description: RUPPERTdesign fertigt Ihnen eine Trägerplatte für ein Geschenk od
 permalink: /holzwerke/2014/12/04/einspritzventil/
 date:   2014-12-04
 intro: In Szene gesetzt
+tags: ["Accessories"]
 ---
 
 
