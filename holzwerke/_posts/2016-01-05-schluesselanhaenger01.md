@@ -5,7 +5,7 @@ description: Diese Schlüsselanhänger aus Holz von RUPPERTdesign sind persönli
 permalink: /holzwerke/2016/01/05/schluesselanhaenger01/
 date:   2016-01-05
 intro: Persönlicher Begleiter im Alltag
-tags: ["Besondere Geschenke"]
+tags: ["Geschenke"]
 product:
   name: Schlüsselanhänger aus Holz von RUPPERTdesign
   price: "5.90"
