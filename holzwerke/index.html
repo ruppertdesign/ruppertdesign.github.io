@@ -18,19 +18,20 @@ permalink: /holzwerke/
       Wenn Sie im Großraum München wohnen und einen Möbeldesigner suchen, können wir uns gerne zu einem persönlichen Gespräch treffen.
     </p>
 
-    <ul class="category-nav">
-      {% for tag in site.tags %}
-        <li>
-          <a href="#{{ tag | first | slugify }}" class="scroll-to">{{ tag | first }}</a>
-          {% unless forloop.last %}<span class="separator">|</span>{% endunless %}
-        </li>
-      {% endfor %}
-    </ul>
+    <div class="category-nav">
+      <ul>
+        {% for tag in site.holzwerke_tags %}
+          <li>
+            <a href="#{{ tag | slugify }}" class="scroll-to">{{ tag }}</a>
+            {% unless forloop.last %}<span class="separator">|</span>{% endunless %}
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
 
   </div>
 
-  {% for tagList in site.tags %}
-    {% assign tag = tagList | first %} 
+  {% for tag in site.holzwerke_tags %}
     <div class="pure-u-1-1 category-head">
       <h2><a id="{{ tag | slugify }}">{{ tag }}</a></h2>
       <hr>
