@@ -18,10 +18,10 @@ Das Design der zweiten Generation wurde nur geringfügig angepasst.
 Neben klareren Formen und Kanten steht der Halter nun rutschfest auf sicheren Füßen.**
 
 
-{% include image.html url="/holzwerke/img/ruehrgeraetehalter02/hk1605.jpg" description="Ein Halter für Küchengeräte. RUPPERTdesign darf in der Küche nicht fehlen." %}
+{% include image.html url="/holzwerke/img/ruehrgeraetehalter02/hk1605.jpg" description="Ein Halter für Küchengeräte. RUPPERTdesign darf in der Küche nicht fehlen." type="small" %}
 
 
-{% include image.html url="/holzwerke/img/ruehrgeraetehalter02/hk1606.jpg" description="Ein Halter für Küchengeräte. RUPPERTdesign Starkes Holzwerk." %}
+{% include image.html url="/holzwerke/img/ruehrgeraetehalter02/hk1606.jpg" description="Küchengerätehalter. RUPPERTdesign Starkes Holzwerk." type="small" %}
 
 
 
@@ -31,15 +31,15 @@ Ihre Geräte haben einen anderen Schaftdurchmesser?
 Kein Problem – RUPPERTdesign fertigt genau nach Maß und Wunsch.  
 
 
-{% include image.html url="/holzwerke/img/ruehrgeraetehalter02/hk1603.jpg" description="Ein Halter für Küchengeräte. RUPPERTdesign räumt auf." %}
+{% include image.html url="/holzwerke/img/ruehrgeraetehalter02/hk1603.jpg" description="Küchenhalter für Küchengeräte." type="small" %}
 
 
-{% include image.html url="/holzwerke/img/ruehrgeraetehalter02/hk1604.jpg" description="Ein Halter für Küchengeräte. RUPPERTdesign bringt Ordnung in die Küche." %}
+{% include image.html url="/holzwerke/img/ruehrgeraetehalter02/hk1604.jpg" description="Küchengerätehalter. RUPPERTdesign schafft Ordnung." type="small" %}
 
-{% include image.html url="/holzwerke/img/ruehrgeraetehalter02/hk1601.jpg" description="Ein Halter für Küchengeräte. RUPPERTdesign räumt auf." %}
+{% include image.html url="/holzwerke/img/ruehrgeraetehalter02/hk1601.jpg" description="Ein Halter für Küchengeräte." type="small" %}
 
 
-{% include image.html url="/holzwerke/img/ruehrgeraetehalter02/hk1602.jpg" description="Ein Halter für Küchengeräte. RUPPERTdesign schafft Ordnung." %}
+{% include image.html url="/holzwerke/img/ruehrgeraetehalter02/hk1602.jpg" description="Küchengerätehalter." type="small" %}
 
 **Starkes Holzwerk**   
 Artikelnummer \| Holzart \| Holzgröße \| Preis

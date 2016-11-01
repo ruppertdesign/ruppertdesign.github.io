@@ -21,19 +21,19 @@ Egal ob Gemüse, Obst, Fisch oder Fleisch – und unabhängig davon,
 welche Messer Sie zum Schnippeln verwenden: 
 Das Schneidbrett aus Massivholz hält der Anforderungen stand und ist noch dazu schonend für die Messerklinge.
 
-{% include image.html url="/holzwerke/img/schneidbrett01/schneidbrett0101.jpg" description="Ein Schneidbrett Medium von RUPPERTdesign ist individuell und hochwertig. RUPPERTdesign schreinert Ihr Schneidbrett nach Wunsch.  " %}
+{% include image.html url="/holzwerke/img/schneidbrett01/schneidbrett0101.jpg" description="Ein Schneidbrett Medium von RUPPERTdesign ist individuell und hochwertig. RUPPERTdesign schreinert Ihr Schneidbrett nach Wunsch.  " type="small" %}
 
 Die Saftrille des Schneidbretts verhindert zum Beispiel das Abfließen des Tomatensaftes. 
 So läuft kein Gemüsesaft vom Schneidbrett herunter.
 
-{% include image.html url="/holzwerke/img/schneidbrett01/schneidbrett0102.jpg" description="RUPPERTdesign Large Schneidbrett" %}
+{% include image.html url="/holzwerke/img/schneidbrett01/schneidbrett0102.jpg" description="RUPPERTdesign Large Schneidbrett" type="small" %}
 
 Das Schneidbrett ist nicht nur in der Küche gut aufgehoben, 
 es eignet sich auch für den Esszimmertisch: als Brotzeitbrett, 
 als Unterlage für Sushi oder andere Speisen – hier sind Ihrer Fantasie keine Grenzen gesetzt. 
 Es ist angerichtet! 
 
-{% include image.html url="/holzwerke/img/schneidbrett01/schneidbrett0103.jpg" description="RUPPERTdesign Schneidbrett Small, Schneidbrett Medium oder Schneidbrett Large. Wählen Sie Ihre Größe." %}
+{% include image.html url="/holzwerke/img/schneidbrett01/schneidbrett0103.jpg" description="RUPPERTdesign Schneidbrett Small, Schneidbrett Medium oder Schneidbrett Large. Wählen Sie Ihre Größe." type="small" %}
 
 
 

@@ -13,16 +13,16 @@ Diese Kommode aus massivem Nussbaumholz wurde passend für eine Nische im Eingan
 Sie dient als Schuhschrank und als Ablagefläche, zum Beispiel für das Telefon.
 
 
-{% include image.html url="/holzwerke/img/schuhkommode/schuhkommode02.jpg" description="Kommode geschlossen" %}
+{% include image.html url="/holzwerke/img/schuhkommode/schuhkommode02.jpg" description="Kommode geschlossen" type="small" %}
 
-{% include image.html url="/holzwerke/img/schuhkommode/schuhkommode01.jpg" description="Kommode offen" %}
+{% include image.html url="/holzwerke/img/schuhkommode/schuhkommode01.jpg" description="Kommode offen" type="small" %}
  
 Sowohl die Fronttüren als auch die Schublade kommen - dank Push-Öffner - ohne sichtbare Griffe aus. 
 Passend zur Kommode wurden zwei Mini-Garderoben aus Nussbaumholz mit jeweils zwei Edelstahlhaken gefertigt.
 
-{% include image.html url="/holzwerke/img/schuhkommode/schuhkommode03.jpg" description="Schuhfach offen" %}
+{% include image.html url="/holzwerke/img/schuhkommode/schuhkommode03.jpg" description="Schuhfach offen" type="small" %}
 
-{% include image.html url="/holzwerke/img/schuhkommode/schuhkommode04.jpg" description="Mini Garderobe" %}
+{% include image.html url="/holzwerke/img/schuhkommode/schuhkommode04.jpg" description="Mini Garderobe" type="small" %}
 
 
 **Starkes Holzwerk**   

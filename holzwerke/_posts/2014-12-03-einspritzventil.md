@@ -14,12 +14,12 @@ das ein Einspritzventil für einen Schiffsmotor optimal in Szene setzt.
 Dieses wurde einem Manager zur Verabschiedung aus dem Unternehmen als Geschenk überreicht. 
 Erinnerungen an die gemeinsame Zeit wurden auf eine Metallplatte gelasert.
 
-{% include image.html url="/holzwerke/img/einspritzventil/stativ01.jpg" description="Stativ" %}
+{% include image.html url="/holzwerke/img/einspritzventil/stativ01.jpg" description="Stativ" type="small" %}
 
 Durch die schwebende Aufhängung kommen alle wesentlichen Details des Ventils gut zur Geltung. 
 Der Lederriemen verleiht dem starken Holzwerk eine besondere Note.
 
-{% include image.html url="/holzwerke/img/einspritzventil/stativ02.jpg" description="Stativ" %}
+{% include image.html url="/holzwerke/img/einspritzventil/stativ02.jpg" description="Stativ" type="small" %}
 
 Sie möchten ein außergewöhnliches Geschenk überreichen oder haben selbst ein 
 besonderes Erinnerungsstück? 
