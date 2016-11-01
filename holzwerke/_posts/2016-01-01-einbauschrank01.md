@@ -1,10 +1,10 @@
 ---
 layout: holzwerk
-title:  "Individueller Einbauschrank"
+title:  "Einbauschrank"
 description: Ein Einbauschrank von RUPPERTdesign wird exakt nach Kundenwunsch gefertigt.
 permalink: /holzwerke/2016/01/01/einbauschrank01/
 date:   2016-01-01
-intro: Ohne Kompromisse
+intro: Dachschräge perfekt ausgenutzt
 tags: ["Schlafen"]
 ---
 

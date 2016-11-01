@@ -1,10 +1,10 @@
 ---
 layout: holzwerk
-title:  "Couchtisch mit Ablage"
+title:  "Couchtisch"
 description: Ein Couchtisch von RUPPERTdesign wird exakt nach Ihren Wünschen und aus Ihrem Wunschholz für Sie gefertigt, damit er perfekt zu Ihrer Einrichtung passt.
 permalink: /holzwerke/2014/07/18/wohnzimmertisch02/
 date:   2014-07-18
-intro: Taktikfeld für jede Fußballanalyse
+intro: Große Ablagefläche inklusive
 tags: ["Wohnen"]
 ---
 

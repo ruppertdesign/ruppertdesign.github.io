@@ -4,7 +4,7 @@ title:  "Schneidbrett"
 description: Ein Schneidbrett von RUPPERTdesign ist in verschiedenen Größen und Holzarten erhältlich. RUPPERTdesign schreinert Ihr Schneidbrett nach Maß und Wunsch.   
 permalink: /holzwerke/2015/03/12/schneidbrett01/
 date:   2015-03-12
-intro: Schöne Schnippelunterlage!
+intro: Schöne Schnippelunterlage
 tags: ["Kochen"]
 product:
   name: Schneidbrett Medium

@@ -1,10 +1,10 @@
 ---
 layout: holzwerk
-title:  "Rustikaler Holzspiegel"
+title:  "Holzspiegel"
 description: Der Antiker Holzpiegel von RUPPERTdesign hat Geschichte – das rustikale Holz war einst ein Teil eines Dachstuhlbalken einer Kirche. Nun ist er ein Unikat.
 permalink: /holzwerke/2015/08/15/antikerspiegel01/
 date:   2015-08-15
-intro: Ein Spiegel mit Geschichte
+intro: Rustikaler Spiegel mit Geschichte
 tags: ["Wohnen"]
 ---
 

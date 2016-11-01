@@ -4,7 +4,7 @@ title:  "Küchenleiste"
 description: Mit dieser Küchenleiste von RUPPERTdesign sind Ihre Küchengeräte ordentlich aufgereiht. Ihre Küchenleiste erhalten Sie aus Ihrem Wunschholz und nach Maß.
 permalink: /holzwerke/2014/04/15/kuechenleiste/
 date:   2014-04-15
-intro: Zeigt, was Sie hat
+intro: Küchenhelfer sofort zur Hand
 tags: ["Kochen"]
 ---
 

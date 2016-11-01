@@ -1,10 +1,10 @@
 ---
 layout: holzwerk
-title:  "Moderner Einbauschrank"
+title:  "Einbauschrank"
 description: Ein moderner Einbauschrank von RUPPERTdesign ist zeitlos.
 permalink: /holzwerke/2016/10/12/einbauschrank02/
 date:   2016-10-12
-intro: Zeitloses Design
+intro: Modernes Design
 tags: ["Wohnen"]
 ---
 

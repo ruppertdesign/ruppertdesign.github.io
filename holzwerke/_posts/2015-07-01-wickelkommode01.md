@@ -1,10 +1,10 @@
 ---
 layout: holzwerk
-title:  "Wickelkommode Marlene"
+title:  "Wickelkommode"
 description: Eine Wickelkommode von RUPPERTdesign hat ein zeitloses Design.
 permalink: /holzwerke/2015/07/01/wickelkommode01/
 date:   2015-07-01
-intro: Babytower nach Maß
+intro: Babytower für Marlene
 tags: ["Schlafen"]
 ---
 

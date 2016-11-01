@@ -1,10 +1,10 @@
 ---
 layout: holzwerk
-title:  "Metall-Laserteile"
+title:  "Metallfüße"
 description: RUPPERTdesign liefert Laserteile, Biegeformteile und Schweißkonstruktionen, individuell und persönlich für Sie gefertigt.
 permalink: /holzwerke/2015/07/18/supporter/
 date:   2015-07-18
-intro: Das Besondere für Ihr Projekt
+intro: Edelstahlteile für Ihr Projekt
 tags: ["Wohnen"]
  
 ---

@@ -1,10 +1,10 @@
 ---
 layout: holzwerk
-title:  "Zimmernummern auf Holz"
+title:  "Zimmerschlüssel"
 description: Diese Schlüsselanhänger aus Holz von RUPPERTdesign für Ihr Hotel. 
 permalink: /holzwerke/2016/09/15/anhaengerhotel/
 date:   2015-12-15
-intro: Für Ihre Gäste 
+intro: Hotel, Pension, Ferienwohnung 
 tags: ["Geschenke"]
 product:
   name: Schlüsselanhänger aus Holz von RUPPERTdesign für Hotels
