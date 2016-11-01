@@ -18,9 +18,11 @@ Es wird ganz einfach an die Wand montiert –
 Dübel und Schrauben werden mitgeliefert – 
 und dank Linsenkopfplatten sind keine Schrauben sichtbar.**  
 
-{% include image.html url="/holzwerke/img/schluesselboard01/schluesselboard01a.jpg" description="Beschreibung von Schlüsselboard 1" %}
 
-{% include image.html url="/holzwerke/img/schluesselboard01/schluesselboard01b.jpg" description="Beschreibung von Schlüsselboard 1" %}
+{% include image.html url="/holzwerke/img/schluesselboard01/schluesselboard01d.jpg" description="4er Schlüsselbrett in Eiche" type="small" %}
+
+{% include image.html url="/holzwerke/img/schluesselboard01/schluesselboard01e.jpg" description="Schlüsselboard in Eiche für vier Schlüsselanhänger" type="small" %}
+
 
 Und der Clou: 
 Das Schlüsselboard kann genau für die Anzahl Ihrer Familienmitglieder oder Mitbewohner bestellt werden. 
@@ -28,11 +30,11 @@ Jeder „Mitbewohner“ erhält seinen Edelstahlstift, den er an seinem Schlüss
 Zu Hause steckt er den Stift in einen freien Platz des Schlüsselboards – 
 und hat den Schlüssel somit immer griffbereit.
 
-{% include image.html url="/holzwerke/img/schluesselboard01/schluesselboard01c.jpg" description="Beschreibung von Schlüsselboard 1" %}
+{% include image.html url="/holzwerke/img/schluesselboard01/schluesselboard01a.jpg" description="Beschreibung von Schlüsselboard 1" type="small" %}
 
-{% include image.html url="/holzwerke/img/schluesselboard01/schluesselboard01d.jpg" description="4er Schlüsselbrett in Eiche" %}
+{% include image.html url="/holzwerke/img/schluesselboard01/schluesselboard01b.jpg" description="Beschreibung von Schlüsselboard 1" type="small" %}
 
-{% include image.html url="/holzwerke/img/schluesselboard01/schluesselboard01e.jpg" description="Schlüsselboard in Eiche für vier Schlüsselanhänger" %}
+{% include image.html url="/holzwerke/img/schluesselboard01/schluesselboard01c.jpg" description="Beschreibung von Schlüsselboard 1" type="small" %}
 
 Ich fertige Ihnen Ihr Schlüsselboard genau nach Wunsch.
 
