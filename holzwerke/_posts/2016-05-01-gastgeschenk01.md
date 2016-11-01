@@ -46,12 +46,16 @@ Artikelnummer \| Holzart \| Holzgröße \| Preis
 	
 	RD.014.008  \| 	Eiche \| ca. L 5 x B 1 x T 1 \| 5,90 EUR
 	
+	RD.016.044  \| 	Ahorn \| ca. L 5 x B 1 x T 1 \| 5,90 EUR
+	
 
 * **Schlüsselanhänger mit Wunschtext mehrzeilig**
       
 	RD.016.002  \| 	Nussbaum \| ca. L 5 x B 1 x T 1 \| 7,90 EUR
 	
 	RD.016.003  \| 	Eiche \| ca. L 5 x B 1 x T 1 \| 7,90 EUR
+	
+	RD.016.045  \| 	Ahorn \| ca. L 5 x B 1 x T 1 \| 7,90 EUR
 	
 Auch erhältlich bei [DaWanda][1]{:target="_blank"}.	
 	
