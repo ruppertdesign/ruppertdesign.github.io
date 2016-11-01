@@ -16,7 +16,7 @@ die im Jahr 1765 erbaut wurde.
 Da vor ein paar Jahren das Dach der Kirche neu gedeckt wurde, sind einige morsche Balken erneuert worden.** 
 
 
-{% include image.html url="/holzwerke/img/antikerspiegel01/antikerspiegel1.jpg" description="Ein Unikat aus rustikalem Holz. Spiegel aus Altholz." %}
+{% include image.html url="/holzwerke/img/antikerspiegel01/antikerspiegel1.jpg" description="Ein Unikat aus rustikalem Holz. Spiegel aus Altholz." type="small" %}
 
 
 Als RUPPERTdesign von einer Kundin den Auftrag erhielt, 
@@ -34,10 +34,10 @@ Dann kontaktieren Sie RUPPERTdesign gerne.
 Selbstverständlich wird Ihr Holz mit der größten Vorsicht und unter genauer Berücksichtigung Ihrer Wünsche behandelt. 
 
 
-{% include image.html url="/holzwerke/img/antikerspiegel01/antikerspiegel2.jpg" description="Antikes Holz oder rustikales Altholz. So entsteht ein Unikat." %}
+{% include image.html url="/holzwerke/img/antikerspiegel01/antikerspiegel2.jpg" description="Antikes Holz oder rustikales Altholz. So entsteht ein Unikat." type="small" %}
 
 
-{% include image.html url="/holzwerke/img/antikerspiegel01/antikerspiegel3.jpg" description="Rustikale Spiegel. Ein Unikat von RUPPERTdesign." %}
+{% include image.html url="/holzwerke/img/antikerspiegel01/antikerspiegel3.jpg" description="Rustikale Spiegel. Ein Unikat von RUPPERTdesign." type="small" %}
 
 
 **Starkes Holzwerk \| Alter Holzspiegel**    

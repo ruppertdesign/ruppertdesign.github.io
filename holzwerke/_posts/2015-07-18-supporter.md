@@ -15,10 +15,10 @@ Zum Beispiel einen Unterbau für Ihre Balkon-Loungemöbel.
 
 
 
-{% include image.html url="/holzwerke/img/supporter/sup02.jpg" description="Edelstahl Laserteile von RUPPERTdesign." %}
+{% include image.html url="/holzwerke/img/supporter/sup02.jpg" description="Edelstahl Laserteile von RUPPERTdesign." type="small" %}
 
 
-{% include image.html url="/holzwerke/img/supporter/sup03.jpg" description="Metall-Laserteile aus Edelstahl." %}
+{% include image.html url="/holzwerke/img/supporter/sup03.jpg" description="Metall-Laserteile aus Edelstahl." type="small" %}
 
 
 RUPPERTdesign liefert Laserteile, Biegeformteile und Schweißkonstruktionen, individuell und persönlich für Sie gefertigt.
