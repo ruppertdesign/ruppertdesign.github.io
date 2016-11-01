@@ -18,7 +18,7 @@ Es ist ein schöner Hochzeitsbrauch:
 Wer heiratet, schenkt seinen Gästen auf der Hochzeit eine Kleinigkeit als Erinnerung, 
 zum Beispiel hübsch verpackte Süßigkeiten.
 
-Eine andere Möglichkeit sind diese persönliche Schlüsselanhänger von RUPPERTdesign 
+Eine andere Möglichkeit sind diese persönlichen Schlüsselanhänger von RUPPERTdesign 
 mit dem Namen des Gastes und auf Wunsch dem Hochzeitsdatum. 
 
 {% include image.html url="/holzwerke/img/gastgeschenk01/schluesselanhaenger02.jpg" description="Individueller Gastgeschenk aus Holz mit Ihrem Wunschnamen oder Ihrem Wunschtext." type="small" %}
