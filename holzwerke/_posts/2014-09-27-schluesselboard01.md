@@ -5,7 +5,7 @@ description: Ein Schlüsselboard aus Holz von RUPPERTdesign wird einfach an die 
 permalink: /holzwerke/2014/09/27/schluesselboard01/
 date:   2014-09-27
 intro: Schlüssel suchen war gestern
-tags: ["Wohnen"]
+tags: ["Geschenke"]
 product:
   name: Schlüsselboard
   price: "39.00"
