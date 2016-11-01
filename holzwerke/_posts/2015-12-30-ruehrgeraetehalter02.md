@@ -5,7 +5,7 @@ description: Mit diesem Halter für Küchengeräte von RUPPERTdesign werden Ihre
 permalink: /holzwerke/2015/12/30/ruehrgeraetehalter02/
 date:   2015-12-30
 intro: Aufgeräumt
-tags: ["Küche"]
+tags: ["Kochen"]
 product:
   name: Halter für Küchengeräte
   price: "59.00"

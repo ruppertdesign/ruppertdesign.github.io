@@ -5,7 +5,7 @@ description: Eine Stapelhilfe von RUPPERTdesign für ihre Raspelmesser. Gerade f
 permalink: /holzwerke/2014/02/23/stapelhilfe/
 date:   2014-02-23
 intro: Alle Raspelmesser griffbereit
-tags: ["Küche"]
+tags: ["Kochen"]
 ---
 
 Neben der Halterung für die Rührgeräte einer  [Küchenmaschine][3] gibt es natürlich auch eine Stapelhilfe für ihre Raspelmesser.

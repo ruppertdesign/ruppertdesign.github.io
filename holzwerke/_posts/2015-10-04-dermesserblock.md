@@ -5,7 +5,7 @@ description: DER|Messerblock! Von RUPPERTdesign. Da gehören Ihre Messer hin.
 permalink: /holzwerke/2015/10/04/dermesserblock/
 date:   2015-10-04
 intro: Starker Holzblock
-tags: ["Küche"]
+tags: ["Kochen"]
 ---
 
 

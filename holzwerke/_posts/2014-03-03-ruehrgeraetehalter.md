@@ -5,7 +5,7 @@ description: Mit diesem Rührgerätehalter von RUPPERTdesign  werden Küchenuten
 permalink: /holzwerke/2014/03/03/ruehrgeraetehalter/
 date:   2014-03-03
 intro: Allzeit griffbereit
-tags: ["Küche"]
+tags: ["Kochen"]
 ---
 
 **Oft landen Küchenutensilien, beispielsweise für eine Küchenmaschine, 
