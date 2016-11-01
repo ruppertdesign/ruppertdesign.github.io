@@ -5,7 +5,7 @@ description: Ein Griffboard in der Wohnung? Sicher doch! Das effektive Trainings
 permalink: /holzwerke/2013/01/01/griffbrett/
 date:   2013-01-01
 intro: Für Klimmzüge der besonderen Art
-tags: ["Freizeit"]
+tags: ["Geschenke"]
 ---
 
 **Ein Griffboard in der Wohnung? Sicher doch! 
