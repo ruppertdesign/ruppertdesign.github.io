@@ -5,7 +5,7 @@ description: Dieses Schlüsselbrett von RUPPERTdesign, das einfach an die Wand g
 permalink: /holzwerke/2014/04/04/schluesselbrett/
 date:   2014-04-04 
 intro: Platz für Ihre Schlüssel
-tags: ["Geschenke"]
+tags: ["geschenke"]
 ---
 
 Dieses Schlüsselbrett, das einfach an die Wand geschraubt wird, ist sehr flexibel einsetzbar. 

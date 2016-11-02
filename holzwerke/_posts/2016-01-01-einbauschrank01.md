@@ -5,7 +5,7 @@ description: Ein Einbauschrank von RUPPERTdesign wird exakt nach Kundenwunsch ge
 permalink: /holzwerke/2016/01/01/einbauschrank01/
 date:   2016-01-01
 intro: Dachschräge perfekt ausgenutzt
-tags: ["Schlafen"]
+tags: ["schlafen"]
 ---
 
 

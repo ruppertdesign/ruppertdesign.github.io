@@ -5,7 +5,7 @@ description: Eine Wickelkommode von RUPPERTdesign hat ein zeitloses Design.
 permalink: /holzwerke/2015/07/01/wickelkommode01/
 date:   2015-07-01
 intro: Babytower für Marlene
-tags: ["Schlafen"]
+tags: ["schlafen"]
 ---
 
 

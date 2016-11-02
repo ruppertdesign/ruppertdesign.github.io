@@ -17,4 +17,9 @@ sass:
   style: compressed
 
 # Holzwerke Categories/Tags
-holzwerke_tags: ["Wohnen", "Essen", "Kochen", "Schlafen", "Geschenke"]
+holzwerke_tags:
+  wohnen: "Wohnen"
+  essen: "Essen"
+  kueche: "Küche"
+  schlafen: "Schlafen"
+  geschenke: "Geschenke"

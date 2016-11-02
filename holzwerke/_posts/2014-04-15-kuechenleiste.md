@@ -5,7 +5,7 @@ description: Mit dieser Küchenleiste von RUPPERTdesign sind Ihre Küchengeräte
 permalink: /holzwerke/2014/04/15/kuechenleiste/
 date:   2014-04-15
 intro: Küchenhelfer sofort zur Hand
-tags: ["Kochen"]
+tags: ["kueche"]
 ---
 
 Mit dieser Küchenleiste sind Ihre Küchengeräte ordentlich aufgereiht und beim Kochen sofort griffbereit. 

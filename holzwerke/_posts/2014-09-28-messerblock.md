@@ -5,7 +5,7 @@ description: Ein Messerblock aus Holz von RUPPERTdesign überzeugt durch sein ed
 permalink: /holzwerke/2014/09/28/messerblock/
 date:   2014-09-28
 intro: Scharfes sicher verwahrt
-tags: ["Kochen"]
+tags: ["kochen"]
 ---
 
 Dieser Messerblock aus Massivholz überzeugt durch sein edles Design mit seitlich angebrachten Edelstahlstäben, 

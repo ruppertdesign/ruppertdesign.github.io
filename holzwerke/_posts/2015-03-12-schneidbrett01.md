@@ -5,7 +5,7 @@ description: Ein Schneidbrett von RUPPERTdesign ist in verschiedenen Größen un
 permalink: /holzwerke/2015/03/12/schneidbrett01/
 date:   2015-03-12
 intro: Schöne Schnippelunterlage
-tags: ["Kochen"]
+tags: ["kueche"]
 product:
   name: Schneidbrett Medium
   price: "99.00"

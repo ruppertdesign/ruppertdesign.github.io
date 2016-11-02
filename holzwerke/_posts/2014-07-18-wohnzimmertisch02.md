@@ -5,7 +5,7 @@ description: Ein Couchtisch von RUPPERTdesign wird exakt nach Ihren Wünschen un
 permalink: /holzwerke/2014/07/18/wohnzimmertisch02/
 date:   2014-07-18
 intro: Große Ablagefläche inklusive
-tags: ["Wohnen"]
+tags: ["wohnen"]
 ---
 
 Dieser Couchtisch aus massivem Nussbaumholz hat eine breite Ablagefläche für Zeitschriften, 
