@@ -21,11 +21,17 @@ Ihre Geräte haben einen anderen Schaftdurchmesser? Kein Problem – RUPPERTdesi
 {% include image.html url="/holzwerke/img/ruehrgeraetehalter/khalter3.jpg" description="Rührgerätehalter Kenwood Cooking Chef" type="small" %}
 
 
-**Starkes Holzwerk**   
+**Starkes Holzwerk  \| Rührgerätehalter**   
 Artikelnummer \| Holzart \| Holzgröße \| Preis
+     
+*	RD.013.004  \| 	Nussbaum \| ca. L 48 x B 10 x H 3 \| 59 EUR
+     
+*	RD.013.005  \| 	Eiche \| ca. L 48 x B 10 x H 3 \| 59 EUR
 
-* **Rührgerätehalter**       
-	RD.013.004  \| 	Nussbaum \| ca. L 40 x B 12 x H 3 \| 59 EUR
+*	RD.016.046  \| 	Akazie natur \| ca. L 48 x B 10 x H 3 \| 59 EUR
 
-* **Rührgerätehalter**       
-	RD.013.005  \| 	Eiche \| ca. L 40 x B 12 x H 3 \| 59 EUR
+*	RD.016.047  \| 	Akazie gedämpft (dunkel) \| ca. L 48 x B 10 x H 3 \| 59 EUR
+
+*	RD.016.048  \| 	Lärche \| ca. L 48 x B 10 x H 3 \| 59 EUR
+
+*	RD.016.049  \| 	Fichte \| ca. L 48 x B 10 x H 3 \| 59 EUR
