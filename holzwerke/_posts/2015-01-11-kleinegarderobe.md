@@ -10,12 +10,13 @@ tags: ["wohnen"]
 
 
 
-Diese zwei kleine Garderoben aus Nussbaumholz sind mit jeweils zwei Edelstahlhaken gefertigt.
+Diese kleine Garderobe aus Nussbaumholz, ohne sichtbare Montageschrauben, kommt mit zwei Edelstahlhaken daher.
+
 
 {% include image.html url="/holzwerke/img/kleinegarderobe/kleinegarderobe01.jpg" description="Mini Garderobe" type="small" %}
 
-Auf Wunsch werden sie auch in einer anderen Holzart und mit anderen Haken sowie einer anderen Hakenanzahl gefertigt. 
-Kontaktieren Sie mich gerne unverbindlich und ich fertige Ihnen Ihre Mini-Garderoben nach Wunsch.
+Auf Wunsch wird sie auch in einer anderen Holzart und mit anderen Haken gefertigt. 
+Kontaktieren Sie mich gerne unverbindlich und RUPPERTdesign fertigt Ihnen Ihre Mini-Garderobe nach Wunsch.
 
 **Starkes Holzwerk**   
 Artikelnummer \| Holzart \| Holzgröße \| Preis
