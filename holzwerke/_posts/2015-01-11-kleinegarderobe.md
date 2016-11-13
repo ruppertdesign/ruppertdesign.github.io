@@ -16,7 +16,7 @@ Diese kleine Garderobe aus Nussbaumholz, ohne sichtbare Montageschrauben, kommt 
 {% include image.html url="/holzwerke/img/kleinegarderobe/kleinegarderobe01.jpg" description="Mini Garderobe" type="small" %}
 
 Auf Wunsch wird sie auch in einer anderen Holzart und mit anderen Haken gefertigt. 
-Kontaktieren Sie mich gerne unverbindlich und RUPPERTdesign fertigt Ihnen Ihre Mini-Garderobe nach Wunsch.
+Kontaktieren Sie RUPPERTdesign für Ihre Mini-Garderobe nach Wunsch.
 
 **Starkes Holzwerk**   
 Artikelnummer \| Holzart \| Holzgröße \| Preis
