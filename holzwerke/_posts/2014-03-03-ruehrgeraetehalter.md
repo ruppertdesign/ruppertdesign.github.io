@@ -22,7 +22,7 @@ Ihre Geräte haben einen anderen Schaftdurchmesser? Kein Problem – RUPPERTdesi
 
 
 **Starkes Holzwerk  \| Rührgerätehalter**   
-Artikelnummer \| Holzart \| Holzgröße \| Preise
+Artikelnummer \| Holzart \| Holzgröße \| Preis
      
 *	RD.013.004  \| 	Nussbaum \| ca. L 48 x B 10 x H 3 \| 59 EUR
      

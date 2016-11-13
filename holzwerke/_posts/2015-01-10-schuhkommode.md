@@ -2,7 +2,7 @@
 layout: holzwerk
 title:  "Schuhkommode"
 description: Eine Schuhkommode von RUPPERTdesign wird nach Ihren Vorgaben gefertigt. Eine Schuhkommode von RUPPERTdesign ist in verschiedenen Holzarten erhältlich.
-permalink: /holzwerke/2014/01/10/schuhkommode/
+permalink: /holzwerke/2015/01/10/schuhkommode/
 date:   2015-01-10
 intro: Schmuckstück in der Nische 
 tags: ["wohnen"]
@@ -31,5 +31,5 @@ Artikelnummer \| Holzart \| Holzgröße \| Preis
 * **Schuhkommode**       
 	RD.014.019  \| 	Amerikanischer Nussbaum \| ca. B 100 x H 85 x T 40 \| 849 EUR
 
-* **Mini-Garderobe**   
+* **Kleine Garderobe**   
 	RD.014.020 \| Amerikanischer Nussbaum \| ca. L 21 x B 13 x H 3  \| 49 EUR
