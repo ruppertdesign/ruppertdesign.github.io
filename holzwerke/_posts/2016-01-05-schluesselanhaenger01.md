@@ -85,7 +85,9 @@ Artikelnummer \| Holzart \| Holzgröße \| Preis
 	
 	RD.016.045  \| 	Ahorn \| ca. L 6,5 x B 1 x T 1 \| 7,90 EUR
 	
-Auch erhältlich bei [DaWanda][1]{:target="_blank"}.	
+Auch erhältlich bei [DaWanda][1]{:target="_blank"} und [amazon][2]{:target="_blank"}.
 	
  [1]: http://de.dawanda.com/product/88493323-schluesselanhaenger-aus-holz-mit-wunschnamen
+ 
+ [2]:https://www.amazon.de/s/ref=hnd_pdp_byline?_encoding=UTF8&node=9699311031&lo=image&me=A14SEUYA88KWJ3
 	
