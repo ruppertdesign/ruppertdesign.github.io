@@ -69,7 +69,7 @@ Artikelnummer \| Holzart \| Holzgröße \| Preis
 	
 Auch erhältlich bei [DaWanda][1]{:target="_blank"} und [amazon][2]{:target="_blank"}.
 	
- [1]: http://de.dawanda.com/product/88493323-schluesselanhaenger-aus-holz-mit-wunschnamen
+ [1]: https://de.dawanda.com/product/115108775-muttertag-fuer-mama-nur-das-beste-wunschtext
  
  [2]:https://www.amazon.de/s/ref=hnd_pdp_byline?_encoding=UTF8&node=9699311031&lo=image&me=A14SEUYA88KWJ3
 	
