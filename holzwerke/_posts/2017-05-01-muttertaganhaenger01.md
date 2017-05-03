@@ -4,7 +4,7 @@ title:  "Zum Muttertag"
 description: Das kleine Geschenk zum Muttertag.
 permalink: /holzwerke/2017/05/01/muttertaganhaenger01/
 date:   2017-05-01
-intro: Mama verdient nur das Beste!
+intro: Mama verdient nur das Beste
 tags: ["geschenke"]
 ---
 
