@@ -16,6 +16,12 @@ RUPPERTdesign bringt ihre persönliche Botschaft auf Holz und liefert pünktlich
 
 {% include image.html url="/holzwerke/img/muttertaganhaenger01/muttertag01.jpg" description="Persönlicher Anhänger für die beste Mama." type="small" %}
 
+
+Die Schlüsselanhänger sind in hochwertigem Nussbaum-, Eichen-, Buchen- oder Ahornholz erhältlich
+und werden nur mit hochwertigem Bio-Öl eingelassen. 
+Auf Wunsch auch mit Schleifchen in Ihrer Wunschfarbe.
+
+
 {% include image.html url="/holzwerke/img/muttertaganhaenger01/muttertag02.jpg" description="Mama ist die Beste." type="small" %}
 
 {% include image.html url="/holzwerke/img/muttertaganhaenger01/muttertag03.jpg" description="Muttertagsgeschenk von RUPPERTdesign" type="small" %}
@@ -24,13 +30,6 @@ RUPPERTdesign bringt ihre persönliche Botschaft auf Holz und liefert pünktlich
 
 {% include image.html url="/holzwerke/img/muttertaganhaenger01/muttertag05.jpg" description="I love my mum." type="small" %}
 
-
-
-
-
-Die Schlüsselanhänger sind in hochwertigem Nussbaum-, Eichen-, Buchen- oder Ahornholz erhältlich
-und werden nur mit hochwertigem Bio-Öl eingelassen. 
-Auf Wunsch auch mit Schleifchen in Ihrer Wunschfarbe.
 
 
 **Starkes Holzwerk**   
