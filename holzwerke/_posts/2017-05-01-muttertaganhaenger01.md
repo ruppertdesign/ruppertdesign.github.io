@@ -71,5 +71,5 @@ Auch erhältlich bei [DaWanda][1]{:target="_blank"} und [amazon][2]{:target="_bl
 	
  [1]: https://de.dawanda.com/product/115108775-muttertag-fuer-mama-nur-das-beste-wunschtext
  
- [2]:https://www.amazon.de/s/ref=hnd_pdp_byline?_encoding=UTF8&node=9699311031&lo=image&me=A14SEUYA88KWJ3
+ [2]:https://www.amazon.de/Muttertag-Mama-Beste-Schlüsselanhänger-Wunschtext/dp/B071RSWLV1/ref=sr_1_7?m=A14SEUYA88KWJ3&s=handmade&ie=UTF8&qid=1493929067&sr=1-7
 	
