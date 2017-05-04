@@ -38,24 +38,24 @@ Artikelnummer \| Holzart \| Holzgröße \| Preis
 * **Schlüsselanhänger 65mm**
      
 	 
-	RD.017.002  \| 	Eiche \| ca. L 65 x B 10 x T 10 \| 8,90 EUR
+	RD.017.002  \| 	Eiche \| ca. L 65 x B 10 x T 10 \| 6,90 EUR
 	
-	RD.017.003   \| 	Nussbaum \| ca. L 65 x B 10 x T 10 \| 8,90 EUR
+	RD.017.003   \| 	Nussbaum \| ca. L 65 x B 10 x T 10 \| 6,90 EUR
 	
-	RD.017.004   \| 	Ahorn \| ca. L 65 x B 10 x T 10 \| 8,90 EUR
+	RD.017.004   \| 	Ahorn \| ca. L 65 x B 10 x T 10 \| 6,90 EUR
 	
-	RD.017.005   \| 	Buche \| ca. L 65 x B 10 x T 10 \| 8,90 EUR
+	RD.017.005   \| 	Buche \| ca. L 65 x B 10 x T 10 \| 6,90 EUR
 	
 
 * **Schlüsselanhänger 85mm**
       
-	RD.017.010  \| 	Eiche \| ca. L 85 x B 10 x T 10 \| 10,90 EUR
+	RD.017.010  \| 	Eiche \| ca. L 85 x B 10 x T 10 \| 8,90 EUR
 	
-	RD.017.011   \| 	Nussbaum \| ca. L 85 x B 10 x T 10 \| 10,90 EUR
+	RD.017.011   \| 	Nussbaum \| ca. L 85 x B 10 x T 10 \| 8,90 EUR
 	
-	RD.017.012   \| 	Ahorn \| ca. L 85 x B 10 x T 10 \| 10,90 EUR
+	RD.017.012   \| 	Ahorn \| ca. L 85 x B 10 x T 10 \| 8,90 EUR
 	
-	RD.017.013   \| 	Buche \| ca. L 85 x B 10 x T 10 \| 10,90 EUR
+	RD.017.013   \| 	Buche \| ca. L 85 x B 10 x T 10 \| 8,90 EUR
 	
 	
 * **Schleifchen**
