@@ -1,6 +1,6 @@
 ---
 layout: referenz
-title: Zuhause ist
+title: Zuhause bist
 date: 2017-05-17
 ---
 
