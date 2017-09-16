@@ -1,17 +1,19 @@
 ---
 layout: referenz
-title: Zuhause ist
-date: 2017-05-17
+title: 11x Anhänger
+date: 2017-01-21
 ---
 
-Hallo Herr Ruppert,
+Guten Abend, 
 
-super, super schöne Anhänger! Ich bin sehr begeistert! :-)
+Ist Ihnen sehr gut gelungen! Vielen Dank dafür. 
 
-Viele lieben Dank!
+Das ist ein guter Grund Sie weiter zu empfehlen. 
 
-Viele Grüße
-R. Rütten
+Alles gute! 
+
+Mit freundlichen Grüßen, 
+V. Semir 
 
 
 
