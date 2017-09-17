@@ -109,3 +109,23 @@ footer {
     margin-top: 25px;
   }
 }
+
+// cookie warning
+.cookie-warning {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 55px;
+  padding-top: 10px;
+  z-index: 999;
+  background-color: $white;
+  font-size: 15px;
+  color: $primary-color;
+  text-align: center;
+  border-top: 1px solid $pure-silver;
+  button {
+    border-radius: 0;
+    margin-left: 30px;
+  }
+}
