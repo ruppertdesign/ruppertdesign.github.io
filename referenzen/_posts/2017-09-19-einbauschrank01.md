@@ -9,7 +9,7 @@ Lieber Simon,
 an dieser Stelle möchten wir uns bei Dir bedanken: Du hast die Herausforderung angenommen, und man hätte sie nicht besser meistern können.
  
 Die Herausforderung – das war unsere anspruchsvolle Vorstellung von einem schlichten, edlen, 
-ziemlich [großen Kleiderschrank][199] , der sich als Einbaulösung perfekt in unser Schlafzimmer unter dem Dach einfügt.
+ [ziemlich großen Kleiderschrank][199] , der sich als Einbaulösung perfekt in unser Schlafzimmer unter dem Dach einfügt.
 Eine über drei Meter breite Wandfläche, fast komplett Schräge, stand dafür zur Verfügung.
 Wie die Front aussehen sollte, war für uns relativ klar. 
 Seitlich zweimal zwei Schranktüren, mittig Schubfächer und im Zentrum sollte sich unser Flachbild-TV perfekt in das Gesamtbild einfügen.
