@@ -1,6 +1,6 @@
 ---
 layout: referenz
-title: Traumeinbauschrank
+title: Traum - Einbauschrank
 date: 2017-09-19
 ---
 
@@ -9,7 +9,7 @@ Lieber Simon,
 an dieser Stelle möchten wir uns bei Dir bedanken: Du hast die Herausforderung angenommen, und man hätte sie nicht besser meistern können.
  
 Die Herausforderung – das war unsere anspruchsvolle Vorstellung von einem schlichten, edlen, 
-ziemlich großen Kleiderschrank, der sich als Einbaulösung perfekt in unser Schlafzimmer unter dem Dach einfügt.
+ziemlich [großen Kleiderschrank][199] , der sich als Einbaulösung perfekt in unser Schlafzimmer unter dem Dach einfügt.
 Eine über drei Meter breite Wandfläche, fast komplett Schräge, stand dafür zur Verfügung.
 Wie die Front aussehen sollte, war für uns relativ klar. 
 Seitlich zweimal zwei Schranktüren, mittig Schubfächer und im Zentrum sollte sich unser Flachbild-TV perfekt in das Gesamtbild einfügen.
@@ -23,3 +23,4 @@ Vielen Dank dafür – und viel Erfolg weiterhin mit Deinen vielen kleinen und g
  
 Tobi und Eva Bischoff.
 
+[199]: {% post_url 2016-01-01-einbauschrank01 %}
