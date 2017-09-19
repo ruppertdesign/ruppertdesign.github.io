@@ -1,6 +1,6 @@
 ---
 layout: referenz
-title: Einbauschrank mit anspruchsvollen Vorstellungen
+title: Traumeinbauschrank
 date: 2017-09-19
 ---
 
