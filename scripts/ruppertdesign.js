@@ -9,7 +9,8 @@
 		registerBurgerMenu();
 		registerCookieWarningButton();
 		checkCookie('acceptsCookies');
-		updateYear();
+		fetchRatings();
+		updateYear();		
 	};
 
 	var registerScrolling = function() {
@@ -168,6 +169,14 @@
 			$('.cookie-warning').fadeOut(150);
 		});
 	}
+
+	var fetchRatings = function() {
+		$.getJSON('https://vmothkzl6e.execute-api.eu-central-1.amazonaws.com/prod/ruppertdesign-ratings', function(data) {
+			const list = $('<ul />').append(new Array(++data.rating).join('<li>⭐️</li>'));
+			const votes = $('<span/>').append('(' + data.votes + ') Bewertungen');
+			$('.dawanda-rating a').html(list).append(votes);
+		});
+	};
 
 	$(document).ready(init);
 
