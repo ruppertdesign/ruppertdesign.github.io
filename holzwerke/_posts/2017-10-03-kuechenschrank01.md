@@ -1,0 +1,111 @@
+---
+layout: holzwerk
+title:  "Badschrank mit Waschtisch"
+description: Zeitlos moderne Badmöbel von RUPPERTdesign in Ahorn.
+permalink: /holzwerke/2017/01/01/badmoebel01/
+date:   2017-01-01
+intro: Perfektes Bad-Duo
+tags: ["wohnen"]
+---
+
+**Perfektes Bad-Duo: Hochschrank und Doppelwaschtisch**
+
+Das perfekte Bad? Ist mehr als nur funktional.
+Es ist der Raum, in dem wir uns morgens auf den Tag einstimmen und der,
+den wir abends vor dem Zubettgehen aufsuchen. Hier wollen wir baden und uns entspannen
+oder uns für eine Verabredung fertig machen. Dafür muss die Raumatmosphäre stimmen.  
+
+
+{% include image.html url="/holzwerke/img/badmoebel01/badmoebel0101.jpg" description="Badmöbel von RUPPERTdesign sind Premium." type="small" %}
+
+{% include image.html url="/holzwerke/img/badmoebel01/badmoebel0112.jpg" description="Badmöbel von RUPPERTdesign sind Premium." type="small" %}
+
+
+
+RUPPERTdesign fertigt Badmöbel, die sich harmonisch in den Raum einfügen. 
+Dabei ist es egal, ob Platz für einen großzügigen Wellnesstempel zur Verfügung steht oder das Bad eher klein aber fein gehalten ist. 
+Die Möbelstücke von RUPPERTdesign nutzen jeden Raum perfekt aus. 
+Hier hat RUPPERTdesign einen Hochschrank und einen Waschbeckenunterschrank für das Bad eines neugebauten Hauses gefertigt.
+
+
+**Die Anforderungen**
+
+
+Der Schrank sollte möglichst viel Stauraum bieten, 
+gemeinsam mit dem Waschbeckenunterschrank perfekt in das Badezimmer passen, 
+ohne zu viel Raum einzunehmen und aus hellem Holz sein. 
+Der besondere Clou: Eine Wäscheklappe mit Fallrohr in den Keller. 
+
+**Herausforderungen**
+
+{% include image.html url="/holzwerke/img/badmoebel01/badohnemobel01.jpg" description="Badmöbel von RUPPERTdesign sind Premium." type="small" %}
+
+
+
+Der Hochschrank befindet sich in einer anspruchsvollen Badecke, 
+die sich durch zwei vorgeschobene Trockenbauwände unterschiedlichen Niveaus und einem konstruktiven Überhang ergibt.
+Es galt daher, Unebenheiten verschwinden zu lassen und dabei den maximalen Stauraum zu gewinnen.
+
+**Das Material**
+
+{% include image.html url="/holzwerke/img/badmoebel01/badmoebel0113.jpg" description="Badmöbel von RUPPERTdesign sind Premium." type="small" %}
+
+
+Hochschrank und Waschbeckenunterschrank sind aus Europäischem Ahorn gefertigt und seidenmatt geölt. 
+Der Hochschrank verfügt über Dekor-Fronten in perlweiß. 
+
+
+**Der Hochschrank**
+
+
+{% include image.html url="/holzwerke/img/badmoebel01/badmoebel0102.jpg" description="Badmöbel von RUPPERTdesign sind Premium." type="small" %}
+
+
+Dieser Schrank hat Push-to-open-Türen und fingergezinkte Schubkästen. 
+Die Schubfächer bieten Platz für Handtücher und Co. 
+Oben rechts wurde ein Apothekerschrankauszug mit drei Ablagefächern untergebracht.
+
+
+
+{% include image.html url="/holzwerke/img/badmoebel01/badmoebel0106.jpg" description="Badmöbel von RUPPERTdesign sind Premium." type="small" %}
+
+{% include image.html url="/holzwerke/img/badmoebel01/badmoebel0107.jpg" description="Badmöbel von RUPPERTdesign sind Premium." type="small" %}
+
+{% include image.html url="/holzwerke/img/badmoebel01/badmoebel0108.jpg" description="Badmöbel von RUPPERTdesign sind Premium." type="small" %}
+
+{% include image.html url="/holzwerke/img/badmoebel01/badmoebel0109.jpg" description="Badmöbel von RUPPERTdesign sind Premium." type="small" %}
+
+
+Die große Wäscheklappe führt zu einem Fallrohr mit 30 cm Durchmesser. 
+So gelangt die Wäsche vom ersten Obergeschoss direkt in den Waschraum im Keller. 
+Dank eingebauter Anschlagdämpfer bewegt sich die Klappe langsam zum Endpunkt. 
+
+
+{% include image.html url="/holzwerke/img/badmoebel01/badmoebel0110.jpg" description="Badmöbel von RUPPERTdesign sind Premium." type="small" %}
+
+{% include image.html url="/holzwerke/img/badmoebel01/badmoebel0111.jpg" description="Badmöbel von RUPPERTdesign sind Premium." type="small" %}
+
+
+
+**Der Doppelwaschtisch**
+
+
+{% include image.html url="/holzwerke/img/badmoebel01/badmoebel0103.jpg" description="Badmöbel von RUPPERTdesign sind Premium." type="small" %}
+
+
+
+
+
+Wie bei dem Hochschrank sind auch die vier Schubkästen des Doppelwaschtisches fingergezinkt und öffnen sich mit Push-to-open-Technik. 
+Die beiden oberen Schubkästen stellen trotz Siphon möglichst viel Stauraum zur Verfügung. 
+Der Waschtisch stützt sich am Hochschrank ab und ist ansonsten schwebend aufgehängt. 
+
+
+{% include image.html url="/holzwerke/img/badmoebel01/badmoebel0104.jpg" description="Badmöbel von RUPPERTdesign sind Premium." type="small" %}
+
+
+
+{% include image.html url="/holzwerke/img/badmoebel01/badmoebel0105.jpg" description="Badmöbel von RUPPERTdesign sind Premium." type="small" %}
+
+**Starkes Holzwerk \| Individuelle Badmöbel**    
+RD.017.001  \|  Badschrank mit Waschtisch  \|  Preis auf Anfrage
