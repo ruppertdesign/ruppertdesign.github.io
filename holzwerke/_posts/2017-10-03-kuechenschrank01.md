@@ -28,4 +28,4 @@ tags: ["kueche"]
 
 
 **Starkes Holzwerk \| Küchenerweiterung**    
-RD.017.018  \|  Küchenschrank mit Müllbehälterfach \| ca. B 110 x T 42 x H 146 \|  Preis auf Anfrage
+RD.017.018  \|  Küchenschrank  \| ca. B 110 x T 42 x H 146 \|  Preis auf Anfrage
