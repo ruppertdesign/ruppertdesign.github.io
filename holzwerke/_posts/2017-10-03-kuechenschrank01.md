@@ -1,6 +1,6 @@
 ---
 layout: holzwerk
-title:  "Küchenschrank mit integriertem Müllbehälter"
+title:  "Küchenschrank"
 description: Küchenschränke von RUPPERTdesign passend zu Ihrer Einrichtung.
 permalink: /holzwerke/2017/10/03/kuechenschrank01/
 date:   2017-10-03
@@ -10,7 +10,7 @@ tags: ["kueche"]
 
 **Küchenschrank**
 
-Ein neuer Küchenschrank mit viel Stauplatz.
+Ein  neuer Küchenschrank mit viel Stauplatz.
 
 
 {% include image.html url="/holzwerke/img/kuechenschrank01/kuechenschrank0101.jpg" description="Küchenschrank von RUPPERTdesign." type="small" %}
@@ -20,6 +20,14 @@ Ein neuer Küchenschrank mit viel Stauplatz.
 {% include image.html url="/holzwerke/img/kuechenschrank01/kuechenschrank0103.jpg" description="Küchenschrank von RUPPERTdesign." type="small" %}
 
 {% include image.html url="/holzwerke/img/kuechenschrank01/kuechenschrank0104.jpg" description="Küchenschrank von RUPPERTdesign." type="small" %}
+
+{% include image.html url="/holzwerke/img/kuechenschrank01/kuechenschrank0105.jpg" description="Küchenschrank von RUPPERTdesign." type="small" %}
+
+{% include image.html url="/holzwerke/img/kuechenschrank01/kuechenschrank0106.jpg" description="Küchenschrank von RUPPERTdesign." type="small" %}
+
+{% include image.html url="/holzwerke/img/kuechenschrank01/kuechenschrank0107.jpg" description="Küchenschrank von RUPPERTdesign." type="small" %}
+
+{% include image.html url="/holzwerke/img/kuechenschrank01/kuechenschrank0108.jpg" description="Küchenschrank von RUPPERTdesign." type="small" %}
 
 
 
