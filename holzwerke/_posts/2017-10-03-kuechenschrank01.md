@@ -8,10 +8,6 @@ intro: Mit Fußpedal für freie Hände.
 tags: ["kueche"]
 ---
 
-**Küchenschrank**
-
-Ein  neuer Küchenschrank  mit viel Stauplatz.
-
 
 {% include image.html url="/holzwerke/img/kuechenschrank01/kuechenschrank0101.jpg" description="Küchenschrank von RUPPERTdesign." type="small" %}
 
