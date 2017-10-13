@@ -45,7 +45,7 @@ Hier finden zahlreiche Kochbücher, ein  Müllbehälter, der sich per Fußpedal 
 {% include image.html url="/holzwerke/img/kuechenschrank01/kuechenschrank0104.jpg" description="Der Küchenschrank von RUPPERTdesign wurde ausschließlich aus sehr hochwertigen und langlebigen Materialien gefertigt. " type="small" %}
 
 
-Wenn Sie Interesse an einem ähnlichen – oder an einem ganz an-deren - Schrank haben, dann kontaktieren Sie mich gerne. 
+Wenn Sie Interesse an einem ähnlichen – oder an einem ganz anderen - Schrank haben, dann kontaktieren Sie mich gerne. 
 
 RUPPERTdesign fertigt Holzwerke nach ihren Wünschen – fernab vom Mainstream der Möbelhäuser.
 
