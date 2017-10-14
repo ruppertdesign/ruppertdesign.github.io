@@ -5,7 +5,7 @@ description: Ein Couchtisch von RUPPERTdesign wird exakt nach Ihren Wünschen un
 permalink: /holzwerke/2014/05/05/wohnzimmertisch/
 date:   2014-05-05
 intro: Klein und kompakt
-tags: ["wohnen"]
+tags: ["tische"]
 ---
 
 Dieser Couchtisch aus Nussbaumholz kommt klein und kompakt daher – verfügt aber über einige Raffinessen. 
