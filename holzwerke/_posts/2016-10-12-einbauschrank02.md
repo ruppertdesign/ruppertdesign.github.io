@@ -5,7 +5,7 @@ description: Ein moderner Einbauschrank von RUPPERTdesign ist zeitlos.
 permalink: /holzwerke/2016/10/12/einbauschrank02/
 date:   2016-10-12
 intro: Modernes Design
-tags: ["wohnen"]
+tags: ["schraenke"]
 ---
 
 

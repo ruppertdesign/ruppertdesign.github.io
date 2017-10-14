@@ -18,8 +18,8 @@ sass:
 
 # Holzwerke Categories/Tags
 holzwerke_tags:
-  wohnen: "Wohnen"
   tische: "Tische"
+  schraenke: "Schränke"
+  wohnen: "Wohnen"
   kueche: "Küche"
-  schlafen: "Schlafen"
   geschenke: "Geschenke"

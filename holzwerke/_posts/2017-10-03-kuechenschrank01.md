@@ -5,7 +5,7 @@ description: Dieser Küchenschrank von RUPPERTdesign nimmt die Ma-terialien, die
 permalink: /holzwerke/2017/10/03/kuechenschrank01/
 date:   2017-10-03
 intro: Treppenförmig und äußerst praktisch
-tags: ["kueche"]
+tags: ["schraenke"]
 ---
 
 **Dieser Küchenschrank besticht durch seine besondere Form, harmonische und hochwertige Materialien - und durch ganz besondere Extras.**
