@@ -7,36 +7,36 @@ permalink: /agb/
 
 ## Allgemeines 
 Nachstehende Allgemeine Geschäftsbedingungen gelten für alle Verträge, Lieferungen und sonstige Leistungen. 
-Abweichenden Vorschriften des Vertragspartners widersprechen ich hiermit ausdrücklich. 
-Alle Nebenabreden bedürfen der schriftlichen Bestätigung meinerseits. 
+Abweichenden Vorschriften des Vertragspartners widersprechen wir hiermit ausdrücklich. 
+Alle Nebenabreden bedürfen der schriftlichen Bestätigung unsererseits. 
 Die Geschäftsführung ist jederzeit berechtigt, 
 diese Allgemeinen Geschäftsbedingungen einschließlich aller eventuellen Anlagen mit einer angemessenen Kündigungsfrist zu ändern oder zu ergänzen. 
 Vorher eingehende Aufträge werden nach den dann noch gültigen alten Allgemeinen Geschäftsbedingungen bearbeitet. 
 
 
 ## Angebot 
-Meine Angebote sind unverbindlich und gelten nur solange der Vorrat reicht. 
+Unsere Angebote sind unverbindlich und gelten nur solange der Vorrat reicht. 
 Kleine Abweichungen und technische Änderungen gegenüber den Abbildungen oder Beschreibungen sind möglich. 
 
 
 ## Lieferung und Zahlung 
-Bestellte Ware ist im Voraus zu bezahlen. Bei Auftragsarbeiten ist die komplette Summe ebenfalls im Voraus zu entrichten. 
+Bestellte Ware ist im Voraus zu bezahlen, sofern nicht anders vereinbart. 
 Es wird nicht per Nachnahme versendet. Es gibt keinen Mindestbestellwert. 
-Zu dem genannten Bestellwert kommen jeweils Versandkosten, die seperat bei jeder Artikelbeschreibung aufgeführt sind. 
-Die Versandkosten ins Ausland müssen separat angefragt werden. 
+Zu dem genannten Bestellwert kommen jeweils Versandkosten, die seperat auf dem Angebot oder der Rechnung aufgeführt sind. 
 
 
 ## Lieferzeiten 
-Verfügbare Ware wird grundsätzlich innerhalb von 3-5 Werktagen nach Erhalt der Bestellung, 
-bzw. bei Vorkasse innerhalb von 3-5 Werktagen nach Zahlungseingang, versandt. 
+Verfügbare Ware wird grundsätzlich innerhalb von 5-10 Werktagen nach Erhalt der Bestellung, versandt.
+Lieferzeiten von Auftragsarbeiten entnehmen Sie Ihrem Angebot. 
 
 
 ## Rückgaberecht 
-Ich garantiere für nicht benutzte Ware ein Rückgaberecht innerhalb von 14 Tagen. 
+Wir garantieren für nicht benutzte Ware ein Rückgaberecht innerhalb von 14 Tagen. 
 Die Rückgabefrist wird gewahrt durch das fristgerechte Absenden der Ware (Rechnungsdatum).
 Mängel an gelieferter Ware (Versandschäden) sind unverzüglich mitzuteilen.
 
-Ausgenommen sind auf speziellen Kundenwunsch angefertigte Artikel.
+Vom Rückgaberecht ausgenommen sind auf speziellen Kundenwunsch angefertigte Artikel (individualisierte 
+Waren).
 
 
 ## Lieferadresse für Rückgabe
@@ -53,5 +53,5 @@ Die Gefahr geht mit Ankunft beim Käufer auf diesen über.
 
 
 ## Eigentumsvorbehalt 
-Bis zur vollständigen Bezahlung bleibt die Ware meinem Eigentum.
+Bis zur vollständigen Bezahlung bleibt die Ware in unserem Eigentum.
 
