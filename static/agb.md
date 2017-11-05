@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AGB - Allgemeine Geschäftsbedingungen 
+title: AGB - Allgemeine Geschäfts&shy;bedingungen 
 permalink: /agb/
 ---
 

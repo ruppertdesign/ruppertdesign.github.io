@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Datenschutzerklärung
+title: Datenschutz&shy;erklärung
 permalink: /datenschutz/
 ---
 
