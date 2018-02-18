@@ -70,25 +70,31 @@ Wir freuen uns darauf, Ihre individuellen Anhänger für Sie fertigen zu dürfen
 Artikelnummer \|  Holzgröße \| Preis
 
 * **Schlüsselanhänger mit 1-seitiger Beschriftung**
+
 	RD.018.001  \| 	ca. L 6,5 x B 1 x T 1  \| 6,90 EUR
 	
 	RD.018.002  \| 	ca. L 8,5 x B 1 x T 1  \| 8,90 EUR
 
 * **Schlüsselanhänger mit 2-seitiger Beschriftung**
+
 	RD.018.003  \| 	ca. L 6,5 x B 1 x T 1  \| 7,90 EUR
 	
 	RD.018.004  \| 	ca. L 8,5 x B 1 x T 1  \| 9,90 EUR
 
 * **Schlüsselanhänger mit 3-seitiger Beschriftung**
+
 	RD.018.005  \| 	ca. L 6,5 x B 1 x T 1  \| 8,90 EUR
 	
 	RD.018.006  \| 	ca. L 8,5 x B 1 x T 1  \| 10,90 EUR
-* **Schlüsselanhänger mit 4-seitiger Beschriftung**     
+	
+* **Schlüsselanhänger mit 4-seitiger Beschriftung**    
+ 
 	RD.018.007  \| 	ca. L 6,5 x B 1 x T 1  \| 9,90 EUR
 	
 	RD.018.008  \| 	ca. L 8,5 x B 1 x T 1  \| 11,90 EUR
 	
 * **Aktuell verfügbare Holzarten**
+
 	Eiche \| Nussbaum \| Ahorn \| Buche
 	
 	Ihr Wunschholz ist nicht dabei? Wir können fast jedes Holz besorgen.
