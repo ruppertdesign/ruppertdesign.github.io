@@ -5,7 +5,7 @@ description: Dieser Küchenschrank von RUPPERTdesign nimmt die Ma-terialien, die
 permalink: /holzwerke/2018/02/18/hotelanhaenger01/
 date:   2018-02-18
 intro: Diese Anhänger wird Ihr Gast lieben
-tags: ["geschenke"]
+tags: ["b2b"]
 ---
 
 **Es sind die Details, die zählen. Wenn alles stimmt, dann werden Hotels zu Wohlfühloasen, 
