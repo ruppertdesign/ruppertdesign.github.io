@@ -5,12 +5,12 @@ description: Dieser Küchenschrank von RUPPERTdesign nimmt die Ma-terialien, die
 permalink: /holzwerke/2018/02/18/hotelanhaenger01/
 date:   2018-02-18
 intro: Diese Anhänger wird Ihr Gast lieben
-tags: ["Hotel01"]
+tags: ["geschenke"]
 ---
 
-Es sind die Details, die zählen. Wenn alles stimmt, dann werden Hotels zu Wohlfühloasen, 
+**Es sind die Details, die zählen. Wenn alles stimmt, dann werden Hotels zu Wohlfühloasen, 
 die kleine Fluchten aus dem Alltag bieten – und zwar unabhängig davon, 
-ob es sich um eine große Hotelkette, ein Wellnesshotel oder um eine kleine Pension handelt. 
+ob es sich um eine große Hotelkette, ein Wellnesshotel oder um eine kleine Pension handelt.** 
 
 {% include image.html url="/holzwerke/img/hotelanhaenger01/hotel0101.jpg" description="Unsere Schlüsselanhänger sind aus edlem, massivem Holz. Dieses kann passend zur Inneneinrichtung gewählt werden und trägt so zu einem stimmigen Gesamteindruck bei." type="small" %}
 
@@ -49,7 +49,6 @@ Ein hochwertiger Metallring hält Anhänger und Schlüssel fest zusammen.
 Mithilfe eines speziellen Lasers kann die Zimmernummer, sowie eventuell ein Wunschtext, 
 ein Zitat oder der Zimmername auf den Schlüsselanhänger gebracht werden. 
 Die Schriftart wird dabei selbstverständlich an den Schriftzug des Hotels angepasst oder erfolgt in Absprache mit Ihnen.
-
 
 
 {% include image.html url="/holzwerke/img/hotelanhaenger01/hotel0106.jpg" description="Unsere Schlüsselanhänger sind aus edlem, massivem Holz und werden mit Ihrem Wunschdesign versehen." type="small" %}
@@ -93,4 +92,3 @@ Artikelnummer \|  Holzgröße \| Preis
 	Eiche \| Nussbaum \| Ahorn \| Buche
 	
 	Ihr Wunschholz ist nicht dabei? Wir können fast jedes Holz besorgen.
-	
