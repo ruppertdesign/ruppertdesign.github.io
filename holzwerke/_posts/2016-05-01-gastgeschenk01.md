@@ -8,7 +8,7 @@ intro:  Tischkarten für Ihre Hochzeit
 tags: ["geschenke"]
 product:
   name: Schlüsselanhänger aus Holz von RUPPERTdesign
-  price: "5.90"
+  price: "6.90"
   image: /holzwerke/img/gastgeschenk01/schluesselanhaenger02.jpg
   url: http://de.dawanda.com/product/88493323-schluesselanhaenger-aus-holz-mit-wunschnamen
 ---
