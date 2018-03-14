@@ -5,7 +5,7 @@ description: Dieser Küchenschrank von RUPPERTdesign nimmt die Ma-terialien, die
 permalink: /holzwerke/2018/02/18/hotelanhaenger01/
 date:   2018-02-18
 intro: Diese Anhänger wird Ihr Gast lieben
-tags: ["b2b"]
+tags: ["geschenke"]
 ---
 
 **Es sind die Details, die zählen. Wenn alles stimmt, dann werden Hotels zu Wohlfühloasen, 
@@ -51,6 +51,7 @@ ein Zitat oder der Zimmername auf den Schlüsselanhänger gebracht werden.
 Die Schriftart wird dabei selbstverständlich an den Schriftzug des Hotels angepasst oder erfolgt in Absprache mit Ihnen.
 
 
+
 {% include image.html url="/holzwerke/img/hotelanhaenger01/hotel0106.jpg" description="Unsere Schlüsselanhänger sind aus edlem, massivem Holz und werden mit Ihrem Wunschdesign versehen." type="small" %}
 
 
@@ -70,31 +71,26 @@ Wir freuen uns darauf, Ihre individuellen Anhänger für Sie fertigen zu dürfen
 Artikelnummer \|  Holzgröße \| Preis
 
 * **Schlüsselanhänger mit 1-seitiger Beschriftung**
-
 	RD.018.001  \| 	ca. L 6,5 x B 1 x T 1  \| 6,90 EUR
 	
 	RD.018.002  \| 	ca. L 8,5 x B 1 x T 1  \| 8,90 EUR
 
 * **Schlüsselanhänger mit 2-seitiger Beschriftung**
-
 	RD.018.003  \| 	ca. L 6,5 x B 1 x T 1  \| 7,90 EUR
 	
 	RD.018.004  \| 	ca. L 8,5 x B 1 x T 1  \| 9,90 EUR
 
 * **Schlüsselanhänger mit 3-seitiger Beschriftung**
-
 	RD.018.005  \| 	ca. L 6,5 x B 1 x T 1  \| 8,90 EUR
 	
 	RD.018.006  \| 	ca. L 8,5 x B 1 x T 1  \| 10,90 EUR
-	
-* **Schlüsselanhänger mit 4-seitiger Beschriftung**    
- 
+* **Schlüsselanhänger mit 4-seitiger Beschriftung**     
 	RD.018.007  \| 	ca. L 6,5 x B 1 x T 1  \| 9,90 EUR
 	
 	RD.018.008  \| 	ca. L 8,5 x B 1 x T 1  \| 11,90 EUR
 	
 * **Aktuell verfügbare Holzarten**
-
 	Eiche \| Nussbaum \| Ahorn \| Buche
 	
 	Ihr Wunschholz ist nicht dabei? Wir können fast jedes Holz besorgen.
+	
