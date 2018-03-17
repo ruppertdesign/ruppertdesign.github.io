@@ -23,7 +23,7 @@ Diese Schlüsselanhänger ersetzen klassische Tischkärtchen und verleihen so je
 {% include image.html url="/holzwerke/img/hochzeitsanhaenger01/hochzeitsanhaenger0115.jpg" description="Nicht nur Deko sondern praktische Alltagbegleiter." type="small" %}
 
 
-Besonders schön wirken sie, wenn sie mit Bändern in der Farbe der Deko geschmückt werden. 
+Besonders schön wirken sie, wenn sie zusätzlich mit Bändern in der Farbe der Tisch-Deko geschmückt werden. 
 
 {% include image.html url="/holzwerke/img/hochzeitsanhaenger01/hochzeitsanhaenger0102.jpg" description="Die Schlüsselanhänger von RUPPERTdesign gibt es in Nussbaum- oder Eichenholz. Wenn Sie eine andere Holzart wünschen, dann fragen Sie gerne an." type="small" %}
 
@@ -112,6 +112,6 @@ Artikelnummer \|  Holzgröße \| Preis
 	
 * **Aktuell verfügbare Holzarten**
 
-	Eiche \| Nussbaum \| Ahorn \| Buche
+	Eiche \| Nussbaum
 	
 	Ihr Wunschholz ist nicht dabei? Wir können fast jedes Holz besorgen.
