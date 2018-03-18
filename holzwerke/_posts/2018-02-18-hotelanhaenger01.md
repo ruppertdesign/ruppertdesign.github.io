@@ -94,6 +94,18 @@ Artikelnummer \|  Holzgröße \| Preis
 	
 	RD.018.008  \| 	ca. L 8,5 x B 1 x T 1  \| 11,90 EUR
 	
+	
+* **Musterschlüsselanhänger in abgesprochener Größe**     
+
+	RD.018.009  \| 	1-seitiger Beschriftung \| ab 9,90 EUR
+	
+	RD.018.010  \| 	2-seitiger Beschriftung \| ab 10,90 EUR
+	
+	RD.018.011  \| 	3-seitiger Beschriftung \| ab 11,90 EUR
+	
+	RD.018.012  \| 	4-seitiger Beschriftung \| ab 12,90 EUR
+	
+	
 * **Aktuell verfügbare Holzarten**
 	Eiche \| Nussbaum \| Ahorn \| Buche
 	
