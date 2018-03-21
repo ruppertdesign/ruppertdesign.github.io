@@ -112,5 +112,47 @@ Artikelnummer \|  Holzgröße \| Preis
 	Ihr Wunschholz ist nicht dabei? Wir können fast jedes Holz besorgen.
 	
 	
-	#welcome #keychain #schlüsselanhänger #appartments #hotel #albhof #designhotel #hotelroom #resort #besthotel #ferienwohnung #pension #skihotel #spahotel #villa #lounge #penthouse #strandhütte #berghütte #blockhütte #lodge #b&b #forsthaus #berghaus #artlodge #alm #stuben #landhaus #alterwirt #bedandbreakfast #house #yacht #boot #cruiseliner #hotelzimmer #zimmerschlüssel #zimmernummer #appartmentdesign #individuell #personalisiert #ruppertdesign
+	
+	
+#albhof 
+#alm 
+#alterwirt 
+#appartmentdesign 
+#appartments 
+#artlodge 
+#b&b 
+#bedandbreakfast 
+#berghaus 
+#berghütte 
+#besthotel 
+#blockhütte 
+#boot
+#cruiseliner  
+#designhotel 
+#ferienwohnung 
+#forsthaus 
+#hotel 
+#hotelroom 
+#hotelzimmer 
+#house 
+#individuell 
+#keychain 
+#landhaus 
+#lodge 
+#lounge
+#pension 
+#penthouse 
+#personalisiert 
+#resort 
+#ruppertdesign
+#schlüsselanhänger 
+#skihotel 
+#spahotel 
+#strandhütte 
+#stuben 
+#villa 
+#welcome 
+#yacht 
+#zimmernummer
+#zimmerschlüssel 
 	
