@@ -117,21 +117,21 @@ Artikelnummer \|  Holzgröße \| Preis
 	Ihr Wunschholz ist nicht dabei? 
 	Wir können fast jedes Holz besorgen.
 
-**Beliebte Suchbegriffe**
+**hashtags**
 
 #bleibendeerinnerung 
-#deko  
+#deko
 #fürdieewigkeit 
 #fürimmer 
 #gastgeschenk  
 #grossefeier
-#hochzeit 
-#hochzeitsdeko  
-#hochzeitserinnerung 
-#hochzeitsidee 
-#hochzeitsinspiration 
-#hochzeitsplanung 
-#holzanhaenger 
+#hochzeit
+#hochzeitsdeko
+#hochzeitserinnerung
+#hochzeitsidee
+#hochzeitsinspiration
+#hochzeitsplanung
+#holzanhaenger
 #jubilaeum 
 #justmarried 
 #keychain 
@@ -141,7 +141,7 @@ Artikelnummer \|  Holzgröße \| Preis
 #platzkarte 
 #ruppertdesign 
 #sagsmitholz 
-#schluesselanhaenger 
+#schluesselanhaenger
 #tischkaertchen 
 #tischkarte 
 #wedding  

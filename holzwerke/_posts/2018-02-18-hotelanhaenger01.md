@@ -113,7 +113,7 @@ Artikelnummer \|  Holzgröße \| Preis
 	Wir können fast jedes Holz besorgen.
 	
 	
-**Beliebte Suchbegriffe**	
+**hashtags**	
 	
 #albhof 
 #alm 
