@@ -109,10 +109,11 @@ Artikelnummer \|  Holzgröße \| Preis
 * **Aktuell verfügbare Holzarten**
 	Eiche \| Nussbaum \| Ahorn \| Buche
 	
-	Ihr Wunschholz ist nicht dabei? Wir können fast jedes Holz besorgen.
+	Ihr Wunschholz ist nicht dabei? 
+	Wir können fast jedes Holz besorgen.
 	
 	
-	
+**Beliebte Suchbegriffe**	
 	
 #albhof 
 #alm 

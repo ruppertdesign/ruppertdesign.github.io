@@ -114,4 +114,35 @@ Artikelnummer \|  Holzgröße \| Preis
 
 	Eiche \| Nussbaum
 	
-	Ihr Wunschholz ist nicht dabei? Wir können fast jedes Holz besorgen.
+	Ihr Wunschholz ist nicht dabei? 
+	Wir können fast jedes Holz besorgen.
+
+**Beliebte Suchbegriffe**
+
+#bleibendeerinnerung 
+#deko  
+#fürdieewigkeit 
+#fürimmer 
+#gastgeschenk  
+#grossefeier
+#hochzeit 
+#hochzeitsdeko  
+#hochzeitserinnerung 
+#hochzeitsidee 
+#hochzeitsinspiration 
+#hochzeitsplanung 
+#holzanhaenger 
+#jubilaeum 
+#justmarried 
+#keychain 
+#mehralsdeko 
+#namensschild 
+#nuetzlichegastgeschenke 
+#platzkarte 
+#ruppertdesign 
+#sagsmitholz 
+#schluesselanhaenger 
+#tischkaertchen 
+#tischkarte 
+#wedding  
+#wood 
