@@ -16,6 +16,7 @@ Wenn Sie nach einem Weg suchen, um Ihren Mitarbeitern Ihre Wertschätzung zu zei
 dann haben wir einen schönen Lösungsvorschlag für Sie:
 
 Unsere handgefertigten Schlüsselanhänger bieten Platz für Ihr Logo und Ihren Wunschtext.
+Selbst feine Details, wie hier beim [Finanzguru][1]{:target="_blank"} werden exakt umgesetzt. 
 
 {% include image.html url="/holzwerke/img/werbeanhaenger01/werbeanhaenger0101.jpg" description="RUPPERTdesign fertigt besondere Merchandise Produkte aus Holz. Ihre Werbung wertig auf Holz." type="small" %}
 
@@ -83,4 +84,8 @@ Artikelnummer \|  Holzgröße \| Preis
 	RD.018.011  \| 	3-seitiger Beschriftung \| ab 11,90 EUR
 	
 	RD.018.012  \| 	4-seitiger Beschriftung \| ab 12,90 EUR
+	
+
+	
+ [1]: https://finanzguru.de
 	
