@@ -1,6 +1,6 @@
 ---
 layout: holzwerk
-title:  "Schlüsselanhänger als Werbegeschenke"
+title:  "Schlüsselanhänger für Ihre Werbung"
 description: Unsere handgefertigten Schlüsselanhänger bieten Platz für Ihr Logo und Ihren Wunschtext. 
 permalink: /holzwerke/2018/04/09/werbeanhaenger01/
 date:   2018-04-09
