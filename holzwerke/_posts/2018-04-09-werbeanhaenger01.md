@@ -20,7 +20,6 @@ Unsere handgefertigten Schlüsselanhänger bieten Platz für Ihr Logo und Ihren 
 {% include image.html url="/holzwerke/img/werbeanhaenger01/werbeanhaenger0101.jpg" description="RUPPERTdesign fertigt besondere Merchandise Produkte aus Holz. Ihre Werbung wertig auf Holz." type="small" %}
 
 
-
 Die Schlüsselanhänger betexten wir auf Wunsch einseitig-, zweiseitig-, dreiseitig- oder vierseitig mit dem Text und in der Schrift Ihrer Wahl. 
 Zudem können Sie zwischen dunklem Nussbaum- oder hellem Eichenholz wählen. 
 Sie bevorzugen eine andere Holzart oder eine andere Holzlänge? Kein Problem, wir finden die für Sie beste Lösung!
@@ -31,7 +30,6 @@ Als Mitarbeitergeschenk – etwa nach einem erfolgreich abgeschlossenen Projekt 
 So erhält jeder Mitarbeiter eine dauerhafte Wertschätzung, die er stets bei sich tragen kann. 
 
 {% include image.html url="/holzwerke/img/werbeanhaenger01/werbeanhaenger0102.jpg" description="RUPPERTdesign fertigt Anerkennungen für Ihre besten Mitarbeitet." type="small" %}
-
 
 
 **Merchandising: Das ideale Werbegeschenk**
