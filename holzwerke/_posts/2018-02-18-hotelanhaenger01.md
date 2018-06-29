@@ -61,6 +61,12 @@ Der Laser arbeitet so filigran, dass auch ein Logo oder ein Symbol detailgetreu 
 So erhalten Sie ein Naturprodukt von höchster Professionalität und Stimmigkeit, das sich wunderbar in Ihr Hotelkonzept einfügt.
 Nachhaltig, hochwertig, individuell, handgefertigt, professionell – und zu einem Preis erhältlich, der überzeugt. 
 
+
+{% include image.html url="/holzwerke/img/hotelanhaenger01/hotel0108.jpg" description="Hotelanhänger - Tagungsraum mit Ihrem Wunschdesign und Wunschschriftart." type="small" %}
+
+{% include image.html url="/holzwerke/img/hotelanhaenger01/hotel0109.jpg" description="Schlüsselanhänger aus Holz für Ihre Hotel. Hier: Nussbaum, 65mm " type="small" %}
+
+
 Wir sind stolz auf unsere Anhänger und freuen uns, wenn Sie auch bei Ihnen Anklang finden. 
 Kontaktieren Sie uns gerne bei Interesse oder Fragen. 
 
@@ -143,7 +149,8 @@ Artikelnummer \|  Holzgröße \| Preis
 #keychain 
 #landhaus 
 #lodge 
-#lounge
+#lounge 
+#meetingroom 
 #pension 
 #penthouse 
 #personalisiert 
@@ -154,6 +161,7 @@ Artikelnummer \|  Holzgröße \| Preis
 #spahotel 
 #strandhütte 
 #stuben 
+#tagungsraum 
 #villa 
 #welcome 
 #yacht 
