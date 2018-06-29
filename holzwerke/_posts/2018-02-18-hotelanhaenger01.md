@@ -131,7 +131,7 @@ Artikelnummer \|  Holzgröße \| Preis
 #besthotel 
 #blockhütte 
 #boot
-#cruiseliner  
+#cruiseliner 
 #designhotel 
 #ferienwohnung 
 #forsthaus 
