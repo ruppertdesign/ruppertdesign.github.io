@@ -54,6 +54,8 @@ Die Schriftart wird dabei selbstverständlich an den Schriftzug des Hotels angep
 
 {% include image.html url="/holzwerke/img/hotelanhaenger01/hotel0106.jpg" description="Unsere Schlüsselanhänger sind aus edlem, massivem Holz und werden mit Ihrem Wunschdesign versehen." type="small" %}
 
+{% include image.html url="/holzwerke/img/hotelanhaenger01/hotel0107.jpg" description="Schlüsselanhänger für Ihre Hotel. Hier: Eiche, 85mm " type="small" %}
+
 
 Der Laser arbeitet so filigran, dass auch ein Logo oder ein Symbol detailgetreu eingebrannt werden kann. 
 So erhalten Sie ein Naturprodukt von höchster Professionalität und Stimmigkeit, das sich wunderbar in Ihr Hotelkonzept einfügt.
@@ -125,6 +127,7 @@ Artikelnummer \|  Holzgröße \| Preis
 #bedandbreakfast 
 #berghaus 
 #berghütte 
+#berghotel
 #besthotel 
 #blockhütte 
 #boot
