@@ -70,7 +70,8 @@ so dass all Ihre Wünsche darauf Platz finden.
 
 Sie sind in Eichenholz oder in Nussbaumholz erhältlich. 
 Fragen Sie aber auch gerne an, wenn Sie eine andere Holzart wünschen. 
-Bei größeren Bestellungen gewährt RUPPERTdesign auch gerne einen Rabatt.
+Bei größeren Bestellungen gewährt RUPPERTdesign natürlich Rabatt. 
+Fragen Sie Ihre Wunschstückzahl gerne an.
 
 
 {% include image.html url="/holzwerke/img/hochzeitsanhaenger01/hochzeitsanhaenger0108.jpg" description="Diese Schlüsselanhänger ersetzen klassische Tischkärtchen bei Ihrer Taufe, einem runden Geburtstag oder auf Ihrer Hochzeit." type="small" %}
@@ -85,29 +86,29 @@ Bei größeren Bestellungen gewährt RUPPERTdesign auch gerne einen Rabatt.
 **Starkes Holzwerk**   
 Artikelnummer \|  Holzgröße \| Preis
 
-* **Schlüsselanhänger mit 1-seitiger Beschriftung**
+* **Schlüsselanhänger 65mm/85mm, einseitige Beschriftung, gelasert**
 
-	RD.018.001  \| 	ca. L 6,5 x B 1 x T 1  \| 6,90 EUR
+	RD.018.001  \| 	ca. L 6,5 x B 1 x T 1  \| 8,90 EUR
 	
-	RD.018.002  \| 	ca. L 8,5 x B 1 x T 1  \| 8,90 EUR
+	RD.018.002  \| 	ca. L 8,5 x B 1 x T 1  \| 10,70 EUR
 
-* **Schlüsselanhänger mit 2-seitiger Beschriftung**
+* **Schlüsselanhänger 65mm/85mm, zweiseitige Beschriftung, gelasert**
 
-	RD.018.003  \| 	ca. L 6,5 x B 1 x T 1  \| 7,90 EUR
+	RD.018.003  \| 	ca. L 6,5 x B 1 x T 1  \| 10,70 EUR
 	
-	RD.018.004  \| 	ca. L 8,5 x B 1 x T 1  \| 9,90 EUR
+	RD.018.004  \| 	ca. L 8,5 x B 1 x T 1  \| 12,5 EUR
 
-* **Schlüsselanhänger mit 3-seitiger Beschriftung**
+* **Schlüsselanhänger 65mm/85mm, dreiseitige Beschriftung, gelasert**
 
-	RD.018.005  \| 	ca. L 6,5 x B 1 x T 1  \| 8,90 EUR
+	RD.018.005  \| 	ca. L 6,5 x B 1 x T 1  \| 12,50 EUR
 	
-	RD.018.006  \| 	ca. L 8,5 x B 1 x T 1  \| 10,90 EUR
+	RD.018.006  \| 	ca. L 8,5 x B 1 x T 1  \| 14,30 EUR
 	
-* **Schlüsselanhänger mit 4-seitiger Beschriftung**    
+* **Schlüsselanhänger 65mm/85mm, vierseitige Beschriftung, gelasert**    
  
-	RD.018.007  \| 	ca. L 6,5 x B 1 x T 1  \| 9,90 EUR
+	RD.018.007  \| 	ca. L 6,5 x B 1 x T 1  \| 14,30 EUR
 	
-	RD.018.008  \| 	ca. L 8,5 x B 1 x T 1  \| 11,90 EUR
+	RD.018.008  \| 	ca. L 8,5 x B 1 x T 1  \| 16,10 EUR
 	
 	
 * **Aktuell verfügbare Holzarten**
@@ -119,8 +120,10 @@ Artikelnummer \|  Holzgröße \| Preis
 
 **hashtags**
 
+#besonderesgeschenk
 #bleibendeerinnerung
 #deko
+#design
 #fürdieewigkeit
 #fürimmer
 #gastgeschenk
@@ -135,6 +138,7 @@ Artikelnummer \|  Holzgröße \| Preis
 #jubilaeum
 #justmarried
 #keychain
+#kleinesgeschenk
 #mehralsdeko
 #namensschild
 #nuetzlichegastgeschenke

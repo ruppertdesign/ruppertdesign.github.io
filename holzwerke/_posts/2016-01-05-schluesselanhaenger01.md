@@ -26,7 +26,11 @@ Sie suchen für Ihre Hochzeit oder eine Geburtstagsfeier nach einer Alternative 
 An diesen Schlüsselanhängern haben Ihre Gäste lange Freude und tragen sie immer als schöne Erinnerung bei sich.
 
 
-Die Schlüsselanhänger sind in Eichen- oder Nussbaumholz erhältlich.
+Sie sind in Eichenholz oder in Nussbaumholz erhältlich. 
+Fragen Sie aber auch gerne an, wenn Sie eine andere Holzart wünschen. 
+ 
+Bei größeren Bestellungen gewährt RUPPERTdesign natürlich Rabatt. 
+Fragen Sie Ihre Wunschstückzahl einfach an.
 
 
 **Schlüsselanhänger &shy;aus Holz &shy;tragen &shy;bereits &shy;diese Botschaften &shy;und Namen**
@@ -67,23 +71,22 @@ STEFAN \| LUISA \| SOPHIA
 **Starkes Holzwerk**   
 Artikelnummer \| Holzart \| Holzgröße \| Preis
 
-* **Schlüsselanhänger mit Wunschtext einzeilig**
-     
+* **Schlüsselanhänger 65mm, einseitige Beschriftung, handgeprägt**    
 	 
-	RD.014.007  \| 	Nussbaum \| ca. L 6,5 x B 1 x T 1 \| 6,90 EUR
+	RD.014.007  \| 	Nussbaum \| ca. L 6,5 x B 1 x T 1 \| 8,90 EUR
 	
-	RD.014.008  \| 	Eiche \| ca. L 6,5 x B 1 x T 1 \| 6,90 EUR
+	RD.014.008  \| 	Eiche \| ca. L 6,5 x B 1 x T 1 \| 8,90 EUR
 	
-	RD.016.044  \| 	Ahorn \| ca. L 6,5 x B 1 x T 1 \| 6,90 EUR
+	RD.016.044  \| 	Ahorn \| ca. L 6,5 x B 1 x T 1 \| 8,90 EUR
 	
+* **Schlüsselanhänger 65mm, zweiseitige Beschriftung, handgeprägt**
 
-* **Schlüsselanhänger mit Wunschtext mehrzeilig**
       
-	RD.016.002  \| 	Nussbaum \| ca. L 6,5 x B 1 x T 1 \| 7,90 EUR
+	RD.016.002  \| 	Nussbaum \| ca. L 6,5 x B 1 x T 1 \| 10,70 EUR
 	
-	RD.016.003  \| 	Eiche \| ca. L 6,5 x B 1 x T 1 \| 7,90 EUR
+	RD.016.003  \| 	Eiche \| ca. L 6,5 x B 1 x T 1 \| 10,70 EUR
 	
-	RD.016.045  \| 	Ahorn \| ca. L 6,5 x B 1 x T 1 \| 7,90 EUR
+	RD.016.045  \| 	Ahorn \| ca. L 6,5 x B 1 x T 1 \| 10,70 EUR
 	
 Auch erhältlich bei [DaWanda][1]{:target="_blank"} und [amazon][2]{:target="_blank"}.
 	

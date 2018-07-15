@@ -35,27 +35,31 @@ Die Schlüsselanhänger ersetzen gleichzeitig klassische Tischkärtchen und verl
 
 Sie sind in Eichenholz oder in Nussbaumholz erhältlich. 
 Fragen Sie aber auch gerne an, wenn Sie eine andere Holzart wünschen. 
-Bei größeren Bestellungen gewährt RUPPERTdesign auch gerne einen Rabatt. 
+ 
+Bei größeren Bestellungen gewährt RUPPERTdesign natürlich Rabatt. 
+Fragen Sie Ihre Wunschstückzahl einfach an.
+
 
 **Starkes Holzwerk**   
 Artikelnummer \| Holzart \| Holzgröße \| Preis
 
-* **Schlüsselanhänger mit Wunschtext einzeilig**
+* **Schlüsselanhänger 65mm, einseitige Beschriftung, handgeprägt**
      
-	RD.014.007  \| 	Nussbaum \| ca. L 6,5 x B 1 x T 1 \| 6,90 EUR
+	RD.014.007  \| 	Nussbaum \| ca. L 6,5 x B 1 x T 1 \| 8,90 EUR
 	
-	RD.014.008  \| 	Eiche \| ca. L 6,5 x B 1 x T 1 \| 6,90 EUR
+	RD.014.008  \| 	Eiche \| ca. L 6,5 x B 1 x T 1 \| 8,90 EUR
 	
-	RD.016.044  \| 	Ahorn \| ca. L 6,5 x B 1 x T 1 \| 6,90 EUR
+	RD.016.044  \| 	Ahorn \| ca. L 6,5 x B 1 x T 1 \| 8,90 EUR
 	
 
-* **Schlüsselanhänger mit Wunschtext mehrzeilig**
+* **Schlüsselanhänger 65mm, zweiseitige Beschriftung, handgeprägt**
+
       
-	RD.016.002  \| 	Nussbaum \| ca. L 6,5 x B 1 x T 1 \| 8,90 EUR
+	RD.016.002  \| 	Nussbaum \| ca. L 6,5 x B 1 x T 1 \| 10,70 EUR
 	
-	RD.016.003  \| 	Eiche \| ca. L 6,5 x B 1 x T 1 \| 8,90 EUR
+	RD.016.003  \| 	Eiche \| ca. L 6,5 x B 1 x T 1 \| 10,70 EUR
 	
-	RD.016.045  \| 	Ahorn \| ca. L 6,5 x B 1 x T 1 \| 8,90 EUR
+	RD.016.045  \| 	Ahorn \| ca. L 6,5 x B 1 x T 1 \| 10,70 EUR
 	
 Auch erhältlich bei [DaWanda][1]{:target="_blank"}.	
 	

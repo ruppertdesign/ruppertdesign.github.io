@@ -78,40 +78,39 @@ Wir freuen uns darauf, Ihre individuellen Anhänger für Sie fertigen zu dürfen
 **Starkes Holzwerk**   
 Artikelnummer \|  Holzgröße \| Preis
 
-* **Schlüsselanhänger mit 1-seitiger Beschriftung**
+* **Schlüsselanhänger 65mm/85mm, einseitige Beschriftung, gelasert**
 
-	RD.018.001  \| 	ca. L 6,5 x B 1 x T 1  \| 6,90 EUR
+	RD.018.001  \| 	ca. L 6,5 x B 1 x T 1  \| 8,90 EUR
 	
-	RD.018.002  \| 	ca. L 8,5 x B 1 x T 1  \| 8,90 EUR
+	RD.018.002  \| 	ca. L 8,5 x B 1 x T 1  \| 10,70 EUR
 
-* **Schlüsselanhänger mit 2-seitiger Beschriftung**
+* **Schlüsselanhänger 65mm/85mm, zweiseitige Beschriftung, gelasert**
 
-	RD.018.003  \| 	ca. L 6,5 x B 1 x T 1  \| 7,90 EUR
+	RD.018.003  \| 	ca. L 6,5 x B 1 x T 1  \| 10,70 EUR
 	
-	RD.018.004  \| 	ca. L 8,5 x B 1 x T 1  \| 9,90 EUR
+	RD.018.004  \| 	ca. L 8,5 x B 1 x T 1  \| 12,50 EUR
 
-* **Schlüsselanhänger mit 3-seitiger Beschriftung**
+* **Schlüsselanhänger 65mm/85mm, dreiseitige Beschriftung, gelasert**
 
-	RD.018.005  \| 	ca. L 6,5 x B 1 x T 1  \| 8,90 EUR
+	RD.018.005  \| 	ca. L 6,5 x B 1 x T 1  \| 12,50 EUR
 	
-	RD.018.006  \| 	ca. L 8,5 x B 1 x T 1  \| 10,90 EUR
-	
-* **Schlüsselanhänger mit 4-seitiger Beschriftung**     
+	RD.018.006  \| 	ca. L 8,5 x B 1 x T 1  \| 14,30 EUR
 
-	RD.018.007  \| 	ca. L 6,5 x B 1 x T 1  \| 9,90 EUR
+* **Schlüsselanhänger 65mm/85mm, vierseitige Beschriftung, gelasert**	  
+
+	RD.018.007  \| 	ca. L 6,5 x B 1 x T 1  \| 14,30 EUR
 	
-	RD.018.008  \| 	ca. L 8,5 x B 1 x T 1  \| 11,90 EUR
-	
-	
+	RD.018.008  \| 	ca. L 8,5 x B 1 x T 1  \| 16,10 EUR
+		
 * **Musterschlüsselanhänger in abgesprochener Größe**     
 
 	RD.018.009  \| 	1-seitiger Beschriftung \| ab 9,90 EUR
 	
-	RD.018.010  \| 	2-seitiger Beschriftung \| ab 10,90 EUR
+	RD.018.010  \| 	2-seitiger Beschriftung \| ab 11,70 EUR
 	
-	RD.018.011  \| 	3-seitiger Beschriftung \| ab 11,90 EUR
+	RD.018.011  \| 	3-seitiger Beschriftung \| ab 13,50 EUR
 	
-	RD.018.012  \| 	4-seitiger Beschriftung \| ab 12,90 EUR
+	RD.018.012  \| 	4-seitiger Beschriftung \| ab 15,30 EUR
 	
 	
 * **Aktuell verfügbare Holzarten**
