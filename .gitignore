@@ -5,3 +5,6 @@ _site/
 .sass-cache/
 .idea/
 *.iml
+node_modules/
+vendor/
+.bundle/
