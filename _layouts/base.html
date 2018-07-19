@@ -1,22 +1,13 @@
 <!doctype html>
-<!--[if IE 7]><html class="lt-ie10 lt-ie9 lt-ie8" lang="de"> <![endif]-->
-<!--[if IE 8]><html class="lt-ie10 lt-ie9" lang="de"> <![endif]-->
-<!--[if IE 9 ]><html class="lt-ie10" lang="de"> <![endif]-->
-<!--[if gt IE 9]><!--> <html lang="de"> <!--<![endif]-->
+<html lang="de">
 {% include head.html %}
 <body>
   <header class="header">
     {% include nav.html %}
   </header>
   {{ content }}
-	<!--[if lte IE 9]>
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-		<script src="{{ "/scripts/libs-ie.min.js" | prepend: site.baseurl }}"></script>  
-	<![endif]-->
-	<!--[if gt IE 9]><!-->
-	  <script src="{{ "/scripts/libs.min.js" | prepend: site.baseurl }}"></script>
-	<!--<![endif]-->
-	<script src="{{ "/scripts/ruppertdesign.js" | prepend: site.baseurl }}"></script>
+  <script src="{{ "/scripts/libs.min.js" | prepend: site.baseurl }}"></script>
+  <script src="{{ "/scripts/main.js" | prepend: site.baseurl }}"></script>
   <script type="application/ld+json">
   {
     "@context" : "http://schema.org",

@@ -1,0 +1,14 @@
+{
+  "name": "ruppertdesign.github.io",
+  "version": "1.0.0",
+  "description": "ruppertdesign.de",
+  "main": "src/index.js",
+  "repository": "https://github.com/ruppertdesign/ruppertdesign.github.io.git",
+  "author": "Florian Hirsch <post@florianhirsch.de>",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^4.16.1",
+    "webpack-cli": "^3.1.0"
+  }
+}

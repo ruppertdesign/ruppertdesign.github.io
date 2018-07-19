@@ -1,6 +1,6 @@
 # Global settings
 timezone: Europe/Berlin
-exclude: [README.md, Makefile, guidlines.md, tools]
+exclude: [README.md, Makefile, guidlines.md, tools, src, node_modules]
 
 # Site settings
 title: RUPPERTdesign – starkes Holzwerk!

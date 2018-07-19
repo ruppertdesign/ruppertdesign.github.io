@@ -1,8 +1,14 @@
 clean:
 	rm -rf _site/*
 
-debug:
-	bundle exec jekyll serve --watch --baseurl=
+watch_js:
+	yarn webpack --mode development --watch
+	
+watch_jekyll:
+	bundle exec jekyll serve --watch --baseurl=	
+
+build_js:
+	yarn webpack --mode production
 
 build_test: clean
 	bundle exec jekyll build --config _config.yml,_config_test.yml
