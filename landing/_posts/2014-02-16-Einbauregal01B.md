@@ -19,4 +19,4 @@ das ausreichend Platz bietet und sich perfekt in den Raum integriert.
 
 
 
-[12]: {% post_url 2015-08-16-dachschraegenregal01 %}
+[12]: {% post_url /holzwerke/2015-08-16-dachschraegenregal01 %}

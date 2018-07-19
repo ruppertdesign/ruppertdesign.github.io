@@ -13,4 +13,4 @@ Liebe Grüße aus Aichach,
 
 Uli
 
-[1]: {% post_url 2014-07-18-wohnzimmertisch02 %}
+[1]: {% post_url /holzwerke/2014-07-18-wohnzimmertisch02 %}

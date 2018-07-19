@@ -19,4 +19,4 @@ Natürlich können wir uns auch gerne telefonisch oder persönlich über Ihre W�
 
 
  [1]: http://fotolevel.de
- [2]: {% post_url 2014-08-18-garderobe01 %}
+ [2]: {% post_url /holzwerke/2014-08-18-garderobe01 %}

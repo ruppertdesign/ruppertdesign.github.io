@@ -23,4 +23,4 @@ Vielen Dank dafür – und viel Erfolg weiterhin mit Deinen vielen kleinen und g
  
 Tobi und Eva Bischoff.
 
-[199]: {% post_url 2016-01-01-einbauschrank01 %}
+[199]: {% post_url /holzwerke/2016-01-01-einbauschrank01 %}

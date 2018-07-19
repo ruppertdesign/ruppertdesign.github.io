@@ -18,6 +18,4 @@ Kein Problem – Ich fertige genau nach Maß und Wunsch.
 
 * **Viele Küchenhelfer \|** <a href="{{ site.baseurl }}/holzwerke">hier</a>
 
-
-
-[11]: {% post_url 2014-03-03-ruehrgeraetehalter %}
+[11]: {% post_url /holzwerke/2014-03-03-ruehrgeraetehalter %}

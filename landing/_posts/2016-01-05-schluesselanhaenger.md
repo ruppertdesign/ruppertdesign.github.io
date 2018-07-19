@@ -19,4 +19,4 @@ die dieser auf einem [Schlüsselanhänger][21] aus Holz immer bei sich tragen so
 
 
 
-[21]: {% post_url 2016-01-05-schluesselanhaenger01 %}
+[21]: {% post_url /holzwerke/2016-01-05-schluesselanhaenger01 %}

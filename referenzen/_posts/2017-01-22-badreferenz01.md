@@ -16,7 +16,7 @@ Viele Grüße,
 
 Antje & Hendrik
 
-[2211]: {% post_url 2016-10-12-einbauschrank02 %}
+[2211]: {% post_url /holzwerke/2016-10-12-einbauschrank02 %}
 
-[2212]: {% post_url 2017-01-01-badmoebel01 %}
+[2212]: {% post_url /holzwerke/2017-01-01-badmoebel01 %}
 

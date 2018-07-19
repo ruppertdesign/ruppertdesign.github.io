@@ -18,4 +18,4 @@ Er passt perfekt in das helle und moderne Ambiente des Raums.
 
 
 
-[12]: {% post_url 2016-01-01-einbauschrank01 %}
+[12]: {% post_url /holzwerke/2016-01-01-einbauschrank01 %}

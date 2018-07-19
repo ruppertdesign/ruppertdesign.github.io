@@ -27,4 +27,4 @@ welches Raspelmesser Sie gerne zücken möchten.
 
 
 
- [3]: {% post_url 2014-03-03-ruehrgeraetehalter %}
+ [3]: {% post_url /holzwerke/2014-03-03-ruehrgeraetehalter %}

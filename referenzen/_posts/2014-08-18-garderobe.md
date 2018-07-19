@@ -14,4 +14,4 @@ Viele Grüße, Andi
 
 PS: Na logo empfehlen wir Dich weiter! Bei der tollen Arbeit!
 
- [2]: {% post_url 2014-08-18-garderobe01 %}
+ [2]: {% post_url /holzwerke/2014-08-18-garderobe01 %}

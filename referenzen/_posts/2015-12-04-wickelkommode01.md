@@ -32,4 +32,4 @@ Vielen Dank für dieses einzigartige HOLZWERK.
 
 Carina, Jochen und Marlene
 
-[161]: {% post_url 2015-07-01-wickelkommode01 %}
+[161]: {% post_url /holzwerke/2015-07-01-wickelkommode01 %}

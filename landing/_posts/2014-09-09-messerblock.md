@@ -19,4 +19,4 @@ Kontaktieren Sie RUPPERTdesign und Sie erhalten eine Maßanfertigung.
 
 
 
-[31]: {% post_url 2014-09-28-messerblock %}
+[31]: {% post_url /holzwerke/2014-09-28-messerblock %}
