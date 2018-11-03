@@ -2,6 +2,7 @@
 layout: referenz
 title: Spiegel
 date: 2015-11-02
+image: antikerspiegel01r.jpg
 ---
 
 Hallo Simon,

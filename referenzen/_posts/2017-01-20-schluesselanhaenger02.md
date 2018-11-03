@@ -2,6 +2,7 @@
 layout: referenz
 title: Lutz Zuhause
 date: 2017-01-20
+image: schluesselanhaenger02.jpg
 ---
 
 Hallo Herr Ruppert!

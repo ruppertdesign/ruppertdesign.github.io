@@ -2,6 +2,7 @@
 layout: referenz
 title: 11x Anhänger
 date: 2017-01-21
+image: schluesselanhaenger03.jpg
 ---
 
 Guten Abend, 

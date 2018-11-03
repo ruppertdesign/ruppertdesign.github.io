@@ -2,6 +2,7 @@
 layout: referenz
 title: Wickelkommode für Marlene
 date: 2015-12-04
+image: wickelkommode01.jpg
 ---
 
 Lieber Simon,

@@ -2,6 +2,7 @@
 layout: referenz
 title: Doppeleinsatz
 date: 2017-01-22
+image: badreferenz01.jpg
 ---
 
 Hallo Simon,

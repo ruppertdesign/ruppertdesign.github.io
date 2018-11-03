@@ -2,6 +2,7 @@
 layout: referenz
 title: Garderobe für Familie Schmid
 date: 2014-08-18
+image: garderobe.jpg
 ---
 
 Hallo Simon,

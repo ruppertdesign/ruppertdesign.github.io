@@ -2,6 +2,7 @@
 layout: referenz
 title: Schlüsselanhänger
 date: 2016-10-27
+image: anhaengerref01.jpg
 ---
 
 Hallo, 

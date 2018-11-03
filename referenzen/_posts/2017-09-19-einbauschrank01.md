@@ -2,6 +2,7 @@
 layout: referenz
 title: Traum - Einbauschrank
 date: 2017-09-19
+image: einbauschrank01.jpg
 ---
 
 Lieber Simon,

@@ -2,6 +2,7 @@
 layout: referenz
 title: Wohnzimmer&shy;tisch für Uli und René
 date: 2014-11-06
+image: wohnzimmertisch02r.jpg
 ---
 
 Hallo Simon,

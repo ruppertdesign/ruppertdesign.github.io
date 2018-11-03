@@ -2,6 +2,7 @@
 layout: referenz
 title: Schlüssel&shy;halter für Steffen
 date: 2014-05-01
+image: schluesselbrett03.jpg
 ---
 
 Der Schlüsselhalter ist mit wenigen Worten zu beschreiben: 
