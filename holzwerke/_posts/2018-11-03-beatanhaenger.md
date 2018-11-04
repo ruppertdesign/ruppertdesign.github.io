@@ -9,9 +9,9 @@ tags: ["geschenke"]
 ---
 
 
-{% include image.html url="/holzwerke/img/beatanhaenger/IMG_1029.jpg" description="Dieser Anhänger trägt eine besondere Botschaft." type="small" %}
+{% include image.html url="/holzwerke/img/beatanhaenger/IMG1029.jpg" description="Dieser Anhänger trägt eine besondere Botschaft." type="small" %}
 
-{% include image.html url="/holzwerke/img/beatanhaenger/IMG_1053.jpg" description="Dieser Anhänger trägt eine besondere Botschaft." type="small" %}
+{% include image.html url="/holzwerke/img/beatanhaenger/IMG1053.jpg" description="Dieser Anhänger trägt eine besondere Botschaft." type="small" %}
 
 
 **Starkes Holzwerk**   
