@@ -9,6 +9,8 @@ tags: ["geschenke"]
 ---
 
 
+[//]: Vorsicht: Kein Doppelpunkt bei description. Sonst komplett in Anführungsstrichen setzen.
+
 
 Wie eine Leinwand aus Holz bieten unsere Holzschilder in unterschiedlichen Größen Platz für filigran auf Holz gebrannte Fotos, 
 persönliche Botschaften, Bilder und Logos. 
