@@ -1,46 +1,36 @@
 ---
 layout: holzwerk
-title:  "Deine Worte"
-description: Eine Botschaft oder ein Beat. Verschlüsselt auf Holz gelasert. 
-permalink: /holzwerke/2018/11/03/beatanhaenger/
-date:   2018-11-03
+title:  "Holzschild"
+description: Fotos, Sprüche, Bilder: Wir bringen Ihre Idee auf Holz
+permalink: /holzwerke/2018/11/04/namensschild/
+date:   2018-11-04
 intro: verschlüsselt auf Holz
 tags: ["geschenke"]
 ---
 
 
-{% include image.html url="/holzwerke/img/beatanhaenger/IMG_1029.jpg" description="Dieser Anhänger trägt eine besondere Botschaft." type="small" %}
+Wie eine Leinwand aus Holz bieten unsere Holzschilder in unterschiedlichen Größen Platz für filigran auf Holz gebrannte Fotos, 
+persönliche Botschaften, Bilder und Logos. 
 
-{% include image.html url="/holzwerke/img/beatanhaenger/IMG_1053.jpg" description="Dieser Anhänger trägt eine besondere Botschaft." type="small" %}
+Fotos, Sprüche, Bilder: Wir bringen Ihre Idee auf Holz
+
+Neue Erdenbürger können mit einem persönlichen Schild für das Kinderzimmer gebührend willkommen geheißen werden, 
+Hochzeitspaare erhalten eine beständige Erinnerung an ihren großen Tag.
+Die Küche wird mit einem schönen Spruch versehen und die Oma zu Weihnachten mit einem Familienfoto beschenkt .... 
+
+... den Möglichkeiten und der Kreativität sind keine Grenzen gesetzt und wir freuen uns darauf, 
+gemeinsam mit Ihnen Ihr perfektes Holzschild zu entwerfen. 
+
+Als hochwertiges Naturprodukt verschönern die Holzschilder Wände, 
+Türen und Kommoden und können mit einem mitgelieferten Lederband ganz einfach angebracht werden.
+
+Kontaktieren Sie uns gerne und teilen Sie uns mit, welches individuelle Holzwerk wir für Sie erstellen dürfen. 
+Wir freuen uns darauf! 
 
 
 **Starkes Holzwerk**   
 Artikelnummer \|  Holzgröße \| Preis
 
-* **Schlüsselanhänger 65mm/85mm, einseitige Beschriftung, gelasert**
-
-	RD.018.001  \| 	ca. L 6,5 x B 1 x T 1  \| 8,90 EUR
-	
-	RD.018.002  \| 	ca. L 8,5 x B 1 x T 1  \| 10,70 EUR
-
-* **Schlüsselanhänger 65mm/85mm, zweiseitige Beschriftung, gelasert**
-
-	RD.018.003  \| 	ca. L 6,5 x B 1 x T 1  \| 10,70 EUR
-	
-	RD.018.004  \| 	ca. L 8,5 x B 1 x T 1  \| 12,50 EUR
-
-* **Schlüsselanhänger 65mm/85mm, dreiseitige Beschriftung, gelasert**
-
-	RD.018.005  \| 	ca. L 6,5 x B 1 x T 1  \| 12,50 EUR
-	
-	RD.018.006  \| 	ca. L 8,5 x B 1 x T 1  \| 14,30 EUR
-
-* **Schlüsselanhänger 65mm/85mm, vierseitige Beschriftung, gelasert**	  
-
-	RD.018.007  \| 	ca. L 6,5 x B 1 x T 1  \| 14,30 EUR
-	
-	RD.018.008  \| 	ca. L 8,5 x B 1 x T 1  \| 16,10 EUR
-		
 
 	
 	
