@@ -39,7 +39,7 @@ um die individuelle Holzstruktur jedes Anhängers optimal zur Geltung zu bringen
 
 Jeder Anhänger wird in Handarbeit gefertigt. Der Gast spürt daher schon beim Empfang, 
 dass hier Wert auf Details und Individualität gelegt wird. 
-Ein hochwertiger Metallring hält Anhänger und Schlüssel fest zusammen.
+Ein hochwertiger Metallring hält Anhänger und Schlüssel fest zusammen. 
 
 
 
@@ -133,6 +133,7 @@ Artikelnummer \|  Holzgröße \| Preis
 #berghaus 
 #berghütte 
 #berghotel
+#bergraumno1
 #besthotel 
 #blockhütte 
 #boot
