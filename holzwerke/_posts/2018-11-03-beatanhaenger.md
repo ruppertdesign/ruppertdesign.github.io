@@ -4,14 +4,31 @@ title:  "Dein Beat"
 description: Eine Botschaft oder ein Beat. Verschlüsselt auf Holz gelasert. 
 permalink: /holzwerke/2018/11/03/beatanhaenger/
 date:   2018-11-03
-intro: verschlüsselt auf Holz
+intro: auf Holz
 tags: ["geschenke"]
 ---
 
-
 {% include image.html url="/holzwerke/img/beatanhaenger/IMG1029.jpg" description="Dieser Anhänger trägt eine besondere Botschaft." type="small" %}
 
+Schlüsselanhänger können echte Geheimnisträger sein. 
+Sie zieren nicht nur unseren Schlüsselbund, sondern können auch eine verschlüsselte Botschaft tragen. 
+Wie wäre es beispielsweise mit einem Beat, der „Ich liebe dich“ bedeutet?
+
+**Welche geheime Botschaft darf auf Ihren Anhänger?**
+
+Der oder die Beschenkte wird sich sicherlich sehr darüber freuen.
+
+Als ständige Begleiter im Alltag führen uns Schlüsselanhänger die Botschaft immer wieder vor Augen und zaubern ein Lächeln auf das Gesicht der Beschenkten.
+
 {% include image.html url="/holzwerke/img/beatanhaenger/IMG1053.jpg" description="Dieser Anhänger trägt eine besondere Botschaft." type="small" %}
+
+
+**Ein Freund klarer Worte**
+
+Sie sind mehr ein Freund klarer Worte?
+Selbstverständlich können auch Buchstaben, Wörter, Sprüche und Symbole den Platz auf Ihrem Wunschanhänger einnehmen. 
+Teilen Sie uns einfach mit, was auf Ihr Holzwerk darf. Wir freuen uns darauf, es genau so für Sie zu fertigen.  
+
 
 
 **Starkes Holzwerk**   

@@ -21,7 +21,7 @@ Neue Erdenbürger können mit einem persönlichen Schild für das Kinderzimmer g
 Hochzeitspaare erhalten eine beständige Erinnerung an ihren großen Tag.
 Die Küche wird mit einem schönen Spruch versehen und die Oma zu Weihnachten mit einem Familienfoto beschenkt .... 
 
-{% include image.html url="/holzwerke/img/namensschild01/namensschild0101.jpg" description="Dieser Anhänger trägt eine besondere Botschaft." type="small" %}
+{% include image.html url="/holzwerke/img/namensschild01/namensschild0103.jpg" description="Dieser Anhänger trägt eine besondere Botschaft." type="small" %}
 
 
 ... den Möglichkeiten und der Kreativität sind keine Grenzen gesetzt und wir freuen uns darauf, 
@@ -33,7 +33,7 @@ gemeinsam mit Ihnen Ihr perfektes Holzschild zu entwerfen.
 Als hochwertiges Naturprodukt verschönern die Holzschilder Wände, 
 Türen und Kommoden und können mit einem mitgelieferten Lederband ganz einfach angebracht werden.
 
-{% include image.html url="/holzwerke/img/namensschild01/namensschild0103.jpg" description="Dieser Anhänger trägt eine besondere Botschaft." type="small" %}
+{% include image.html url="/holzwerke/img/namensschild01/namensschild0101.jpg" description="Dieser Anhänger trägt eine besondere Botschaft." type="small" %}
 
 
 Kontaktieren Sie uns gerne und teilen Sie uns mit, welches individuelle Holzwerk wir für Sie erstellen dürfen. 
