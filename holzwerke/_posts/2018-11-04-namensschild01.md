@@ -1,7 +1,7 @@
 ---
 layout: holzwerk
 title:  "Holzschild"
-description: Fotos, Sprüche, Bilder: Wir bringen Ihre Idee auf Holz
+description: "Fotos, Sprüche, Bilder: Wir bringen Ihre Idee auf Holz"
 permalink: /holzwerke/2018/11/04/namensschild/
 date:   2018-11-04
 intro: verschlüsselt auf Holz
