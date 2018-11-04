@@ -9,6 +9,7 @@ tags: ["geschenke"]
 ---
 
 
+
 Wie eine Leinwand aus Holz bieten unsere Holzschilder in unterschiedlichen Größen Platz für filigran auf Holz gebrannte Fotos, 
 persönliche Botschaften, Bilder und Logos. 
 
