@@ -1,6 +1,6 @@
 ---
 layout: holzwerk
-title:  "Deine Worte"
+title:  "Deine Beat"
 description: Eine Botschaft oder ein Beat. Verschlüsselt auf Holz gelasert. 
 permalink: /holzwerke/2018/11/03/beatanhaenger/
 date:   2018-11-03

@@ -15,7 +15,7 @@ tags: ["geschenke"]
 Wie eine Leinwand aus Holz bieten unsere Holzschilder in unterschiedlichen Größen Platz für filigran auf Holz gebrannte Fotos, 
 persönliche Botschaften, Bilder und Logos. 
 
-Fotos, Sprüche, Bilder: Wir bringen Ihre Idee auf Holz
+**Fotos, Sprüche, Bilder: Wir bringen Ihre Idee auf Holz**
 
 Neue Erdenbürger können mit einem persönlichen Schild für das Kinderzimmer gebührend willkommen geheißen werden, 
 Hochzeitspaare erhalten eine beständige Erinnerung an ihren großen Tag.
