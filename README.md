@@ -9,6 +9,6 @@ bundle install --path vendor/bundle
 
 [www.ruppertdesign.de][1]
 
- [1]: http://www.ruppertdesign.de
+ [1]: https://www.ruppertdesign.de
 
 

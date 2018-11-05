@@ -13,7 +13,7 @@ D-82194 Gröbenzell<br />
 +49 (0)176 24022029<br />
 <a href="mailto:info@ruppertdesign.de">info@RUPPERTdesign.de</a><br />
 Geschäftsführer: Simon Ruppert<br />
-&copy; {{ 'now' | date: "%Y" }} <a href="http://ruppertdesign.de">RUPPERTdesign.de</a>
+&copy; {{ 'now' | date: "%Y" }} <a href="https://ruppertdesign.de">RUPPERTdesign.de</a>
 </address>
 
 
@@ -66,6 +66,6 @@ Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 Zur außergerichtlichen Beilegung von verbraucherrechtlichen Streitigkeiten hat die Europäische Union eine [Online-Plattform][osplattform]  initiiert.
 
 
-[erecht]: http://www.e-recht24.de
+[erecht]: https://www.e-recht24.de
 [fotolevel]: http://fotolevel.de/
 [osplattform]: http://ec.europa.eu/consumers/odr/

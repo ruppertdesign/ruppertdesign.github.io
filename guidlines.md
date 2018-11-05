@@ -51,4 +51,4 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
  [//]: Hier stehen die Links die oben verwendet wurden. Der einfachheit halber nummeriere ich hier durch, du könntest aber auch z.B. [google] nehmen. Oben beim Link muss nur das selbe stehen.
 
  [1]: {% post_url /holzwerke/2013-01-01-griffbrett %}
- [2]: http://de.dawanda.com/product/80629839-schluesselboard-von-ruppertdesign
+ [2]: https://de.dawanda.com/product/80629839-schluesselboard-von-ruppertdesign
