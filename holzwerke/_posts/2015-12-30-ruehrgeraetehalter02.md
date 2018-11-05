@@ -59,6 +59,6 @@ Artikelnummer \| Holzart \| Holzgröße \| Preis
 * **Halter für Küchengeräte in Akazie gedämpft**       
 	RD.016.007  \| 	Akazie dunkel gedämpft \| ca. L 48 x B 10 x H 3 \| 59 EUR
 
-Auch erhältlich bei [eBay][1]{:target="_blank"}.
+Auch erhältlich bei [eBay][1]{:target="_blank" rel="noopener"}.
 
  [1]: http://www.ebay.de/itm/191769493933?ssPageName=STRK:MESELX:IT&_trksid=p3984.m1558.l2648

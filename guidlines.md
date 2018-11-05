@@ -8,7 +8,7 @@
 # Beispielartikel
 
 **Das ist fett geschriebender Text**, *der hier ist kursiv*. So verlinke ich auf den [Griffbrett Artikel][1]. So auf [eine andere Webseite][2]. 
-Über das target Attribut öffnet sich der Link [in einem neuen Tab][2]{:target="_blank"}.
+Über das target Attribut öffnet sich der Link [in einem neuen Tab][2]{:target="_blank" rel="noopener"}.
 
 Achtung: Jetzt kommt ein Zitat:
 

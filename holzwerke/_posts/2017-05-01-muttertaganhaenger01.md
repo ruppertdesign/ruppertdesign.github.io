@@ -67,7 +67,7 @@ Artikelnummer \| Holzart \| Holzgröße \| Preis
 
 
 	
-Auch erhältlich bei [DaWanda][1]{:target="_blank"} und [amazon][2]{:target="_blank"}.
+Auch erhältlich bei [DaWanda][1]{:target="_blank" rel="noopener"} und [amazon][2]{:target="_blank" rel="noopener"}.
 	
  [1]: https://de.dawanda.com/product/115108775-muttertag-fuer-mama-nur-das-beste-wunschtext
  

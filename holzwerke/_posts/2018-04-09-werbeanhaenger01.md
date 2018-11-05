@@ -16,7 +16,7 @@ Wenn Sie nach einem Weg suchen, um Ihren Mitarbeitern Ihre Wertschätzung zu zei
 dann haben wir einen schönen Lösungsvorschlag für Sie:
 
 Unsere handgefertigten Schlüsselanhänger bieten Platz für Ihr Logo und Ihren Wunschtext.
-Selbst feine Details, wie hier beim [Finanzguru][1]{:target="_blank"}, werden exakt umgesetzt.
+Selbst feine Details, wie hier beim [Finanzguru][1]{:target="_blank" rel="noopener"}, werden exakt umgesetzt.
 
 {% include image.html url="/holzwerke/img/werbeanhaenger01/werbeanhaenger0101.jpg" description="RUPPERTdesign fertigt besondere Merchandise Produkte aus Holz. Ihre Werbung wertig auf Holz." type="small" %}
 
