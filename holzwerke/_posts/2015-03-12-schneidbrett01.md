@@ -55,6 +55,3 @@ Artikelnummer \| Holzart \| Holzgröße \| Preis
 * **Aufbereitungsservice für Ihr RUPPERTdesign Schneidbrett**   
 	RD.015.008  \| 	- \| - \| 19 EUR
 	
-Auch erhältlich bei [DaWanda][1]{:target="_blank" rel="noopener"}.
-
- [1]: http://de.dawanda.com/product/88501487-schneidbrett-medium

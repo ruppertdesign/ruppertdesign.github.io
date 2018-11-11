@@ -61,4 +61,4 @@ Artikelnummer \| Holzart \| Holzgröße \| Preis
 
 Auch erhältlich bei [eBay][1]{:target="_blank" rel="noopener"}.
 
- [1]: http://www.ebay.de/itm/191769493933?ssPageName=STRK:MESELX:IT&_trksid=p3984.m1558.l2648
+ [1]: https://www.ebay.de/sch/ruppertdesign/m.html?item=192022397275&hash=item2cb56d415b%3Ag%3A51kAAOSwImRYIjp5%3Ark%3A7%3Apf%3A0&rt=nc&_trksid=p2047675.l2562

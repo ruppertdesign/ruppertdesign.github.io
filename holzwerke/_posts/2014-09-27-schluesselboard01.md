@@ -64,7 +64,3 @@ Artikelnummer \| Holzart \| Holzgröße \| Preis
 	RD.014.015  \| 	Amerikanischer Nussbaum \| ca. L 21 x T 5 x H 3 \| 44 EUR
      
 	RD.014.016  \| 	Eiche \| ca. L 21 x T 5 x H 3 \| 44 EUR
-
-Auch erhältlich bei [DaWanda][1]{:target="_blank" rel="noopener"}.
-
- [1]: http://de.dawanda.com/product/80629839-schluesselboard-von-ruppertdesign

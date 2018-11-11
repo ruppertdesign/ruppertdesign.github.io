@@ -31,4 +31,4 @@ Durch eine angebaute 8-fach [Steckdosenleiste][1] werden Ihre Entertainmentgerä
 **Starkes Holzwerk  \| Hifi Wagen**    
 RD.013.003  \| 	Amerikanischer Nussbaum \| ca. L 120 x B 40 x H 12 \| 159 EUR
 
- [1]: http://www.brennenstuhl.de/de-DE/steckdosenleisten-schaltgeraete-und-adapter/premium-alu-line-steckdosenleiste/premium-alu-line-steckdosenleiste-8-fach-3m-h05vv-f-3g1-5.html
+ [1]: https://www.brennenstuhl.de/de-DE/steckdosenleisten-schaltgeraete-und-adapter/premium-alu-line-steckdosenleiste/premium-alu-line-steckdosenleiste-8-fach-3m-h05vv-f-3g1-5.html
