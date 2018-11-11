@@ -46,13 +46,13 @@ Artikelnummer \|  Holzgröße \| Preis
 
 * **Holzschild mit einseitiger Beschriftung**
 
-	RD.018.011  \| 	Gr.1 \| ca. L 7,5 x B 3 x T 1,5  \| 9,90 EUR
+	RD.018.011  \| 	Gr.1 \| ca. L 7,5 x B 3 x T 1,5  \| 12,90 EUR
 
-	RD.018.012  \| 	Gr.2 \| ca. L 10 x B 5 x T 1,5  \| 12,90 EUR
+	RD.018.012  \| 	Gr.2 \| ca. L 10 x B 5 x T 1,5  \| 14,90 EUR
 	
-	RD.018.013  \| 	Gr.3 \| ca. L 12 x B 6 x T 1,5  \| 14,90 EUR
+	RD.018.013  \| 	Gr.3 \| ca. L 12 x B 6 x T 1,5  \| 19,90 EUR
 
-	RD.018.014  \| 	Gr.4 \| ca. L 15 x B 7,5 x T 1,5  \| 19,90 EUR
+	RD.018.014  \| 	Gr.4 \| ca. L 15 x B 7,5 x T 1,5  \| 24,90 EUR
 	
 	RD.018.015  \| 	Gr.5 \| ca. L 20 x B 10 x T 1,5  \| 29,90 EUR
 
@@ -67,15 +67,15 @@ Artikelnummer \|  Holzgröße \| Preis
 
 * **Holzschild mit zweiseitiger Beschriftung**
 
-	RD.018.021  \| 	Gr.1 \| ca. L 7,5 x B 3 x T 1,5  \| 12,90 EUR
+	RD.018.021  \| 	Gr.1 \| ca. L 7,5 x B 3 x T 1,5  \| 14,90 EUR
 
-	RD.018.022  \| 	Gr.2 \| ca. L 10 x B 5 x T 1,5  \| 16,90 EUR
+	RD.018.022  \| 	Gr.2 \| ca. L 10 x B 5 x T 1,5  \| 17,90 EUR
 	
-	RD.018.023  \| 	Gr.3 \| ca. L 12 x B 6 x T 1,5  \| 19,90 EUR
+	RD.018.023  \| 	Gr.3 \| ca. L 12 x B 6 x T 1,5  \| 24,90 EUR
 
-	RD.018.024  \| 	Gr.4 \| ca. L 15 x B 7,5 x T 1,5  \| 19,90 EUR
+	RD.018.024  \| 	Gr.4 \| ca. L 15 x B 7,5 x T 1,5  \| 29,90 EUR
 	
-	RD.018.025  \| 	Gr.5 \| ca. L 20 x B 10 x T 1,5  \| 25,90 EUR
+	RD.018.025  \| 	Gr.5 \| ca. L 20 x B 10 x T 1,5  \| 34,90 EUR
 
 	RD.018.026  \| 	Gr.6 \| ca. L 25 x B 12,5 x T 1,5  \| 49,90 EUR
 	
