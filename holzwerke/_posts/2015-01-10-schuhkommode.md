@@ -29,7 +29,7 @@ Passend zur Kommode wurden zwei Mini-Garderoben aus Nussbaumholz mit jeweils zwe
 Artikelnummer \| Holzart \| Holzgröße \| Preis
 
 * **Schuhkommode**       
-	RD.014.019  \| 	Amerikanischer Nussbaum \| ca. B 100 x H 85 x T 40 \| Preis auf Anfrage
+	RD.014.020  \| 	Amerikanischer Nussbaum \| ca. B 100 x H 85 x T 40 \| Preis auf Anfrage
 
 * **Kleine Garderobe**   
-	RD.014.020 \| Amerikanischer Nussbaum \| ca. L 21 x B 13 x H 3  \| 79 EUR
+	RD.014.021 \| Amerikanischer Nussbaum \| ca. L 21 x B 13 x H 3  \| 79 EUR

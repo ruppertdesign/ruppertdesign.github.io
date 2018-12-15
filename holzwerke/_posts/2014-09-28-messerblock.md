@@ -29,5 +29,5 @@ Kein Problem, Sie bekommen eine Maßanfertigung.
 {% include image.html url="/holzwerke/img/messerblock/messerblock0201.jpg" description="Messerhalter" type="small" %}
 
 **Starkes Holzwerk \| Messerblock**   
-	RD.014.017  \| 	Amerikanischer Nussbaum \| ca. L 23 x B 17 x H 8 \| 89 EUR
+	RD.014.018  \| 	Amerikanischer Nussbaum \| ca. L 23 x B 17 x H 8 \| 89 EUR
 
