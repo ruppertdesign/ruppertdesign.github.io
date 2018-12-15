@@ -13,7 +13,7 @@ die dieser auf einem [Schlüsselanhänger][21] aus Holz immer bei sich tragen so
 * **Holzart \|** Amerikanischer Nussbaum / Eiche
 * **Holzgröße \|** ca. L 5 x B 1 x H 1
 * **Holzdesign für \|** Gastgeschenk
-* **Preis p. Anhänger \|** 5.90 EUR
+* **Preis p. Anhänger \|** ab 9.90 EUR
 
 * **Weitere Geschenkideen \|** <a href="{{ site.baseurl }}/holzwerke">hier</a>
 

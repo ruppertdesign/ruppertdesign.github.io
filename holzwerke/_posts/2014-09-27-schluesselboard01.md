@@ -64,3 +64,8 @@ Artikelnummer \| Holzart \| Holzgröße \| Preis
 	RD.014.015  \| 	Amerikanischer Nussbaum \| ca. L 21 x T 5 x H 3 \| 44 EUR
      
 	RD.014.016  \| 	Eiche \| ca. L 21 x T 5 x H 3 \| 44 EUR
+
+* **Steckbolzen**       
+	
+	RD.014.017  \| 	Edelstahl A2 mit Kugelsicherung \| ca. L 2.8 x D 0.5 \| 3 EUR
+     
