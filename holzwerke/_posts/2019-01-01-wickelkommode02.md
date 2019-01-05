@@ -44,3 +44,23 @@ Wenn Sie Interesse an einer Wickelkommode haben, dann kontaktieren Sie mich sehr
 
 **Starkes Holzwerk \| Wickelkommode Amy**    
 RD.019.001  \| 	Korpus Eiche massiv - Front weiß matt \| ca. L 120 x T 80 x H 90 \| Preis auf Anfrage
+
+
+**Hashtags**
+
+#wickelkommode 
+#bauhaus 
+#sideboards 
+#wickeltisch 
+#wickelauflage 
+#bootslook 
+#ankerkastengriffe #
+#marinelook
+#eichegeoelt 
+#ruppertdesign 
+#designfront 
+#perfectsense 
+#egger 
+#juliuszöller
+#passtzunomi
+#passendzuevomove
