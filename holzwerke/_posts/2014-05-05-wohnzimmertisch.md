@@ -35,4 +35,4 @@ Dann kontaktieren Sie mich gerne!
 
 
 **Starkes Holzwerk \|  Wohnzimmertisch**    
-RD.010.001  \| 	Amerikanischer Nussbaum \| ca. L 60 x B 40 x H 45 \| Auf Anfrage
+RD.010.001  \| 	Amerikanischer Nussbaum \| ca. L 60 x B 40 x H 45 \| Preis auf Anfrage
