@@ -1,6 +1,7 @@
 (function() {
 
 	var init = function() {
+		initSlider();
 		if (!$('html.lt-ie9').length) {
 			registerScrolling();
 		}
@@ -12,6 +13,17 @@
 		fetchRatings();
 		updateYear();		
 	};
+
+	var initSlider = function() {
+		$('.pgwSlider').pgwSlider({
+			displayList: false,
+			displayControls: true,
+			touchControls: true,
+			transitionDuration: 500,
+			intervalDuration: 3000,
+			maxHeight: 495,
+		});
+	}
 
 	var registerScrolling = function() {
 		$('.scroll-to').on('click', function(e) {

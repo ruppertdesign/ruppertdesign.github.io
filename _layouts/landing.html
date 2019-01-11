@@ -1,12 +1,32 @@
 ---
 layout: base
 ---
-<div class="splash-container"></div>
+
+<div class="splash-container">
+  <img
+    class="logo"
+    width="200"
+    src="{{ '/img/logo.png' | prepend: site.baseurl }}"
+    alt="Logo RUPPERTdesign"
+  />
+  <ul class="pgwSlider">
+    <li>
+      <img
+        src="{{ '/landing/img/einbauschrank01.jpg' | prepend: site.baseurl }}"
+      />
+    </li>
+    <li>
+      <img src="{{ '/landing/img/garderobe.jpg' | prepend: site.baseurl }}" />
+    </li>
+    <li>
+      <img src="{{ '/landing/img/messerblock.jpg' | prepend: site.baseurl }}" />
+    </li>
+    <li>
+      <img src="{{ '/landing/img/tisch02.jpg' | prepend: site.baseurl }}" />
+    </li>
+  </ul>
+</div>
 <div class="landing-wrapper">
-  <main>
-    {{ content }}
-  </main>
-  <footer id="kontakt">
-    {% include footer.html %}
-  </footer>
+  <main>{{ content }}</main>
+  <footer id="kontakt">{% include footer.html %}</footer>
 </div>

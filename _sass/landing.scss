@@ -8,41 +8,22 @@
   position: fixed;
   background-repeat: no-repeat;
   background-position: center 50px;
+  .logo {
+    display: block;
+    margin: 55px auto 0 auto;
+  }
 }
 
 .landing-wrapper {
   position: relative;
   z-index: 2;
+  top: 650px;
 }
-
-@mixin splash-background($minWidth, $maxWidth, $width, $height) {
-
-  @media only screen and (min-width: $minWidth + px) and (max-width: $maxWidth + px) {
-    .splash-container {
-      background-image: url('../img/header-#{$width}x#{$height}.jpg');
-      @media (-webkit-min-device-pixel-ratio: 2) {
-        background-image: url('../img/header-#{$width}x#{$height}@2x.jpg');
-        background-size: $width + px $height + px;  
-      }
-    }
-    .landing-wrapper {
-      top: $height + 50 + px;
-    }
-  }
-
-}
-
-@include splash-background(0, 320, 320, 100);
-@include splash-background(321, 400, 400, 125);
-@include splash-background(401, 600, 600, 188);
-@include splash-background(601, 800, 800, 250);
-@include splash-background(801, 1200, 1200, 375);
-@include splash-background(1201, 5000, 1920, 600);
 
 // non responsive solution for IE<9
 .lt-ie9 {
   .splash-container {
-    background-image: url('../img/header-1920x600.jpg');
+    background-image: url("../img/header-1920x600.jpg");
   }
   .landing-wrapper {
     top: 650px;
@@ -54,14 +35,13 @@
 }
 
 .content-subhead a {
-    color: $primary-color;
-    text-decoration: none;
+  color: $primary-color;
+  text-decoration: none;
 
   &:hover,
   &:focus {
     color: $accent-color;
   }
-
 }
 
 body {
@@ -69,7 +49,6 @@ body {
 }
 
 .features {
-  
   // tablet
   @media only screen and (min-width: 48em) and (max-width: 80em) {
     > div:nth-child(odd) {
@@ -96,9 +75,8 @@ body {
 
     > div:nth-child(4) {
       padding-left: 2em;
-    }  
+    }
   }
-  
 
   h3 {
     text-align: center;
@@ -108,7 +86,6 @@ body {
   p {
     text-align: justify;
   }
-
 }
 
 .lt-ie9 .features div {
@@ -122,7 +99,6 @@ body {
 }
 
 .ribbon {
-  
   padding: 1em 0 3em 0;
 
   &:nth-of-type(1) {
@@ -137,7 +113,6 @@ body {
         color: $silver;
       }
     }
-
   }
 
   &:nth-of-type(2) {
@@ -156,7 +131,6 @@ body {
         color: $silver !important;
       }
     }
-
   }
 
   &:nth-of-type(4) {
@@ -182,5 +156,4 @@ body {
   img {
     margin-bottom: 20px;
   }
-
 }
