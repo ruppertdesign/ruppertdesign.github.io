@@ -9,45 +9,21 @@ layout: base
     alt="Logo RUPPERTdesign"
   />
   <ul class="pgwSlider">
+    {% for slide in site.data.slider %}
     <li>
-      <a
-        href="{{
-          '/holzwerke/2016/01/01/einbauschrank01/' | prepend: site.baseurl
-        }}"
-      >
-        <img
-          src="{{ '/landing/img/einbauschrank01.jpg' | prepend: site.baseurl }}"
-        />
+      <a href="{{ slide.link | prepend: site.baseurl }}">
+        <img src="{{ slide.image | prepend: site.baseurl }}" />
       </a>
     </li>
-    <li>
-      <a
-        href="{{
-          '/holzwerke/2014/08/18/garderobe01/' | prepend: site.baseurl
-        }}"
-      >
-        <img src="{{ '/landing/img/garderobe.jpg' | prepend: site.baseurl }}" />
-      </a>
-    </li>
-    <li>
-      <a
-        href="{{
-          '/holzwerke/2014/09/28/messerblock/' | prepend: site.baseurl
-        }}"
-      >
-        <img
-          src="{{ '/landing/img/messerblock.jpg' | prepend: site.baseurl }}"
-        />
-      </a>
-    </li>
-    <li>
-      <a
-        href="{{ '/holzwerke/2015/02/02/esstisch02/' | prepend: site.baseurl }}"
-      >
-        <img src="{{ '/landing/img/tisch02.jpg' | prepend: site.baseurl }}" />
-      </a>
-    </li>
+    {% endfor %}
   </ul>
+  <ul class="slider-dots">
+      {% for i in (1..site.data.slider.size) %}
+      <li>
+        <a href="#">{{i}}</a>
+      </li>
+      {% endfor %}
+    </ul>
 </div>
 <div class="landing-wrapper">
   <main>{{ content }}</main>
