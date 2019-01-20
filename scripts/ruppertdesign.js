@@ -18,10 +18,11 @@
 		$('.pgwSlider').pgwSlider({
 			displayList: false,
 			displayControls: true,
-			touchControls: true,
+			touchControls: false,
 			transitionDuration: 500,
-			intervalDuration: 3000,
-			maxHeight: 495,
+			intervalDuration: 5000,
+			// FIXME fhi check orientation change
+			maxHeight: $('.splash-container').height(),
 		});
 	}
 
