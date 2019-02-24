@@ -34,7 +34,7 @@
 // non responsive solution for IE<9
 .lt-ie9 {
   .splash-container {
-    background-image: url("../img/header-1920x600.jpg");
+    background-image: url('../img/header-1920x600.jpg');
   }
   .landing-wrapper {
     top: 550px;
@@ -115,10 +115,8 @@ body {
   &:nth-of-type(1) {
     background-color: $ribbon-1;
     color: $white;
-
     a {
       color: $white;
-
       &:hover,
       &:focus {
         color: $silver;
@@ -133,13 +131,11 @@ body {
   &:nth-of-type(3) {
     background-color: $ribbon-3;
     color: $white;
-
     a {
       color: $white;
-
       &:hover,
       &:focus {
-        color: $silver !important;
+        color: $silver;
       }
     }
   }

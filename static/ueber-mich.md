@@ -9,6 +9,27 @@ sitemap:
   lastmod: 2015-08-01
 ---
 
+## [Praktisch][holzwerke]
+
+Sie möchten etwas verstauen, aufhängen, präsentieren? Sie suchen ein Möbelstück aus Holz, das genau zu Ihren vier Wänden passt?
+RUPPERTdesign fertigt Ihnen eine praktische und [individuelle Lösung][holzwerke]!
+
+## [Hochwertig][idee]
+
+RUPPERTdesign verwendet ausschließlich hochwertige Materialien: Massivholz mit Edelstahl, Leder, Stein oder Glas &ndash; so entstehen [langlebige Holzwerke][holzwerke]. Bei der Wahl der Materialien geht RUPPERTdesign ganz auf Ihre Wünsche ein.
+
+## [Geradlinig][referenzen]
+
+Holzwerke von RUPPERTdesign haben klare Formen und ein [zeitloses Design][holzwerke]. 
+Sei es der Messerblock, der Wohnzimmertisch oder die Garderobe:
+RUPPERTdesgin sucht nach eleganten Lösungen unter genauer Berücksichtigung Ihrer Wünsche und Vorstellungen.
+
+## Persönlich
+
+Sie haben eine Idee? Kontaktieren Sie RUPPERTdesign gerne über das [Kontaktformular][kontakt]{: .scroll-to}.
+[Ihr Wunsch][holzwerke] ist etwas ausgefallen? Sehr gut,  RUPPERTdesign mag Herausforderungen.
+Wenn Sie im Großraum München wohnen, vereinbaren Sie gerne ein persönliches Gespräch.
+
 {% include image.html url="/img/simon1.jpg" description="Simon Ruppert" type="small" %}
 
 Ich bin Simon Ruppert, Baujahr 1982, und arbeite hauptberuflich als Projektleiter für einen internationalen Fahrzeug- und Maschinenbaukonzern.
@@ -33,7 +54,6 @@ Weil ich mehr über den Schreinerberuf lernen wollte,
 habe ich meinen Urlaub 2010 genutzt, 
 um ein Praktikum bei einem erfahrenen Schreiner im Allgäu zu absolvieren.
 
-
 Erst habe ich nur Möbelstücke für unsere Wohnung gefertigt – ein Bett, 
 einen ausziehbaren Esstisch und einen Wohnzimmertisch aus Nussbaumholz zum Beispiel – 
 dann auch für Freunde und mit der Gründung von RUPPERTdesign 
@@ -48,3 +68,7 @@ Dann kontaktieren Sie mich gerne.
 
 Ihr Simon Ruppert
 
+ [holzwerke]: {{ "/holzwerke" | prepend: site.baseurl }}
+ [idee]: {{ "/ihre-idee" | prepend: site.baseurl }}
+ [referenzen]: {{ "/referenzen" | prepend: site.baseurl }}
+ [kontakt]: #kontakt
