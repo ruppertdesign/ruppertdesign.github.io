@@ -2,30 +2,14 @@
 layout: base
 ---
 
-<div class="splash-container">
+<section class="splash-container">
   <img
     class="logo"
     src="{{ '/img/logo-transparent.png' | prepend: site.baseurl }}"
     alt="Logo RUPPERTdesign"
   />
-  <ul class="pgwSlider">
-    {% for slide in site.data.slider %}
-    <li>
-      <a href="{{ slide.link | prepend: site.baseurl }}">
-        <img src="{{ slide.image | prepend: site.baseurl }}" />
-      </a>
-    </li>
-    {% endfor %}
-  </ul>
-  <ul class="slider-dots">
-      {% for i in (1..site.data.slider.size) %}
-      <li>
-        <a href="#">{{i}}</a>
-      </li>
-      {% endfor %}
-    </ul>
-</div>
-<div class="landing-wrapper">
+</section>
+<section class="landing-wrapper">
   <main>{{ content }}</main>
   <footer id="kontakt">{% include footer.html %}</footer>
-</div>
+</section>
