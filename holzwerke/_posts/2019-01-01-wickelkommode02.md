@@ -15,15 +15,6 @@ tags: ["schraenke"]
 Ein Baby kommt selten alleine, denn schon seine Erstausstattung beinhaltet allerlei neue Gegenstände. 
 Eine geeignete Wickelmöglichkeit steht dabei ziemlich weit oben auf der Anschaffungsliste der werdenden Eltern. 
 
-
-
-
-{% include image.html url="/holzwerke/img/wickelkommode02/wickelkommodeamy04.jpg" description="Die Wickelkommode Amy mit Egger."%}
-
-
-
-
-
 **So sollte eine gute Wickelkommode sein**
 
 Die Anforderungen daran sind schnell benannt: Sie soll an erster Stelle sicher für das Baby sein, gut durchdacht in ihrer Aufteilung, genügend Stauraum bieten und, ein nicht zu unterschätzendender Punkt, rückenschonend für die Eltern sein. 
@@ -33,6 +24,7 @@ Dieses Holzwerk von RUPPERTdesign aus Eichenholz und weiß mattem Dekor berücks
 Werdende Eltern fragen sich dennoch oft, ob es sich überhaupt lohnt in eine hochwertige Wickelkommode zu investieren, handelt es sich dabei doch um ein Möbelstück auf Zeit. 
 
 {% include image.html url="/holzwerke/img/wickelkommode02/wickelkommodeamy02.jpg" description="Die Wickelkommode Amy im Bootslook."%}
+
 {% include image.html url="/holzwerke/img/wickelkommode02/wickelkommodeamy03.jpg" description="Die Wickelkommode Amy in Perfect Sense weiß matt."%}
 
 **Aus der Wickelkommode werden zwei Sideboards**
@@ -42,12 +34,14 @@ Später können die Sideboards einfach nebeneinander oder unabhängig voneinande
 
 Damit sie ein einheitliches, hochwertiges Bild abgeben, ist die 2x2 Front des hinteren Sideboards ebenso designed, wie die Front des vorderen Schranks, das heißt mit hochwertigen Griffen im Marinelook und mit dezenten Lichtspalten zwischen den Fronten. 
 
+{% include image.html url="/holzwerke/img/wickelkommode02/wickelkommodeamy04.jpg" description="Die Wickelkommode Amy mit Egger."%}
+
 Tatsächlich hat das hintere Sideboard die Zugänge jedoch an den Seiten. 
 Die sehr tiefen Schubkästen mit Vollauszug werden auf der gegenüberliegenden Seite durch variable Fachböden ergänzt und bieten dabei sehr viel Stauraum für Spielsachen, Windeln und Co..
 
 {% include image.html url="/holzwerke/img/wickelkommode02/wickelkommodeamy05.jpg" description="Die Wickelkommode Amy besteht aus zwei Sideboards."%}
-{% include image.html url="/holzwerke/img/wickelkommode02/wickelkommodeamy06.jpg" description="Zwei Sideboards werden zur Wickelkommode Amy."%}
 
+{% include image.html url="/holzwerke/img/wickelkommode02/wickelkommodeamy06.jpg" description="Zwei Sideboards werden zur Wickelkommode Amy."%}
 
 **So einfach lässt sich die Optik der Kommoden variieren**
 
