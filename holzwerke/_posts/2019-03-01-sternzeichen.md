@@ -52,19 +52,14 @@ Sternzeichen Schütze	22./23. November bis 21./22. Dezember
 
 
 Sternzeichen Steinbock	21./22. Dezember bis 20./21. Januar
-
 {% include image.html url="/holzwerke/img/sternzeichen/01steinbock.jpg" description="Schlüsselanhänger mit Sternzeichen Steinbock als persönliches Geschenk."%}
 
 
 Sternzeichen Wassermann	20./21. Januar bis 18./19./20. Februar
-{% include image.html url="/holzwerke/img/sternzeichen/07krebs.jpg" description="Schlüsselanhänger mit Sternzeichen Krebs als persönliches Geschenk."%}
-
-
 {% include image.html url="/holzwerke/img/sternzeichen/02wassermann.jpg" description="Schlüsselanhänger mit Sternzeichen Wassermann als persönliches Geschenk."%}
 
 
 Sternzeichen Fische	18./19./20. Februar bis 20./21. März
-
 {% include image.html url="/holzwerke/img/sternzeichen/03fische.jpg" description="Schlüsselanhänger mit Sternzeichen Fische als persönliches Geschenk."%}
 
 
