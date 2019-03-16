@@ -14,6 +14,17 @@ tags: ["schraenke"]
 Ein Baby kommt selten alleine, denn schon seine Erstausstattung beinhaltet allerlei neue Gegenstände. 
 Eine geeignete Wickelmöglichkeit steht dabei ziemlich weit oben auf der Anschaffungsliste der werdenden Eltern. 
 
+{% include image.html url="/holzwerke/img/wickelkommode02/wickelkommodeamy01.jpg" description="Die Wickelkommode Amy."%}
+{% include image.html url="/holzwerke/img/wickelkommode02/wickelkommodeamy02.jpg" description="Die Wickelkommode Amy im Bootslook."%}
+{% include image.html url="/holzwerke/img/wickelkommode02/wickelkommodeamy03.jpg" description="Die Wickelkommode Amy in Perfect Sense weiß matt."%}
+{% include image.html url="/holzwerke/img/wickelkommode02/wickelkommodeamy04.jpg" description="Die Wickelkommode Amy mit Egger."%}
+{% include image.html url="/holzwerke/img/wickelkommode02/wickelkommodeamy05.jpg" description="Die Wickelkommode Amy besteht aus zwei Sideboards."%}
+{% include image.html url="/holzwerke/img/wickelkommode02/wickelkommodeamy06.jpg" description="Zwei Sideboards werden zur Wickelkommode Amy."%}
+
+
+
+
+
 **So sollte eine gute Wickelkommode sein**
 
 Die Anforderungen daran sind schnell benannt: Sie soll an erster Stelle sicher für das Baby sein, gut durchdacht in ihrer Aufteilung, genügend Stauraum bieten und, ein nicht zu unterschätzendender Punkt, rückenschonend für die Eltern sein. 
