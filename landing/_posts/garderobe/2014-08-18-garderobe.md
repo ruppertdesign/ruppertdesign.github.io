@@ -1,8 +1,6 @@
 ---
 layout: landing
 title: Für jede Ecke die passende Lösung
-date: 2014-08-18
-imageLink: /holzwerke/2014/08/18/garderobe01/
 ---
 
 Eine [Garderobe][2] sollte genau zu Ihren vier Wänden passen.

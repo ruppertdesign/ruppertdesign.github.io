@@ -1,8 +1,6 @@
 ---
 layout: landing
 title: Einbauregal nach Mass
-date: 2014-02-16
-imageLink: /holzwerke/2014/02/16/dachschraegenregal01/
 ---
 
 RUPPERTdesign fertigt ein individuelles Holzwerk, angepasst für jede Ecke.

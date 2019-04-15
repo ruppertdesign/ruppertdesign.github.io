@@ -1,8 +1,6 @@
 ---
 layout: landing
 title: Messerscharf auf Ihre Wünsche angepasst
-date: 2014-01-08
-imageLink: /holzwerke/2014/09/28/messerblock/
 ---
 
 Mit einem [Messerblock][1] aus Massivholz sind Ihre Messer jederzeit griffbereit.

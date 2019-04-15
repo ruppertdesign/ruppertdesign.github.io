@@ -1,8 +1,6 @@
 ---
 layout: landing
 title: Einbauschrank ohne Kompromisse
-date: 2016-01-01
-imageLink: /holzwerke/2016/01/01/einbauschrank01/
 ---
 
 Für ein Schlafzimmer mit Dachschräge hat RUPPERTdesign diesen Einbauschrank maßgefertigt.

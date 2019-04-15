@@ -1,8 +1,6 @@
 ---
 layout: landing
 title: Originelle Schlüsselanhänger
-date: 2014-08-16
-imageLink: /holzwerke/2016/01/05/schluesselanhaenger01/
 ---
 
 Sie suchen für Ihre Hochzeit oder Geburtstagfeier nach einer Alternative zu klassischen Tischkärtchen?
