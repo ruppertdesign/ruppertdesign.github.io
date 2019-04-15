@@ -1,6 +1,6 @@
 (function() {
   var init = function() {
-    initSlider();
+    initSliders();
     if (!$('html.lt-ie9').length) {
       registerScrolling();
     }
@@ -13,26 +13,12 @@
     updateYear();
   };
 
-  var initSlider = function() {
-    var slider = $('.pgwSlider').pgwSlider({
-      displayList: false,
+  var initSliders = function() {
+    $('.pgwSlider').pgwSlider({
+      displayList: true,
       displayControls: true,
-      touchControls: false,
-      transitionDuration: 500,
-      intervalDuration: 4000,
-      // FIXME fhi check orientation change
-      maxHeight: $('.splash-container').height(),
-      beforeSlide: function(idx) {
-        var dots = $('.slider-dots li a');
-        $(dots, '.active').removeClass('active');
-        $(dots[idx - 1]).addClass('active');
-      }
-    });
-    $('.slider-dots li a').on('click', function(e) {
-      e.preventDefault();
-      slider.stopSlide();
-      slider.displaySlide(e.target.text);
-    });
+      touchControls: true,
+    })
   };
 
   var registerScrolling = function() {
