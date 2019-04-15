@@ -14,14 +14,48 @@ $nav-underline-color: $silver;
 $accent-color: $la-palma;
 $footer-color: $tundora;
 
-$ribbon-1: $tuatara;
-$ribbon-2: $white;
-$ribbon-3: $trout;
-$ribbon-4: $white;
-$ribbon-5: $tuatara;
-$ribbon-2: $white;
-$ribbon-3: $trout;
-$ribbon-4: $white;
+$ribbons: (
+  1: (
+    background: $tuatara,
+    color: $white,
+    hover: $silver,
+  ),
+  2: (
+    background: $white,
+    color: $primary-color,
+    hover: $accent-color,
+  ),
+  3: (
+    background: $trout,
+    color: $white,
+    hover: $silver,
+  ),
+  4: (
+    background: $white,
+    color: $primary-color,
+    hover: $accent-color,
+  ),
+  5: (
+    background: $tuatara,
+    color: $white,
+    hover: $silver,
+  ),
+  6: (
+    background: $white,
+    color: $primary-color,
+    hover: $accent-color,
+  ),
+  7: (
+    background: $trout,
+    color: $white,
+    hover: $silver,
+  ),
+  8: (
+    background: $white,
+    color: $primary-color,
+    hover: $accent-color,
+  ),
+);
 
 $form-success: #6fa600;
 $form-error: #cc0000;

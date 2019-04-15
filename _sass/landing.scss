@@ -109,39 +109,26 @@ body {
   width: 205px;
 }
 
+@mixin ribbon($idx) {
+  $color: map-get(map-get($ribbons, $idx), 'color');
+  &:nth-of-type(#{$idx}) {
+    background-color: map-get(map-get($ribbons, $idx), 'background');
+    color: $color;
+    a {
+      color: $color;
+      &:hover,
+      &:focus {
+        color: map-get(map-get($ribbons, $idx), 'hover');
+      }
+    }
+  }
+}
+
 .ribbon {
   padding: 1em 0 3em 0;
 
-  &:nth-of-type(1) {
-    background-color: $ribbon-1;
-    color: $white;
-    a {
-      color: $white;
-      &:hover,
-      &:focus {
-        color: $silver;
-      }
-    }
-  }
-
-  &:nth-of-type(2) {
-    background-color: $ribbon-2;
-  }
-
-  &:nth-of-type(3) {
-    background-color: $ribbon-3;
-    color: $white;
-    a {
-      color: $white;
-      &:hover,
-      &:focus {
-        color: $silver;
-      }
-    }
-  }
-
-  &:nth-of-type(4) {
-    background-color: $ribbon-4;
+  @for $i from 1 through 8 {
+    @include ribbon($i);
   }
 
   p {
