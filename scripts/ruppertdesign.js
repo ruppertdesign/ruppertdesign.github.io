@@ -14,11 +14,27 @@
   };
 
   var initSliders = function() {
-    $('.pgwSlider').pgwSlider({
-      displayList: true,
-      displayControls: true,
-      touchControls: true,
-    })
+    $('.slider').each(function(idx, el) {
+      var dots = $('.slider-dots li a', el);
+      var slider = $('.pgwSlider', el).pgwSlider({
+        displayList: false,
+        displayControls: false,
+        touchControls: true,
+        transitionDuration: 500,
+        intervalDuration: 4000,
+        // FIXME fhi check orientation change
+        maxHeight: $('.splash-container').height(),
+        beforeSlide: function(idx) {
+          $(dots, '.active').removeClass('active');
+          $(dots[idx - 1]).addClass('active');
+        }
+      });
+      $(dots).on('click', function(e) {
+        e.preventDefault();
+        slider.stopSlide();
+        slider.displaySlide(e.target.text);
+      });
+    });
   };
 
   var registerScrolling = function() {

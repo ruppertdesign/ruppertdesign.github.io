@@ -213,3 +213,41 @@ ul.pgwSlider.narrow.listOnTheLeft > li,
   padding: 15px 12px 15px 15px;
   top: 40%;
 }
+
+.slider {
+  position: relative;
+  height: 100%;
+}
+
+.slider-dots {
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 10px;
+  z-index: 3;
+  list-style: none;
+  text-align: center;
+  li {
+    display: inline-block;
+    margin: 0 0.75em;
+    a {
+      display: inline-block;
+      width: 18px;
+      height: 18px;
+      font-size: 0;
+      text-indent: 100%;
+      white-space: nowrap;
+      overflow: hidden;
+      outline: none;
+      box-sizing: border-box;
+      transition: 0.2s ease-in-out;
+      border: 2px solid $white;
+      border-radius: 50%;
+      &.active, &:hover {
+        background-color: $white;
+      }
+    }
+  }
+}

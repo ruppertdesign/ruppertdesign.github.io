@@ -9,24 +9,24 @@ description: RUPPERTdesign - starkes Holzwerk. RUPPERTdesign schreinert Ihnen Ih
   <div class="content">
     <section class="pure-g features">
       <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-2 pure-u-xl-1-4">
-        <h3 class="content-subhead"><a href="{{ "/holzwerke" | prepend: site.baseurl }}">Praktisch</a></h3>
+        <h3 class="content-subhead"><a href="{{ '/holzwerke' | prepend: site.baseurl }}">Praktisch</a></h3>
         <p>Sie möch&shy;ten et&shy;was ver&shy;stau&shy;en, auf&shy;hängen, prä&shy;sen&shy;tie&shy;ren? Sie su&shy;chen ein Mö&shy;bel&shy;stück aus Holz, das ge&shy;nau zu Ih&shy;ren vier Wän&shy;den passt?<br />
         RUPPERTdesign fer&shy;tigt Ih&shy;nen ei&shy;ne prak&shy;ti&shy;sche und <a href="{{ site.baseurl }}/holzwerke">in&shy;di&shy;vi&shy;du&shy;el&shy;le Lösung</a>!</p>
       </div>
       <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-2 pure-u-xl-1-4">
-        <h3 class="content-subhead"><a href="{{ "/ihre-idee" | prepend: site.baseurl }}">Hochwertig</a></h3>
+        <h3 class="content-subhead"><a href="{{ '/ihre-idee' | prepend: site.baseurl }}">Hochwertig</a></h3>
         <p>RUPPERTdesign ver&shy;wen&shy;det aus­&shy;schließlich hoch&shy;wer&shy;ti&shy;ge Ma­te­ria&shy;li&shy;en: Mas&shy;siv&shy;holz mit Edel&shy;stahl, Le&shy;der, Stein oder Glas &ndash; 
         so ent&shy;ste&shy;hen <a href="{{ site.baseurl }}/holzwerke">lang&shy;le&shy;bi&shy;ge Holz&shy;wer&shy;ke</a>.<br />
         Bei der Wahl der Ma&shy;te&shy;ria&shy;li&shy;en geht RUPPERTdesign ganz auf Ih&shy;re Wüns&shy;che ein.</p>
       </div>
       <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-2 pure-u-xl-1-4">
-        <h3 class="content-subhead"><a href="{{ "/referenzen" | prepend: site.baseurl }}">Geradlinig</a></h3>
+        <h3 class="content-subhead"><a href="{{ '/referenzen' | prepend: site.baseurl }}">Geradlinig</a></h3>
         <p>Holz&shy;wer&shy;ke von RUPPERT&shy;design ha&shy;ben kla&shy;re For&shy;men und ein <a href="{{ site.baseurl }}/holzwerke">zeit&shy;lo&shy;ses De&shy;sign</a>. 
         Sei es der Mes­&shy;ser&shy;­block, der Wohn­&shy;zim&shy;­mer&shy;­tisch oder die Gar&shy;de&shy;ro&shy;be: 
         RUPPERTdesgin sucht nach ele&shy;gan&shy;ten Lösun&shy;gen un&shy;ter ge&shy;nau&shy;er Be­&shy;rück­&shy;sich&shy;­ti&shy;gung Ih&shy;rer Wünsche und Vor&shy;stel&shy;lun&shy;gen.</p>
       </div>
       <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-2 pure-u-xl-1-4">
-        <h3 class="content-subhead"><a href="{{ "/ueber-mich" | prepend: site.baseurl }}">Persönlich</a></h3>
+        <h3 class="content-subhead"><a href="{{ '/ueber-mich' | prepend: site.baseurl }}">Persönlich</a></h3>
         <p>Sie ha&shy;ben ei&shy;ne Idee? Kon&shy;tak&shy;tie&shy;ren Sie RUPPERT&shy;design gerne über das Kontaktformular.
         <a href="{{ site.baseurl }}/holzwerke">Ihr Wunsch</a> ist et&shy;was aus&shy;ge&shy;fal&shy;len? Sehr gut, 
         RUPPERT&shy;design mag Her&shy;aus&shy;for&shy;derungen. 
@@ -41,19 +41,30 @@ description: RUPPERTdesign - starkes Holzwerk. RUPPERTdesign schreinert Ihnen Ih
         <h2 class="content-head content-head-ribbon">{{ post.title }}</h2>
         <article class="pure-g">
           <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
-            <ul class="pgwSlider">
-              {% capture folder %}/landing/img/{{ post.id | split: '/' | last }}/{% endcapture %}
-              {% for file in site.static_files %}
-                {% if file.path contains folder %}
+            <div class="slider">
+              <ul class="pgwSlider">
+                {% capture folder %}/landing/img/{{ post.id | split: '/' | last }}/{% endcapture %}
+                {% assign count = 0 %}
+                {% for file in site.static_files %}
+                  {% if file.path contains folder %}
+                  {% assign count=count | plus:1 %}
+                    <li>
+                      <img src="{{ file.path }}" 
+                        width="640"
+                        class="pure-img rounded"
+                      />
+                    </li>
+                  {% endif %}
+                {% endfor %}
+              </ul>
+              <ul class="slider-dots">
+                {% for i in (1..count) %}
                   <li>
-                    <img src="{{ file.path }}" 
-                      width="640"
-                      class="pure-img rounded"
-                    />
+                    <a href="#">{{i}}</a>
                   </li>
-                {% endif %}
-              {% endfor %}
-            </ul>
+                {% endfor %}
+              </ul>
+            </div>
           </div>
           <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
             <div class="right-box">
