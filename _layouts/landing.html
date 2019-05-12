@@ -2,14 +2,12 @@
 layout: base
 ---
 
-<section class="splash-container">
-  <img
-    class="logo"
-    src="{{ '/img/logo-transparent.png' | prepend: site.baseurl }}"
-    alt="Logo RUPPERTdesign"
-  />
-</section>
-<section class="landing-wrapper">
-  <main>{{ content }}</main>
-  <footer id="kontakt">{% include footer.html %}</footer>
-</section>
+<div class="splash-container"></div>
+<div class="landing-wrapper">
+  <main>
+    {{ content }}
+  </main>
+  <footer id="kontakt">
+    {% include footer.html %}
+  </footer>
+</div>
