@@ -14,19 +14,24 @@ $nav-underline-color: $silver;
 $accent-color: $la-palma;
 $footer-color: $tundora;
 
+// ribbon colors
+$lynch: #657e93;
+$grainBrown: #e2cbac;
+$charade: #302e3f;
+
 $ribbons: (
   1: (
-    background: $tuatara,
+    background: $lynch,
     color: $white,
     hover: $silver,
   ),
   2: (
-    background: $white,
+    background: $grainBrown,
     color: $primary-color,
     hover: $accent-color,
   ),
   3: (
-    background: $trout,
+    background: $charade,
     color: $white,
     hover: $silver,
   ),
@@ -36,17 +41,17 @@ $ribbons: (
     hover: $accent-color,
   ),
   5: (
-    background: $tuatara,
+    background: $lynch,
     color: $white,
     hover: $silver,
   ),
   6: (
-    background: $white,
+    background: $grainBrown,
     color: $primary-color,
     hover: $accent-color,
   ),
   7: (
-    background: $trout,
+    background: $charade,
     color: $white,
     hover: $silver,
   ),
