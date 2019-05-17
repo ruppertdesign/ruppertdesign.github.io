@@ -16,8 +16,8 @@ $footer-color: $tundora;
 
 // ribbon colors
 $lynch: #657e93;
-$grainBrown: #e2cbac;
-$charade: #302e3f;
+$grain-brown: #e2cbac;
+$metallic-bronze: #553a1f;
 
 $ribbons: (
   1: (
@@ -26,14 +26,14 @@ $ribbons: (
     hover: $silver,
   ),
   2: (
-    background: $grainBrown,
+    background: $white,
     color: $primary-color,
     hover: $accent-color,
   ),
   3: (
-    background: $charade,
-    color: $white,
-    hover: $silver,
+    background: $grain-brown,
+    color: $primary-color,
+    hover: $accent-color,
   ),
   4: (
     background: $white,
@@ -41,17 +41,17 @@ $ribbons: (
     hover: $accent-color,
   ),
   5: (
-    background: $lynch,
+    background: $metallic-bronze,
     color: $white,
     hover: $silver,
   ),
   6: (
-    background: $grainBrown,
+    background: $white,
     color: $primary-color,
     hover: $accent-color,
   ),
   7: (
-    background: $charade,
+    background: $lynch,
     color: $white,
     hover: $silver,
   ),
