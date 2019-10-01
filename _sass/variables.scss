@@ -12,7 +12,6 @@ $pure-silver: #b7b7b7;
 // ribbon colors
 $lynch: #657e93;
 $grain-brown: #e2cbac;
-$metallic-bronze: #553a1f;
 
 $primary-color: $tundora;
 $nav-color: $tundora;
@@ -38,17 +37,17 @@ $ribbons: (
     hover: $accent-color,
   ),
   4: (
+    background: $lynch,
+    color: $white,
+    hover: $silver,
+  ),
+  5: (
     background: $white,
     color: $primary-color,
     hover: $accent-color,
   ),
-  5: (
-    background: $metallic-bronze,
-    color: $white,
-    hover: $silver,
-  ),
   6: (
-    background: $white,
+    background: $grain-brown,
     color: $primary-color,
     hover: $accent-color,
   ),
