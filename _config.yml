@@ -23,4 +23,8 @@ holzwerke_tags:
   wohnen: "Wohnen"
   kueche: "Küche"
   geschenke: "Geschenke"
-  b2b: "B2B"
+
+# Schlüesselanhänger Categories/Tags
+schluesselanhaenger_tags:
+  geschenke: "Geschenke"
+  b2b: "B2B"  

@@ -10,6 +10,9 @@
       <li {% if pathsegments[1] == 'holzwerke' %}class="pure-menu-selected"{% endif %}>
         <a href="{{ "/holzwerke" | prepend: site.baseurl }}">Holzwerke</a>
       </li>
+      <li {% if pathsegments[1] == 'schluesselanhaenger' %}class="pure-menu-selected"{% endif %}>
+        <a href="{{ "/schluesselanhaenger" | prepend: site.baseurl }}">Schlüsselanhänger</a>
+      </li>
       <li {% if pathsegments[1] == 'ihre-idee' %}class="pure-menu-selected"{% endif %}>
         <a href="{{ "/ihre-idee" | prepend: site.baseurl }}">Ihre Idee</a>
       </li>
