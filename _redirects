@@ -1,2 +1,34 @@
-/holzwerke/2016/01/05/schluesselanhaenger01/    /schluesselanhaenger/2016/01/05/schluesselanhaenger01/
-/holzwerke/img/schluesselanhaenger01/*          /schluesselanhaenger/img/schluesselanhaenger01/:splat
+# Redirects for pages moved from /holzwerke to /schluesselanhaenger
+
+/holzwerke/2016/01/05/schluesselanhaenger01/      /schluesselanhaenger/2016/01/05/schluesselanhaenger01/
+/holzwerke/img/schluesselanhaenger01/*            /schluesselanhaenger/img/schluesselanhaenger01/:splat
+
+/holzwerke/2016/05/01/gastgeschenk01/             /schluesselanhaenger/2016/05/01/gastgeschenk01/
+/holzwerke/img/gastgeschenk01/*                   /schluesselanhaenger/img/gastgeschenk01/:splat
+
+/holzwerke/2016/09/15/anhaengerhotel/             /schluesselanhaenger/2016/09/15/anhaengerhotel/
+/holzwerke/img/anhaengerhotel/*                   /schluesselanhaenger/img/anhaengerhotel/:splat
+
+/holzwerke/2017/01/15/babykey01/                  /schluesselanhaenger/2017/01/15/babykey01/
+/holzwerke/img/babykey01/*                        /schluesselanhaenger/img/babykey01/:splat
+
+/holzwerke/2017/05/01/muttertaganhaenger01/       /schluesselanhaenger/2017/05/01/muttertaganhaenger01/
+/holzwerke/img/muttertaganhaenger01/*             /schluesselanhaenger/img/muttertaganhaenger01/:splat
+
+/holzwerke/2018/01/21/hochzeitsanhaenger01/       /schluesselanhaenger/2018/01/21/hochzeitsanhaenger01/
+/holzwerke/img/hochzeitsanhaenger01/*             /schluesselanhaenger/img/hochzeitsanhaenger01/:splat
+
+/holzwerke/2018/02/18/hotelanhaenger01/           /schluesselanhaenger/2018/02/18/hotelanhaenger01/
+/holzwerke/img/hotelanhaenger01/*                 /schluesselanhaenger/img/hotelanhaenger01/:splat
+
+/holzwerke/2018/04/09/werbeanhaenger01/           /schluesselanhaenger/2018/04/09/werbeanhaenger01/
+/holzwerke/img/werbeanhaenger01/*                 /schluesselanhaenger/img/werbeanhaenger01/:splat
+
+/holzwerke/2018/11/03/beatanhaenger/              /schluesselanhaenger/2018/11/03/beatanhaenger/
+/holzwerke/img/beatanhaenger/*                    /schluesselanhaenger/img/beatanhaenger/:splat
+
+/holzwerke/2018/12/09/sevens/                     /schluesselanhaenger/2018/12/09/sevens/
+/holzwerke/img/sevens/*                           /schluesselanhaenger/img/sevens/:splat
+
+/holzwerke/2019/03/01/sternzeichen/               /schluesselanhaenger/2019/03/01/sternzeichen/
+/holzwerke/img/sternzeichen/*                     /schluesselanhaenger/img/sternzeichen/:splat
