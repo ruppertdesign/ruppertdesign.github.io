@@ -45,7 +45,7 @@ description: RUPPERTdesign - starkes Holzwerk. RUPPERTdesign schreinert Ihnen Ih
               <ul class="pgwSlider">
                 {% capture folder %}/landing/img/{{ post.id | split: '/' | last }}/{% endcapture %}
                 {% assign count = 0 %}
-                {% for file in site.static_files %}
+                {%- for file in site.static_files -%}
                   {% if file.path contains folder %}
                   {% assign count=count | plus:1 %}
                     <li>
@@ -55,7 +55,7 @@ description: RUPPERTdesign - starkes Holzwerk. RUPPERTdesign schreinert Ihnen Ih
                       />
                     </li>
                   {% endif %}
-                {% endfor %}
+                {%- endfor -%}
               </ul>
               <ul class="slider-dots">
                 {% for i in (1..count) %}
