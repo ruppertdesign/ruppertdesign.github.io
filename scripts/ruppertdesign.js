@@ -21,7 +21,7 @@
         displayControls: false,
         touchControls: true,
         transitionDuration: 500,
-        intervalDuration: 4000,
+        intervalDuration: 3000,
         maxHeight: $(el).height(),
         beforeSlide: function(idx) {
           $(dots, '.active').removeClass('active');

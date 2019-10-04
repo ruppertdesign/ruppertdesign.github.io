@@ -43,26 +43,29 @@ description: RUPPERTdesign - starkes Holzwerk. RUPPERTdesign schreinert Ihnen Ih
           <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
             <div class="slider">
               <ul class="pgwSlider">
-                {% capture folder %}/landing/img/{{ post.id | split: '/' | last }}/{% endcapture %}
-                {% assign count = 0 %}
+                {%- capture folder %}/landing/img/{{ post.id | split: '/' | last }}/{% endcapture -%}
+                {%- assign count = 0 -%}
                 {%- for file in site.static_files -%}
-                  {% if file.path contains folder %}
-                  {% assign count=count | plus:1 %}
+                  {%- if file.path contains folder and file.path contains '@1x' -%}
+                    {%- assign count=count | plus:1 -%}
                     <li>
-                      <img src="{{ file.path }}" 
+                      <img src="{{ file.path }}"
+                        srcset="{{ file.path }} 1x,
+                                {{ file.path | replace:'@1x','@2x' }} 2x,
+                                {{ file.path | replace:'@1x','@3x' }} 3x"
                         width="640"
                         class="pure-img rounded"
                       />
                     </li>
-                  {% endif %}
+                  {%- endif -%}
                 {%- endfor -%}
               </ul>
               <ul class="slider-dots">
-                {% for i in (1..count) %}
+                {%- for i in (1..count) -%}
                   <li>
                     <a href="#">{{i}}</a>
                   </li>
-                {% endfor %}
+                {%- endfor -%}
               </ul>
             </div>
           </div>
