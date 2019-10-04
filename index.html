@@ -46,17 +46,19 @@ description: RUPPERTdesign - starkes Holzwerk. RUPPERTdesign schreinert Ihnen Ih
                 {%- capture folder %}/landing/img/{{ post.id | split: '/' | last }}/{% endcapture -%}
                 {%- assign count = 0 -%}
                 {%- for file in site.static_files -%}
-                  {%- if file.path contains folder and file.path contains '@1x' -%}
+                  {%- if file.path contains folder -%}
+                  {%- unless file.path contains '@' -%}
                     {%- assign count=count | plus:1 -%}
                     <li>
                       <img src="{{ file.path }}"
                         srcset="{{ file.path }} 1x,
-                                {{ file.path | replace:'@1x','@2x' }} 2x,
-                                {{ file.path | replace:'@1x','@3x' }} 3x"
+                                {{ file.path | replace:'.jpg','@2x.jpg' }} 2x,
+                                {{ file.path | replace:'.jpg','@3x.jpg' }} 3x"
                         width="640"
                         class="pure-img rounded"
                       />
                     </li>
+                  {%- endunless -%}  
                   {%- endif -%}
                 {%- endfor -%}
               </ul>
