@@ -22,7 +22,6 @@
         touchControls: true,
         transitionDuration: 500,
         intervalDuration: 3000,
-        maxHeight: $(el).height(),
         beforeSlide: function(idx) {
           $(dots, '.active').removeClass('active');
           $(dots[idx - 1]).addClass('active');
