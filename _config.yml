@@ -19,11 +19,13 @@ sass:
 
 # Holzwerke Categories/Tags
 holzwerke_tags:
+  geschenke: "Geschenke"
+  garderobe: "Garderobe"
   tische: "Tische"
-  schraenke: "Schränke"
+  schraenke: "Schränke & Sideboards"
   wohnen: "Wohnen"
   kueche: "Küche"
-  geschenke: "Geschenke"
+
 
 # Schlüesselanhänger Categories/Tags
 schluesselanhaenger_tags:

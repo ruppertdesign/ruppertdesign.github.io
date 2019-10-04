@@ -5,7 +5,7 @@ description: Diese Mini-Garderobe von RUPPERTdesign ist unaufdringlich und passt
 permalink: /holzwerke/2015/01/11/kleinegarderobe/
 date:   2015-01-11
 intro: Klein und Fein 
-tags: ["wohnen"]
+tags: ["garderobe"]
 ---
 
 
