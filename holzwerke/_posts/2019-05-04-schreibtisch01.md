@@ -26,19 +26,13 @@ RD.019.001  \| 	Arbeitsplatte Beton Look - Front weiß matt \| ca. L 320 x T 120
 
 **Hashtags**
 
-#wickelkommode 
-#bauhaus 
-#sideboards 
-#wickeltisch 
-#wickelauflage 
-#bootslook 
-#ankerkastengriffe #
-#marinelook
-#eichegeoelt 
-#ruppertdesign 
+#schreibtisch 
+#arbeitsecke 
+#sideboard
+#beton 
+#betonlook 
+#cleandesing 
+#ruppertdesign  
 #designfront 
 #perfectsense 
-#egger 
-#juliuszöller
-#passtzunomi
-#passendzuevomove
+#egger
