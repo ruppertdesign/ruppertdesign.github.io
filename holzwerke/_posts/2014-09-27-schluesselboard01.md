@@ -5,7 +5,7 @@ description: Ein Schlüsselboard aus Holz von RUPPERTdesign wird einfach an die 
 permalink: /holzwerke/2014/09/27/schluesselboard01/
 date:   2014-09-27
 intro: Schlüsselbund am Edelstahlstift
-tags: ["geschenke"]
+tags: ["garderobe"]
 product:
   name: Schlüsselboard
   price: "39.00"
