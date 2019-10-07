@@ -22,7 +22,8 @@
       background-image: url('../img/header-#{$width}x#{$height}.jpg');
       @media (-webkit-min-device-pixel-ratio: 2) {
         background-image: url('../img/header-#{$width}x#{$height}@2x.jpg');
-        background-size: $width + px $height + px;  
+        background-size: $width + px $height + px;
+        background-position-x: right;
       }
     }
     .landing-wrapper {
