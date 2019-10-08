@@ -1,13 +1,29 @@
 # Bildgrößen
 
-* LandingPage Ribbon: 640px x 480px
-* Artikel: 1100px x 825px
-* Referenzen: 400px x 300px
+* Slider Startseite: 
+Bisher: 640x480 (Verhältnis 1,125)
+Jetzt: 
+bild.jpg: 640x480
+bild@2x.jpg: 1280x960
+bild@3x.jpg: 1920x1440
+
+* Holzwerke + Schlüsselanhänger Vorschau: 
+Bisher: 300x225 (Verhältnis 1,33)
+Jetzt: 640x480 (Verhältnis 1,125)
+
+* Detailbilder Holzwerke und Schlüsselanhänger
+Bisher: Unterschiedlich, meinst 1100px x 825px
+Jetzt: 1280x960
+
+* Referenzen
+Bisher:
+Jetzt:  400px x 300px
 
 
 # Beispielartikel
 
-**Das ist fett geschriebender Text**, *der hier ist kursiv*. So verlinke ich auf den [Griffbrett Artikel][1]. So auf [eine andere Webseite][2]. 
+**Das ist fett geschriebender Text**, *der hier ist kursiv*. 
+So verlinke ich auf den [Bett Artikel][1]. So auf [eine andere Webseite][2]. 
 Über das target Attribut öffnet sich der Link [in einem neuen Tab][2]{:target="_blank" rel="noopener"}.
 
 Achtung: Jetzt kommt ein Zitat:
@@ -50,5 +66,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
  [//]: Hier stehen die Links die oben verwendet wurden. Der einfachheit halber nummeriere ich hier durch, du könntest aber auch z.B. [google] nehmen. Oben beim Link muss nur das selbe stehen.
 
- [1]: {% post_url /holzwerke/2013-01-01-griffbrett %}
+ [1]: {% post_url /holzwerke/2014-01-15-bett01 %}
  [2]: https://de.dawanda.com/product/80629839-schluesselboard-von-ruppertdesign
