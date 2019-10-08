@@ -20,8 +20,8 @@ tags: ["tische"]
 
 
 
-**Starkes Holzwerk \| Wickelkommode Amy**    
-RD.019.001  \| 	Arbeitsplatte Beton Look - Front weiß matt \| ca. L 320 x T 120 x H 76 \| Preis auf Anfrage
+**Starkes Holzwerk \| Arbeitsecke mit Sideboard**    
+RD.019.001  \| 	Arbeitsplatte Beton Look - Front weiß matt \| ca. L 200 x T 180 x H 80 \| Preis auf Anfrage
 
 
 **Hashtags**

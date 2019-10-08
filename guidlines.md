@@ -11,6 +11,7 @@ bild@3x.jpg: 1920x1440
 Bisher: 300x225 (Verhältnis 1,33)
 Jetzt: 640x480 (Verhältnis 1,125)
 
+
 * Detailbilder Holzwerke und Schlüsselanhänger
 Bisher: Unterschiedlich, meinst 1100px x 825px
 Jetzt: 1280x960
