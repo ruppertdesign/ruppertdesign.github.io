@@ -3,14 +3,15 @@ layout: landing
 title: Individuelle Schlüsselanhänger
 ---
 
-Schlüsselanhänger für fast jeden Anlass.
-Als kleines <a href="{{ site.baseurl }}/schluesselanhaenger/#geschenke">Geschenk</a>, persönlich und individuel für einen lieben Menschen.
+Als kleines Geschenk, persönlich und individuel für einen lieben Menschen.
+Zur Hochzeit oder Geburtstagfeier als eine Alternative zu klassischen Tischkärtchen
+oder als Zimmerschlüssel für Ihr Hotel oder Unterkunft.
 
-Zur <a href="{{ site.baseurl }}/schluesselanhaenger/#hz">Hochzeit oder Geburtstagfeier</a> als einer Alternative zu klassischen Tischkärtchen.
+Jeder Schlüsselanhänger von RUPPERTdesign wird individuel nach Ihren Wünschen gefertigt. 
+Dabei kann die Holzart und Holzgröße, sowie der Schlüsselring und die Anzahl der beschrifteten Seiten bestimmt werden.
+Die Anhängerseiten können entweder nur mit einem Wunschtext oder ergänzt mit einem Symbol oder Logo beschriftet werden.
+Sprechen Sie mich an, hier sind fast keien Grenzen gesetzt.
 
-Vielleicht haben Sie  ein <a href="{{ site.baseurl }}/schluesselanhaenger/#hotel">Hotel</a> oder eine <a href="{{ site.baseurl }}/schluesselanhaenger/#hotel">Unterkunft</a> und möchten die alten Metallanhänger gegen Neue aus Holz ersetzen.
+Eine Übersicht der häufigsten Schlüsselanhängern finden Sie **<a href="{{ site.baseurl }}/schluesselanhaenger">hier</a>**.
 
-Sie möchten Ihren Kunden ein hochwertiges <a href="{{ site.baseurl }}/schluesselanhaenger/#werbung">Werbegeschenk</a>  überreichen.
-
-
-- **Weitere tolle Geschenkideen \|** <a href="{{ site.baseurl }}/holzwerke/#geschenke">hier</a>
+Neben den Schlüsselanhängern gibt es weitere tolle Geschenkideen \| **<a href="{{ site.baseurl }}/holzwerke/#geschenke">hier</a>**.
