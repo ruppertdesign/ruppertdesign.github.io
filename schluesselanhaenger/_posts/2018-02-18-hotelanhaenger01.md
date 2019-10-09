@@ -5,7 +5,7 @@ description: #welcome #keychain #schlüsselanhänger #appartments #hotel #albhof
 permalink: /schluesselanhaenger/2018/02/18/hotelanhaenger01/
 date: 2018-02-18
 intro: Diese Anhänger wird Ihr Gast lieben
-tags: ["b2b"]
+tags: ["hotel"]
 ---
 
 **Es sind die Details, die zählen. Wenn alles stimmt, dann werden Hotels zu Wohlfühloasen,

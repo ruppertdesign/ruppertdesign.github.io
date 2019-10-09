@@ -5,7 +5,7 @@ description: Unsere handgefertigten Schlüsselanhänger bieten Platz für Ihr Lo
 permalink: /schluesselanhaenger/2018/04/09/werbeanhaenger01/
 date: 2018-04-09
 intro: Mit Logo und Text
-tags: ["b2b"]
+tags: ["werbung"]
 ---
 
 **Sie sind stolz auf Ihr Unternehmen, Ihre Mitarbeiter und Ihre Produkte?

@@ -5,7 +5,7 @@ description: Diese Schlüsselanhänger aus Holz von RUPPERTdesign für Ihr Hotel
 permalink: /schluesselanhaenger/2016/09/15/anhaengerhotel/
 date: 2015-12-15
 intro: Hotel, Pension, Ferienwohnung
-tags: ["b2b"]
+tags: ["hotel"]
 product:
   name: Schlüsselanhänger aus Holz von RUPPERTdesign für Hotels
   price: "8.90"

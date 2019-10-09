@@ -5,7 +5,7 @@ description: Diese Schlüsselanhänger aus Holz von RUPPERTdesign. Ein ideales G
 permalink: /schluesselanhaenger/2016/05/01/gastgeschenk01/
 date: 2016-05-01
 intro: Tischkarten für Ihre Hochzeit
-tags: ["geschenke"]
+tags: ["hz"]
 product:
   name: Schlüsselanhänger aus Holz von RUPPERTdesign
   price: "6.90"
