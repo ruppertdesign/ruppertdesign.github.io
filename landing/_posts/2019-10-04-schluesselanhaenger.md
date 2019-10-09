@@ -8,7 +8,7 @@ Als kleines <a href="{{ site.baseurl }}/schluesselanhaenger/#geschenke">Geschenk
 
 Zur <a href="{{ site.baseurl }}/schluesselanhaenger/#hz">Hochzeit oder Geburtstagfeier</a> als einer Alternative zu klassischen Tischkärtchen.
 
-Sie haben ein <a href="{{ site.baseurl }}/schluesselanhaenger/#hotel">Hotel</a> oder eine Unterkunft und möchten die alten Metallanhänger gegen Neue aus Holz ersetzen.
+Vielleicht haben Sie  ein <a href="{{ site.baseurl }}/schluesselanhaenger/#hotel">Hotel</a> oder eine <a href="{{ site.baseurl }}/schluesselanhaenger/#hotel">Unterkunft</a> und möchten die alten Metallanhänger gegen Neue aus Holz ersetzen.
 
 Sie möchten Ihren Kunden ein hochwertiges <a href="{{ site.baseurl }}/schluesselanhaenger/#werbung">Werbegeschenk</a>  überreichen.
 
