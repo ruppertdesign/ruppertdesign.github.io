@@ -11,7 +11,7 @@ sitemap:
 
 {% include image.html url="/img/simon1.jpg" description="Simon Ruppert" type="small" %}
 
-Ich bin Simon Ruppert, Baujahr 1982, und arbeite hauptberuflich als Projektleiter für einen internationalen Fahrzeug- und Maschinenbaukonzern.
+Ich bin Simon Ruppert, Baujahr 1982, und arbeite hauptberuflich als Projektleiter für einen internationalen Maschinenbaukonzern.
 Im Januar 2014 habe ich RUPPERTdesign gegündet – für Holzwerke jeglicher Art. 
 Ein Maschinenbauingenieur, der schreinert? Das kam so:
 
@@ -38,8 +38,7 @@ hat das Ganze eine Eigendynamik über Empfehlungen angenommen, was mich sehr fre
 
 Ich bin ein sehr visueller Mensch – 
 tolle Materialien und ein außergewöhnliches und klares Design begeistern mich. 
-Ich freue mich sehr darüber, wenn Ihnen meine Arbeit gefällt und ich etwas für Sie fertigen darf. 
-Dann kontaktieren Sie mich gerne.
+Ich freue mich sehr darüber, wenn Ihnen meine Holzwerke gefallen und ich etwas für Sie fertigen darf. 
 
 Ihr Simon Ruppert
 
