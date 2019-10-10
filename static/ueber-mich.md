@@ -22,8 +22,6 @@ Hier sind viele unserer Möbelstücke entstanden.
 Mein Bruder Stefan und ich haben ihm dabei oft über die Schulter geschaut, 
 haben geholfen und von ihm gelernt.
 
-{% include image.html url="/img/simon2.jpg" description="Simon Ruppert in der Werkstatt" type="small" %}
-
 Die Werkstatt ist für mich seit meiner Kindheit ein Ort, 
 an dem präzise gearbeitet wird und jeder Schritt durchdacht sein muss. 
 Sie bietet Raum für Kreativität, ist erfüllt von Holzgeruch 
@@ -42,8 +40,6 @@ Ich bin ein sehr visueller Mensch –
 tolle Materialien und ein außergewöhnliches und klares Design begeistern mich. 
 Ich freue mich sehr darüber, wenn Ihnen meine Arbeit gefällt und ich etwas für Sie fertigen darf. 
 Dann kontaktieren Sie mich gerne.
-
-{% include image.html url="/img/simon3.jpg" description="Simon Ruppert in Stankt Peter-Ording" type="small" %}
 
 Ihr Simon Ruppert
 
