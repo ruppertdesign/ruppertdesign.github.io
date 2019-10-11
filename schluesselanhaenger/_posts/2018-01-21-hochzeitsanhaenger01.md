@@ -5,7 +5,7 @@ description: Die besonderen Gasgeschenke geben Ihrer Hochzeit den letzten Schlif
 permalink: /schluesselanhaenger/2018/01/21/hochzeitsanhaenger01/
 date: 2018-01-21
 intro: Mehr als Deko
-tags: ["geschenke"]
+tags: ["hz"]
 ---
 
 ---

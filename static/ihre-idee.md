@@ -10,7 +10,6 @@ sitemap:
 ---
 
 Sie schätzen gutes Handwerk und suchen ein Möbelstück, das perfekt zu Ihrer Einrichtung passt? 
-Sei es die exakt nach Ihren Wünschen gefertigten Garderobe oder die topmoderne Hausbar?
 Sie haben ein bestimmtes Design im Kopf, finden es so aber in keinem Einrichtungshaus?
 Sie haben Holz, das Ihnen etwas bedeutet – weil es antik ist oder Sie an etwas erinnert – und möchten einen Gegenstand daraus fertigen lassen? 
 Etwa einen Spiegelrahmen aus einem alten Balken oder einen Tisch aus Strandholz?

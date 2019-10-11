@@ -1,6 +1,6 @@
 ---
 layout: holzwerk
-title: "Zimmerschlüssel"
+title: "Tagungshotel"
 description: #welcome #keychain #schlüsselanhänger #appartments #hotel #albhof #designhotel #hotelroom #resort #besthotel #ferienwohnung #pension #skihotel #spahotel #villa #lounge #penthouse #strandhütte #berghütte #blockhütte #lodge #b&b #forsthaus #berghaus #artlodge #alm #stuben #landhaus #alterwirt #bedandbreakfast #house #yacht #boot #cruiseliner #hotelzimmer #zimmerschlüssel #zimmernummer #appartmentdesign #individuell #personalisiert #ruppertdesign
 permalink: /schluesselanhaenger/2019/09/25/hotelanhaenger03/
 date: 2019-03-18
