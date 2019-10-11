@@ -4,7 +4,7 @@ title: "Ihre Logo und Text Gr.1"
 description: Unsere handgefertigten Schlüsselanhänger bieten Platz für Ihr Logo und Ihren Wunschtext.
 permalink: /schluesselanhaenger/2018/04/09/werbeanhaenger01/
 date: 2018-04-09
-intro: L65 D11 Eiche
+intro: Gr.1 \| L65 D11 \| Eiche
 tags: ["werbung"]
 ---
 
