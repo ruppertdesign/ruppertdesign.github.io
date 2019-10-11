@@ -2,7 +2,7 @@
 layout: holzwerk
 title: "Weitere Hochzeitsgeschenke"
 description: Die besonderen Gasgeschenke geben Ihrer Hochzeit den letzten Schliff.
-permalink: /schluesselanhaenger/2020/12/21/hochzeitsanhaenger01/
+permalink: /schluesselanhaenger/2020/12/21/hochzeitsgeschenke/
 date: 2020-12-21
 intro: Als Alternative zum Anhänger
 tags: ["hz"]
