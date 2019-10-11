@@ -1,10 +1,10 @@
 ---
 layout: holzwerk
-title: "Ihre Werbung auf Holz"
+title: "Ihre Logo und Text Gr.1"
 description: Unsere handgefertigten Schlüsselanhänger bieten Platz für Ihr Logo und Ihren Wunschtext.
 permalink: /schluesselanhaenger/2018/04/09/werbeanhaenger01/
 date: 2018-04-09
-intro: Mit Logo und Text
+intro: L65 D11 Eiche
 tags: ["werbung"]
 ---
 
