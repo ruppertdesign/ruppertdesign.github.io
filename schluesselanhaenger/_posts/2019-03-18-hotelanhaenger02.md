@@ -114,6 +114,7 @@ Artikelnummer \| Holzgröße \| Preis
 #designhotel
 #ferienwohnung
 #forsthaus
+#gasthaus
 #hotel
 #hotelroom
 #hotelzimmer
