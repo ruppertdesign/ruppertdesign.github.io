@@ -11,6 +11,11 @@ tags: ["hz"]
 
 {% include image.html url="/schluesselanhaenger/img/hochzeitsgeschenke/hochzeitsgeschenke01.jpg" description="RUPPERTdesign fertigt schöne Hochzeitsgeschenke." type="small" %}
 
+{% include image.html url="/schluesselanhaenger/img/hochzeitsgeschenke/hochzeitsgeschenke02.jpg" description="RUPPERTdesign fertigt schöne Hochzeitsgeschenke." type="small" %}
+
+{% include image.html url="/schluesselanhaenger/img/hochzeitsgeschenke/hochzeitsgeschenke03.jpg" description="RUPPERTdesign fertigt schöne Hochzeitsgeschenke." type="small" %}
+
+{% include image.html url="/schluesselanhaenger/img/hochzeitsgeschenke/hochzeitsgeschenke04.jpg" description="RUPPERTdesign fertigt schöne Hochzeitsgeschenke." type="small" %}
 
 **hashtags**
 #besonderesgeschenk
