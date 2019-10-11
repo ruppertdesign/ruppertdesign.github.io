@@ -37,7 +37,8 @@
 @include splash-background(321, 400, 400, 125);
 @include splash-background(401, 600, 600, 188);
 @include splash-background(601, 800, 800, 250);
-@include splash-background(801, 1200, 1200, 375);
+@include splash-background(801, 1080, 1080, 338);
+@include splash-background(1081, 1200, 1200, 375);
 @include splash-background(1201, 5000, 1920, 600);
 
 // non responsive solution for IE<9
