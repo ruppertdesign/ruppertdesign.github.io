@@ -80,6 +80,7 @@ Artikelnummer \| Holzgröße \| Preis
 - **Musterschlüsselanhänger in individueller Größe**
 
     RD.018.009  \| 	1-seitiger Beschriftung \| ab 14,90 EUR
+    
 
   	RD.018.010  \| 	2-seitiger Beschriftung \| ab 16,90 EUR
 
@@ -88,6 +89,7 @@ Artikelnummer \| Holzgröße \| Preis
     RD.018.012  \| 	4-seitiger Beschriftung \| ab 20,90 EUR
 
 - **Aktuell verfügbare Holzarten**
+
   Eiche \| Nussbaum \| Ahorn \| Buche
   Ihr Wunschholz ist nicht dabei?
   Wir können fast jedes Holz besorgen.
