@@ -15,8 +15,12 @@
   };
 
   var registerPositionSplash = function() {
+    var splash = $('.splash-container')
+    if (!splash.length) {
+      return;
+    }
     var positionSplash = function() {
-      var offset = $('.splash-container').offset();
+      var offset = splash.offset();
       $('.landing-wrapper').css({
         'margin-top': (offset.top + offset.height) + 'px'
       });
