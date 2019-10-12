@@ -80,19 +80,11 @@
     width: 300px;
     height: 225px;
     margin: 1em auto;
-    overflow: hidden;
-    border-radius: 3px;
-    border: 1px solid $silver;
-    z-index: 10;  // needed cause webkit swallaws border on scale
   }
 
   img {
-    
+    border: 1px solid $silver;
     @include transition(all 1s ease);
-    
-    border: 0 none;
-    z-index: 1; // needed cause webkit swallaws border on scale
-
     &:hover {
       @include filter(opacity(70%));
       @include transform(scale(1.1));
