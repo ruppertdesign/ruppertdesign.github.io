@@ -1,5 +1,6 @@
 (function() {
   var init = function() {
+    registerPositionSplash();
     initSliders();
     if (!$('html.lt-ie9').length) {
       registerScrolling();
@@ -12,6 +13,17 @@
     fetchRatings();
     updateYear();
   };
+
+  var registerPositionSplash = function() {
+    var positionSplash = function() {
+      var offset = $('.splash-container').offset();
+      $('.landing-wrapper').css({
+        'margin-top': (offset.top + offset.height) + 'px'
+      });
+    };
+    positionSplash();
+    $(window).on('resize', positionSplash);
+  }
 
   var initSliders = function() {
     $('.slider').each(function(idx, el) {

@@ -2,7 +2,67 @@
 layout: base
 ---
 
-<div class="splash-container"></div>
+<div class="splash-container">
+  <picture>
+    <source
+      media="(min-width: 1201px)"
+      srcset="
+        img/header-1920x600.jpg    1x,
+        img/header-1920x600@2x.jpg 2x,
+        img/header-1920x600@3x.jpg 3x
+      "
+    />
+    <source
+      media="(min-width: 1081px)"
+      srcset="
+        img/header-1200x375.jpg    1x,
+        img/header-1200x375@2x.jpg 2x,
+        img/header-1200x375@3x.jpg 3x
+      "
+    />
+    <source
+      media="(min-width: 801px)"
+      srcset="
+        img/header-1080x338.jpg    1x,
+        img/header-1080x338@2x.jpg 2x,
+        img/header-1080x338@3x.jpg 3x
+      "
+    />
+    <source
+      media="(min-width: 601px)"
+      srcset="
+        img/header-800x250.jpg    1x,
+        img/header-800x250@2x.jpg 2x,
+        img/header-800x250@3x.jpg 3x
+      "
+    />
+    <source
+      media="(min-width: 401px)"
+      srcset="
+        img/header-600x188.jpg    1x,
+        img/header-600x188@2x.jpg 2x,
+        img/header-600x188@3x.jpg 3x
+      "
+    />
+    <source
+      media="(min-width: 321px)"
+      srcset="
+        img/header-400x125.jpg    1x,
+        img/header-400x125@2x.jpg 2x,
+        img/header-400x125@3x.jpg 3x
+      "
+    />
+    <source
+      media="(min-width: 0)"
+      srcset="
+        img/header-320x100.jpg    1x,
+        img/header-320x100@2x.jpg 2x,
+        img/header-320x100@3x.jpg 3x
+      "
+    />
+    <img src="img/header-1920x600.jpg" alt="RUPPERTdesign header" />
+  </picture>
+</div>
 <div class="landing-wrapper">
   <main>
     {{ content }}
