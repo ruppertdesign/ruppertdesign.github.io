@@ -1,25 +1,24 @@
 # Bildgrößen
 
-* Slider Startseite: 
-Bisher: 640x480 (Verhältnis 1,125)
-Jetzt: 
-bild.jpg: 640x480
-bild@2x.jpg: 1280x960
-bild@3x.jpg: 1920x1440
+## Slider Startseite: 
 
-* Holzwerke + Schlüsselanhänger Vorschau: 
-Bisher: 300x225 (Verhältnis 1,33)
-Jetzt: 640x480 (Verhältnis 1,125)
+* bild.jpg: 640x480
+* bild@2x.jpg: 1280x960
+* bild@3x.jpg: 1920x1440
 
+## Holzwerke + Schlüsselanhänger Vorschau: 
 
-* Detailbilder Holzwerke und Schlüsselanhänger
-Bisher: Unterschiedlich, meinst 1100px x 825px
-Jetzt: 1280x960
+* intro.jpg: 320x240
+* intro@2x.jpg: 640x480
+* intro@3x.jpg: 960x720
 
-* Referenzen
-Bisher:
-Jetzt:  400px x 300px
+## Detailbilder Holzwerke und Schlüsselanhänger
 
+* 1280x960
+
+## Referenzen
+
+* 400x300
 
 # Beispielartikel
 
