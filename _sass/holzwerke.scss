@@ -72,7 +72,6 @@
   }
 
   img {
-    border: 1px solid $silver;
     @include transition(all 1s ease);
     &:hover {
       @include filter(opacity(70%));
