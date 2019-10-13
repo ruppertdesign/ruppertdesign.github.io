@@ -25,7 +25,7 @@
         'margin-top': (offset.top + offset.height) + 'px'
       });
     };
-    positionSplash();
+    $('img', splash).on('load', positionSplash);
     $(window).on('resize', positionSplash);
   }
 
