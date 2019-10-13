@@ -33,27 +33,27 @@ Artikelnummer \| Holzgröße \| Preis
 
 - **Schlüsselanhänger 65mm/85mm, einseitige Beschriftung, gelasert**
 
-      	RD.018.001  \| 	ca. L 6,5 x B 1 x T 1  \| 9,90 EUR
+    RD.018.001  \| 	ca. L 6,5 x B 1 x T 1  \| 9,90 EUR
 
-      	RD.018.002  \| 	ca. L 8,5 x B 1 x T 1  \| 11,90 EUR
+    RD.018.002  \| 	ca. L 8,5 x B 1 x T 1  \| 11,90 EUR
 
 - **Schlüsselanhänger 65mm/85mm, zweiseitige Beschriftung, gelasert**
 
-      	RD.018.003  \| 	ca. L 6,5 x B 1 x T 1  \| 11,90 EUR
+    RD.018.003  \| 	ca. L 6,5 x B 1 x T 1  \| 11,90 EUR
 
-      	RD.018.004  \| 	ca. L 8,5 x B 1 x T 1  \| 13,90 EUR
+    RD.018.004  \| 	ca. L 8,5 x B 1 x T 1  \| 13,90 EUR
 
 - **Schlüsselanhänger 65mm/85mm, dreiseitige Beschriftung, gelasert**
 
-      	RD.018.005  \| 	ca. L 6,5 x B 1 x T 1  \| 13,90 EUR
+    RD.018.005  \| 	ca. L 6,5 x B 1 x T 1  \| 13,90 EUR
 
-      	RD.018.006  \| 	ca. L 8,5 x B 1 x T 1  \| 15,90 EUR
+    RD.018.006  \| 	ca. L 8,5 x B 1 x T 1  \| 15,90 EUR
 
 - **Schlüsselanhänger 65mm/85mm, vierseitige Beschriftung, gelasert**
 
-      	RD.018.007  \| 	ca. L 6,5 x B 1 x T 1  \| 15,90 EUR
+    RD.018.007  \| 	ca. L 6,5 x B 1 x T 1  \| 15,90 EUR
 
-      	RD.018.008  \| 	ca. L 8,5 x B 1 x T 1  \| 17,90 EUR
+    RD.018.008  \| 	ca. L 8,5 x B 1 x T 1  \| 17,90 EUR
 
 
 * **Aktuell verfügbare Holzarten**

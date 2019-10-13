@@ -11,7 +11,7 @@ sitemap:
 
 {% include image.html url="/img/simon1.jpg" description="Simon Ruppert" type="small" %}
 
-Ich bin Simon Ruppert, Baujahr 1982, und arbeite hauptberuflich als Projektleiter für einen internationalen Fahrzeug- und Maschinenbaukonzern.
+Ich bin Simon Ruppert, Baujahr 1982, und arbeite hauptberuflich als Projektleiter für einen internationalen Maschinenbaukonzern.
 Im Januar 2014 habe ich RUPPERTdesign gegündet – für Holzwerke jeglicher Art. 
 Ein Maschinenbauingenieur, der schreinert? Das kam so:
 
@@ -22,8 +22,6 @@ Hier sind viele unserer Möbelstücke entstanden.
 Mein Bruder Stefan und ich haben ihm dabei oft über die Schulter geschaut, 
 haben geholfen und von ihm gelernt.
 
-{% include image.html url="/img/simon2.jpg" description="Simon Ruppert in der Werkstatt" type="small" %}
-
 Die Werkstatt ist für mich seit meiner Kindheit ein Ort, 
 an dem präzise gearbeitet wird und jeder Schritt durchdacht sein muss. 
 Sie bietet Raum für Kreativität, ist erfüllt von Holzgeruch 
@@ -33,7 +31,6 @@ Weil ich mehr über den Schreinerberuf lernen wollte,
 habe ich meinen Urlaub 2010 genutzt, 
 um ein Praktikum bei einem erfahrenen Schreiner im Allgäu zu absolvieren.
 
-
 Erst habe ich nur Möbelstücke für unsere Wohnung gefertigt – ein Bett, 
 einen ausziehbaren Esstisch und einen Wohnzimmertisch aus Nussbaumholz zum Beispiel – 
 dann auch für Freunde und mit der Gründung von RUPPERTdesign 
@@ -41,10 +38,11 @@ hat das Ganze eine Eigendynamik über Empfehlungen angenommen, was mich sehr fre
 
 Ich bin ein sehr visueller Mensch – 
 tolle Materialien und ein außergewöhnliches und klares Design begeistern mich. 
-Ich freue mich sehr darüber, wenn Ihnen meine Arbeit gefällt und ich etwas für Sie fertigen darf. 
-Dann kontaktieren Sie mich gerne.
-
-{% include image.html url="/img/simon3.jpg" description="Simon Ruppert in Stankt Peter-Ording" type="small" %}
+Ich freue mich sehr darüber, wenn Ihnen meine Holzwerke gefallen und ich etwas für Sie fertigen darf. 
 
 Ihr Simon Ruppert
 
+ [holzwerke]: {{ "/holzwerke" | prepend: site.baseurl }}
+ [idee]: {{ "/ihre-idee" | prepend: site.baseurl }}
+ [referenzen]: {{ "/referenzen" | prepend: site.baseurl }}
+ [kontakt]: #kontakt

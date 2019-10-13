@@ -1,51 +1,41 @@
 .splash-container {
   z-index: -1;
-  overflow: hidden;
-  width: 100%;
-  height: 650px;
-  top: 0;
-  left: 0;
   position: fixed;
-  background-repeat: no-repeat;
-  background-position: center 50px;
+  top: 50px;
+  left:0;
+  right:0;
+  text-align: center;
+  overflow: hidden;
+  img {
+    max-width:100%;
+  }
 }
 
 .landing-wrapper {
   position: relative;
   z-index: 2;
-}
-
-@mixin splash-background($minWidth, $maxWidth, $width, $height) {
-
-  @media only screen and (min-width: $minWidth + px) and (max-width: $maxWidth + px) {
-    .splash-container {
-      background-image: url('../img/header-#{$width}x#{$height}.jpg');
-      @media (-webkit-min-device-pixel-ratio: 2) {
-        background-image: url('../img/header-#{$width}x#{$height}@2x.jpg');
-        background-size: $width + px $height + px;  
-      }
-    }
-    .landing-wrapper {
-      top: $height + 50 + px;
-    }
+  // margin-top = image height + 50px nav height
+  margin-top: 650px;
+  @media only screen and (min-width: 0px) and (max-width: 320px) {
+    margin-top: 150px;
   }
-
-}
-
-@include splash-background(0, 320, 320, 100);
-@include splash-background(321, 400, 400, 125);
-@include splash-background(401, 600, 600, 188);
-@include splash-background(601, 800, 800, 250);
-@include splash-background(801, 1200, 1200, 375);
-@include splash-background(1201, 5000, 1920, 600);
-
-// non responsive solution for IE<9
-.lt-ie9 {
-  .splash-container {
-    background-image: url('../img/header-1920x600.jpg');
+  @media only screen and (min-width: 321px) and (max-width: 400px) {
+    margin-top: 175px;
   }
-  .landing-wrapper {
-    top: 650px;
+  @media only screen and (min-width: 401px) and (max-width: 600px) {
+    margin-top: 238px;
+  }
+  @media only screen and (min-width: 601px) and (max-width: 800px) {
+    margin-top: 300px;
+  }
+  @media only screen and (min-width: 801px) and (max-width: 1080px) {
+    margin-top: 388px;
+  }
+  @media only screen and (min-width: 1081px) and (max-width: 1200px) {
+    margin-top: 425px;
+  }
+  @media only screen and (min-width: 1201px) {
+    margin-top: 650px;
   }
 }
 
@@ -54,14 +44,13 @@
 }
 
 .content-subhead a {
-    color: $primary-color;
-    text-decoration: none;
+  color: $primary-color;
+  text-decoration: none;
 
   &:hover,
   &:focus {
     color: $accent-color;
   }
-
 }
 
 body {
@@ -69,7 +58,6 @@ body {
 }
 
 .features {
-  
   // tablet
   @media only screen and (min-width: 48em) and (max-width: 80em) {
     > div:nth-child(odd) {
@@ -96,9 +84,8 @@ body {
 
     > div:nth-child(4) {
       padding-left: 2em;
-    }  
+    }
   }
-  
 
   h3 {
     text-align: center;
@@ -108,7 +95,6 @@ body {
   p {
     text-align: justify;
   }
-
 }
 
 .lt-ie9 .features div {
@@ -121,46 +107,26 @@ body {
   width: 205px;
 }
 
+@mixin ribbon($idx) {
+  $color: map-get(map-get($ribbons, $idx), 'color');
+  &:nth-of-type(#{$idx}) {
+    background-color: map-get(map-get($ribbons, $idx), 'background');
+    color: $color;
+    a {
+      color: $color;
+      &:hover,
+      &:focus {
+        color: map-get(map-get($ribbons, $idx), 'hover');
+      }
+    }
+  }
+}
+
 .ribbon {
-  
   padding: 1em 0 3em 0;
 
-  &:nth-of-type(1) {
-    background-color: $ribbon-1;
-    color: $white;
-
-    a {
-      color: $white;
-
-      &:hover,
-      &:focus {
-        color: $silver;
-      }
-    }
-
-  }
-
-  &:nth-of-type(2) {
-    background-color: $ribbon-2;
-  }
-
-  &:nth-of-type(3) {
-    background-color: $ribbon-3;
-    color: $white;
-
-    a {
-      color: $white;
-
-      &:hover,
-      &:focus {
-        color: $silver !important;
-      }
-    }
-
-  }
-
-  &:nth-of-type(4) {
-    background-color: $ribbon-4;
+  @for $i from 1 through 8 {
+    @include ribbon($i);
   }
 
   p {
@@ -182,5 +148,4 @@ body {
   img {
     margin-bottom: 20px;
   }
-
 }

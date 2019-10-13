@@ -40,7 +40,7 @@ zwei Kleiderstangen in den langen Fächern etwa für Mäntel und viele Fächer f
 {% include image.html url="/holzwerke/img/einbauschrank02/ebs0204.jpg" description="Einbauschränke von RUPPERTdesign sind millimetergenau gefertigt." type="small" %}
 
 
-{% include image.html url="/holzwerke/img/einbauschrank02/ebs0205.jpg" description="Desgineinbauschrank bekommen Sie von RUPPERTdesign." type="small" %}
+{% include image.html url="/holzwerke/img/einbauschrank02/ebs0205.jpg" description="Designeinbauschrank bekommen Sie von RUPPERTdesign." type="small" %}
 
 
 

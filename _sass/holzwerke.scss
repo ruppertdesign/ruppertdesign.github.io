@@ -1,24 +1,14 @@
 // Category Nav
 .category-nav {
-  float: left;
-  width: 100%;
-  overflow:hidden;
-  position:relative;
   ul {
-    clear: left;
-    float: left;
-    position: relative;
-    left: 50%;
-    text-align: center;
-    padding: 0;
+    display: flex;
+    justify-content: center;
+    flex-flow: wrap;
+    list-style-type: none;
     margin: 4rem 0;
     li {
-      display: block;
-      float: left;
-      position: relative;
-      right: 50%;
       text-transform: uppercase;
-      @include font-size($font-size-big);
+      font-size: 2.2rem;
       font-weight: $font-weight-default;
       color: $nav-color;
       a {
@@ -34,7 +24,7 @@
             -webkit-transform: scaleX(1);
             transform: scaleX(1);
           }
-        }      
+        }
         &:before {
           content: '';
           position: absolute;
@@ -50,7 +40,7 @@
         }
       }
       .separator {
-        margin: 0 10px;
+        margin-right: 5px;
       }
     }
   }
@@ -73,35 +63,23 @@
 }
 
 .holzwerk-box {
-
   text-align: center;
 
   .img-wrapper {
-    width: 300px;
-    height: 225px;
+    width: 320px;
+    height: 240px;
     margin: 1em auto;
-    overflow: hidden;
-    border-radius: 3px;
-    border: 1px solid $silver;
-    z-index: 10;  // needed cause webkit swallaws border on scale
   }
 
   img {
-    
     @include transition(all 1s ease);
-    
-    border: 0 none;
-    z-index: 1; // needed cause webkit swallaws border on scale
-
     &:hover {
       @include filter(opacity(70%));
       @include transform(scale(1.1));
     }
-    
   }
 
   h3 {
-
     font-size: 1.3em;
     margin: 1em 0 0.5em 0;
 
@@ -114,11 +92,9 @@
     a:focus {
         color: $accent-color;
     }
-
   }
 
   p {
-
     margin-top: 0;
 
     a,
@@ -127,9 +103,7 @@
         color: #999;
         text-decoration: none;
     }
-
   }
-
 }
 
 @media only screen and (max-width: 345px) {

@@ -19,13 +19,18 @@ sass:
 
 # Holzwerke Categories/Tags
 holzwerke_tags:
+  garderobe: "Garderoben"
   tische: "Tische"
   schraenke: "Schränke"
   wohnen: "Wohnen"
   kueche: "Küche"
   geschenke: "Geschenke"
 
+
 # Schlüesselanhänger Categories/Tags
 schluesselanhaenger_tags:
   geschenke: "Geschenke"
-  b2b: "B2B"  
+  hz: "Hochzeit"
+  hotel: "Hotels"
+  werbung: "Werbung"
+ 

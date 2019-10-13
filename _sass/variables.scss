@@ -1,20 +1,67 @@
 // colors
 $tundora: #464646;
+$tuatara: #2C2B2A;
 $mondo: #4A3C31;
 $silver: #c9c9c9;
 $la-palma: #10B110;
+$trout: #484E5B;
 $white: #fff;
 $pure-silver: #b7b7b7;
+
+
+// ribbon colors
+$lynch: #657e93;
+$grain-brown: #e2cbac;
 
 $primary-color: $tundora;
 $nav-color: $tundora;
 $nav-underline-color: $silver;
-$accent-color: $la-palma;
+$accent-color: $lynch;
 $footer-color: $tundora;
-$ribbon-1: $mondo;
-$ribbon-2: $white;
-$ribbon-3: $la-palma;
-$ribbon-4: $white;
+
+
+$ribbons: (
+  1: (
+    background: $lynch,
+    color: $white,
+    hover: $silver,
+  ),
+  2: (
+    background: $white,
+    color: $primary-color,
+    hover: $accent-color,
+  ),
+  3: (
+    background: $grain-brown,
+    color: $primary-color,
+    hover: $accent-color,
+  ),
+  4: (
+    background: $lynch,
+    color: $white,
+    hover: $silver,
+  ),
+  5: (
+    background: $white,
+    color: $primary-color,
+    hover: $accent-color,
+  ),
+  6: (
+    background: $grain-brown,
+    color: $primary-color,
+    hover: $accent-color,
+  ),
+  7: (
+    background: $lynch,
+    color: $white,
+    hover: $silver,
+  ),
+  8: (
+    background: $white,
+    color: $primary-color,
+    hover: $accent-color,
+  ),
+);
 
 $form-success: #6fa600;
 $form-error: #cc0000;

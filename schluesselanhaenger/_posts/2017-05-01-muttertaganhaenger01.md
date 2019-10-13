@@ -31,23 +31,28 @@ Auf Wunsch auch mit Schleifchen in Ihrer Wunschfarbe.
 Artikelnummer \| Holzart \| Holzgröße \| Preis
 
 - **Schlüsselanhänger 65mm, einseitige Beschriftung, handgeprägt**
-      	RD.017.002  \| 	Eiche \| ca. L 65 x B 10 x T 10 \| 9,90 EUR
 
-      	RD.017.003   \| 	Nussbaum \| ca. L 65 x B 10 x T 10 \| 9,90 EUR
+    RD.017.002  \| 	Eiche \| ca. L 65 x B 10 x T 10 \| 9,90 EUR
 
-      	RD.017.004   \| 	Ahorn \| ca. L 65 x B 10 x T 10 \| 9,90 EUR
+    RD.017.003   \| 	Nussbaum \| ca. L 65 x B 10 x T 10 \| 9,90 EUR
 
-      	RD.017.005   \| 	Buche \| ca. L 65 x B 10 x T 10 \| 9,90 EUR
+    RD.017.004   \| 	Ahorn \| ca. L 65 x B 10 x T 10 \| 9,90 EUR
+
+    RD.017.005   \| 	Buche \| ca. L 65 x B 10 x T 10 \| 9,90 EUR
 
 * **Schlüsselanhänger 85mm, einseitige Beschriftung, handgeprägt**
     
-   RD.017.010 \| Eiche \| ca. L 85 x B 10 x T 10 \| 11,90 EUR
-  RD.017.011 \| Nussbaum \| ca. L 85 x B 10 x T 10 \| 11,90 EUR
-  RD.017.012 \| Ahorn \| ca. L 85 x B 10 x T 10 \| 11,90 EUR
-  RD.017.013 \| Buche \| ca. L 85 x B 10 x T 10 \| 11,90 EUR
+	RD.017.010 \| Eiche \| ca. L 85 x B 10 x T 10 \| 11,90 EUR
+
+  	RD.017.011 \| Nussbaum \| ca. L 85 x B 10 x T 10 \| 11,90 EUR
+
+  	RD.017.012 \| Ahorn \| ca. L 85 x B 10 x T 10 \| 11,90 EUR
+
+  	RD.017.013 \| Buche \| ca. L 85 x B 10 x T 10 \| 11,90 EUR
+
 * **Schleifchen**
 
-      	Verschiedene Farben \| + 1,00 EUR
+    Verschiedene Farben \| + 1,00 EUR
 
 Auch erhältlich bei [DaWanda][1]{:target="\_blank" rel="noopener"} und [amazon][2]{:target="\_blank" rel="noopener"}.
 [1]: https://de.dawanda.com/product/115108775-muttertag-fuer-mama-nur-das-beste-wunschtext

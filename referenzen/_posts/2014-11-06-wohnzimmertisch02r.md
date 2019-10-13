@@ -7,11 +7,9 @@ image: wohnzimmertisch02r.jpg
 
 Hallo Simon,
 
-[hier][1] sind die Fotos von unserem Couchtisch.
+hier sind die Fotos von unserem Couchtisch.
 Vielen Dank noch mal für dieses Prachtstück!
 
 Liebe Grüße aus Aichach,
 
 Uli
-
-[1]: {% post_url /holzwerke/2014-07-18-wohnzimmertisch02 %}

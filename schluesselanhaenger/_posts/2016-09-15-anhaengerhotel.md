@@ -5,7 +5,7 @@ description: Diese Schlüsselanhänger aus Holz von RUPPERTdesign für Ihr Hotel
 permalink: /schluesselanhaenger/2016/09/15/anhaengerhotel/
 date: 2015-12-15
 intro: Hotel, Pension, Ferienwohnung
-tags: ["b2b"]
+tags: ["hotel"]
 product:
   name: Schlüsselanhänger aus Holz von RUPPERTdesign für Hotels
   price: "8.90"
@@ -42,14 +42,16 @@ Auch hier gilt: Ihr Wunschtext kommt aufs Holz und begleitet Sie fortan in Ihrem
 Artikelnummer \| Holzart \| Holzgröße \| Preis
 
 - **Schlüsselanhänger mit Wunschtext einzeilig**
-      	RD.016.038  \| 	Nussbaum \| ca. L 8,5 x B 1 x T 1 \| 9,90 EUR
+  RD.016.038  \| 	Nussbaum \| ca. L 8,5 x B 1 x T 1 \| 9,90 EUR
 
-      	RD.016.039  \| 	Eiche \| ca. L 8,5 x B 1 x T 1 \| 9,90 EUR
+  RD.016.039  \| 	Eiche \| ca. L 8,5 x B 1 x T 1 \| 9,90 EUR
 
-      	RD.016.040  \| 	Ahorn \| ca. L 8,5 x B 1 x T 1 \| 9,90 EUR
+  RD.016.040  \| 	Ahorn \| ca. L 8,5 x B 1 x T 1 \| 9,90 EUR
 
 * **Schlüsselanhänger mit Wunschtext zweizeilig**
     
-   RD.016.041 \| Nussbaum \| ca. L 8,5 x B 1 x T 1 \| 11,90 EUR
+  RD.016.041 \| Nussbaum \| ca. L 8,5 x B 1 x T 1 \| 11,90 EUR
+
   RD.016.042 \| Eiche \| ca. L 8,5 x B 1 x T 1 \| 11,90 EUR
+  
   RD.016.043 \| Ahorn \| ca. L 8,5 x B 1 x T 1 \| 11,90 EUR

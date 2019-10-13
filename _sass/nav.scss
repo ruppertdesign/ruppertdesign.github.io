@@ -54,13 +54,7 @@
   }
 
   // smaller padding on portrait tablets
-  @media only screen and (min-width: 48em) and (max-width: 54em) {
-    li {
-      padding: 5px 7px;
-    } 
-  }
-  // smaller padding on portrait tablets
-  @media only screen and (min-width: 54.063em) and (max-width: 58em) {
+  @media only screen and (min-width: 63.063em) and (max-width: 72em) {
     li {
       padding: 5px 10px;
     } 
@@ -80,7 +74,7 @@
   clear: both;
 }
 
-@media only screen and (min-width: 48.063em) {
+@media only screen and (min-width: 63.063em) {
 
   nav {
     text-align: left;
@@ -119,7 +113,7 @@
 
 }
 
-@media only screen and (max-width: 48em) {
+@media only screen and (max-width: 63em) {
   
   .pure-menu.pure-menu-horizontal { 
 

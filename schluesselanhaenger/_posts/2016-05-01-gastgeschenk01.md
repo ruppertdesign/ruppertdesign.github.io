@@ -5,7 +5,7 @@ description: Diese Schlüsselanhänger aus Holz von RUPPERTdesign. Ein ideales G
 permalink: /schluesselanhaenger/2016/05/01/gastgeschenk01/
 date: 2016-05-01
 intro: Tischkarten für Ihre Hochzeit
-tags: ["geschenke"]
+tags: ["hz"]
 product:
   name: Schlüsselanhänger aus Holz von RUPPERTdesign
   price: "6.90"
@@ -41,19 +41,22 @@ Fragen Sie Ihre Wunschstückzahl einfach an.
 Artikelnummer \| Holzart \| Holzgröße \| Preis
 
 - **Schlüsselanhänger 65mm, einseitige Beschriftung, handgeprägt**
-      	RD.014.007  \| 	Nussbaum \| ca. L 6,5 x B 1 x T 1 \| 9,90 EUR
 
-      	RD.014.008  \| 	Eiche \| ca. L 6,5 x B 1 x T 1 \| 9,90 EUR
+	RD.014.007  \| 	Nussbaum \| ca. L 6,5 x B 1 x T 1 \| 9,90 EUR
 
-      	RD.016.044  \| 	Ahorn \| ca. L 6,5 x B 1 x T 1 \| 9,90 EUR
+    RD.014.008  \| 	Eiche \| ca. L 6,5 x B 1 x T 1 \| 9,90 EUR
+
+    RD.016.044  \| 	Ahorn \| ca. L 6,5 x B 1 x T 1 \| 9,90 EUR
 
 * **Schlüsselanhänger 65mm, zweiseitige Beschriftung, handgeprägt**
 
-      	RD.016.002  \| 	Nussbaum \| ca. L 6,5 x B 1 x T 1 \| 11,90 EUR
+    RD.016.002  \| 	Nussbaum \| ca. L 6,5 x B 1 x T 1 \| 11,90 EUR
 
-      	RD.016.003  \| 	Eiche \| ca. L 6,5 x B 1 x T 1 \| 11,90 EUR
+    RD.016.003  \| 	Eiche \| ca. L 6,5 x B 1 x T 1 \| 11,90 EUR
 
-      	RD.016.045  \| 	Ahorn \| ca. L 6,5 x B 1 x T 1 \| 11,90 EUR
+    RD.016.045  \| 	Ahorn \| ca. L 6,5 x B 1 x T 1 \| 11,90 EUR
 
 Auch erhältlich bei [etsy][1]{:target="\_blank" rel="noopener"}.
+
+
 [1]: https://www.etsy.com/de/shop/RUPPERTdesign?ref=seller-platform-mcnav

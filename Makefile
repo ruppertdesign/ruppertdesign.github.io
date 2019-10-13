@@ -1,7 +1,7 @@
 clean:
 	rm -rf _site/*
 
-debug:
+dev:
 	bundle exec jekyll serve --watch --baseurl=
 
 build_test: clean

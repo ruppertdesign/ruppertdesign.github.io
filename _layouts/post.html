@@ -12,7 +12,7 @@ layout: default
   	{{ content }}
 
 		{% if page.path contains '_posts' %}
-			<a href="/{{ pathsegments[1] | prepend: site.baseurl }}">zurück</a>
+			<a href="/{{ pathsegments[1] | prepend: site.baseurl }}" onclick="history.back(); return false;">zurück</a>
 		{% endif %}
 
   </article>
