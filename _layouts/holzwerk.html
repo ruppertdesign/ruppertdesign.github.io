@@ -39,7 +39,7 @@ layout: default
 		{% endif %}
 
 		{% if page.path contains '_posts' %}
-			<p><a href="/{{ pathsegments[1] | prepend: site.baseurl }}">zurück</a></p>
+			<p><a href="/{{ pathsegments[1] | prepend: site.baseurl }}" onclick="history.back(); return false;">zurück</a></p>
 		{% endif %}
 
   </article>
