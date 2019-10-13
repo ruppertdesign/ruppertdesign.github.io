@@ -20,6 +20,11 @@
 
 * 400x300
 
+## Farben
+
+* Startseite Grau-Blau   #657E93 in RGB: 101   126   147
+
+
 # Beispielartikel
 
 **Das ist fett geschriebender Text**, *der hier ist kursiv*. 
