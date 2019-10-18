@@ -7,36 +7,18 @@
   text-align: center;
   overflow: hidden;
   img {
-    max-width:100%;
+    width: 100%;
   }
 }
 
 .landing-wrapper {
   position: relative;
+  top: 50px;
   z-index: 2;
-  // margin-top = image height + 50px nav height
-  margin-top: 650px;
-  @media only screen and (min-width: 0px) and (max-width: 320px) {
-    margin-top: 150px;
-  }
-  @media only screen and (min-width: 321px) and (max-width: 400px) {
-    margin-top: 175px;
-  }
-  @media only screen and (min-width: 401px) and (max-width: 600px) {
-    margin-top: 238px;
-  }
-  @media only screen and (min-width: 601px) and (max-width: 800px) {
-    margin-top: 300px;
-  }
-  @media only screen and (min-width: 801px) and (max-width: 1080px) {
-    margin-top: 388px;
-  }
-  @media only screen and (min-width: 1081px) and (max-width: 1200px) {
-    margin-top: 425px;
-  }
-  @media only screen and (min-width: 1201px) {
-    margin-top: 650px;
-  }
+}
+
+.header-spacer {
+  min-height: 100px;
 }
 
 .landing-head {
