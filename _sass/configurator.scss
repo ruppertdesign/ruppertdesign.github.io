@@ -1,0 +1,14 @@
+.configurator {
+  input[type="radio"] {
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+    + img {
+      cursor: pointer;
+    }
+    &:checked + img {
+      outline: 3px solid $lynch
+    }
+  }
+}
