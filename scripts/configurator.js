@@ -17,7 +17,6 @@ const Configurator = () => html`
   </form>
 `;
 
-
 class Wizard extends Component {
   pages = {
     auswahl: Configuration,
@@ -58,9 +57,19 @@ const Header = ({ title }) =>
     <h1 class="content-head center">${title}</h1>
   `;
 
+const ConfigurationRow = ({ title, entries }) => html`
+  <fieldset>
+    <legend>${title}</legend>
+    <div
+      class="pure-u-1-1 pure-u-md-1-${entries.size} pure-u-lg-1-${entries.size}"
+    ></div>
+  </fieldset>
+`;
+
 const Configuration = () => html`
   <${Fragment}>
     <${Header} title="Gestalten Sie Ihren Schlüsselanhänger selbst." />
+    <${ConfigurationRow} title="Holzart" entries=${[]} />
     <a class="pure-button" href="#adresse">
       Weiter
     </button>
