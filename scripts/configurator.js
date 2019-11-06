@@ -17,6 +17,7 @@ const Configurator = () => html`
   </form>
 `;
 
+
 class Wizard extends Component {
   pages = {
     auswahl: Configuration,
