@@ -1,8 +1,8 @@
 import { h, Component } from 'preact';
 import { useEffect } from 'preact/hooks';
-import Configuration from './Configuration'
-import ShippingAndPayment from './ShippingAndPayment'
-import Thanks from './Thanks'
+import Configuration from './pages/Configuration'
+import ShippingAndPayment from './pages/ShippingAndPayment'
+import Thanks from './pages/Thanks'
 
 export default class Wizard extends Component {
   pages = {

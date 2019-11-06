@@ -1,5 +1,5 @@
 import { h, Fragment } from 'preact';
-import Header from './Header';
+import Header from '../components/Header';
 
 export default () => (
   <Fragment>

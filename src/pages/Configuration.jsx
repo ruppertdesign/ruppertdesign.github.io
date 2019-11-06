@@ -1,6 +1,6 @@
 import { h, Fragment } from 'preact';
-import Header from './Header';
-import ConfigurationRow from './ConfigurationRow';
+import Header from '../components/Header';
+import ConfigurationRow from '../components/ConfigurationRow';
 
 export default () => (
   <Fragment>
