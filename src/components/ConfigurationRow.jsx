@@ -1,4 +1,4 @@
-import { h } from 'preact';
+import { h } from 'preact'
 
 export default ({ title, entries }) => (
   <fieldset>
@@ -7,4 +7,4 @@ export default ({ title, entries }) => (
       class={`pure-u-1-1 pure-u-md-1-${entries.size} pure-u-lg-1-${entries.size}`}
     ></div>
   </fieldset>
-);
+)

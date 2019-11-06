@@ -1,6 +1,6 @@
-import { h, Fragment } from 'preact';
-import Header from '../components/Header';
-import ConfigurationRow from '../components/ConfigurationRow';
+import { h, Fragment } from 'preact'
+import Header from '../components/Header'
+import ConfigurationRow from '../components/ConfigurationRow'
 
 export default () => (
   <Fragment>
@@ -10,4 +10,4 @@ export default () => (
       Weiter
     </a>
   </Fragment>
-);
+)

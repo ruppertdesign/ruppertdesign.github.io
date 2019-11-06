@@ -1,4 +1,4 @@
-import { h, render } from 'preact';
+import { h, render } from 'preact'
 import Wizard from './Wizard'
 
 const Configurator = () => (
@@ -12,6 +12,6 @@ const Configurator = () => (
   >
     <Wizard />
   </form>
-);
+)
 
-render(<Configurator />, document.getElementById('configurator'));
+render(<Configurator />, document.getElementById('configurator'))

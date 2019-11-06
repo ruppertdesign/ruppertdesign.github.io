@@ -1,5 +1,5 @@
-import { h, Fragment } from 'preact';
-import Header from '../components/Header';
+import { h, Fragment } from 'preact'
+import Header from '../components/Header'
 
 export default () => (
   <Fragment>
@@ -8,4 +8,4 @@ export default () => (
       Zurück
     </a>
   </Fragment>
-);
+)
