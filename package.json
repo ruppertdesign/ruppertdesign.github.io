@@ -1,0 +1,22 @@
+{
+  "name": "ruppertdesign.de",
+  "version": "1.0.0",
+  "description": "ruppertdesign.de jekyll website enhanced with preact",
+  "main": "scr/configurator.js",
+  "repository": "git@github.com:ruppertdesign/ruppertdesign.github.io.git",
+  "author": "Florian Hirsch <post@florianhirsch.de>",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "watch": "parcel watch src/configurator.js --out-dir _site/scripts",
+    "build": "parcel build src/configurator.js --out-dir _site/scripts"
+  },
+  "dependencies": {
+    "preact": "^10.0.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.0",
+    "@babel/plugin-proposal-class-properties": "^7.7.0",
+    "parcel-bundler": "^1.12.4"
+  }
+}

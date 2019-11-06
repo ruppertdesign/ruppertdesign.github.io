@@ -1,10 +1,7 @@
-import { h, Component, Fragment, render } from './preact.js';
-import { useEffect } from './preact-hooks.js';
-import htm from './htm.js';
+import { h, Component, Fragment, render } from 'preact';
+import { useEffect } from 'preact/hooks';
 
-const html = htm.bind(h);
-
-const Configurator = () => html`
+const Configurator = () => (
   <form
     id="configuratorForm"
     name="configurator"
@@ -13,9 +10,9 @@ const Configurator = () => html`
     netlify
     netlify-honeypot="TODO"
   >
-    <${Wizard} />
+    <Wizard />
   </form>
-`;
+);
 
 class Wizard extends Component {
   pages = {
@@ -46,52 +43,40 @@ class Wizard extends Component {
         window.removeEventListener('hashchange', this.onLocationChange);
     }, []);
     const Page = this.pages[currentPage];
-    return html`
-      <${Page} />
-    `;
+    return <Page />;
   }
 }
 
-const Header = ({ title }) =>
-  html`
-    <h1 class="content-head center">${title}</h1>
-  `;
+const Header = ({ title }) => <h1 class="content-head center">{title}</h1>;
 
-const ConfigurationRow = ({ title, entries }) => html`
+const ConfigurationRow = ({ title, entries }) => (
   <fieldset>
-    <legend>${title}</legend>
+    <legend>{title}</legend>
     <div
-      class="pure-u-1-1 pure-u-md-1-${entries.size} pure-u-lg-1-${entries.size}"
+      class={`pure-u-1-1 pure-u-md-1-${entries.size} pure-u-lg-1-${entries.size}`}
     ></div>
   </fieldset>
-`;
+);
 
-const Configuration = () => html`
-  <${Fragment}>
-    <${Header} title="Gestalten Sie Ihren Schlüsselanhänger selbst." />
-    <${ConfigurationRow} title="Holzart" entries=${[]} />
+const Configuration = () => (
+  <Fragment>
+    <Header title="Gestalten Sie Ihren Schlüsselanhänger selbst." />
+    <ConfigurationRow title="Holzart" entries={[]} />
     <a class="pure-button" href="#adresse">
       Weiter
-    </button>
-  <//>
-`;
+    </a>
+  </Fragment>
+);
 
-const ShippingAndPayment = () => html`
-  <${Fragment}>
-    <${Header} title="Adresse und Bezahlung" />
+const ShippingAndPayment = () => (
+  <Fragment>
+    <Header title="Adresse und Bezahlung" />
     <a class="pure-button" href="#auswahl">
       Zurück
-    </button>
-  <//>
-`;
-
-const Thanks = () => html`
-  <${Header} title="Danke für Ihre Bestellung" />
-`;
-
-render(
-  html`
-    <${Configurator} />
-  `,
-  document.getElementById('configurator')
+    </a>
+  </Fragment>
 );
+
+const Thanks = () => <Header title="Danke für Ihre Bestellung" />;
+
+render(<Configurator />, document.getElementById('configurator'));

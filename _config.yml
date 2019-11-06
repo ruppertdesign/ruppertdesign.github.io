@@ -1,6 +1,6 @@
 # Global settings
 timezone: Europe/Berlin
-exclude: [README.md, Makefile, guidlines.md, tools, vendor]
+exclude: [README.md, Makefile, guidlines.md, .cache, src, node_modules, tools, vendor, package.json, yarn.lock]
 include: [_redirects]
 
 # Site settings
