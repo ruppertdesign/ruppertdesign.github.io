@@ -8,8 +8,8 @@
   "license": "UNLICENSED",
   "private": true,
   "scripts": {
-    "watch": "parcel watch src/configurator.js --out-dir _site/scripts",
-    "build": "parcel build src/configurator.js --out-dir _site/scripts"
+    "watch": "parcel watch src/Configurator.jsx --out-dir _site/scripts",
+    "build": "parcel build src/Configurator.jsx --out-dir _site/scripts"
   },
   "dependencies": {
     "preact": "^10.0.4"
