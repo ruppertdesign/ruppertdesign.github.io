@@ -13,6 +13,7 @@ export default class Wizard extends Component {
 
   state = {
     currentPage: 'auswahl',
+    formValues: {},
   }
 
   onLocationChange = ({ newURL }) => {
@@ -21,6 +22,14 @@ export default class Wizard extends Component {
       this.setState({ currentPage })
     }
   }
+
+  setFormValue = (key, value) =>
+    this.setState(
+      {
+        formValues: { ...this.state.formValues, [key]: value },
+      },
+      () => console.info(this.state.formValues)
+    )
 
   componentDidMount() {
     location.hash = this.state.currentPage
@@ -33,6 +42,11 @@ export default class Wizard extends Component {
         window.removeEventListener('hashchange', this.onLocationChange)
     }, [])
     const Page = this.pages[currentPage]
-    return <Page />
+    return (
+      <Page
+        formValues={this.state.formValues}
+        setFormValue={this.setFormValue}
+      />
+    )
   }
 }
