@@ -24,5 +24,5 @@ dann um die Beschaffung aller benötigten Materialien.
 
 {% include image.html url="/img/ihreidee3.jpg" description="Die fertige Garderobe von RUPPERTdesign" type="small" %}
 
-Ich freue mich auf Ihre Wünsche, Ideen und Vorstellungen!
+Ich freue mich auf Ihre Wünsche, Ideen und Vorstellungen! :-)
 
