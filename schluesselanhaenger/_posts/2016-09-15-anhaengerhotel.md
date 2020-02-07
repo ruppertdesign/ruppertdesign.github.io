@@ -55,3 +55,4 @@ Artikelnummer \| Holzart \| Holzgröße \| Preis
   RD.016.042 \| Eiche \| ca. L 8,5 x B 1 x T 1 \| 11,90 EUR
   
   RD.016.043 \| Ahorn \| ca. L 8,5 x B 1 x T 1 \| 11,90 EUR
+
