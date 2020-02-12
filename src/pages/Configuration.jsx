@@ -12,14 +12,16 @@ export default ({ formValues, setFormValue }) => (
       name="Holzart"
       entries={[
         {
-          value: 'Nussbaum',
+          value: 'nuss',
+          title: 'Nussbaum',
           description: 'Schön dunkel',
-          image: '/schluesselanhaenger/img/konfigurator/nussbaum.jpg',
+          image: 'nuss-85',
         },
         {
-          value: 'Eiche',
+          value: 'eiche',
+          title: 'Eiche',
           description: 'Tolle Beschreibung',
-          image: '/schluesselanhaenger/img/konfigurator/eiche.jpg',
+          image: 'eiche-85',
         },
       ]}
       value={formValues['Holzart']}
@@ -31,14 +33,16 @@ export default ({ formValues, setFormValue }) => (
         name="Größe"
         entries={[
           {
-            value: 'Klein',
-            description: 'Maße',
-            image: '/schluesselanhaenger/img/konfigurator/klein.jpg',
+            value: '65',
+            title: '65mm',
+            description: 'Beschreibunng',
+            image: `${formValues['Holzart']}-65`,
           },
           {
-            value: 'Groß',
-            description: 'Maße',
-            image: '/schluesselanhaenger/img/konfigurator/gross.jpg',
+            value: '85',
+            title: '85mm',
+            description: 'Beschreibung',
+            image: `${formValues['Holzart']}-85`,
           },
         ]}
         value={formValues['Größe']}
@@ -51,19 +55,50 @@ export default ({ formValues, setFormValue }) => (
         name="Band"
         entries={[
           {
-            value: 'Band 1',
-            description: 'Beschreibung 1',
-            image: '/schluesselanhaenger/img/konfigurator/band1.jpg',
+            value: 'ring-silber',
+            title: 'Ring Silber',
+            description: 'Beschreibung',
+            image: `${formValues['Holzart']}-${
+              formValues['Größe']
+            }-ring-silber`,
           },
           {
-            value: 'Band 2',
-            description: 'Beschreibung 2',
-            image: '/schluesselanhaenger/img/konfigurator/band2.jpg',
+            value: 'ring-schwarz',
+            title: 'Ring Schwarz',
+            description: 'Beschreibung',
+            image: `${formValues['Holzart']}-${
+              formValues['Größe']
+            }-ring-schwarz`,
           },
           {
-            value: 'Band 3',
-            description: 'Beschreibung 3',
-            image: '/schluesselanhaenger/img/konfigurator/band3.jpg',
+            value: 'ring-gold',
+            title: 'Ring Gold',
+            description: 'Beschreibung',
+            image: `${formValues['Holzart']}-${formValues['Größe']}-ring-gold`,
+          },
+          {
+            value: 'band-edelstahl',
+            title: 'Edelstahlband',
+            description: 'Beschreibung',
+            image: `${formValues['Holzart']}-${
+              formValues['Größe']
+            }-band-edelstahl`,
+          },
+          {
+            value: 'band-leder-natur',
+            title: 'Band Leder Natur',
+            description: 'Beschreibung',
+            image: `${formValues['Holzart']}-${
+              formValues['Größe']
+            }-band-leder-natur`,
+          },
+          {
+            value: 'band-leder-schwarz',
+            title: 'Band Leder Schwarz',
+            description: 'Beschreibung',
+            image: `${formValues['Holzart']}-${
+              formValues['Größe']
+            }-band-leder-schwarz`,
           },
         ]}
         value={formValues['Band']}

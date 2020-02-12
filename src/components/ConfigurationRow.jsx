@@ -13,6 +13,12 @@ export default class ConfigurationRow extends Component {
     })
   }
 
+  fullPath(name, size) {
+    return `/schluesselanhaenger/img/konfigurator/${name}${
+      size ? `@${size}x` : ``
+    }.jpg`
+  }
+
   render({ title, name, entries, value }) {
     return (
       <fieldset ref={this.ref}>
@@ -34,14 +40,16 @@ export default class ConfigurationRow extends Component {
                     onClick={this.handleSelect}
                   />
                   <img
-                    src={entry.image}
+                    src={this.fullPath(entry.image)}
+                    srcset={`${this.fullPath(entry.image)} 1x,
+                            ${this.fullPath(entry.image, 2)} 2x`}
                     width={320}
                     class="pure-img bw"
                     title={name}
                   />
                 </label>
               </div>
-              <h3>{entry.value}</h3>
+              <h3>{entry.title}</h3>
               <p>{entry.description}</p>
             </div>
           )
