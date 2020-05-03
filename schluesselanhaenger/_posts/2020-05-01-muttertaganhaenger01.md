@@ -21,7 +21,7 @@ Meine Schlüsselanhänger sind handgefertigt, personalisierbar und langlebig –
 Die Schlüsselanhänger sind in Nussbaum- oder Eichenholz erhältlich und werden nur mit hochwertigem Bio-Öl eingelassen. Auf Wunsch sind sie auch mit Schleife in Ihrer Wunschfarbe erhältlich. 
 
 
-{% include image.html url="/schluesselanhaenger/img/muttertaganhaenger01/muttertag01.jpg" description="Persönlicher Anhänger für die beste Mama."% }
+{% include image.html url="/schluesselanhaenger/img/muttertaganhaenger01/muttertag01.jpg" description="Persönlicher Anhänger für die beste Mama." %}
 
 **Starkes Holzwerk**  
 Artikelnummer \| Holzart \| Holzgröße \| Preis
