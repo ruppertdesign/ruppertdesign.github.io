@@ -24,14 +24,6 @@ Die Schlüsselanhänger sind in Nussbaum- oder Eichenholz erhältlich und werden
 {% include image.html url="/schluesselanhaenger/img/muttertaganhaenger01/muttertag01.jpg" description="Persönlicher Anhänger für die beste Mama." type="small" %}
 
 
-{% include image.html url="/schluesselanhaenger/img/muttertaganhaenger01/muttertag02.jpg" description="Mama ist die Beste." type="small" %}
-
-{% include image.html url="/schluesselanhaenger/img/muttertaganhaenger01/muttertag03.jpg" description="Muttertagsgeschenk von RUPPERTdesign" type="small" %}
-
-{% include image.html url="/schluesselanhaenger/img/muttertaganhaenger01/muttertag04.jpg" description="Thanks Mum." type="small" %}
-
-{% include image.html url="/schluesselanhaenger/img/muttertaganhaenger01/muttertag05.jpg" description="I love my mum." type="small" %}
-
 **Starkes Holzwerk**  
 Artikelnummer \| Holzart \| Holzgröße \| Preis
 
