@@ -1,6 +1,6 @@
 ---
 layout: holzwerk
-title: "Schlüsselanhänger zum Muttertag"
+title: "Muttertag"
 description: Das kleine Geschenk zum Muttertag.
 permalink: /schluesselanhaenger/2020/05/01/muttertaganhaenger01/
 date: 2020-05-01
@@ -8,10 +8,10 @@ intro: Persönlich, langlebig und schön
 tags: ["geschenke"]
 ---
 
-** Danke, für alles! **
+**Danke, für alles!**
 
 
-** Ich denk an dich! ** 
+**Ich denk an dich!** 
 
 
 Wer noch auf der Suche nach einem besonderen Geschenk zum Muttertag ist, der wird hier fündig. 
