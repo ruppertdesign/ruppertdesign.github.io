@@ -54,7 +54,7 @@ Artikelnummer \| Holzart \| Holzgröße \| Preis
 
     Verschiedene Farben \| + 1,00 EUR
 
-Auch erhältlich bei [DaWanda][1]{:target="\_blank" rel="noopener"} und [amazon][2]{:target="\_blank" rel="noopener"}.
-[1]: https://de.dawanda.com/product/115108775-muttertag-fuer-mama-nur-das-beste-wunschtext
+Auch erhältlich bei [etsy][1]{:target="\_blank" rel="noopener"} und [amazon][2]{:target="\_blank" rel="noopener"}.
+[1]: https://www.etsy.com/your/shops/RUPPERTdesign/
 
 [2]: https://www.amazon.de/Muttertag-Mama-Beste-Schlüsselanhänger-Wunschtext/dp/B071RSWLV1/ref=sr_1_7?m=A14SEUYA88KWJ3&s=handmade&ie=UTF8&qid=1493929067&sr=1-7
