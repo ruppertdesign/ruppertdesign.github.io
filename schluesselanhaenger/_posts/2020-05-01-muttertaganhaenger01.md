@@ -21,31 +21,35 @@ Meine Schlüsselanhänger sind handgefertigt, personalisierbar und langlebig –
 Die Schlüsselanhänger sind in Nussbaum- oder Eichenholz erhältlich und werden nur mit hochwertigem Bio-Öl eingelassen. Auf Wunsch sind sie auch mit Schleife in Ihrer Wunschfarbe erhältlich. 
 
 
-{% include image.html url="/schluesselanhaenger/img/muttertaganhaenger01/muttertag01.jpg" description="Persönlicher Anhänger für die beste Mama." type="small" %}
+{% include image.html url="/schluesselanhaenger/img/muttertaganhaenger01/muttertag01.jpg" description="Persönlicher Anhänger für die beste Mama."}
 
 
 **Starkes Holzwerk**  
 Artikelnummer \| Holzart \| Holzgröße \| Preis
 
-- **Schlüsselanhänger 65mm, einseitige Beschriftung, handgeprägt**
+- **Schlüsselanhänger 65mm/85mm, einseitige Beschriftung, gelasert**
 
-    RD.017.002  \| 	Eiche \| ca. L 65 x B 10 x T 10 \| 9,90 EUR
+    RD.018.001  \| 	ca. L 6,5 x B 1 x T 1  \| 9,90 EUR
 
-    RD.017.003   \| 	Nussbaum \| ca. L 65 x B 10 x T 10 \| 9,90 EUR
+    RD.018.002  \| 	ca. L 8,5 x B 1 x T 1  \| 11,90 EUR
 
-    RD.017.004   \| 	Ahorn \| ca. L 65 x B 10 x T 10 \| 9,90 EUR
+- **Schlüsselanhänger 65mm/85mm, zweiseitige Beschriftung, gelasert**
 
-    RD.017.005   \| 	Buche \| ca. L 65 x B 10 x T 10 \| 9,90 EUR
+    RD.018.003  \| 	ca. L 6,5 x B 1 x T 1  \| 11,90 EUR
 
-- **Schlüsselanhänger 85mm, einseitige Beschriftung, handgeprägt**
-    
-	RD.017.010 \| Eiche \| ca. L 85 x B 10 x T 10 \| 11,90 EUR
+    RD.018.004  \| 	ca. L 8,5 x B 1 x T 1  \| 13,90 EUR
 
-  	RD.017.011 \| Nussbaum \| ca. L 85 x B 10 x T 10 \| 11,90 EUR
+- **Schlüsselanhänger 65mm/85mm, dreiseitige Beschriftung, gelasert**
 
-  	RD.017.012 \| Ahorn \| ca. L 85 x B 10 x T 10 \| 11,90 EUR
+    RD.018.005  \| 	ca. L 6,5 x B 1 x T 1  \| 13,90 EUR
 
-  	RD.017.013 \| Buche \| ca. L 85 x B 10 x T 10 \| 11,90 EUR
+    RD.018.006  \| 	ca. L 8,5 x B 1 x T 1  \| 15,90 EUR
+
+- **Schlüsselanhänger 65mm/85mm, vierseitige Beschriftung, gelasert**
+
+    RD.018.007  \| 	ca. L 6,5 x B 1 x T 1  \| 15,90 EUR
+
+    RD.018.008  \| 	ca. L 8,5 x B 1 x T 1  \| 17,90 EUR
 
 - **Schleifchen**
 
