@@ -27,6 +27,7 @@ Die Schlüsselanhänger sind in Nussbaum- oder Eichenholz erhältlich und werden
 **Starkes Holzwerk**  
 Artikelnummer \| Holzart \| Holzgröße \| Preis
 
+
 - **Schlüsselanhänger 65mm/85mm, einseitige Beschriftung, gelasert**
 
     RD.018.001  \| 	ca. L 6,5 x B 1 x T 1  \| 9,90 EUR
