@@ -45,7 +45,7 @@ Artikelnummer \| Holzart \| Holzgröße \| Preis
 
     RD.017.005   \| 	Buche \| ca. L 65 x B 10 x T 10 \| 9,90 EUR
 
-* **Schlüsselanhänger 85mm, einseitige Beschriftung, handgeprägt**
+- **Schlüsselanhänger 85mm, einseitige Beschriftung, handgeprägt**
     
 	RD.017.010 \| Eiche \| ca. L 85 x B 10 x T 10 \| 11,90 EUR
 
@@ -55,7 +55,7 @@ Artikelnummer \| Holzart \| Holzgröße \| Preis
 
   	RD.017.013 \| Buche \| ca. L 85 x B 10 x T 10 \| 11,90 EUR
 
-* **Schleifchen**
+- **Schleifchen**
 
     Verschiedene Farben \| + 1,00 EUR
 
