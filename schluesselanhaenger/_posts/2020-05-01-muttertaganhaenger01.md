@@ -1,23 +1,28 @@
 ---
 layout: holzwerk
-title: "Zum Muttertag"
+title: "Schlüsselanhänger zum Muttertag"
 description: Das kleine Geschenk zum Muttertag.
-permalink: /schluesselanhaenger/2017/05/01/muttertaganhaenger01/
+permalink: /schluesselanhaenger/2020/05/01/muttertaganhaenger01/
 date: 2020-05-01
-intro: Mama verdient nur das Beste
+intro: Persönlich, langlebig und schön 
 tags: ["geschenke"]
 ---
 
-**Blumen und Pralinen sind ein Klassiker zum Muttertag.
-Wer nach einem persönlichen und langlebigen Geschenk sucht, für den ist ein Schlüsselanhänger perfekt.**
-Ob Mama, Mutti oder ein individueller Spruch,
-RUPPERTdesign bringt ihre persönliche Botschaft auf Holz und liefert pünktlich zum Muttertag.
+** Danke, für alles! **
+
+
+** Ich denk an dich! ** 
+
+
+Wer noch auf der Suche nach einem besonderen Geschenk zum Muttertag ist, der wird hier fündig. 
+
+Meine Schlüsselanhänger sind handgefertigt, personalisierbar und langlebig – ich bringe jede Herzbotschaft und jedes Symbol für Sie auf Holz. Ihre ganz persönliche Botschaft wird so zum täglichen Begleiter. 
+
+Die Schlüsselanhänger sind in Nussbaum- oder Eichenholz erhältlich und werden nur mit hochwertigem Bio-Öl eingelassen. Auf Wunsch sind sie auch mit Schleife in Ihrer Wunschfarbe erhältlich. 
+
 
 {% include image.html url="/schluesselanhaenger/img/muttertaganhaenger01/muttertag01.jpg" description="Persönlicher Anhänger für die beste Mama." type="small" %}
 
-Die Schlüsselanhänger sind in hochwertigem Nussbaum-, Eichen-, Buchen- oder Ahornholz erhältlich
-und werden nur mit hochwertigem Bio-Öl eingelassen.
-Auf Wunsch auch mit Schleifchen in Ihrer Wunschfarbe.
 
 {% include image.html url="/schluesselanhaenger/img/muttertaganhaenger01/muttertag02.jpg" description="Mama ist die Beste." type="small" %}
 
