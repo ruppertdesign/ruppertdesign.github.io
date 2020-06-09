@@ -1,10 +1,10 @@
 ---
 layout: holzwerk
-title: "Schlafzentrum Large"
+title: "Wildkräuter Hotelotel"
 description: #welcome #keychain #schlüsselanhänger #appartments #hotel #albhof #designhotel #hotelroom #resort #besthotel #ferienwohnung #pension #skihotel #spahotel #villa #lounge #penthouse #strandhütte #berghütte #blockhütte #lodge #b&b #forsthaus #berghaus #artlodge #alm #stuben #landhaus #alterwirt #bedandbreakfast #house #yacht #boot #cruiseliner #hotelzimmer #zimmerschlüssel #zimmernummer #appartmentdesign #individuell #personalisiert #ruppertdesign
 permalink: /schluesselanhaenger/2020/06/08/hotelanhaenger05/
 date: 2019-10-08
-intro: Gr.6 L150 B40 D10 Eiche 
+intro: Gr.5 L100 B25 D10 Eiche 
 tags: ["hotel"]
 ---
 
@@ -16,8 +16,6 @@ tags: ["hotel"]
 {% include image.html url="/schluesselanhaenger/img/hotelanhaenger05/hotel0503.jpg" description="Zimmerschlüssel für IHr Hotel." %}
 
 {% include image.html url="/schluesselanhaenger/img/hotelanhaenger05/hotel0504.jpg" description="Zimmerschlüssel für IHr Hotel." %}
-
-{% include image.html url="/schluesselanhaenger/img/hotelanhaenger05/hotel0505.jpg" description="Zimmerschlüssel für IHr Hotel." %}
 
 **hashtags**
 #albhof
@@ -42,6 +40,7 @@ tags: ["hotel"]
 #hotel
 #hotelroom
 #hotelzimmer
+#hotelschlüssel
 #house
 #individuell
 #keychain
@@ -62,6 +61,7 @@ tags: ["hotel"]
 #tagungsraum
 #villa
 #welcome
+#wildkräuterhotel
 #yacht
 #zimmernummer
 #zimmerschlüssel
