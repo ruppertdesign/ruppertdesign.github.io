@@ -2,7 +2,7 @@
 layout: holzwerk
 title: "Schlafzentrum Large"
 description: #welcome #keychain #schlüsselanhänger #appartments #hotel #albhof #designhotel #hotelroom #resort #besthotel #ferienwohnung #pension #skihotel #spahotel #villa #lounge #penthouse #strandhütte #berghütte #blockhütte #lodge #b&b #forsthaus #berghaus #artlodge #alm #stuben #landhaus #alterwirt #bedandbreakfast #house #yacht #boot #cruiseliner #hotelzimmer #zimmerschlüssel #zimmernummer #appartmentdesign #individuell #personalisiert #ruppertdesign
-permalink: /schluesselanhaenger/2020/06/07/hotelanhaenger06/
+permalink: /schluesselanhaenger/2020/06/08/hotelanhaenger06/
 date: 2019-10-07
 intro: Gr.6 L150 B40 D10 Eiche 
 tags: ["hotel"]
