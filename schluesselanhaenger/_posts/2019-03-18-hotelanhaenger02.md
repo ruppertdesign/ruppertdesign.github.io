@@ -4,7 +4,7 @@ title: "Gasthaus"
 description: #welcome #keychain #schlüsselanhänger #appartments #hotel #albhof #designhotel #hotelroom #resort #besthotel #ferienwohnung #pension #skihotel #spahotel #villa #lounge #penthouse #strandhütte #berghütte #blockhütte #lodge #b&b #forsthaus #berghaus #artlodge #alm #stuben #landhaus #alterwirt #bedandbreakfast #house #yacht #boot #cruiseliner #hotelzimmer #zimmerschlüssel #zimmernummer #appartmentdesign #individuell #personalisiert #ruppertdesign
 permalink: /schluesselanhaenger/2019/03/18/hotelanhaenger02/
 date: 2019-10-13
-intro: Gr.1 65 x 11 x 11 Eiche
+intro: 65 x 11 x 11 Eiche
 tags: ["hotel"]
 ---
 
