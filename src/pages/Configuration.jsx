@@ -58,17 +58,13 @@ export default ({ formValues, setFormValue }) => (
             value: 'ring-silber',
             title: 'Ring Silber',
             description: 'Beschreibung',
-            image: `${formValues['Holzart']}-${
-              formValues['Größe']
-            }-ring-silber`,
+            image: `${formValues['Holzart']}-${formValues['Größe']}-ring-silber`,
           },
           {
             value: 'ring-schwarz',
             title: 'Ring Schwarz',
             description: 'Beschreibung',
-            image: `${formValues['Holzart']}-${
-              formValues['Größe']
-            }-ring-schwarz`,
+            image: `${formValues['Holzart']}-${formValues['Größe']}-ring-schwarz`,
           },
           {
             value: 'ring-gold',
@@ -80,25 +76,19 @@ export default ({ formValues, setFormValue }) => (
             value: 'band-edelstahl',
             title: 'Edelstahlband',
             description: 'Beschreibung',
-            image: `${formValues['Holzart']}-${
-              formValues['Größe']
-            }-band-edelstahl`,
+            image: `${formValues['Holzart']}-${formValues['Größe']}-band-edelstahl`,
           },
           {
             value: 'band-leder-natur',
             title: 'Band Leder Natur',
             description: 'Beschreibung',
-            image: `${formValues['Holzart']}-${
-              formValues['Größe']
-            }-band-leder-natur`,
+            image: `${formValues['Holzart']}-${formValues['Größe']}-band-leder-natur`,
           },
           {
             value: 'band-leder-schwarz',
             title: 'Band Leder Schwarz',
             description: 'Beschreibung',
-            image: `${formValues['Holzart']}-${
-              formValues['Größe']
-            }-band-leder-schwarz`,
+            image: `${formValues['Holzart']}-${formValues['Größe']}-band-leder-schwarz`,
           },
         ]}
         value={formValues['Band']}
@@ -113,27 +103,22 @@ export default ({ formValues, setFormValue }) => (
           {
             value: 'Schriftart 1',
             description: 'Beschreibung 1',
-            image: '/schluesselanhaenger/img/konfigurator/band1.jpg',
+            image: 'schrift-1',
           },
           {
             value: 'Schriftart 2',
             description: 'Beschreibung 2',
-            image: '/schluesselanhaenger/img/konfigurator/band2.jpg',
+            image: 'schrift-2',
           },
           {
             value: 'Schriftart 3',
             description: 'Beschreibung 3',
-            image: '/schluesselanhaenger/img/konfigurator/band3.jpg',
+            image: 'schrift-3',
           },
           {
             value: 'Schriftart 4',
             description: 'Beschreibung 4',
-            image: '/schluesselanhaenger/img/konfigurator/band1.jpg',
-          },
-          {
-            value: 'Schriftart 5',
-            description: 'Beschreibung 5',
-            image: '/schluesselanhaenger/img/konfigurator/band2.jpg',
+            image: 'schrift-4',
           },
         ]}
         value={formValues['Schriftart']}
