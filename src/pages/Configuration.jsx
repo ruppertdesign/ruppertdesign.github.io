@@ -6,7 +6,10 @@ import LabelField from '../components/LabelField'
 export default ({ formValues, setFormValue }) => (
   <Fragment>
     <Header title="Gestalten Sie Ihren Schlüsselanhänger selbst." />
-    <p>Hier wäre Platz für ein wenig Werbung, ein Bild, die Preise usw.</p>
+    <p>
+      Hier können Sie Ihren Schlüsselanhänger Schrift für Schrift ganz einfach
+      selbst gestalten.
+    </p>
     <ConfigurationRow
       title="Bitte wählen Sie die Holzart"
       name="Holzart"
@@ -20,7 +23,7 @@ export default ({ formValues, setFormValue }) => (
         {
           value: 'eiche',
           title: 'Eiche',
-          description: 'Tolle Beschreibung',
+          description: 'Doch lieber hell',
           image: 'eiche-85',
         },
       ]}
@@ -35,13 +38,13 @@ export default ({ formValues, setFormValue }) => (
           {
             value: '65',
             title: '65mm',
-            description: 'Beschreibunng',
+            description: 'ab 9,90 EUR',
             image: `${formValues['Holzart']}-65`,
           },
           {
             value: '85',
             title: '85mm',
-            description: 'Beschreibung',
+            description: 'ab 11,90 EUR',
             image: `${formValues['Holzart']}-85`,
           },
         ]}
@@ -57,37 +60,37 @@ export default ({ formValues, setFormValue }) => (
           {
             value: 'ring-silber',
             title: 'Ring Silber',
-            description: 'Beschreibung',
+            description: 'D 25mm',
             image: `${formValues['Holzart']}-${formValues['Größe']}-ring-silber`,
           },
           {
             value: 'ring-schwarz',
             title: 'Ring Schwarz',
-            description: 'Beschreibung',
+            description: 'D 25mm',
             image: `${formValues['Holzart']}-${formValues['Größe']}-ring-schwarz`,
           },
           {
             value: 'ring-gold',
             title: 'Ring Gold',
-            description: 'Beschreibung',
+            description: 'D 25mm',
             image: `${formValues['Holzart']}-${formValues['Größe']}-ring-gold`,
           },
           {
             value: 'band-edelstahl',
             title: 'Edelstahlband',
-            description: 'Beschreibung',
+            description: 'L 150mm',
             image: `${formValues['Holzart']}-${formValues['Größe']}-band-edelstahl`,
           },
           {
             value: 'band-leder-natur',
-            title: 'Band Leder Natur',
-            description: 'Beschreibung',
+            title: 'Lederband Natur',
+            description: 'L 150mm',
             image: `${formValues['Holzart']}-${formValues['Größe']}-band-leder-natur`,
           },
           {
             value: 'band-leder-schwarz',
-            title: 'Band Leder Schwarz',
-            description: 'Beschreibung',
+            title: 'Lederband Schwarz',
+            description: 'L 150mm',
             image: `${formValues['Holzart']}-${formValues['Größe']}-band-leder-schwarz`,
           },
         ]}
@@ -101,24 +104,28 @@ export default ({ formValues, setFormValue }) => (
         name="Schriftart"
         entries={[
           {
-            value: 'Schriftart 1',
-            description: 'Beschreibung 1',
-            image: 'schrift-1',
+            value: 'schrift-1-clean',
+            title: 'Schrift 1',
+            description: 'Clean',
+            image: 'schrift-1-clean',
           },
           {
-            value: 'Schriftart 2',
-            description: 'Beschreibung 2',
-            image: 'schrift-2',
+            value: 'schrift-2-freeflow',
+            title: 'Schrift 2',
+            description: 'Freeflow',
+            image: 'schrift-2-freeflow',
           },
           {
-            value: 'Schriftart 3',
-            description: 'Beschreibung 3',
-            image: 'schrift-3',
+            value: 'schrift-3-hands',
+            title: 'Schrift 3',
+            description: 'Hands',
+            image: 'schrift-3-hands',
           },
           {
-            value: 'Schriftart 4',
-            description: 'Beschreibung 4',
-            image: 'schrift-4',
+            value: 'schrift-4-mono',
+            title: 'Schrift 4',
+            description: 'Mono',
+            image: 'schrift-4-mono',
           },
         ]}
         value={formValues['Schriftart']}

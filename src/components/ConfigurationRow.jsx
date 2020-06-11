@@ -3,7 +3,7 @@ import { h, Component, createRef } from 'preact'
 export default class ConfigurationRow extends Component {
   ref = createRef()
 
-  handleSelect = event => {
+  handleSelect = (event) => {
     const { name, setFormValue } = this.props
     setFormValue(name, event.target.value)
     const fieldset = this.ref.current
@@ -23,7 +23,7 @@ export default class ConfigurationRow extends Component {
     return (
       <fieldset ref={this.ref}>
         <legend>{title}</legend>
-        {entries.map(entry => {
+        {entries.map((entry) => {
           const cols = entries.length < 3 ? 2 : 3
           return (
             <div
@@ -36,7 +36,7 @@ export default class ConfigurationRow extends Component {
                     type="radio"
                     name={name}
                     value={entry.value}
-                    checked={entry.value == value}
+                    checked={entry.value === value}
                     onClick={this.handleSelect}
                   />
                   <img
