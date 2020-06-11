@@ -12,7 +12,7 @@ export default ({ formValues, setFormValue }) => (
     </p>
     <ConfigurationRow
       title="Bitte wählen Sie die Holzart"
-      name="Holzart"
+      name="holzart"
       entries={[
         {
           value: 'nuss',
@@ -27,81 +27,81 @@ export default ({ formValues, setFormValue }) => (
           image: 'eiche-85',
         },
       ]}
-      value={formValues['Holzart']}
+      value={formValues.holzart}
       setFormValue={setFormValue}
     />
-    {formValues['Holzart'] != null && (
+    {formValues.holzart != null && (
       <ConfigurationRow
         title="Bitte wählen Sie die Größe"
-        name="Größe"
+        name="groesse"
         entries={[
           {
             value: '65',
             title: '65mm',
             description: 'ab 9,90 EUR',
-            image: `${formValues['Holzart']}-65`,
+            image: `${formValues.holzart.value}-65`,
           },
           {
             value: '85',
             title: '85mm',
             description: 'ab 11,90 EUR',
-            image: `${formValues['Holzart']}-85`,
+            image: `${formValues.holzart.value}-85`,
           },
         ]}
-        value={formValues['Größe']}
+        value={formValues.groesse}
         setFormValue={setFormValue}
       />
     )}
-    {formValues['Größe'] != null && (
+    {formValues.groesse != null && (
       <ConfigurationRow
         title="Bitte wählen Sie die das Band"
-        name="Band"
+        name="band"
         entries={[
           {
             value: 'ring-silber',
             title: 'Ring Silber',
             description: 'D 25mm',
-            image: `${formValues['Holzart']}-${formValues['Größe']}-ring-silber`,
+            image: `${formValues.holzart.value}-${formValues.groesse.value}-ring-silber`,
           },
           {
             value: 'ring-schwarz',
             title: 'Ring Schwarz',
             description: 'D 25mm',
-            image: `${formValues['Holzart']}-${formValues['Größe']}-ring-schwarz`,
+            image: `${formValues.holzart.value}-${formValues.groesse.value}-ring-schwarz`,
           },
           {
             value: 'ring-gold',
             title: 'Ring Gold',
             description: 'D 25mm',
-            image: `${formValues['Holzart']}-${formValues['Größe']}-ring-gold`,
+            image: `${formValues.holzart.value}-${formValues.groesse.value}-ring-gold`,
           },
           {
             value: 'band-edelstahl',
             title: 'Edelstahlband',
             description: 'L 150mm',
-            image: `${formValues['Holzart']}-${formValues['Größe']}-band-edelstahl`,
+            image: `${formValues.holzart.value}-${formValues.groesse.value}-band-edelstahl`,
           },
           {
             value: 'band-leder-natur',
             title: 'Lederband Natur',
             description: 'L 150mm',
-            image: `${formValues['Holzart']}-${formValues['Größe']}-band-leder-natur`,
+            image: `${formValues.holzart.value}-${formValues.groesse.value}-band-leder-natur`,
           },
           {
             value: 'band-leder-schwarz',
             title: 'Lederband Schwarz',
             description: 'L 150mm',
-            image: `${formValues['Holzart']}-${formValues['Größe']}-band-leder-schwarz`,
+            image: `${formValues.holzart.value}-${formValues.groesse.value}-band-leder-schwarz`,
           },
         ]}
-        value={formValues['Band']}
+        value={formValues.band}
         setFormValue={setFormValue}
       />
     )}
-    {formValues['Band'] != null && (
+    {formValues.band != null && (
       <ConfigurationRow
         title="Bitte wählen Sie die Schriftart"
-        name="Schriftart"
+        name="schrift"
         entries={[
           {
             value: 'schrift-1-clean',
@@ -128,30 +128,27 @@ export default ({ formValues, setFormValue }) => (
             image: 'schrift-4-mono',
           },
         ]}
-        value={formValues['Schriftart']}
+        value={formValues.schrift}
         setFormValue={setFormValue}
       />
     )}
-    {formValues['Schriftart'] != null && (
+    {formValues.schrift != null && (
       <Fragment>
         <fieldset class="label-fields">
           <legend>Beschriftung</legend>
           <div class="pure-g">
             <div class="pure-u-1-1 pure-u-md-1-2 pure-u-lg-1-2">
-              <LabelField id="side-1" name="Seite 1" title="Seite 1" required />
+              <LabelField name="side-1" title="Seite 1" required />
               <LabelField
-                id="side-2"
-                name="Seite 2"
+                name="side-2"
                 title="Seite 2 (optional + 2,00 Euro)"
               />
               <LabelField
-                id="side-3"
-                name="Seite 3"
+                name="side-3"
                 title="Seite 3 (optional + 2,00 Euro)"
               />
               <LabelField
-                id="side-4"
-                name="Seite 4"
+                name="side-4"
                 title="Seite 4 (optional + 2,00 Euro)"
               />
             </div>
@@ -162,8 +159,8 @@ export default ({ formValues, setFormValue }) => (
           <div class="pure-g">
             <div class="pure-u-1-1 pure-u-md-1-2 pure-u-lg-1-2">
               <textarea
-                id="message"
-                name="message"
+                id="nachricht"
+                name="nachricht"
                 rows="6"
                 minlength="3"
               ></textarea>

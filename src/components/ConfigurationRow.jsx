@@ -4,8 +4,11 @@ export default class ConfigurationRow extends Component {
   ref = createRef()
 
   handleSelect = (event) => {
-    const { name, setFormValue } = this.props
-    setFormValue(name, event.target.value)
+    const { name, setFormValue, entries } = this.props
+    setFormValue(
+      name,
+      entries.find((entry) => entry.value === event.target.value)
+    )
     const fieldset = this.ref.current
     window.scrollTo({
       top: fieldset.offsetTop + fieldset.offsetHeight,

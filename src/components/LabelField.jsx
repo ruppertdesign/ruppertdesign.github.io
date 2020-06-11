@@ -1,9 +1,15 @@
 import { h, Fragment } from 'preact'
 
-export default ({ id, name, title, error, required }) => (
+export default ({ name, title, error, required }) => (
   <Fragment>
-    <label for={id}>{title}</label>
-    <input id={id} name={name} type="text" required={required} maxLength="20" />
+    <label for={name}>{title}</label>
+    <input
+      id={name}
+      name={name}
+      type="text"
+      required={required}
+      maxLength="20"
+    />
     <div class="error-msg">{error}</div>
   </Fragment>
 )
