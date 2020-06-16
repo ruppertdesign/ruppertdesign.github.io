@@ -138,18 +138,30 @@ export default ({ formValues, setFormValue }) => (
           <legend>Beschriftung</legend>
           <div class="pure-g">
             <div class="pure-u-1-1 pure-u-md-1-2 pure-u-lg-1-2">
-              <LabelField name="side-1" title="Seite 1" required />
               <LabelField
-                name="side-2"
+                name="side1"
+                title="Seite 1"
+                value={formValues.side1}
+                setFormValue={setFormValue}
+                required
+              />
+              <LabelField
+                name="side2"
                 title="Seite 2 (optional + 2,00 Euro)"
+                value={formValues.side2}
+                setFormValue={setFormValue}
               />
               <LabelField
-                name="side-3"
+                name="side3"
                 title="Seite 3 (optional + 2,00 Euro)"
+                value={formValues.side3}
+                setFormValue={setFormValue}
               />
               <LabelField
-                name="side-4"
+                name="side4"
                 title="Seite 4 (optional + 2,00 Euro)"
+                value={formValues.side4}
+                setFormValue={setFormValue}
               />
             </div>
           </div>
@@ -163,6 +175,10 @@ export default ({ formValues, setFormValue }) => (
                 name="nachricht"
                 rows="6"
                 minlength="3"
+                value={formValues.nachricht}
+                onChange={(event) =>
+                  setFormValue('nachricht', event.target.value)
+                }
               ></textarea>
             </div>
           </div>

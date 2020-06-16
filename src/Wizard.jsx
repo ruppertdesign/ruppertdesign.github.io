@@ -25,9 +25,9 @@ export default class Wizard extends Component {
 
   setFormValue = (key, value) =>
     this.setState(
-      {
-        formValues: { ...this.state.formValues, [key]: value },
-      },
+      (state) => ({
+        formValues: { ...state.formValues, [key]: value },
+      }),
       () => console.info(this.state.formValues)
     )
 
