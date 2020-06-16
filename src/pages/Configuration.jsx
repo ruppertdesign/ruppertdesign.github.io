@@ -1,7 +1,7 @@
 import { h, Fragment } from 'preact'
 import Header from '../components/Header'
 import ConfigurationRow from '../components/ConfigurationRow'
-import LabelField from '../components/LabelField'
+import InputText from '../components/InputText'
 
 export default ({ formValues, setFormValue }) => (
   <Fragment>
@@ -138,31 +138,18 @@ export default ({ formValues, setFormValue }) => (
           <legend>Beschriftung</legend>
           <div class="pure-g">
             <div class="pure-u-1-1 pure-u-md-1-2 pure-u-lg-1-2">
-              <LabelField
-                name="side1"
-                title="Seite 1"
-                value={formValues.side1}
-                setFormValue={setFormValue}
-                required
-              />
-              <LabelField
-                name="side2"
-                title="Seite 2 (optional + 2,00 Euro)"
-                value={formValues.side2}
-                setFormValue={setFormValue}
-              />
-              <LabelField
-                name="side3"
-                title="Seite 3 (optional + 2,00 Euro)"
-                value={formValues.side3}
-                setFormValue={setFormValue}
-              />
-              <LabelField
-                name="side4"
-                title="Seite 4 (optional + 2,00 Euro)"
-                value={formValues.side4}
-                setFormValue={setFormValue}
-              />
+              {[1, 2, 3, 4].map((idx) => (
+                <InputText
+                  name={`side${idx}`}
+                  title={`Seite ${idx}${
+                    idx > 1 ? ' (optional + 2,00 Euro)' : ''
+                  }`}
+                  value={formValues[`side${idx}`]}
+                  setFormValue={setFormValue}
+                  required={idx === 1}
+                  maxLength={20}
+                />
+              ))}
             </div>
           </div>
         </fieldset>
