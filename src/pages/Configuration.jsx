@@ -2,6 +2,7 @@ import { h, Fragment } from 'preact'
 import Header from '../components/Header'
 import ConfigurationRow from '../components/ConfigurationRow'
 import InputText from '../components/InputText'
+import InputTextarea from '../components/InputTextarea'
 
 export default ({ formValues, setFormValue }) => (
   <Fragment>
@@ -157,16 +158,12 @@ export default ({ formValues, setFormValue }) => (
           <legend>Weitere Hinweise</legend>
           <div class="pure-g">
             <div class="pure-u-1-1 pure-u-md-1-2 pure-u-lg-1-2">
-              <textarea
-                id="nachricht"
+              <InputTextarea
                 name="nachricht"
-                rows="6"
-                minlength="3"
+                rows={6}
                 value={formValues.nachricht}
-                onChange={(event) =>
-                  setFormValue('nachricht', event.target.value)
-                }
-              ></textarea>
+                setFormValue={setFormValue}
+              />
             </div>
           </div>
         </fieldset>
