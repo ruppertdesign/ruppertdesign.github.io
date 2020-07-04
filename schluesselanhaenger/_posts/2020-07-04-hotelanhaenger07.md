@@ -3,7 +3,7 @@ layout: holzwerk
 title: "Der 85mm Anhänger"
 description: #welcome #keychain #schlüsselanhänger #appartments #hotel #albhof #designhotel #hotelroom #resort #besthotel #ferienwohnung #pension #skihotel #spahotel #villa #lounge #penthouse #strandhütte #berghütte #blockhütte #lodge #b&b #forsthaus #berghaus #artlodge #alm #stuben #landhaus #alterwirt #bedandbreakfast #house #yacht #boot #cruiseliner #hotelzimmer #zimmerschlüssel #zimmernummer #appartmentdesign #individuell #personalisiert #ruppertdesign
 permalink: /schluesselanhaenger/2020/07/04/hotelanhaenger07/
-date: 2020-10-07
+date: 2020-07-04
 intro: 85 x 11 x 11 Eiche 
 tags: ["hotel"]
 ---
