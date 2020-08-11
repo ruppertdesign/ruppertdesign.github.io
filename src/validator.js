@@ -1,4 +1,5 @@
-const validate = ({ value, required, maxLength }) => {
+const validate = ({ name, type, value, required, maxLength, validity }) => {
+  console.info(name, type, validity)
   const val = value == null ? '' : value.trim()
   if (required && val.length === 0) {
     return 'Bitte füllen Sie das Feld aus'

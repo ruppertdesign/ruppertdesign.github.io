@@ -6,6 +6,7 @@ export default class InputText extends Component {
     error: null,
   }
   handleChange = (event) => {
+    console.info(event)
     const { setFormValue, name, required, maxLength } = this.props
     const { value } = event.target
     const error = validator.validate({
