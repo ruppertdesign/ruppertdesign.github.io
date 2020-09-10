@@ -2,7 +2,7 @@ clean:
 	rm -rf _site/*
 
 watch_jekyll:
-	bundle exec jekyll serve --watch --baseurl=
+	bundle exec jekyll serve --config _config.yml,_config_test.yml --watch --baseurl=
 
 watch_preact:
 	yarn watch
