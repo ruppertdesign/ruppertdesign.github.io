@@ -5,6 +5,16 @@ description: RUPPERTdesign fertigt individuelle Schlüsselanhänger aus Holz mit
 permalink: /konfigurator/
 ---
 
+<form
+  name="configurator"
+  action="bestellung"
+  netlify
+  netlify-honeypot="bot-field"
+  hidden
+>
+  <textarea name="message"></textarea>
+</form>
+
 <section id="configurator"></section>
 <noscript><h1>Bitte aktivieren Sie JavaScript</h1></noscript>
 <script src="/scripts/Configurator.js"></script>

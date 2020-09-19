@@ -5,17 +5,6 @@ import ShippingAndPayment from './pages/ShippingAndPayment'
 import Thanks from './pages/Thanks'
 import validator from './validator'
 
-// TODO move form to static content
-// <form
-// id="configuratorForm"
-// name="configurator"
-// action="bestellung"
-// class="pure-form pure-form-stacked configurator"
-// netlify
-// netlify-honeypot="TODO"
-// >
-// </form>
-
 class Configurator extends Component {
   pages = {
     auswahl: Configuration,
@@ -68,6 +57,25 @@ class Configurator extends Component {
     }
     const action = target.attributes.action.value
     console.info('Form action', action)
+
+    const encode = (data) => {
+      return Object.keys(data)
+        .map(
+          (key) => encodeURIComponent(key) + '=' + encodeURIComponent(data[key])
+        )
+        .join('&')
+    }
+
+    fetch('/', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: encode({
+        'form-name': 'configurator',
+        message: 'This is a long message\nWith\nmany\nlinebreaks\n',
+      }),
+    })
+      .then(() => alert('Success!'))
+      .catch((error) => alert(error))
   }
 
   componentDidMount() {
