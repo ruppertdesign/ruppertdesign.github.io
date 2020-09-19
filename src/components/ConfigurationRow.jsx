@@ -17,9 +17,7 @@ export default class ConfigurationRow extends Component {
   }
 
   fullPath(name, size) {
-    return `/schluesselanhaenger/img/konfigurator/${name}${
-      size ? `@${size}x` : ``
-    }.jpg`
+    return `/konfigurator/img/${name}${size ? `@${size}x` : ``}.jpg`
   }
 
   render({ title, name, entries, value }) {
