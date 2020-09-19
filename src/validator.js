@@ -1,11 +1,24 @@
-const validate = ({ name, type, value, required, maxLength, validity }) => {
-  console.info(name, type, validity)
-  const val = value == null ? '' : value.trim()
-  if (required && val.length === 0) {
+const validate = ({ min, max, minlength, maxlength, validity }) => {
+  if (validity.valid) {
+    return null
+  }
+  if (validity.valueMissing) {
     return 'Bitte füllen Sie das Feld aus'
   }
-  if (maxLength > 0 && val.length > maxLength) {
-    return `Bitte geben Sie maximal ${maxLength} Zeichen ein`
+  if (validity.badInput || validity.patternMismatch) {
+    return 'Bitte geben Sie nur gültige Zeichen ein'
+  }
+  if (validity.rangeOverflow) {
+    return `Der Maximalwert beträgt ${max}`
+  }
+  if (validity.rangeUnderflow) {
+    return `Der Minimalwert beträgt ${min}`
+  }
+  if (validity.tooShort) {
+    return `Bitte geben sie mindestens ${minlength} Zeichen ein`
+  }
+  if (validity.tooLong) {
+    return `Bitte geben sie höchstens ${maxlength} Zeichen ein`
   }
   return null
 }

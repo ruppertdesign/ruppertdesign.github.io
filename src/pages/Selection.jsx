@@ -4,7 +4,7 @@ import ConfigurationRow from '../components/ConfigurationRow'
 import InputText from '../components/InputText'
 import InputTextarea from '../components/InputTextarea'
 
-export default ({ formValues, setFormValue, submitForm }) => (
+export default ({ formValues, setFormValue, errors, setError, submitForm }) => (
   <Fragment>
     <form
       name="configuration"
@@ -154,8 +154,10 @@ export default ({ formValues, setFormValue, submitForm }) => (
                     }`}
                     value={formValues[`side${idx}`]}
                     setFormValue={setFormValue}
+                    error={errors[`side${idx}`]}
+                    setError={setError}
                     required={idx === 1}
-                    maxLength={20}
+                    maxlength={20}
                   />
                 ))}
               </div>
@@ -170,6 +172,8 @@ export default ({ formValues, setFormValue, submitForm }) => (
                   rows={6}
                   value={formValues.nachricht}
                   setFormValue={setFormValue}
+                  errors={errors.nachricht}
+                  setError={setError}
                 />
               </div>
             </div>

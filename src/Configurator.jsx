@@ -26,9 +26,10 @@ class Configurator extends Component {
   state = {
     currentPage: 'auswahl',
     formValues: {},
+    errors: {},
   }
 
-  onLocationChange = ({ newURL }) => {
+  handleLocationChange = ({ newURL }) => {
     const currentPage = newURL && newURL.split('#')[1]
     if (currentPage) {
       this.setState({ currentPage })
@@ -40,18 +41,33 @@ class Configurator extends Component {
       (state) => ({
         formValues: { ...state.formValues, [key]: value },
       }),
-      () => console.info(this.state.formValues)
+      () => console.info('setFormValue', this.state.formValues)
     )
 
-  submitForm = (event) => {
+  setError = (key, error) =>
+    this.setState(
+      (state) => ({ errors: { ...state.errors, [key]: error } }),
+      () => console.info('setError', this.state.errors)
+    )
+
+  handleSubmitForm = (event) => {
     event.preventDefault()
-    console.info(event)
+    console.info('Submit', this.state.formValues)
     const { target } = event
-    for (const field of target.elements) {
-      validator.validate(field)
+    const errors = [...target.elements]
+      .filter((field) =>
+        ['input', 'textarea'].includes(field.tagName.toLowerCase())
+      )
+      .reduce((acc, field) => {
+        const error = validator.validate(field)
+        return error != null ? { ...acc, [field.name]: error } : acc
+      }, {})
+    this.setState({ errors })
+    if (Object.keys(errors).length > 0) {
+      console.info('Submit errors', errors)
     }
     const action = target.attributes.action.value
-    console.info(action)
+    console.info('Form action', action)
   }
 
   componentDidMount() {
@@ -60,16 +76,18 @@ class Configurator extends Component {
 
   render({}, { currentPage }) {
     useEffect(() => {
-      window.addEventListener('hashchange', this.onLocationChange)
+      window.addEventListener('hashchange', this.handleLocationChange)
       return () =>
-        window.removeEventListener('hashchange', this.onLocationChange)
+        window.removeEventListener('hashchange', this.handleLocationChange)
     }, [])
     const Page = this.pages[currentPage]
     return (
       <Page
         formValues={this.state.formValues}
         setFormValue={this.setFormValue}
-        submitForm={this.submitForm}
+        errors={this.state.errors}
+        setError={this.setError}
+        submitForm={this.handleSubmitForm}
       />
     )
   }

@@ -2,23 +2,16 @@ import { h, Component, Fragment } from 'preact'
 import validator from '../validator'
 
 export default class InputTextarea extends Component {
-  state = {
-    error: null,
-  }
   handleChange = (event) => {
-    const { setFormValue, name, required } = this.props
-    const { value } = event.target
-    const error = validator.validate({
-      value,
-      required,
-    })
+    const { setFormValue, setError, name } = this.props
+    const error = validator.validate(event.target)
     if (error != null) {
-      this.setState({ error })
+      setError(name, error)
     }
     setFormValue(name, event.target.value)
   }
 
-  render({ name, rows, value, required }, { error }) {
+  render({ name, rows, value, required, error }) {
     return (
       <Fragment>
         <textarea

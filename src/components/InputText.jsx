@@ -2,25 +2,16 @@ import { h, Component, Fragment } from 'preact'
 import validator from '../validator'
 
 export default class InputText extends Component {
-  state = {
-    error: null,
-  }
   handleChange = (event) => {
-    console.info(event)
-    const { setFormValue, name, required, maxLength } = this.props
-    const { value } = event.target
-    const error = validator.validate({
-      value,
-      required,
-      maxLength,
-    })
+    const { setFormValue, setError, name } = this.props
+    const error = validator.validate(event.target)
     if (error != null) {
-      this.setState({ error })
+      setError(name, error)
     }
     setFormValue(name, event.target.value)
   }
 
-  render({ name, title, required, maxLength, value }, { error }) {
+  render({ name, title, required, maxlength, value, error }) {
     return (
       <Fragment>
         <label for={name}>{title}</label>
@@ -32,7 +23,7 @@ export default class InputText extends Component {
           onChange={this.handleChange}
           class={error != null ? 'error' : ''}
           required={required}
-          maxLength={maxLength}
+          maxlength={maxlength}
         />
         {error != null && (
           <div
