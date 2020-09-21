@@ -7,7 +7,7 @@ import InputTextarea from '../components/InputTextarea'
 export default ({ formValues, setFormValue, errors, setError, submitForm }) => (
   <Fragment>
     <form
-      name="configuration"
+      name="selection"
       action="#adresse"
       class="pure-form pure-form-stacked configurator"
       onSubmit={submitForm}
