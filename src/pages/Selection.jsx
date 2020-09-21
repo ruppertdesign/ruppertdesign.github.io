@@ -4,14 +4,7 @@ import ConfigurationRow from '../components/ConfigurationRow'
 import InputText from '../components/InputText'
 import InputTextarea from '../components/InputTextarea'
 
-export default ({
-  formValues,
-  setFormValue,
-  errors,
-  setError,
-  validateForm,
-  navigate,
-}) => (
+export default ({ formValues, setFormValue, validateForm, navigate }) => (
   <Fragment>
     <form
       name="selection"
@@ -157,20 +150,20 @@ export default ({
             <legend>Beschriftung</legend>
             <div class="pure-g">
               <div class="pure-u-1-1 pure-u-md-1-2 pure-u-lg-1-2">
-                {[1, 2, 3, 4].map((idx) => (
-                  <InputText
-                    name={`side${idx}`}
-                    title={`Seite ${idx}${
-                      idx > 1 ? ' (optional + 2,00 Euro)' : ''
-                    }`}
-                    value={formValues[`side${idx}`]}
-                    setFormValue={setFormValue}
-                    error={errors[`side${idx}`]}
-                    setError={setError}
-                    required={idx === 1}
-                    maxlength={20}
-                  />
-                ))}
+                {[1, 2, 3, 4].map((idx) => {
+                  return (
+                    <InputText
+                      name={`side${idx}`}
+                      title={`Seite ${idx}${
+                        idx > 1 ? ' (optional + 2,00 Euro)' : ''
+                      }`}
+                      formValue={formValues[`side${idx}`]}
+                      setFormValue={setFormValue}
+                      required={idx === 1}
+                      maxlength={20}
+                    />
+                  )
+                })}
               </div>
             </div>
           </fieldset>
@@ -181,10 +174,8 @@ export default ({
                 <InputTextarea
                   name="nachricht"
                   rows={6}
-                  value={formValues.nachricht}
+                  formValue={formValues.nachricht}
                   setFormValue={setFormValue}
-                  errors={errors.nachricht}
-                  setError={setError}
                 />
               </div>
             </div>

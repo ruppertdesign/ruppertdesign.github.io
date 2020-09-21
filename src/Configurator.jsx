@@ -15,11 +15,9 @@ class Configurator extends Component {
   state = {
     currentPage: 'auswahl',
     formValues: {},
-    errors: {},
   }
 
   handleLocationChange = ({ newURL }) => {
-    console.info('LOC CHANGE')
     const currentPage = newURL && newURL.split('#')[1]
     if (currentPage) {
       this.setState({ currentPage })
@@ -32,12 +30,6 @@ class Configurator extends Component {
         formValues: { ...state.formValues, [key]: value },
       }),
       () => console.info('setFormValue', this.state.formValues)
-    )
-
-  setError = (key, error) =>
-    this.setState(
-      (state) => ({ errors: { ...state.errors, [key]: error } }),
-      () => console.info('setError', this.state.errors)
     )
 
   validateForm = (event) => {

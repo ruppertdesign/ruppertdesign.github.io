@@ -3,15 +3,17 @@ import validator from '../validator'
 
 export default class InputTextarea extends Component {
   handleChange = (event) => {
-    const { setFormValue, setError, name } = this.props
+    const { setFormValue, name, title } = this.props
     const error = validator.validate(event.target)
-    if (error != null) {
-      setError(name, error)
-    }
-    setFormValue(name, event.target.value)
+    setFormValue(name, {
+      value: event.target.value,
+      title,
+      error,
+    })
   }
 
-  render({ name, rows, value, required, error }) {
+  render({ name, rows, formValue, required }) {
+    const { value, error } = formValue || {}
     return (
       <Fragment>
         <textarea
