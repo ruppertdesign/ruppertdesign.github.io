@@ -46,12 +46,25 @@ class Configurator extends Component {
       .filter((field) =>
         ['input', 'textarea'].includes(field.tagName.toLowerCase())
       )
-      .reduce((acc, field) => {
-        const error = validator.validate(field)
-        return error != null ? { ...acc, [field.name]: error } : acc
-      }, {})
-    this.setState({ errors })
-    return Object.keys(errors).length < 1
+      .map((field) => ({ field, error: validator.validate(field) }))
+      .filter(({ error }) => error != null)
+    if (errors.length == 0) {
+      return true
+    }
+    this.setState((state) => {
+      const clone = { ...state }
+      errors.forEach(({ error, field }) => {
+        if (clone.formValues[field.name] == null) {
+          clone.formValues[field.name] = {
+            value: field.value,
+          }
+        }
+        clone.formValues[field.name].error = error
+      })
+      return clone
+    })
+    errors[0].field.focus()
+    return false
   }
 
   componentDidMount() {
