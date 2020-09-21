@@ -24,6 +24,10 @@ class Configurator extends Component {
     }
   }
 
+  navigate = (page) => {
+    location.hash = page
+  }
+
   setFormValue = (key, value) =>
     this.setState(
       (state) => ({
@@ -44,10 +48,6 @@ class Configurator extends Component {
       }, {})
     this.setState({ errors })
     return Object.keys(errors).length < 1
-  }
-
-  navigate = (page) => {
-    location.hash = page
   }
 
   componentDidMount() {
