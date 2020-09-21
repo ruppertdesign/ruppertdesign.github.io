@@ -1,13 +1,13 @@
 import { h, Component, render } from 'preact'
 import { useEffect } from 'preact/hooks'
-import Configuration from './pages/Selection'
+import Selection from './pages/Selection'
 import ShippingAndPayment from './pages/ShippingAndPayment'
 import Thanks from './pages/Thanks'
 import validator from './validator'
 
 class Configurator extends Component {
   pages = {
-    auswahl: Configuration,
+    auswahl: Selection,
     adresse: ShippingAndPayment,
     danke: Thanks,
   }
@@ -19,6 +19,7 @@ class Configurator extends Component {
   }
 
   handleLocationChange = ({ newURL }) => {
+    console.info('LOC CHANGE')
     const currentPage = newURL && newURL.split('#')[1]
     if (currentPage) {
       this.setState({ currentPage })
@@ -39,9 +40,7 @@ class Configurator extends Component {
       () => console.info('setError', this.state.errors)
     )
 
-  handleSubmitForm = (event) => {
-    event.preventDefault()
-    console.info('Submit', this.state.formValues)
+  validateForm = (event) => {
     const { target } = event
     const errors = [...target.elements]
       .filter((field) =>
@@ -52,30 +51,11 @@ class Configurator extends Component {
         return error != null ? { ...acc, [field.name]: error } : acc
       }, {})
     this.setState({ errors })
-    if (Object.keys(errors).length > 0) {
-      console.info('Submit errors', errors)
-    }
-    const action = target.attributes.action.value
-    console.info('Form action', action)
+    return Object.keys(errors).length < 1
+  }
 
-    const encode = (data) => {
-      return Object.keys(data)
-        .map(
-          (key) => encodeURIComponent(key) + '=' + encodeURIComponent(data[key])
-        )
-        .join('&')
-    }
-
-    fetch('/', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-      body: encode({
-        'form-name': 'configurator',
-        message: 'This is a long message\nWith\nmany\nlinebreaks\n',
-      }),
-    })
-      .then(() => alert('Success!'))
-      .catch((error) => alert(error))
+  navigate = (page) => {
+    location.hash = page
   }
 
   componentDidMount() {
@@ -95,7 +75,8 @@ class Configurator extends Component {
         setFormValue={this.setFormValue}
         errors={this.state.errors}
         setError={this.setError}
-        submitForm={this.handleSubmitForm}
+        validateForm={this.validateForm}
+        navigate={this.navigate}
       />
     )
   }

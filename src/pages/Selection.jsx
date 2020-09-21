@@ -4,13 +4,24 @@ import ConfigurationRow from '../components/ConfigurationRow'
 import InputText from '../components/InputText'
 import InputTextarea from '../components/InputTextarea'
 
-export default ({ formValues, setFormValue, errors, setError, submitForm }) => (
+export default ({
+  formValues,
+  setFormValue,
+  errors,
+  setError,
+  validateForm,
+  navigate,
+}) => (
   <Fragment>
     <form
       name="selection"
-      action="#adresse"
       class="pure-form pure-form-stacked configurator"
-      onSubmit={submitForm}
+      onSubmit={(event) => {
+        event.preventDefault()
+        if (validateForm(event)) {
+          navigate('#adresse')
+        }
+      }}
       noValidate
     >
       <Header title="Gestalten Sie Ihren Schlüsselanhänger selbst." />
