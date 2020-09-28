@@ -32,7 +32,7 @@ export default ({ formValues, setFormValue, validateForm, navigate }) => (
             <InputText
               name="street"
               title="Straße und Hausnummer"
-              formValue={formValues.name}
+              formValue={formValues.street}
               setFormValue={setFormValue}
               required
               maxlength={60}
@@ -40,9 +40,9 @@ export default ({ formValues, setFormValue, validateForm, navigate }) => (
             <div class="pure-u-1 pure-u-md-1-3">
               <div class="postalcode">
                 <InputText
-                  name="street"
+                  name="postalCode"
                   title="Postleitzahl"
-                  formValue={formValues.name}
+                  formValue={formValues.postalCode}
                   setFormValue={setFormValue}
                   required
                   maxlength={5}
@@ -51,9 +51,9 @@ export default ({ formValues, setFormValue, validateForm, navigate }) => (
             </div>
             <div class="pure-u-1 pure-u-md-2-3">
               <InputText
-                name="street"
+                name="location"
                 title="Ort"
-                formValue={formValues.name}
+                formValue={formValues.location}
                 setFormValue={setFormValue}
                 required
                 maxlength={60}
@@ -63,6 +63,9 @@ export default ({ formValues, setFormValue, validateForm, navigate }) => (
         </div>
       </fieldset>
       <p>Hier fehlt die Erklärung wie es mit der Bezahlung läuft</p>
+      <button class="pure-button" type="submit">
+        Weiter
+      </button>
     </form>
   </Fragment>
 )
