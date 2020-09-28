@@ -33,12 +33,9 @@ class Configurator extends Component {
   }
 
   setFormValue = (key, value) =>
-    this.setState(
-      (state) => ({
-        formValues: { ...state.formValues, [key]: value },
-      }),
-      () => console.info('setFormValue', this.state.formValues)
-    )
+    this.setState((state) => ({
+      formValues: { ...state.formValues, [key]: value },
+    }))
 
   validateForm = (event) => {
     const { target } = event

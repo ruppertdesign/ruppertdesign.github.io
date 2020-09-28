@@ -1,71 +1,101 @@
-import { h, Fragment } from 'preact'
+import { h, Fragment, Component } from 'preact'
 import Header from '../components/Header'
 import InputText from '../components/InputText'
-import InputTextarea from '../components/InputTextarea'
+import mailer from '../mailer'
 
-export default ({ formValues, setFormValue, validateForm, navigate }) => (
-  <Fragment>
-    <form
-      name="shippingAndPayment"
-      class="pure-form pure-form-stacked configurator"
-      onSubmit={(event) => {
-        event.preventDefault()
-        if (validateForm(event)) {
-          navigate('#danke')
-        }
-      }}
-      noValidate
-    >
-      <Header title="Adresse und Bezahlung" />
-      <fieldset class="label-fields">
-        <legend>Lieferadresse</legend>
-        <div class="pure-g">
-          <div class="pure-u-1-1 pure-u-md-1-2 pure-u-lg-1-2">
-            <InputText
-              name="name"
-              title="Name"
-              formValue={formValues.name}
-              setFormValue={setFormValue}
-              required
-              maxlength={60}
-            />
-            <InputText
-              name="street"
-              title="Straße und Hausnummer"
-              formValue={formValues.street}
-              setFormValue={setFormValue}
-              required
-              maxlength={60}
-            />
-            <div class="pure-u-1 pure-u-md-1-3">
-              <div class="postalcode">
+export default class ShippingAndPayment extends Component {
+  state = {
+    error: false,
+  }
+  render({ formValues, setFormValue, validateForm, navigate }, { error }) {
+    return (
+      <Fragment>
+        <form
+          name="shippingAndPayment"
+          class="pure-form pure-form-stacked configurator"
+          onSubmit={async (event) => {
+            event.preventDefault()
+            if (validateForm(event)) {
+              try {
+                this.setState({ error: false })
+                await mailer.sendOrderMail(formValues)
+                navigate('#danke')
+              } catch (error) {
+                this.setState({ error: true })
+              }
+            }
+          }}
+          noValidate
+        >
+          <Header title="Adresse und Bezahlung" />
+          <fieldset class="label-fields">
+            <legend>Lieferadresse</legend>
+            <div class="pure-g">
+              <div class="pure-u-1-1 pure-u-md-1-2 pure-u-lg-1-2">
                 <InputText
-                  name="postalCode"
-                  title="Postleitzahl"
-                  formValue={formValues.postalCode}
+                  name="email"
+                  title="E-Mail Adresse"
+                  formValue={formValues.email}
                   setFormValue={setFormValue}
                   required
-                  maxlength={5}
+                  pattern="[0-9a-zA-Z\._%+-]+@[0-9a-zA-Z\.-]+\.[a-z]{2,4}"
+                  type="email"
                 />
+                <InputText
+                  name="name"
+                  title="Name"
+                  formValue={formValues.name}
+                  setFormValue={setFormValue}
+                  required
+                  pattern="[0-9a-zA-ZßÖÄÜ,\. _-]{3,60}"
+                />
+                <InputText
+                  name="street"
+                  title="Straße und Hausnummer"
+                  formValue={formValues.street}
+                  setFormValue={setFormValue}
+                  required
+                  pattern="[0-9a-zA-ZßÖÄÜ,\. _-]{3,60}"
+                />
+                <div class="pure-u-1 pure-u-md-1-3">
+                  <div class="postalcode">
+                    <InputText
+                      name="postalCode"
+                      title="Postleitzahl"
+                      formValue={formValues.postalCode}
+                      setFormValue={setFormValue}
+                      required
+                      pattern="[0-9]{4,5}"
+                    />
+                  </div>
+                </div>
+                <div class="pure-u-1 pure-u-md-2-3">
+                  <InputText
+                    name="location"
+                    title="Ort"
+                    formValue={formValues.location}
+                    setFormValue={setFormValue}
+                    required
+                    pattern="[0-9a-zA-ZßÖÄÜ,\. _-]{3,60}"
+                  />
+                </div>
               </div>
             </div>
-            <div class="pure-u-1 pure-u-md-2-3">
-              <InputText
-                name="location"
-                title="Ort"
-                formValue={formValues.location}
-                setFormValue={setFormValue}
-                required
-                maxlength={60}
-              />
+          </fieldset>
+          <p>Hier fehlt die Erklärung wie es mit der Bezahlung läuft</p>
+          {error && (
+            <div class="error-msg" style="display: block">
+              Das hat leider nicht funktioniert.
+              <br />
+              Bitte überprüfen Sie Ihre Daten oder versuchen es später noch
+              einmal.
             </div>
-          </div>
-        </div>
-      </fieldset>
-      <p>Hier fehlt die Erklärung wie es mit der Bezahlung läuft</p>
-      <button class="pure-button" type="submit">
-        Weiter
-      </button>
-    </form>
-  </Fragment>
-)
+          )}
+          <button class="pure-button" type="submit">
+            Weiter
+          </button>
+        </form>
+      </Fragment>
+    )
+  }
+}

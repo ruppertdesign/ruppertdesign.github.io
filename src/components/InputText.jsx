@@ -12,7 +12,16 @@ export default class InputText extends Component {
     })
   }
 
-  render({ name, title, required, maxlength, formValue }) {
+  render({
+    name,
+    title,
+    required,
+    minlength,
+    maxlength,
+    pattern,
+    formValue,
+    type,
+  }) {
     const { value, error } = formValue || {}
     return (
       <Fragment>
@@ -20,12 +29,14 @@ export default class InputText extends Component {
         <input
           id={name}
           name={name}
-          type="text"
+          type={type || 'text'}
           value={value}
           onChange={this.handleChange}
           class={error != null ? 'error' : ''}
           required={required}
+          minlength={minlength}
           maxlength={maxlength}
+          pattern={pattern}
         />
         {error != null && (
           <div
