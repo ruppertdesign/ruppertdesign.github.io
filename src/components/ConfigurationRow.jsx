@@ -37,7 +37,7 @@ export default class ConfigurationRow extends Component {
                     type="radio"
                     name={name}
                     value={entry.value}
-                    checked={entry.value === value}
+                    checked={value != null && value.value === entry.value}
                     onClick={this.handleSelect}
                   />
                   <img
