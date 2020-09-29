@@ -30,7 +30,7 @@ const sendOrderMail = async (formValues) => {
   ]
     .filter((row) => row != null)
     .join('\n')
-  fetch('/', {
+  const response = await fetch('/', {
     method: 'POST',
     headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
     body: encode({
@@ -38,6 +38,9 @@ const sendOrderMail = async (formValues) => {
       message,
     }),
   })
+  if (response.status != 200) {
+    throw Error(`[${response.status}]: ${response.statusText}`)
+  }
 }
 
 export default { sendOrderMail }

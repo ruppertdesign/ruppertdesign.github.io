@@ -5,7 +5,7 @@ import mailer from '../mailer'
 
 export default class ShippingAndPayment extends Component {
   state = {
-    error: false,
+    error: null,
   }
   render({ formValues, setFormValue, validateForm, navigate }, { error }) {
     return (
@@ -21,7 +21,7 @@ export default class ShippingAndPayment extends Component {
                 await mailer.sendOrderMail(formValues)
                 navigate('#danke')
               } catch (error) {
-                this.setState({ error: true })
+                this.setState({ error: error.message })
               }
             }
           }}
@@ -83,12 +83,14 @@ export default class ShippingAndPayment extends Component {
             </div>
           </fieldset>
           <p>Hier fehlt die Erklärung wie es mit der Bezahlung läuft</p>
-          {error && (
+          {error != null && (
             <div class="error-msg" style="display: block">
               Das hat leider nicht funktioniert.
               <br />
               Bitte überprüfen Sie Ihre Daten oder versuchen es später noch
               einmal.
+              <br />
+              {error}
             </div>
           )}
           <button class="pure-button" type="submit">
