@@ -47,7 +47,9 @@ export default class ShippingAndPayment extends Component {
                   formValue={formValues.name}
                   setFormValue={setFormValue}
                   required
-                  pattern="[0-9a-zA-ZßäöüÄÖÜ,\. _-]{3,60}"
+                  minlength={3}
+                  maxlength={60}
+                  pattern="[0-9a-zA-ZßäöüÄÖÜ,\. _-]*"
                 />
                 <InputText
                   name="street"
@@ -55,7 +57,9 @@ export default class ShippingAndPayment extends Component {
                   formValue={formValues.street}
                   setFormValue={setFormValue}
                   required
-                  pattern="[0-9a-zA-ZßäöüÄÖÜ,\. _-]{3,60}"
+                  minlength={3}
+                  maxlength={60}
+                  pattern="[0-9a-zA-ZßäöüÄÖÜ,\. _-]*"
                 />
                 <div class="pure-u-1 pure-u-md-1-3">
                   <div class="postalcode">
@@ -64,8 +68,9 @@ export default class ShippingAndPayment extends Component {
                       title="Postleitzahl"
                       formValue={formValues.postalCode}
                       setFormValue={setFormValue}
-                      required
-                      pattern="[0-9]{4,5}"
+                      minlength={4}
+                      maxlength={5}
+                      pattern="[0-9]*"
                     />
                   </div>
                 </div>
@@ -76,7 +81,9 @@ export default class ShippingAndPayment extends Component {
                     formValue={formValues.location}
                     setFormValue={setFormValue}
                     required
-                    pattern="[0-9a-zA-ZßäöüÄÖÜ,\. _-]{3,60}"
+                    minlength={3}
+                    maxlength={60}
+                    pattern="[0-9a-zA-ZßäöüÄÖÜ,\. _-]*"
                   />
                 </div>
               </div>
