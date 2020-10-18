@@ -4,6 +4,14 @@ import ConfigurationRow from '../components/ConfigurationRow'
 import InputText from '../components/InputText'
 import InputTextarea from '../components/InputTextarea'
 
+const countSides = (formValues) =>
+  [formValues.side1, formValues.side2, formValues.side3, formValues.side4]
+    .map(
+      (field) =>
+        field != null && field.value != null && field.value.trim() !== ''
+    )
+    .filter(Boolean).length
+
 export default ({ formValues, setFormValue, validateForm, navigate }) => (
   <Fragment>
     <form
@@ -146,30 +154,42 @@ export default ({ formValues, setFormValue, validateForm, navigate }) => (
         />
       )}
       {formValues.schrift != null && (
+        <fieldset class="label-fields">
+          <legend>Beschriftung</legend>
+          <div class="pure-g">
+            <div class="pure-u-1-1 pure-u-md-1-2 pure-u-lg-1-2">
+              {[1, 2, 3, 4].map((idx) => {
+                return (
+                  <InputText
+                    name={`side${idx}`}
+                    title={`Seite ${idx}${
+                      idx > 1 ? ' (optional + 2,00 Euro)' : ''
+                    }`}
+                    formValue={formValues[`side${idx}`]}
+                    setFormValue={setFormValue}
+                    required={idx === 1}
+                    maxlength={20}
+                  />
+                )
+              })}
+            </div>
+          </div>
+        </fieldset>
+      )}
+      {formValues.side1 != null && (
         <Fragment>
           <fieldset class="label-fields">
-            <legend>Beschriftung</legend>
+            <legend>Ihr Anhänger</legend>
             <div class="pure-g">
               <div class="pure-u-1-1 pure-u-md-1-2 pure-u-lg-1-2">
-                {[1, 2, 3, 4].map((idx) => {
-                  return (
-                    <InputText
-                      name={`side${idx}`}
-                      title={`Seite ${idx}${
-                        idx > 1 ? ' (optional + 2,00 Euro)' : ''
-                      }`}
-                      formValue={formValues[`side${idx}`]}
-                      setFormValue={setFormValue}
-                      required={idx === 1}
-                      maxlength={20}
-                    />
-                  )
-                })}
+                {formValues.holzart.title} | {formValues.groesse.title} |{' '}
+                {formValues.band.title} | {formValues.schrift.title} |{' '}
+                {countSides(formValues)} seitige Beschriftung
               </div>
             </div>
           </fieldset>
           <fieldset class="label-fields">
-            <legend>Weitere Hinweise</legend>
+            <legend>Weitere Hinweise zum Anhänger oder der Beschriftung</legend>
             <div class="pure-g">
               <div class="pure-u-1-1 pure-u-md-1-2 pure-u-lg-1-2">
                 <InputTextarea
