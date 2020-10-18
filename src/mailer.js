@@ -7,7 +7,7 @@ const encode = (data) => {
 const isBlank = (formValues, field) =>
   formValues[field] == null ||
   formValues[field].value == null ||
-  val.trim() === ''
+  formValues[field].value.trim() === ''
 
 const sendOrderMail = async (formValues) => {
   const message = [
