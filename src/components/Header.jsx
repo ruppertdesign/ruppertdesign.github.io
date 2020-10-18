@@ -1,3 +1,3 @@
 import { h } from 'preact'
 
-export default ({ title }) => <h1 class="content-head center">{title}</h1>
+export default ({ children }) => <h1 class="content-head center">{children}</h1>

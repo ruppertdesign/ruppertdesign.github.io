@@ -17,11 +17,12 @@ export default ({ formValues, setFormValue, validateForm, navigate }) => (
       }}
       noValidate
     >
-      <Header title="Gestalten Sie Ihren Schlüsselanhänger selbst." />
+      <Header>Ein Schlüsselanhänger, zahlreiche Möglichkeiten.</Header>
       <p>
-        Hier können Sie Ihren Schlüsselanhänger Schrift für Schrift ganz einfach
-        selbst gestalten.
+        Die hochwertigen handgefertigten Schlüsselanhänger von RUPPERTdesgin
+        sind vielseitg, langlebig und damit eine besondere Geschenkidee.
       </p>
+      <p>Gestalten Sie hier in wenigen Schritten Ihren Wunschanhänger.</p>
       <ConfigurationRow
         title="Bitte wählen Sie die Holzart"
         name="holzart"

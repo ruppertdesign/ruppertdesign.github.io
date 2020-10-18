@@ -27,7 +27,7 @@ export default class ShippingAndPayment extends Component {
           }}
           noValidate
         >
-          <Header title="Adresse und Bezahlung" />
+          <Header>Adresse und Bezahlung</Header>
           <fieldset class="label-fields">
             <legend>Lieferadresse</legend>
             <div class="pure-g">
