@@ -12,7 +12,7 @@ export default class InputTextarea extends Component {
     })
   }
 
-  render({ name, rows, formValue, required }) {
+  render({ name, rows, formValue, required, styleClass }) {
     const { value, error } = formValue || {}
     return (
       <Fragment>
@@ -23,7 +23,7 @@ export default class InputTextarea extends Component {
           value={value}
           onChange={this.handleChange}
           required={required}
-          class={error != null ? 'error' : ''}
+          class={`${styleClass} ${error != null ? error : ''}`}
         ></textarea>
         {error != null && (
           <div

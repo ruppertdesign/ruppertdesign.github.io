@@ -3,14 +3,8 @@ import Header from '../components/Header'
 import ConfigurationRow from '../components/ConfigurationRow'
 import InputText from '../components/InputText'
 import InputTextarea from '../components/InputTextarea'
-
-const countSides = (formValues) =>
-  [formValues.side1, formValues.side2, formValues.side3, formValues.side4]
-    .map(
-      (field) =>
-        field != null && field.value != null && field.value.trim() !== ''
-    )
-    .filter(Boolean).length
+import { countSides, calcPrice } from '../helpers'
+import InputNumber from '../components/InputNumber'
 
 export default ({ formValues, setFormValue, validateForm, navigate }) => (
   <Fragment>
@@ -181,10 +175,28 @@ export default ({ formValues, setFormValue, validateForm, navigate }) => (
           <fieldset class="label-fields">
             <legend>Ihr Anhänger</legend>
             <div class="pure-g">
-              <div class="pure-u-1-1 pure-u-md-1-2 pure-u-lg-1-2">
+              <div class="pure-u-2-3 pure-u-md-2-3 pure-u-lg-2-3">
                 {formValues.holzart.title} | {formValues.groesse.title} |{' '}
                 {formValues.band.title} | {formValues.schrift.title} |{' '}
                 {countSides(formValues)} seitige Beschriftung
+              </div>
+              <div class="pure-u-1-3 pure-u-md-1-3 pure-u-lg-1-3">
+                {calcPrice(formValues)}
+              </div>
+            </div>
+            <div class="pure-g quantity-row">
+              <div class="pure-u-2-3 pure-u-md-2-3 pure-u-lg-2-3">
+                Ihre Stückzahl
+              </div>
+              <div class="pure-u-1-3 pure-u-md-1-3 pure-u-lg-1-3">
+                <InputNumber
+                  name="quantity"
+                  formValue={formValues.quantity}
+                  setFormValue={setFormValue}
+                  required
+                  min={1}
+                  styleClass="quantity"
+                />
               </div>
             </div>
           </fieldset>

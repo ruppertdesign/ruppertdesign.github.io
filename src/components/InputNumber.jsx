@@ -1,7 +1,7 @@
 import { h, Component, Fragment } from 'preact'
 import validator from '../validator'
 
-export default class InputText extends Component {
+export default class InputNumber extends Component {
   handleChange = (event) => {
     const { setFormValue, name, title } = this.props
     const error = validator.validate(event.target)
@@ -12,17 +12,7 @@ export default class InputText extends Component {
     })
   }
 
-  render({
-    name,
-    title,
-    required,
-    minlength,
-    maxlength,
-    pattern,
-    formValue,
-    type,
-    styleClass,
-  }) {
+  render({ name, title, required, min, max, formValue, styleClass }) {
     const { value, error } = formValue || {}
     return (
       <Fragment>
@@ -30,14 +20,13 @@ export default class InputText extends Component {
         <input
           id={name}
           name={name}
-          type={type || 'text'}
+          type="number"
           value={value}
           onChange={this.handleChange}
           class={`${styleClass} ${error != null ? error : ''}`}
           required={required}
-          minlength={minlength}
-          maxlength={maxlength}
-          pattern={pattern}
+          min={min}
+          max={max}
         />
         {error != null && (
           <div

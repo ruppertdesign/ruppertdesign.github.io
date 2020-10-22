@@ -1,13 +1,10 @@
+import { isBlank } from './helpers'
+
 const encode = (data) => {
   return Object.keys(data)
     .map((key) => encodeURIComponent(key) + '=' + encodeURIComponent(data[key]))
     .join('&')
 }
-
-const isBlank = (formValues, field) =>
-  formValues[field] == null ||
-  formValues[field].value == null ||
-  formValues[field].value.trim() === ''
 
 const sendOrderMail = async (formValues) => {
   const message = [

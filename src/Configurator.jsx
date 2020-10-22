@@ -14,7 +14,11 @@ class Configurator extends Component {
 
   state = {
     currentPage: 'auswahl',
-    formValues: {},
+    formValues: {
+      quantity: {
+        value: 1,
+      },
+    },
   }
 
   handleLocationChange = ({ newURL }) => {
