@@ -18,6 +18,9 @@ class Configurator extends Component {
       quantity: {
         value: 1,
       },
+      shipment: {
+        value: 'standard',
+      },
     },
   }
 

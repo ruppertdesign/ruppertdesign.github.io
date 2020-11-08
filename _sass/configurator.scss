@@ -47,12 +47,32 @@
     margin: 0.5em 0 1em 0;
   }
 
+  input[type='radio'] {
+    margin-top: 0.5em;
+  }
+
   .quantity-row {
     margin-top: 1em;
   }
 
   .quantity {
     max-width: 4em;
+  }
+
+  .shipment-details {
+    margin: 0.5em 0;
+    display: block;
+  }
+
+  .price {
+    margin-right: 2em;
+  }
+
+  .total {
+    font-size: 3rem;
+    font-weight: 400;
+    margin: 0.5em 0;
+    display: block;
   }
 
   @media only screen and (min-width: 35.5em) {

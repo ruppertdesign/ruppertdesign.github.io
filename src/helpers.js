@@ -12,7 +12,9 @@ export const countSides = (formValues) =>
   [1, 2, 3, 4].map((idx) => !isBlank(formValues, `side${idx}`)).filter(Boolean)
     .length
 
-export const calcPrice = (formValues) => {
+export const formatMoney = (amount) => moneyFormatter.format(amount)
+
+const calculate = (formValues) => {
   const basePrice =
     formValues.groesse.value === '65'
       ? 9.9
@@ -20,7 +22,16 @@ export const calcPrice = (formValues) => {
       ? 11.9
       : null
   const extraSides = (countSides(formValues) - 1) * 2
-  return basePrice == null
-    ? null
-    : moneyFormatter.format(basePrice + extraSides)
+  return basePrice == null ? null : basePrice + extraSides
+}
+
+export const calcPrice = (formValues) => {
+  const price = calculate(formValues)
+  return price == null ? null : formatMoney(price)
+}
+
+export const calcTotal = (formValues) => {
+  const price = calculate(formValues)
+  const shipment = formValues.shipment.value === 'express' ? 4 : 3
+  return formatMoney(price + shipment)
 }
