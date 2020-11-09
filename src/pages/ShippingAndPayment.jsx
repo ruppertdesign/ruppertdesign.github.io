@@ -76,6 +76,7 @@ export default class ShippingAndPayment extends Component {
                       title="Postleitzahl"
                       formValue={formValues.postalCode}
                       setFormValue={setFormValue}
+                      required
                       minlength={4}
                       maxlength={5}
                       pattern="[0-9]*"
