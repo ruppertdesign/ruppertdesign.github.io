@@ -148,30 +148,28 @@ export default ({ formValues, setFormValue, validateForm, navigate }) => (
         />
       )}
       {formValues.schrift != null && (
-        <fieldset class="label-fields">
-          <legend>Beschriftung</legend>
-          <div class="pure-g">
-            <div class="pure-u-1-1 pure-u-md-1-2 pure-u-lg-1-2">
-              {[1, 2, 3, 4].map((idx) => {
-                return (
-                  <InputText
-                    name={`side${idx}`}
-                    title={`Seite ${idx}${
-                      idx > 1 ? ' (optional + 2,00 Euro)' : ''
-                    }`}
-                    formValue={formValues[`side${idx}`]}
-                    setFormValue={setFormValue}
-                    required={idx === 1}
-                    maxlength={20}
-                  />
-                )
-              })}
-            </div>
-          </div>
-        </fieldset>
-      )}
-      {formValues.side1 != null && (
         <Fragment>
+          <fieldset class="label-fields">
+            <legend>Beschriftung</legend>
+            <div class="pure-g">
+              <div class="pure-u-1-1 pure-u-md-1-2 pure-u-lg-1-2">
+                {[1, 2, 3, 4].map((idx) => {
+                  return (
+                    <InputText
+                      name={`side${idx}`}
+                      title={`Seite ${idx}${
+                        idx > 1 ? ' (optional + 2,00 Euro)' : ''
+                      }`}
+                      formValue={formValues[`side${idx}`]}
+                      setFormValue={setFormValue}
+                      required={idx === 1}
+                      maxlength={20}
+                    />
+                  )
+                })}
+              </div>
+            </div>
+          </fieldset>
           <fieldset class="label-fields">
             <legend>Ihr Anhänger</legend>
             <div class="pure-g">
