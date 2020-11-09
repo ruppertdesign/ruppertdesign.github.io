@@ -1,4 +1,4 @@
-import { isBlank } from './helpers'
+import { calcPrice, calcTotal, isBlank } from './helpers'
 
 const encode = (data) => {
   return Object.keys(data)
@@ -24,6 +24,10 @@ const sendOrderMail = async (formValues) => {
     formValues.name.value,
     formValues.street.value,
     `${formValues.postalCode.value} ${formValues.location.value}`,
+    `Stückzahl: ${formValues.quantity.value}`,
+    `Preis: ${calcPrice(formValues)}`,
+    `Lieferung: ${formValues.shipment.value}`,
+    `Gesamtpreis: ${calcTotal(formValues)}`,
   ]
     .filter((row) => row != null)
     .join('\n')
