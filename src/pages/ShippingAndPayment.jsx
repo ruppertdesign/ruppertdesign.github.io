@@ -163,6 +163,9 @@ export default class ShippingAndPayment extends Component {
               {error}
             </div>
           )}
+          <button class="pure-button" onClick={() => navigate('#auswahl')}>
+            Zurück
+          </button>
           <button class="pure-button" type="submit">
             Bestellung abschicken
           </button>
