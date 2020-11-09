@@ -23,7 +23,9 @@ export default class InputTextarea extends Component {
           value={value}
           onChange={this.handleChange}
           required={required}
-          class={`${styleClass} ${error != null ? error : ''}`}
+          class={[styleClass, error != null ? 'error' : null]
+            .filter((c) => c != null)
+            .join(' ')}
         ></textarea>
         {error != null && (
           <div

@@ -23,7 +23,9 @@ export default class InputNumber extends Component {
           type="number"
           value={value}
           onChange={this.handleChange}
-          class={`${styleClass} ${error != null ? error : ''}`}
+          class={[styleClass, error != null ? 'error' : null]
+            .filter((c) => c != null)
+            .join(' ')}
           required={required}
           min={min}
           max={max}

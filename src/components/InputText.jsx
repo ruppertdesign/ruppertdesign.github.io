@@ -33,7 +33,9 @@ export default class InputText extends Component {
           type={type || 'text'}
           value={value}
           onChange={this.handleChange}
-          class={`${styleClass} ${error != null ? error : ''}`}
+          class={[styleClass, error != null ? 'error' : null]
+            .filter((c) => c != null)
+            .join(' ')}
           required={required}
           minlength={minlength}
           maxlength={maxlength}
