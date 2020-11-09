@@ -14,7 +14,7 @@ export const countSides = (formValues) =>
 
 export const formatMoney = (amount) => moneyFormatter.format(amount)
 
-const calculate = (formValues) => {
+const calculateUnit = (formValues) => {
   const basePrice =
     formValues.groesse.value === '65'
       ? 9.9
@@ -23,6 +23,16 @@ const calculate = (formValues) => {
       : null
   const extraSides = (countSides(formValues) - 1) * 2
   return basePrice == null ? null : basePrice + extraSides
+}
+
+const calculate = (formValues) => {
+  const price = calculateUnit(formValues)
+  return price == null ? null : formValues.quantity.value * price
+}
+
+export const calcUnitPrice = (formValues) => {
+  const price = calculateUnit(formValues)
+  return price == null ? null : formatMoney(price)
 }
 
 export const calcPrice = (formValues) => {

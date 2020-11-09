@@ -3,7 +3,7 @@ import Header from '../components/Header'
 import ConfigurationRow from '../components/ConfigurationRow'
 import InputText from '../components/InputText'
 import InputTextarea from '../components/InputTextarea'
-import { countSides, calcPrice } from '../helpers'
+import { countSides, calcUnitPrice } from '../helpers'
 import InputNumber from '../components/InputNumber'
 
 export default ({ formValues, setFormValue, validateForm, navigate }) => (
@@ -181,7 +181,7 @@ export default ({ formValues, setFormValue, validateForm, navigate }) => (
                 {countSides(formValues)} seitige Beschriftung
               </div>
               <div class="pure-u-1-3 pure-u-md-1-3 pure-u-lg-1-3">
-                {calcPrice(formValues)}
+                {calcUnitPrice(formValues)}
               </div>
             </div>
             <div class="pure-g quantity-row">
