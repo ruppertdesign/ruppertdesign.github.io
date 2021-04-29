@@ -119,8 +119,8 @@ export default class ShippingAndPayment extends Component {
                   <span class="shipment-details">
                     Sobald die Bestellung bei uns eingegangen ist, bekommen Sie
                     zeitnah die Rechnung mit den Zahlungsdetails zugeschickt.
-                    Nach Eingang Ihrer Zahlung wird Ihre Bestllung innerhalb von
-                    1-2 Werktagen gefertigt und versandt.
+                    Nach Eingang Ihrer Zahlung wird Ihre Bestellung innerhalb
+                    von ein bis zwei Werktagen gefertigt und versandt.
                     <br />
                   </span>
                   <span class="price">{formatMoney(3.0)}</span> Kosten für
@@ -138,14 +138,14 @@ export default class ShippingAndPayment extends Component {
                   &nbsp;<strong>Express</strong>
                   <br />
                   <span class="shipment-details">
-                    Wenn es schnell gehen muss können Sie den Gesamtbetrag gerne
+                    Wenn es schnell gehen soll können Sie den Gesamtbetrag gerne
                     auch per PayPal bezahlen: pay@ruppertdesign.de
                     <br />
                     Beim Bezahlvorgang bitte "RUPPERTdesign Express" angeben.
                     Danke.
                     <br />
                   </span>
-                  <span class="price">{formatMoney(4.0)}</span> Kosten für
+                  <span class="price">{formatMoney(5.0)}</span> Kosten für
                   Verpackung und Versand + Expresszuschlag
                 </label>
               </div>

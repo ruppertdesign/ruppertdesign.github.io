@@ -42,6 +42,6 @@ export const calcPrice = (formValues) => {
 
 export const calcTotal = (formValues) => {
   const price = calculate(formValues)
-  const shipment = formValues.shipment.value === 'express' ? 4 : 3
+  const shipment = formValues.shipment.value === 'express' ? 5 : 3
   return formatMoney(price + shipment)
 }
