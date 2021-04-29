@@ -25,7 +25,7 @@ export default class ShippingAndPayment extends Component {
             event.preventDefault()
             if (validateForm(event)) {
               try {
-                this.setState({ error: false })
+                this.setState({ error: null })
                 await mailer.sendOrderMail(formValues)
                 navigate('#danke')
               } catch (error) {
