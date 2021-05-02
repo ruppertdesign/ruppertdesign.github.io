@@ -21,14 +21,11 @@ export default ({ formValues, setFormValue, validateForm, navigate }) => (
     >
       <Header>Gestalten Sie Ihren Wunschanhänger</Header>
       <p>
-        <strong>Jeder</strong> Schlüsselanhänger von RUPPERTdesgin{' '}
-        <strong>ist ein handgefertigtes Unikat</strong> und eine{' '}
-        <strong>schöne</strong> Geschenkidee.{' '}
-        <strong>
-          Entwerfen Sie einfach in wenigen Schritten Ihren Wunschanhänger.
-          Wählen Sie Holzart, Größe, Verschluss, Schriftart, Text und Symbole
-          für Ihren ganz persönlichen Alltagsbegleiter.
-        </strong>
+        Jeder Schlüsselanhänger von RUPPERTdesgin ist ein handgefertigtes
+        Unikatund eine schöne Geschenkidee. Entwerfen Sie einfach in wenigen
+        Schritten Ihren Wunschanhänger. Wählen Sie Holzart, Größe, Verschluss,
+        Schriftart, Text und Symbole für Ihren ganz persönlichen
+        Alltagsbegleiter.
       </p>
       <ConfigurationRow
         title="Bitte wählen Sie die Holzart"
