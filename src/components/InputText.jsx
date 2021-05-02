@@ -3,6 +3,14 @@ import validator from '../validator'
 
 export default class InputText extends Component {
   handleChange = (event) => {
+    this.update(event)
+  }
+
+  handleInput = (event) => {
+    this.update(event)
+  }
+
+  update = (event) => {
     const { setFormValue, name, title } = this.props
     const error = validator.validate(event.target)
     setFormValue(name, {
@@ -33,6 +41,7 @@ export default class InputText extends Component {
           type={type || 'text'}
           value={value}
           onChange={this.handleChange}
+          onInput={this.handleInput}
           class={[styleClass, error != null ? 'error' : null]
             .filter((c) => c != null)
             .join(' ')}
