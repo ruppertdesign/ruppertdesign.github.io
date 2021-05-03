@@ -1,12 +1,12 @@
 clean:
 	rm -rf _site/*
 
-dev:
-	bundle exec jekyll serve --watch --baseurl=
+watch_jekyll:
+	bundle exec jekyll serve --config _config.yml,_config_test.yml --watch --baseurl=
 
-build_test: clean
-	bundle exec jekyll build --config _config.yml,_config_test.yml
-	dot_clean _site
-	find _site -name .DS_Store -delete
-	find _site -name ._* -delete
-	gnutar -czf ruppertdesign.tar.gz -C _site .
+watch_preact:
+	yarn watch
+
+build: clean
+	bundle exec jekyll build --config _config.yml
+	yarn build

@@ -1,14 +1,26 @@
 # Global settings
 timezone: Europe/Berlin
-exclude: [README.md, Makefile, guidlines.md, tools, vendor]
+exclude:
+  [
+    README.md,
+    Makefile,
+    guidlines.md,
+    .cache,
+    src,
+    node_modules,
+    tools,
+    vendor,
+    package.json,
+    yarn.lock,
+  ]
 include: [_redirects]
 
 # Site settings
 title: RUPPERTdesign – starkes Holzwerk!
 email: info@ruppertdesign.de
 description: RUPPERTdesign – starkes Holzwerk! Sie suchen nach einem besonderen Möbelstück aus Holz? RUPPERTdesign fertigt es Ihnen - praktisch, hochwertig, geradlinig, persönlich!
-baseurl: ""
-url: "https://www.ruppertdesign.de"
+baseurl: ''
+url: 'https://www.ruppertdesign.de'
 
 # Build settings
 markdown: kramdown
@@ -19,18 +31,16 @@ sass:
 
 # Holzwerke Categories/Tags
 holzwerke_tags:
-  garderobe: "Garderoben"
-  tische: "Tische"
-  schraenke: "Schränke"
-  wohnen: "Wohnen"
-  kueche: "Küche"
-  geschenke: "Geschenke"
-
+  garderobe: 'Garderoben'
+  tische: 'Tische'
+  schraenke: 'Schränke'
+  wohnen: 'Wohnen'
+  kueche: 'Küche'
+  geschenke: 'Geschenke'
 
 # Schlüesselanhänger Categories/Tags
 schluesselanhaenger_tags:
-  geschenke: "Geschenke"
-  hz: "Hochzeit"
-  hotel: "Hotels"
-  werbung: "Werbung"
- 
+  geschenke: 'Geschenke'
+  hz: 'Hochzeit'
+  hotel: 'Hotels'
+  werbung: 'Werbung'

@@ -1,14 +1,12 @@
-ruppertdesign.github.io
-=======================
+# ruppertdesign.github.io
 
 MacOS Setup:
 
 ```
 bundle install --path vendor/bundle
+yarn install
 ```
 
-[www.ruppertdesign.de][1]
+Site is using [Jekyll](https://jekyllrb.com/) and [Preact](https://preactjs.com/) bundled with [Parcel](https://parceljs.org/).
 
- [1]: https://www.ruppertdesign.de
-
-
+[www.ruppertdesign.de](https://www.ruppertdesign.de)

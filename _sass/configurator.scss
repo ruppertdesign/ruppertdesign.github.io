@@ -1,0 +1,93 @@
+.configurator {
+  .configurator-box {
+    text-align: center;
+
+    input[type='radio'] {
+      position: absolute;
+      opacity: 0;
+      width: 0;
+      height: 0;
+      + img {
+        cursor: pointer;
+        @include filter(opacity(60%));
+        &:hover {
+          @include filter(opacity(100%));
+        }
+      }
+      &:checked + img {
+        outline: 5px solid $lynch;
+        @include filter(opacity(100%));
+      }
+    }
+
+    .img-wrapper {
+      width: 320px;
+      height: 240px;
+      margin: 1em auto;
+    }
+
+    h3 {
+      font-size: 1.3em;
+      margin: 1em 0 0.5em 0;
+      color: $primary-color;
+    }
+
+    p {
+      margin-top: 0;
+    }
+  }
+
+  input[type='text'],
+  input[type='email'],
+  input[type='tel'],
+  input[type='number'],
+  textarea {
+    width: 100%;
+    border-radius: 0;
+    margin: 0.5em 0 1em 0;
+  }
+
+  input[type='radio'] {
+    margin-top: 0.5em;
+  }
+
+  button {
+    margin-right: 0.5em;
+  }
+
+  .quantity-row {
+    margin-top: 1em;
+  }
+
+  .quantity {
+    max-width: 4em;
+  }
+
+  .shipment-details {
+    margin: 0.5em 0;
+    display: block;
+  }
+
+  .price {
+    margin-right: 2em;
+  }
+
+  .total {
+    font-size: 3rem;
+    font-weight: 400;
+    margin: 0.5em 0;
+    display: block;
+  }
+
+  @media only screen and (min-width: 35.5em) {
+    .postalcode {
+      padding-right: 1em;
+    }
+  }
+
+  @media only screen and (max-width: 48em) {
+    .sm-align-right {
+      text-align: right;
+    }
+  }
+}
