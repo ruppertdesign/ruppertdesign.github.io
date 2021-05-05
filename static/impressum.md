@@ -12,7 +12,7 @@ Tannenfleckstraße 12 b<br />
 D-82194 Gröbenzell<br />
 +49 (0)176 24022029<br />
 <a href="mailto:info@ruppertdesign.de">info@RUPPERTdesign.de</a><br />
-Geschäftsführer: Simon Ruppert<br />
+Inhaber: Simon Ruppert<br />
 &copy; {{ 'now' | date: "%Y" }} <a href="https://ruppertdesign.de">RUPPERTdesign.de</a>
 </address>
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Über mich
-description: Der Kopf von RUPPERTdesign ist Simon Ruppert. Hier erfahren Sie mehr über RUPPERTdesign und seinen Gründer und Geschäftsführer Simon Ruppert.
+description: Der Kopf von RUPPERTdesign ist Simon Ruppert. Hier erfahren Sie mehr über RUPPERTdesign und seinen Gründer und Inhaber Simon Ruppert.
 permalink: /ueber-mich/
 sitemap:
   priority: 0.7
