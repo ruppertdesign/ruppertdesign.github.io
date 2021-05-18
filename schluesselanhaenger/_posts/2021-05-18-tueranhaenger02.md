@@ -15,6 +15,8 @@ tags: ["hotel"]
 
 {% include image.html url="/schluesselanhaenger/img/tueranhaenger02/tueranhaenger0203.jpg" description="Türanhänger für Ihr Hotel oder Gasthaus." %}
 
+{% include image.html url="/schluesselanhaenger/img/tueranhaenger02/tueranhaenger0204.jpg" description="Türanhänger für Ihr Hotel oder Gasthaus." %}
+
 
 **Starkes Holzwerk  \| Türanhänger**  
 
