@@ -4,7 +4,7 @@ title: "Weitere Hochzeitsgeschenke"
 description: Die besonderen Gasgeschenke geben Ihrer Hochzeit den letzten Schliff.
 permalink: /schluesselanhaenger/2015/09/21/hochzeitsgeschenke/
 date: 2015-09-21
-intro: Als Alternative zum Anhänger
+intro: Ringkisten, Schilder und Vieles mehr
 tags: ["hz"]
 ---
 

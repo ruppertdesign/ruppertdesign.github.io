@@ -43,8 +43,8 @@ Waren).
 
 <address>
 Simon Ruppert<br />
-Tannenfleckstraße 12 b<br />
-D-82194 Gröbenzell
+Salachweg 21 b<br />
+D-86807 Buchloe
 </address>
 
 
