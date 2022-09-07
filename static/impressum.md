@@ -8,8 +8,8 @@ permalink: /impressum/
 
 <address>
 RUPPERTdesign<br />
-Tannenfleckstraße 12 b<br />
-D-82194 Gröbenzell<br />
+Salachweg 21 b<br />
+D-86807 Buchloe<br />
 +49 (0)176 24022029<br />
 <a href="mailto:info@ruppertdesign.de">info@RUPPERTdesign.de</a><br />
 Inhaber: Simon Ruppert<br />
@@ -28,8 +28,8 @@ DE294225566
 
 <address>
 Simon Ruppert<br />
-Tannenfleckstraße 12 b<br />
-D-82194 Gröbenzell
+Salachweg 21 b<br />
+D-86807 Buchloe
 </address>
 
 
