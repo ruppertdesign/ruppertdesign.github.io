@@ -2,25 +2,29 @@
   "name": "ruppertdesign.de",
   "version": "1.0.0",
   "description": "ruppertdesign.de jekyll website enhanced with preact",
-  "main": "scr/configurator.js",
   "repository": "git@github.com:ruppertdesign/ruppertdesign.github.io.git",
   "author": "Florian Hirsch <post@florianhirsch.de>",
   "license": "UNLICENSED",
   "private": true,
   "scripts": {
-    "watch": "parcel watch src/Configurator.jsx --out-dir _site/scripts --out-file configurator.js --no-source-maps",
-    "build": "parcel build src/Configurator.jsx --out-dir _site/scripts --out-file configurator.js --no-source-maps",
+    "watch": "parcel watch src/Configurator.jsx --dist-dir _site/scripts --no-source-maps",
+    "build": "parcel build src/Configurator.jsx --dist-dir _site/scripts --no-source-maps",
     "prepare": "husky install"
   },
   "dependencies": {
     "preact": "^10.11.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.19.0",
-    "babel-preset-env": "^1.7.0",
     "husky": "^8.0.1",
-    "parcel-bundler": "^1.12.4",
+    "parcel": "^2.7.0",
     "prettier": "^2.7.1",
     "pretty-quick": "^3.1.3"
+  },
+  "alias": {
+    "$": "./src/",
+    "react": "preact/compat",
+    "react-dom": "preact/compat",
+    "react-dom/test-utils": "preact/test-utils",
+    "react/jsx-runtime": "preact/jsx-runtime"
   }
 }

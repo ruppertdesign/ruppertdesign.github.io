@@ -8,4 +8,5 @@ _site/
 node_modules/
 vendor/
 .bundle/
-.cache/
+.cache
+.parcel-cache
