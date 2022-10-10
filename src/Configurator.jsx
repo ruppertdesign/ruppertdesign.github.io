@@ -27,7 +27,6 @@ class Configurator extends Component {
   handleLocationChange = ({ newURL }) => {
     window.scrollTo({
       top: 0,
-      behavior: 'smooth',
     })
     const currentPage = newURL && newURL.split('#')[1]
     if (currentPage) {
