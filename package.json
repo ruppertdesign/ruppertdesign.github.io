@@ -7,8 +7,8 @@
   "license": "UNLICENSED",
   "private": true,
   "scripts": {
-    "watch": "parcel watch src/Configurator.jsx --dist-dir _site/scripts --no-source-maps",
-    "build": "parcel build src/Configurator.jsx --dist-dir _site/scripts --no-source-maps",
+    "watch": "parcel watch src/Configurator.jsx --dist-dir _site/scripts --no-source-maps --no-cache",
+    "build": "parcel build src/Configurator.jsx --dist-dir _site/scripts --no-source-maps --no-cache",
     "prepare": "husky install"
   },
   "dependencies": {
