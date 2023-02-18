@@ -3,7 +3,9 @@
 MacOS Setup:
 
 ```
-bundle install --path vendor/bundle
+bundle config --local set path 'vendor/bundle'
+bundle config --local build.eventmachine --with-openssl-dir=$(brew --prefix openssl)
+bundle install
 yarn install
 ```
 
