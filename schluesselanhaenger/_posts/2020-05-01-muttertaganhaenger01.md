@@ -8,7 +8,7 @@ intro: Persönlich, langlebig und schön
 tags: ["geschenke"]
 ---
 
-**Danke, für alles!**
+**Danke, für Alles!**
 
 
 **Ich denk an dich!** 
